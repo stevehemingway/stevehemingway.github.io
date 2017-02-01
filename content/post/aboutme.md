@@ -6,11 +6,9 @@ menu:
   main:
     parent: tutorials
 next: /post/Thomas
-prev: 
-title: What am I interested in?
+title: "What am I interested in?"
 weight: 10
 ---
-
 
 ## Introduction
 
