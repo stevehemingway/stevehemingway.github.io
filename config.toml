@@ -1,13 +1,13 @@
 baseurl = "https://stevehemingway.github.io/"
 publishDir= "public"
 languageCode = "en"
-title = "Steve's Blog"
+title = "Steve's Github Pages Blog"
 theme = "hemingway2"
-copyright = "theme &copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+# copyright = "theme &copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
 disqusShortname = "stevehem"
 googleAnalytics = ""
 
-description = "Yet another random blog"
+description = "Yet another Steve Hemingway Blog"
 keywords = ["software", "politics"]
 
 [taxonomies]
@@ -24,13 +24,17 @@ languages = ["go", "dockerfile"]
 url = "https://github.com/stevehemingway"
 fa_icon = "fa-github"
 
-[[params.social]]
-url = "https://gitlab.com/stevehemingway"
-fa_icon = "fa-gitlab"
+#[[params.social]]
+#url = "https://gitlab.com/stevehemingway"
+#fa_icon = "fa-gitlab"
 
 [[params.social]]
 url = "https://twitter.com/stevehem"
 fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://facebook.com/steve.j.hemingway"
+fa_icon = "fa-facebook"
 
 #[[params.social]]
 # url = "https://telegram.me/beli3ver"
