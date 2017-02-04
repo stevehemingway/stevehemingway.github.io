@@ -1,11 +1,11 @@
-+++
-title = "About Steve"
-date = "2017-01-31"
-menu = "main"
-+++
+---
+title: About this blog
+comments: false
+weight: -1
+type: post
+---
+This is (going to be) a blog created on github using hugo.
 
-Google me to find out more. I thought this would be a kind of nice change from using Tumblr or Facebook or Twitter, with their dependence on selling your data.
+I'm using the **HPSTR** theme by [Michael Rose](http://github.com/mmistakes). It's amazing, but it's all on the web [here](https://github.com/dldx/hpstr-hugo-theme). I'll probably write a few entries about how this all fits together on the assumption I'll get it working.
 
-
-
-Thanks for reading!
+---

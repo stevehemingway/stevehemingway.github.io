@@ -1,59 +1,20 @@
 baseurl = "https://stevehemingway.github.io/"
-publishDir= "public"
-languageCode = "en"
-title = "Steve's Github Pages Blog"
-theme = "academic"
-# copyright = "theme &copy; <a href=\"https://github.com/beli3ver\">Malte Kiefer</a> 2016"
+languageCode = "en-gb"
+title = "Steve Hemingway"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
 disqusShortname = "stevehem"
-googleAnalytics = ""
-enableEmoji = true
-footnotereturnlinkcontents = "<sup>^</sup>"
-
-description = "Yet another Steve Hemingway Blog"
-keywords = ["software", "politics"]
-
-[taxonomies]
-tag = "tags"
-category = "categories"
 
 [params]
-
-  name = "Steve"
-  role = "dogsbody"
-  organization = "home"
-  organization_url = ""
-  avatar = "portrait.jpg"
-  email = "steve@acksam.com"
-  address = "tbc"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "stevehem"
-  telegram = ""
-  
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
-
-[[params.social]]
-url = "https://github.com/stevehemingway"
-fa_icon = "fa-github"
-
-#[[params.social]]
-#url = "https://gitlab.com/stevehemingway"
-#fa_icon = "fa-gitlab"
-
-[[params.social]]
-url = "https://twitter.com/stevehem"
-fa_icon = "fa-twitter"
-
-[[params.social]]
-url = "https://facebook.com/steve.j.hemingway"
-fa_icon = "fa-facebook"
-
-#[[params.social]]
-# url = "https://telegram.me/beli3ver"
-# fa_icon = "fa-telegram"
-
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
+	subtitle = "The blog of a geek manqué"
+	[params.author]
+		name = "Steve"
+		avatar = "/images/avatar.jpg"
+		bio = "Chemist, physicist, programmer, quant, family man"
+		github = "stevehemingway/stevehemingway.github.io"
+	[params.image]
+	  feature = "/images/abstract-1.jpg"
+	  credit = "dargadgetz"
+	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
