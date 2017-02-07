@@ -14,7 +14,7 @@ disqusShortname = "stevehem"
 		avatar = "/images/avatar.jpg"
 		bio = "Chemist, physicist, programmer, quant, family man"
 		github = "stevehemingway/stevehemingway.github.io"
-	[params.image]
-	  feature = "/images/abstract-1.jpg"
-	  credit = "dargadgetz"
-	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+#	[params.image]
+#	  feature = "/images/abstract-1.jpg"
+#	  credit = "dargadgetz"
+#	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
