@@ -29,14 +29,5 @@
 </description>
     </item>
     
-    <item>
-      <title>first_post</title>
-      <link>https://stevehemingway.github.io/content/posts/first_post/</link>
-      <pubDate>Sun, 05 Feb 2017 10:12:43 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/content/posts/first_post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
