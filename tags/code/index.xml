@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Steve Hemingway</title>
+    <link>https://stevehemingway.github.io/tags/code/index.xml</link>
+    <description>Recent content in Code on Steve Hemingway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="https://stevehemingway.github.io/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Syntax Highlighting Post</title>
+      <link>https://stevehemingway.github.io/posts/code-highlighting-post/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/code-highlighting-post/</guid>
+      <description>
+
+&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;highlighted-code-blocks&#34;&gt;Highlighted Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/static/css/_sass/_syntax.scss&lt;/code&gt;.&lt;/p&gt;
+#container {
+    float: left;
+    margin: 0 -240px 0 0;
+    width: 100%;
+}
+&lt;nav class=&#34;pagination&#34; role=&#34;navigation&#34;&gt;
+    {% if page.previous %}
+        &lt;a href=&#34;{{ site.url }}{{ page.previous.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.previous.title }}&#34;&gt;Previous article&lt;/a&gt;
+    {% endif %}
+    {% if page.next %}
+        &lt;a href=&#34;{{ site.url }}{{ page.next.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.next.title }}&#34;&gt;Next article&lt;/a&gt;
+    {% endif %}
+&lt;/nav&gt;&lt;!-- /.pagination --&gt;
+module Jekyll
+  class TagIndex &lt; Page
+    def initialize(site, base, dir, tag)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = &#39;index.html&#39;
+      self.process(@name)
+      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
+      self.data[&#39;tag&#39;] = tag
+      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
+      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;–&#39;
+      self.data[&#39;title&#39;] = &#34;#{tag_title_prefix}#{tag}&#34;
+      self.data[&#39;description&#39;] = &#34;An archive of posts tagged #{tag}.&#34;
+    end
+  end
+end
+
+&lt;h3 id=&#34;standard-code-block&#34;&gt;Standard Code Block&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&amp;quot;pagination&amp;quot; role=&amp;quot;navigation&amp;quot;&amp;gt;
+    {% if page.previous %}
+        &amp;lt;a href=&amp;quot;{{ site.url }}{{ page.previous.url }}&amp;quot; class=&amp;quot;btn&amp;quot; title=&amp;quot;{{ page.previous.title }}&amp;quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
+    {% endif %}
+    {% if page.next %}
+        &amp;lt;a href=&amp;quot;{{ site.url }}{{ page.next.url }}&amp;quot; class=&amp;quot;btn&amp;quot; title=&amp;quot;{{ page.next.title }}&amp;quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
+    {% endif %}
+&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;fenced-code-blocks&#34;&gt;Fenced Code Blocks&lt;/h3&gt;
+
+&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/static/css/_sass/_coderay.scss&lt;/code&gt;.&lt;/p&gt;
+#container {
+    float: left;
+    margin: 0 -240px 0 0;
+    width: 100%;
+}
+&lt;nav class=&#34;pagination&#34; role=&#34;navigation&#34;&gt;
+    {% if page.previous %}
+        &lt;a href=&#34;{{ site.url }}{{ page.previous.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.previous.title }}&#34;&gt;Previous article&lt;/a&gt;
+    {% endif %}
+    {% if page.next %}
+        &lt;a href=&#34;{{ site.url }}{{ page.next.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.next.title }}&#34;&gt;Next article&lt;/a&gt;
+    {% endif %}
+&lt;/nav&gt;&lt;!-- /.pagination --&gt;
+module Jekyll
+  class TagIndex &lt; Page
+    def initialize(site, base, dir, tag)
+      @site = site
+      @base = base
+      @dir = dir
+      @name = &#39;index.html&#39;
+      self.process(@name)
+      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
+      self.data[&#39;tag&#39;] = tag
+      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
+      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;–&#39;
+      self.data[&#39;title&#39;] = &#34;#{tag_title_prefix}#{tag}&#34;
+      self.data[&#39;description&#39;] = &#34;An archive of posts tagged #{tag}.&#34;
+    end
+  end
+end
+
+&lt;h3 id=&#34;github-gist-embed&#34;&gt;GitHub Gist Embed&lt;/h3&gt;
+
+&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/mmistakes/43a355923921d22cd993.js&#34;&gt;&lt;/script&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Syntax_highlighting&#34;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt;
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
