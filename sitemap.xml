@@ -16,59 +16,7 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/posts/background-image/</loc>
-    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/code-highlighting-post/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/sample-link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/video-post/</loc>
-    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/readability-feature-post/</loc>
-    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/sample-post-images/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/readability-post/</loc>
-    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/posts/sample-post/</loc>
-    <lastmod>2011-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stevehemingway.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/code/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/categories/council/</loc>
-    <lastmod>2017-02-05T10:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -79,8 +27,8 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/categories/development/</loc>
-    <lastmod>2017-02-05T10:12:43+00:00</lastmod>
+    <loc>https://stevehemingway.github.io/categories/council/</loc>
+    <lastmod>2017-02-05T10:13:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,7 +39,7 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/categories/golang/</loc>
+    <loc>https://stevehemingway.github.io/categories/development/</loc>
     <lastmod>2017-02-05T10:12:43+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -103,44 +51,14 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/tags/highlighting/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/images/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/intro/</loc>
-    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.github.io/categories/golang/</loc>
+    <lastmod>2017-02-05T10:12:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/posts/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/readability/</loc>
-    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/sample-post/</loc>
-    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,20 +80,8 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.github.io/tags/test/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://stevehemingway.github.io/tags/twitter/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.github.io/tags/video/</loc>
-    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
