@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/categories/golang/index.xml</link>
-    <description>Recent content in Golang on Steve Hemingway</description>
+    <title>Social_media on Steve Hemingway</title>
+    <link>https://stevehemingway.github.io/tags/social_media/index.xml</link>
+    <description>Recent content in Social_media on Steve Hemingway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stevehemingway.github.io/tags/social_media/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Station_Pub</title>
@@ -28,6 +28,29 @@
 &lt;p&gt;You can see the website &lt;a href=&#34;https://www.stationpub.org.uk&#34;&gt;here&lt;/a&gt;, where you&amp;rsquo;ll find links to all the aspects of the campaign&amp;rsquo;s web presence.&lt;/p&gt;
 
 &lt;p&gt;What is quite astonishing is how rapidly the residents of Knebworth could be alerted to the closing of the pub and the existence of a campaign to save it. I have always been an advocate of local politicians using social media, usually in the face of extreme skepticism from the assembled company. Although I&amp;rsquo;d like to think that this example would persuade them of the effectiveness of the web, my experience is that people can be very obdurate in their views.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Community engagement using Facebook</title>
+      <link>https://stevehemingway.github.io/posts/facebook_activism/</link>
+      <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/facebook_activism/</guid>
+      <description>
+
+&lt;h1 id=&#34;the-station-pub-knebworth&#34;&gt;The Station Pub, Knebworth&lt;/h1&gt;
+
+&lt;p&gt;I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub.
+This is the only pub in the village, and, since it is right in the centre, was very visible.&lt;/p&gt;
+
+&lt;p&gt;I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.&lt;/p&gt;
+
+&lt;p&gt;Today I found that hundreds had already joined, and a further three hundred were queing up to join today.&lt;/p&gt;
+
+&lt;p&gt;The rate of joining this group was astonishing. I am now convinced that mailing lists are comprehensively obsoleted by Facebook.&lt;/p&gt;
+
+&lt;p&gt;Some people do not use FB, but the ease of adding someone to a group is so great that there is no other medium that can work so quickly. The problem is that this only works when the campaign is something that people are seriously affected by, or at least interested in. A cause that nobody cares about much will go nowhere.&lt;/p&gt;
 </description>
     </item>
     

@@ -6,8 +6,30 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/posts/StationPub/</loc>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/posts/facebook_activism/</loc>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/posts/first_post/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/tags/activism/</loc>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/categories/activism/</loc>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -28,20 +50,38 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.github.io/categories/development/</loc>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/categories/golang/</loc>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.github.io/posts/</loc>
-    <lastmod>2017-02-05T10:13:50+00:00</lastmod>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.github.io/tags/social_media/</loc>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/categories/social_media/</loc>
-    <lastmod>2017-02-05T10:13:50+00:00</lastmod>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.github.io/</loc>
-    <lastmod>2017-02-05T10:13:50+00:00</lastmod>
+    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
     <priority>0</priority>
   </url>
   
