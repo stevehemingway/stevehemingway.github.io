@@ -3,6 +3,7 @@ title: About this blog
 comments: true
 weight: -1
 type: post
+share: false
 ---
 This is (going to be) a blog created on [github](https://github.com) using [hugo](https://pages.github.com/).
 
@@ -14,7 +15,11 @@ I'm using the **HPSTR** theme by [Michael Rose](http://github.com/mmistakes). It
 * you use hugo, which is free (in both senses) and fun, and not only generates your html but also runs runs a local web server so you can check out the look and feel of your website locally.
 * you put a bit of [yaml](https://en.wikipedia.org/wiki/YAML) at the beginning of each page, which is a alternative to clunky xml and json. I was going to say that it's new, but it's been around for 15 years, which you'll discover if you click the link, which is to Wikipedia, which, as we know, is 100% true.
 
+Note that I'm still working (slowly) on putting this blog together, so I've left a lot of the example site created by Michael in place while I work out how to delete categories and tags. The example site has a lot of example posts, which I will find helpful for a bit until I get going. It seems to be better documentation than I could find on the github page.
+
 As for me, you can find me around the web, on Twitter, on Facebook, and as the author of a couple of semi-private websites. I'm also on LinkedIn, Reddit and Hackernews. My interests are politics, cybercurrencies, science, maths, beer and my family, not necessarily in that order.
+
+
 
 
 
