@@ -10,10 +10,17 @@
     
     <item>
       <title>A Post with Images</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/sample-post-images/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/sample-post-images/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/sample-post-images/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/sample-post-images/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;

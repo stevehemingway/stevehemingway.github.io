@@ -6,6 +6,7 @@
     <description>Recent content on Steve Hemingway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+<<<<<<< HEAD
     <lastBuildDate>Tue, 21 Feb 2017 22:57:46 +0000</lastBuildDate>
     <atom:link href="https://stevehemingway.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,6 +31,34 @@
 &lt;p&gt;One of the more controversial policies recently has been the one which applies to community halls owned by the council. The policy has been to lease these to local groups on a &amp;lsquo;repairing and insuring lease&amp;rsquo;. This has put some pressure on some local groups who find that it is difficult to adapt to paying for the costs of maintaining their premises. It does, however, put them on an equal footing with groups in parished areas, like Knebworth. Parishes, such as ours, have always had to bear these costs, especially now capital grants for village halls have largely dried up.&lt;/p&gt;
 
 &lt;p&gt;So, by now you&amp;rsquo;re probably wondering how much your council tax is going to go up in April. The NHDC precept for a Band D property will be £216.96 next year, an increase of £5, an increase of 2.4% in cash terms, close to zero in real terms. Not great, but as low as was reasonably achieveable in the circumstances.  (The rest of your Council Tax is made up of contributions to the County Council, the Police and the Parish Council.) For other Council Tax Bands, see the NHDC website, or just wait for your bill to be delivered.&lt;span id=&#34;header-c48&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+=======
+    <lastBuildDate>Mon, 13 Feb 2017 14:12:17 +0000</lastBuildDate>
+    <atom:link href="https://stevehemingway.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About this blog</title>
+      <link>https://stevehemingway.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/about/</guid>
+      <description>&lt;p&gt;This is (going to be) a blog created on &lt;a href=&#34;https://github.com&#34;&gt;github&lt;/a&gt; using &lt;a href=&#34;https://pages.github.com/&#34;&gt;hugo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m using the &lt;strong&gt;HPSTR&lt;/strong&gt; theme by &lt;a href=&#34;http://github.com/mmistakes&#34;&gt;Michael Rose&lt;/a&gt;. It&amp;rsquo;s all on the web &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme&#34;&gt;here&lt;/a&gt;.  The great thing about this is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;No need to have server processing, so you can host absolutely anywhere (although to upload to the server with git, the webserver will have to be running a git daemon.)&lt;/li&gt;
+&lt;li&gt;You write the pages in &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;markdown markup&lt;/a&gt; which means that you can use any old editor you like, including vi.&lt;/li&gt;
+&lt;li&gt;you have tremendous integration with git, especially if you choose to host with &lt;a href=&#34;https://pages.github.com/&#34;&gt;github pages&lt;/a&gt; which is quick, professional, and absolutely free, both as in beer and as in speech.&lt;/li&gt;
+&lt;li&gt;you use hugo, which is free (in both senses) and fun, and not only generates your html but also runs runs a local web server so you can check out the look and feel of your website locally.&lt;/li&gt;
+&lt;li&gt;you put a bit of &lt;a href=&#34;https://en.wikipedia.org/wiki/YAML&#34;&gt;yaml&lt;/a&gt; at the beginning of each page, which is a alternative to clunky xml and json. I was going to say that it&amp;rsquo;s new, but it&amp;rsquo;s been around for 15 years, which you&amp;rsquo;ll discover if you click the link, which is to Wikipedia, which, as we know, is 100% true.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note that I&amp;rsquo;m still working (slowly) on putting this blog together, so I&amp;rsquo;ve left a lot of the example site created by Michael in place while I work out how to delete categories and tags. The example site has a lot of example posts, which I will find helpful for a bit until I get going. It seems to be better documentation than I could find on the github page.&lt;/p&gt;
+
+&lt;p&gt;As for me, you can find me around the web, on Twitter, on Facebook, and as the author of a couple of semi-private websites. I&amp;rsquo;m also on LinkedIn, Reddit and Hackernews. My interests are politics, cybercurrencies, science, maths, beer and my family, not necessarily in that order.&lt;/p&gt;
+
+&lt;hr /&gt;
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
 </description>
     </item>
     
@@ -81,10 +110,17 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <item>
       <title>Is Twitter the key Social Media Platform?</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/posts/Twitter/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/posts/Twitter/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/first_post/</link>
+      <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/first_post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;h2 id=&#34;my-experience-of-the-twittersphere&#34;&gt;My experience of the Twittersphere&lt;/h2&gt;
@@ -101,10 +137,17 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <item>
       <title>Post with a Background Image</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/background-image/</link>
       <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/background-image/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/background-image/</link>
+      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/background-image/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>&lt;p&gt;Here be a sample post with a custom background image. To utilize this &amp;ldquo;feature&amp;rdquo; just add the following YAML to a post&amp;rsquo;s front matter.&lt;/p&gt;
 background: /images/filename.png
 
@@ -118,10 +161,17 @@ background: /images/filename.png
     
     <item>
       <title>Syntax Highlighting Post</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</link>
       <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/code-highlighting-post/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/code-highlighting-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -225,20 +275,34 @@ end
     
     <item>
       <title>Sample Link Post</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/sample-link-post/</link>
       <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/sample-link-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/sample-link-post/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/sample-link-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Post with a Video</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/video-post/</link>
       <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/video-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/video-post/</link>
+      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/video-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
@@ -248,10 +312,17 @@ end
     
     <item>
       <title>Post with Large Feature Image and Text</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</link>
       <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/readability-feature-post/</link>
+      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/readability-feature-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -299,10 +370,17 @@ end
     
     <item>
       <title>A Post with Images</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/sample-post-images/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/sample-post-images/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/sample-post-images/</link>
+      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/sample-post-images/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -361,10 +439,17 @@ end
     
     <item>
       <title>Testing Readability with a Bunch of Text</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/readability-post/</link>
       <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/readability-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/readability-post/</link>
+      <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/readability-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -412,10 +497,17 @@ end
     
     <item>
       <title>Sample Post</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/sample-post/</link>
       <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/sample-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/sample-post/</link>
+      <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/sample-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -545,6 +637,7 @@ end
     </item>
     
     <item>
+<<<<<<< HEAD
       <title></title>
       <link>https://stevehemingway.github.io/posts/first_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -917,6 +1010,8 @@ npm install
     </item>
     
     <item>
+=======
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <title>Theme Setup</title>
       <link>https://stevehemingway.github.io/theme-setup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1066,7 +1161,11 @@ $front-page-feature-image-height: 400px; // min 150px recommended
 
 &lt;h3 id=&#34;link-post-type&#34;&gt;Link Post Type&lt;/h3&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;Link blog like a champ by adding &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to a post&amp;rsquo;s YAML front matter. Arrow glyph links to the post&amp;rsquo;s permalink and the the &lt;code&gt;post-title&lt;/code&gt; links to the source URL.&lt;/p&gt;
+=======
+&lt;p&gt;Link blog like a champ by adding &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to a post&amp;rsquo;s YAML front matter. Arrow glyph links to the post&amp;rsquo;s permalink and the the &lt;code&gt;post-title&lt;/code&gt; links to the source URL. Here&amp;rsquo;s an &lt;a href=&#34;https://stevehemingway.github.io/posts/sample-link-post/&#34;&gt;example of a link post&lt;/a&gt; if you need a visual.&lt;/p&gt;
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
 
 &lt;hr /&gt;
 

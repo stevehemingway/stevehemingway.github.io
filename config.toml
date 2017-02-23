@@ -1,0 +1,21 @@
+baseurl = "https://stevehemingway.github.io/"
+languageCode = "en-gb"
+title = "Steve Hemingway"
+theme = "hpstr"
+pluralizelisttitles = true
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "stevehem"
+
+
+[params]
+	subtitle = "The blog of a geek manqué"
+	[params.author]
+		name = "Steve"
+		avatar = "/images/steve.jpg"
+		bio = "Chemist, physicist, quant, family man, hack"
+		github = "stevehemingway/myblog-hugo"
+	[params.image]
+	  feature = "/images/abstract-1.jpg"
+#	  credit = "dargadgetz"
+#	  creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"

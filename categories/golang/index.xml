@@ -9,6 +9,7 @@
     <atom:link href="https://stevehemingway.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+<<<<<<< HEAD
       <title>March Newsletter</title>
       <link>https://stevehemingway.github.io/posts/March_Newsletter/</link>
       <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
@@ -33,6 +34,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <title>Station_Pub</title>
       <link>https://stevehemingway.github.io/posts/StationPub/</link>
       <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>

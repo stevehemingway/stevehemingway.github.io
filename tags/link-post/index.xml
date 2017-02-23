@@ -10,10 +10,17 @@
     
     <item>
       <title>Sample Link Post</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/sample-link-post/</link>
       <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/sample-link-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/sample-link-post/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/sample-link-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
 </description>
     </item>

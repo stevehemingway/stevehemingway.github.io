@@ -10,10 +10,17 @@
     
     <item>
       <title>Syntax Highlighting Post</title>
+<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</link>
       <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</guid>
+=======
+      <link>https://stevehemingway.github.io/posts/code-highlighting-post/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/code-highlighting-post/</guid>
+>>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>
 
 &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
