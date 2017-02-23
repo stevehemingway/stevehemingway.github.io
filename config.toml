@@ -1,7 +1,7 @@
 baseurl = "https://stevehemingway.github.io/"
 languageCode = "en-gb"
 title = "Steve Hemingway"
-theme = "hpstr-hugo-theme"
+theme = "hpstr"
 pluralizelisttitles = true
 PygmentsCodeFences = true
 Paginate = 5
