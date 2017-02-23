@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Steve Hemingway</title>
+    <link>https://stevehemingway.github.io/tags/golang/index.xml</link>
+    <description>Recent content in Golang on Steve Hemingway</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <atom:link href="https://stevehemingway.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first_post</title>
+      <link>https://stevehemingway.github.io/content/posts/first_post/</link>
+      <pubDate>Sun, 05 Feb 2017 10:12:43 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/content/posts/first_post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
