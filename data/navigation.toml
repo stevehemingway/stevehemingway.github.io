@@ -3,6 +3,10 @@
 title = "Theme Setup"
 url = "/theme-setup/"
 
+[[techie]]
+title = "Techie Stuff"
+url = "/techie_stuff"
+
 [[links]]
 title = "External Link"
 url = "http://mademistakes.com"
