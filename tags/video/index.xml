@@ -10,17 +10,10 @@
     
     <item>
       <title>A Post with a Video</title>
-<<<<<<< HEAD
       <link>https://stevehemingway.github.io/techie_stuff/video-post/</link>
       <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.github.io/techie_stuff/video-post/</guid>
-=======
-      <link>https://stevehemingway.github.io/posts/video-post/</link>
-      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/video-post/</guid>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;

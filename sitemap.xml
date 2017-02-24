@@ -2,12 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/posts/March_Newsletter/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
-=======
-    <loc>https://stevehemingway.github.io/about/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
   </url>
   
   <url>
@@ -21,94 +17,55 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/posts/Twitter/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/first_post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/background-image/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/background-image/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2013-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/code-highlighting-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2016-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/sample-link-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/sample-link-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2013-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/video-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/video-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2013-06-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/readability-feature-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2013-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/sample-post-images/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/sample-post-images/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2013-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/readability-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/readability-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2012-05-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/sample-post/</loc>
-=======
-    <loc>https://stevehemingway.github.io/posts/sample-post/</loc>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <lastmod>2011-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/posts/first_post/</loc>
   </url>
   
   <url>
-=======
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <loc>https://stevehemingway.github.io/tags/activism/</loc>
     <lastmod>2017-02-10T15:28:49+00:00</lastmod>
     <priority>0</priority>
@@ -151,11 +108,7 @@
   
   <url>
     <loc>https://stevehemingway.github.io/categories/golang/</loc>
-<<<<<<< HEAD
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
-=======
-    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <priority>0</priority>
   </url>
   
@@ -178,22 +131,18 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/tags/knebworth/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-=======
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <loc>https://stevehemingway.github.io/tags/link-post/</loc>
     <lastmod>2013-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/tags/nhdc/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
     <priority>0</priority>
@@ -208,10 +157,6 @@
   <url>
     <loc>https://stevehemingway.github.io/posts/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
-=======
-    <loc>https://stevehemingway.github.io/posts/</loc>
-    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <priority>0</priority>
   </url>
   
@@ -241,11 +186,7 @@
   
   <url>
     <loc>https://stevehemingway.github.io/</loc>
-<<<<<<< HEAD
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
-=======
-    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <priority>0</priority>
   </url>
   
@@ -255,28 +196,22 @@
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/</loc>
     <lastmod>2013-10-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-=======
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <loc>https://stevehemingway.github.io/tags/test/</loc>
     <lastmod>2013-05-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-<<<<<<< HEAD
     <loc>https://stevehemingway.github.io/techie_stuff/theme-setup/</loc>
   </url>
   
   <url>
-=======
->>>>>>> 9d3b122589a9a3f2ec5dd0c6c2d59d3a309d0df1
     <loc>https://stevehemingway.github.io/theme-setup/</loc>
   </url>
   
