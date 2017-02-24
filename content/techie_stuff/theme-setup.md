@@ -165,9 +165,6 @@ Twitter cards make it possible to attach images and post summaries to Tweets tha
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 
 
-### Link Post Type
-
-Link blog like a champ by adding `link: http://url-you-want-linked` to a post's YAML front matter. Arrow glyph links to the post's permalink and the the `post-title` links to the source URL. Here's an [example of a link post]({{< relref "posts/sample-link-post.md" >}}) if you need a visual.
 
 ---
 
