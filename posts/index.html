@@ -37,7 +37,7 @@
     <meta property="og:image" content="https://stevehemingway.github.io/abstract-2.jpg" />
 
 
-  <meta property="og:updated_time" content="2017-02-13T14:12:17&#43;00:00"/>
+  <meta property="og:updated_time" content="2017-02-24T15:02:38&#43;00:00"/>
 
 
 
@@ -146,6 +146,76 @@
     
     <div class="entry-meta">
          
+		<span class="entry-date date published updated"><time datetime="2017-02-24 15:02:38 &#43;0000 UTC"><a href="/posts/update_on_blog_setup/">Feb 24, 2017</a></time></span>
+        
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~2 minutes
+      </span>
+    </div>
+    
+	<h1 class="entry-title"><a href="/posts/update_on_blog_setup/" rel="bookmark" title="Update on Blog Setup" itemprop="url">Update on Blog Setup</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p>Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on <a href="https://gohugo.io/tutorials/github-pages-blog/">this page</a> and this time it kind of worked.</p>
+
+<p>It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!</p>
+
+<p>You can&rsquo;t even checkout the repository on the local machine because then git push will complain that you&rsquo;re pushing to a master branch that it active and checked out on the remote machine. I discovered that the hard way. My web server does run a git server process. I tried it.</p>
+
+<p>Anyway, after a bit of faffing around (!) I decided to edit the hugo source web file source on my local machine (running msys2 under Windows), push to github.com (because it is so awesome as a git server, and its free), then git pull the (built) website source from github to my web server directory on my dreamhost shared web server machine.</p>
+
+<p>Now to add to my blog I create a markdown file, add it to the github pages repo, then git pull it to the dreamhost machine.</p>
+
+<p>As a slight added complication, I run the DNS for this domain on another machine - a digital ocean dropbox, running mail-in-a-box. I discover I have to look in the dreamhost control panel DNS settings for the domain to see what IP address to use for the A record. I can&rsquo;t just use the main (arago) IP address.</p>
+
+<p>Who would have thought that something so simple could be so &hellip;. messy?</p>
+
+  </div>
+</article>
+
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+         
+		<span class="entry-date date published updated"><time datetime="2017-02-21 22:57:46 &#43;0000 UTC"><a href="/posts/March_Newsletter/">Feb 21, 2017</a></time></span>
+        
+      <span class="entry-reading-time">
+        <i class="fa fa-clock-o"></i>
+        Reading time ~3 minutes
+      </span>
+    </div>
+    
+	<h1 class="entry-title"><a href="/posts/March_Newsletter/" rel="bookmark" title="March Newsletter" itemprop="url">March Newsletter</a></h1>
+    
+  </header>
+  <div class="entry-content">
+    <p><strong>NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE</strong></p>
+
+<p>In the penultimate meeting of NHDC for the current civic year, the budget for <sup>2017</sup>&frasl;<sub>18</sub> was agreed.  Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.</p>
+
+<p>The council&rsquo;s focus is on making North Herts, in all its diversity, a better place for and working.  It aims to do this by working with partners to provide &lsquo;an attractive and safe environment for our residents&rsquo;. Currently, we are working towards a joint waste collection contract with East Herts District Council. Waste collection is not the most glamorous of activities, but it is the biggest item in the expenditure budget, accounting for 45% of the total!</p>
+
+<p>The council has an objective &lsquo; To promote sustainable growth within our district to ensure economic and social opportunities exist for our communities&hellip;&rsquo;. The main driver of this is the Local Plan. It also includes a £1m Capital Enhancement Fund, for community halls throughout the District, to be delivered over the next four years. </p>
+
+<p>The third and final objective is to &lsquo;deliver cost effective and necessary services to our residents&rsquo;.  Where these services are charged for at the point of use, such as for planning applications, the fees are also prescribed centrally. However, the council does operate a very successful Careline service. This award-winning service helps elderly and infirm residents to continue living at home. NHDC is also about to launch a building regulations inspection service and hopes that this will be a source of income. </p>
+
+<p>Of course, NHDC does not have a free hand in most of the services it provides. They are so-called &lsquo;statutory services&rsquo;, prescribed by the national government. In most cases these are free, for example waste collection. Where charges can be made (e.g. planning applications), the rates are set nationally.</p>
+
+<p>One of the more controversial policies recently has been the one which applies to community halls owned by the council. The policy has been to lease these to local groups on a &lsquo;repairing and insuring lease&rsquo;. This has put some pressure on some local groups who find that it is difficult to adapt to paying for the costs of maintaining their premises. It does, however, put them on an equal footing with groups in parished areas, like Knebworth. Parishes, such as ours, have always had to bear these costs, especially now capital grants for village halls have largely dried up.</p>
+
+<p>So, by now you&rsquo;re probably wondering how much your council tax is going to go up in April. The NHDC precept for a Band D property will be £216.96 next year, an increase of £5, an increase of 2.4% in cash terms, close to zero in real terms. Not great, but as low as was reasonably achieveable in the circumstances.  (The rest of your Council Tax is made up of contributions to the County Council, the Police and the Parish Council.) For other Council Tax Bands, see the NHDC website, or just wait for your bill to be delivered.<span id="header-c48" class="anchor"></span></p>
+
+  </div>
+</article>
+
+<article class="hentry">
+  <header>
+    
+    <div class="entry-meta">
+         
 		<span class="entry-date date published updated"><time datetime="2017-02-13 14:12:17 &#43;0000 UTC"><a href="/posts/StationPub/">Feb 13, 2017</a></time></span>
         
       <span class="entry-reading-time">
@@ -216,7 +286,7 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <div class="entry-meta">
          
-		<span class="entry-date date published updated"><time datetime="2017-02-05 10:13:50 &#43;0000 UTC"><a href="/posts/first_post/">Feb 5, 2017</a></time></span>
+		<span class="entry-date date published updated"><time datetime="2017-02-05 10:13:50 &#43;0000 UTC"><a href="/posts/Twitter/">Feb 5, 2017</a></time></span>
         
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -224,7 +294,7 @@ This is the only pub in the village, and, since it is right in the centre, was v
       </span>
     </div>
     
-	<h1 class="entry-title"><a href="/posts/first_post/" rel="bookmark" title="Is Twitter the key Social Media Platform?" itemprop="url">Is Twitter the key Social Media Platform?</a></h1>
+	<h1 class="entry-title"><a href="/posts/Twitter/" rel="bookmark" title="Is Twitter the key Social Media Platform?" itemprop="url">Is Twitter the key Social Media Platform?</a></h1>
     
   </header>
   <div class="entry-content">
@@ -239,158 +309,6 @@ This is the only pub in the village, and, since it is right in the centre, was v
 <p>Of late I&rsquo;ve decided to integrate a bit more automation, using ifttt.com, and simply linking my Twitter account to a FB page. I&rsquo;d previously auto tweeted from my Tumblr blog, but that never seemed to do any good.</p>
 
 <p>Anyway, for reasons quite beyond me, my follower numbers seem to be accelerating. The threat to close the Station Pub seems a catalyst. Maybe it&rsquo;s just that my odd retweet is enough to create a sustaining wave. I confess to paying a magnificent £10 to promote one tweet, but I don&rsquo;t think I&rsquo;ll be doing that again in a hurry, as there seems to be no way to localize the audience, in contrast to FB.</p>
-
-  </div>
-</article>
-
-<article class="hentry">
-  <header>
-    
-    <div class="entry-meta">
-         
-		<span class="entry-date date published updated"><time datetime="2013-10-26 00:00:00 &#43;0000 UTC"><a href="/posts/background-image/">Oct 26, 2013</a></time></span>
-        
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        Reading time ~1 minute
-      </span>
-    </div>
-    
-	<h1 class="entry-title"><a href="/posts/background-image/" rel="bookmark" title="Post with a Background Image" itemprop="url">Post with a Background Image</a></h1>
-    
-  </header>
-  <div class="entry-content">
-    <p>Here be a sample post with a custom background image. To utilize this &ldquo;feature&rdquo; just add the following YAML to a post&rsquo;s front matter.</p>
-background: /images/filename.png
-
-<p>This little bit of YAML makes the assumption that your background image asset is in the <code>/images</code> folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.</p>
-
-<p>If you want to set a background image for the entire site just add <code>background: /images/filename.png</code> as a <a href="https://gohugo.io/overview/configuration/#examples">param</a> in your config and BOOM &mdash; background images on every page!</p>
-
-<div xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/" about="http://subtlepatterns.com" class="notice">Background images from <span property="dct:title">Subtle Patterns</span> (<a rel="cc:attributionURL" property="cc:attributionName" href="http://subtlepatterns.com">Subtle Patterns</a>) / <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a></div>
-
-  </div>
-</article>
-
-<article class="hentry">
-  <header>
-    
-      <div class="entry-image-index">
-		  <a href="/posts/code-highlighting-post/" title="Syntax Highlighting Post"><img src="/images/abstract-10.jpg" alt="Syntax Highlighting Post"></a>
-      </div>
-    
-    <div class="entry-meta">
-         
-		<span class="entry-date date published updated"><time datetime="2013-08-16 00:00:00 &#43;0000 UTC"><a href="/posts/code-highlighting-post/">Aug 16, 2013</a></time></span>
-        
-      <span class="entry-reading-time">
-        <i class="fa fa-clock-o"></i>
-        Reading time ~1 minute
-      </span>
-    </div>
-    
-	<h1 class="entry-title"><a href="/posts/code-highlighting-post/" rel="bookmark" title="Syntax Highlighting Post" itemprop="url">Syntax Highlighting Post</a></h1>
-    
-  </header>
-  <div class="entry-content">
-    
-
-<p>Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.<sup class="footnote-ref" id="fnref:1"><a rel="footnote" href="#fn:1">1</a></sup></p>
-
-<h3 id="highlighted-code-blocks">Highlighted Code Blocks</h3>
-
-<p>To modify styling and highlight colors edit <code>/static/css/_sass/_syntax.scss</code>.</p>
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-<nav class="pagination" role="navigation">
-    {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-    {% endif %}
-    {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-    {% endif %}
-</nav><!-- /.pagination -->
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '–'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
-
-<h3 id="standard-code-block">Standard Code Block</h3>
-
-<pre><code>&lt;nav class=&quot;pagination&quot; role=&quot;navigation&quot;&gt;
-    {% if page.previous %}
-        &lt;a href=&quot;{{ site.url }}{{ page.previous.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.previous.title }}&quot;&gt;Previous article&lt;/a&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;a href=&quot;{{ site.url }}{{ page.next.url }}&quot; class=&quot;btn&quot; title=&quot;{{ page.next.title }}&quot;&gt;Next article&lt;/a&gt;
-    {% endif %}
-&lt;/nav&gt;&lt;!-- /.pagination --&gt;
-</code></pre>
-
-<h3 id="fenced-code-blocks">Fenced Code Blocks</h3>
-
-<p>To modify styling and highlight colors edit <code>/static/css/_sass/_coderay.scss</code>.</p>
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-<nav class="pagination" role="navigation">
-    {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
-    {% endif %}
-    {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
-    {% endif %}
-</nav><!-- /.pagination -->
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '–'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
-
-<h3 id="github-gist-embed">GitHub Gist Embed</h3>
-
-<p>An example of a Gist embed below.</p>
-
-<script src="https://gist.github.com/mmistakes/43a355923921d22cd993.js"></script>
-<div class="footnotes">
-
-<hr />
-
-<ol>
-<li id="fn:1"><a href="http://en.wikipedia.org/wiki/Syntax_highlighting">http://en.wikipedia.org/wiki/Syntax_highlighting</a>
- <a class="footnote-return" href="#fnref:1"><sup>[return]</sup></a></li>
-</ol>
-</div>
 
   </div>
 </article>
@@ -413,10 +331,6 @@ end
 	
     
 	<li><a href="/posts/page/2/">2</a></li>
-    
-	
-    
-	<li><a href="/posts/page/3/">3</a></li>
     
 	
 

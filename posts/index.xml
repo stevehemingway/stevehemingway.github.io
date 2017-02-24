@@ -6,8 +6,54 @@
     <description>Recent content in Posts on Steve Hemingway</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Feb 2017 14:12:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 15:02:38 +0000</lastBuildDate>
     <atom:link href="https://stevehemingway.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Update on Blog Setup</title>
+      <link>https://stevehemingway.github.io/posts/update_on_blog_setup/</link>
+      <pubDate>Fri, 24 Feb 2017 15:02:38 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/update_on_blog_setup/</guid>
+      <description>&lt;p&gt;Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;this page&lt;/a&gt; and this time it kind of worked.&lt;/p&gt;
+
+&lt;p&gt;It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&amp;rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&amp;rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t even checkout the repository on the local machine because then git push will complain that you&amp;rsquo;re pushing to a master branch that it active and checked out on the remote machine. I discovered that the hard way. My web server does run a git server process. I tried it.&lt;/p&gt;
+
+&lt;p&gt;Anyway, after a bit of faffing around (!) I decided to edit the hugo source web file source on my local machine (running msys2 under Windows), push to github.com (because it is so awesome as a git server, and its free), then git pull the (built) website source from github to my web server directory on my dreamhost shared web server machine.&lt;/p&gt;
+
+&lt;p&gt;Now to add to my blog I create a markdown file, add it to the github pages repo, then git pull it to the dreamhost machine.&lt;/p&gt;
+
+&lt;p&gt;As a slight added complication, I run the DNS for this domain on another machine - a digital ocean dropbox, running mail-in-a-box. I discover I have to look in the dreamhost control panel DNS settings for the domain to see what IP address to use for the A record. I can&amp;rsquo;t just use the main (arago) IP address.&lt;/p&gt;
+
+&lt;p&gt;Who would have thought that something so simple could be so &amp;hellip;. messy?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>March Newsletter</title>
+      <link>https://stevehemingway.github.io/posts/March_Newsletter/</link>
+      <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
+      
+      <guid>https://stevehemingway.github.io/posts/March_Newsletter/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the penultimate meeting of NHDC for the current civic year, the budget for &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;18&lt;/sub&gt; was agreed.  Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.&lt;/p&gt;
+
+&lt;p&gt;The council&amp;rsquo;s focus is on making North Herts, in all its diversity, a better place for and working.  It aims to do this by working with partners to provide &amp;lsquo;an attractive and safe environment for our residents&amp;rsquo;. Currently, we are working towards a joint waste collection contract with East Herts District Council. Waste collection is not the most glamorous of activities, but it is the biggest item in the expenditure budget, accounting for 45% of the total!&lt;/p&gt;
+
+&lt;p&gt;The council has an objective &amp;lsquo; To promote sustainable growth within our district to ensure economic and social opportunities exist for our communities&amp;hellip;&amp;rsquo;. The main driver of this is the Local Plan. It also includes a £1m Capital Enhancement Fund, for community halls throughout the District, to be delivered over the next four years. &lt;/p&gt;
+
+&lt;p&gt;The third and final objective is to &amp;lsquo;deliver cost effective and necessary services to our residents&amp;rsquo;.  Where these services are charged for at the point of use, such as for planning applications, the fees are also prescribed centrally. However, the council does operate a very successful Careline service. This award-winning service helps elderly and infirm residents to continue living at home. NHDC is also about to launch a building regulations inspection service and hopes that this will be a source of income. &lt;/p&gt;
+
+&lt;p&gt;Of course, NHDC does not have a free hand in most of the services it provides. They are so-called &amp;lsquo;statutory services&amp;rsquo;, prescribed by the national government. In most cases these are free, for example waste collection. Where charges can be made (e.g. planning applications), the rates are set nationally.&lt;/p&gt;
+
+&lt;p&gt;One of the more controversial policies recently has been the one which applies to community halls owned by the council. The policy has been to lease these to local groups on a &amp;lsquo;repairing and insuring lease&amp;rsquo;. This has put some pressure on some local groups who find that it is difficult to adapt to paying for the costs of maintaining their premises. It does, however, put them on an equal footing with groups in parished areas, like Knebworth. Parishes, such as ours, have always had to bear these costs, especially now capital grants for village halls have largely dried up.&lt;/p&gt;
+
+&lt;p&gt;So, by now you&amp;rsquo;re probably wondering how much your council tax is going to go up in April. The NHDC precept for a Band D property will be £216.96 next year, an increase of £5, an increase of 2.4% in cash terms, close to zero in real terms. Not great, but as low as was reasonably achieveable in the circumstances.  (The rest of your Council Tax is made up of contributions to the County Council, the Police and the Parish Council.) For other Council Tax Bands, see the NHDC website, or just wait for your bill to be delivered.&lt;span id=&#34;header-c48&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Station_Pub</title>
@@ -57,10 +103,10 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <item>
       <title>Is Twitter the key Social Media Platform?</title>
-      <link>https://stevehemingway.github.io/posts/first_post/</link>
+      <link>https://stevehemingway.github.io/posts/Twitter/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/first_post/</guid>
+      <guid>https://stevehemingway.github.io/posts/Twitter/</guid>
       <description>
 
 &lt;h2 id=&#34;my-experience-of-the-twittersphere&#34;&gt;My experience of the Twittersphere&lt;/h2&gt;
@@ -76,447 +122,193 @@ This is the only pub in the village, and, since it is right in the centre, was v
     </item>
     
     <item>
-      <title>Post with a Background Image</title>
-      <link>https://stevehemingway.github.io/posts/background-image/</link>
-      <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://stevehemingway.github.io/posts/first_post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/background-image/</guid>
-      <description>&lt;p&gt;Here be a sample post with a custom background image. To utilize this &amp;ldquo;feature&amp;rdquo; just add the following YAML to a post&amp;rsquo;s front matter.&lt;/p&gt;
-background: /images/filename.png
+      <guid>https://stevehemingway.github.io/posts/first_post/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;!--[if lt IE 7]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8 lt-ie7&#34; lang=&#34;en&#34;&gt; &lt;![endif]--&gt;
+&lt;!--[if (IE 7)&amp;!(IEMobile)]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8&#34; lang=&#34;en&#34;&gt;&lt;![endif]--&gt;
+&lt;!--[if (IE 8)&amp;!(IEMobile)]&gt;&lt;html class=&#34;no-js lt-ie9&#34; lang=&#34;en&#34;&gt;&lt;![endif]--&gt;
+&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&#34;no-js&#34; lang=&#34;en&#34;&gt;&lt;!--&lt;![endif]--&gt;
+&lt;head&gt;
+&lt;meta charset=&#34;utf-8&#34;&gt;
+&lt;title&gt;first_post &amp;#8211; Steve Hemingway&lt;/title&gt;
+&lt;meta name=&#34;description&#34; content=&#34;&#34;&gt;
 
-&lt;p&gt;This little bit of YAML makes the assumption that your background image asset is in the &lt;code&gt;/images&lt;/code&gt; folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.&lt;/p&gt;
-
-&lt;p&gt;If you want to set a background image for the entire site just add &lt;code&gt;background: /images/filename.png&lt;/code&gt; as a &lt;a href=&#34;https://gohugo.io/overview/configuration/#examples&#34;&gt;param&lt;/a&gt; in your config and BOOM &amp;mdash; background images on every page!&lt;/p&gt;
-
-&lt;div xmlns:cc=&#34;http://creativecommons.org/ns#&#34; xmlns:dct=&#34;http://purl.org/dc/terms/&#34; about=&#34;http://subtlepatterns.com&#34; class=&#34;notice&#34;&gt;Background images from &lt;span property=&#34;dct:title&#34;&gt;Subtle Patterns&lt;/span&gt; (&lt;a rel=&#34;cc:attributionURL&#34; property=&#34;cc:attributionName&#34; href=&#34;http://subtlepatterns.com&#34;&gt;Subtle Patterns&lt;/a&gt;) / &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/3.0/&#34;&gt;CC BY-SA 3.0&lt;/a&gt;&lt;/div&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Syntax Highlighting Post</title>
-      <link>https://stevehemingway.github.io/posts/code-highlighting-post/</link>
-      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+
+&lt;meta name=&#34;keywords&#34; content=&#34;Development, golang&#34;&gt;
+
+
+
+&lt;meta name=&#34;twitter:title&#34; content=&#34;first_post&#34;&gt;
+&lt;meta name=&#34;twitter:description&#34; content=&#34;The blog of a geek manqué&#34;&gt;
+
+
+
+
+&lt;meta property=&#34;og:type&#34; content=&#34;article&#34;&gt;
+&lt;meta property=&#34;og:title&#34; content=&#34;first_post&#34;&gt;
+&lt;meta property=&#34;og:description&#34; content=&#34;The blog of a geek manqué&#34;&gt;
+&lt;meta property=&#34;og:url&#34; content=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34;&gt;
+&lt;meta property=&#34;og:site_name&#34; content=&#34;Steve Hemingway&#34;&gt;
+
+
+
+  &lt;meta property=&#34;og:updated_time&#34; content=&#34;2017-02-05T10:12:43&amp;#43;00:00&#34;/&gt;
+
+
+
+
+
+
+&lt;link rel=&#34;canonical&#34; href=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34;&gt;
+
+
+&lt;meta name=&#34;HandheldFriendly&#34; content=&#34;True&#34;&gt;
+&lt;meta name=&#34;MobileOptimized&#34; content=&#34;320&#34;&gt;
+&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
+
+
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://stevehemingway.github.io/css/main.css&#34;&gt;
+
+&lt;link href=&#34;//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
+
+&lt;meta http-equiv=&#34;cleartype&#34; content=&#34;on&#34;&gt;
+
+&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.18.1&#34; /&gt;
+
+&lt;script src=&#34;https://stevehemingway.github.io/js/vendor/modernizr-2.6.2.custom.min.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;link rel=&#34;shortcut icon&#34; href=&#34;https://stevehemingway.github.io/favicon.png&#34;&gt;
+
+
+&lt;/head&gt;
+
+&lt;body id=&#34;post&#34; &gt;
+&lt;nav id=&#34;dl-menu&#34; class=&#34;dl-menuwrapper&#34; role=&#34;navigation&#34;&gt;
+	&lt;button class=&#34;dl-trigger&#34;&gt;Open Menu&lt;/button&gt;
+	&lt;ul class=&#34;dl-menu&#34;&gt;
+		&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&#34;#&#34;&gt;About&lt;/a&gt;
+			&lt;ul class=&#34;dl-submenu&#34;&gt;
+			
+				&lt;li&gt;
+					
+					&lt;img src=&#34;https://stevehemingway.github.io/images/steve.jpg&#34; alt=&#34;Steve&#39;s photo&#34; class=&#34;author-photo&#34;&gt;
+					
+					&lt;h4&gt;Steve&lt;/h4&gt;
+					&lt;p&gt;Chemist, physicist, programmer, quant, family man&lt;/p&gt;
+				&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/about/&#34;&gt;&lt;span class=&#34;btn btn-inverse&#34;&gt;Learn More&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				
+				
+				
+				
+				
+				&lt;li&gt;
+					&lt;a href=&#34;https://github.com/stevehemingway/myblog-hugo&#34;&gt;&lt;i class=&#34;fa fa-fw fa-github&#34;&gt;&lt;/i&gt; GitHub&lt;/a&gt;
+				&lt;/li&gt;
+				
+				
+				
+				
+			
+			&lt;/ul&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&#34;#&#34;&gt;Posts&lt;/a&gt;
+			&lt;ul class=&#34;dl-submenu&#34;&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/posts/&#34;&gt;All Posts&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/&#34;&gt;All Tags&lt;/a&gt;&lt;/li&gt;
+			&lt;/ul&gt;
+		&lt;/li&gt;
+		
+	    &lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/theme-setup/&#34; &gt;Theme Setup&lt;/a&gt;&lt;/li&gt;
+	  
+	    &lt;li&gt;&lt;a href=&#34;http://mademistakes.com&#34; target=&#34;_blank&#34;&gt;External Link&lt;/a&gt;&lt;/li&gt;
+	  
+	&lt;/ul&gt;
+&lt;/nav&gt;
+
+ 
+
+&lt;div id=&#34;main&#34; role=&#34;main&#34;&gt;
+  &lt;article class=&#34;hentry&#34;&gt;
+    &lt;header class=&#34;header-title&#34;&gt;
+      &lt;div class=&#34;header-title-wrap&#34;&gt;
+        
+          &lt;h1 class=&#34;entry-title&#34;&gt;&lt;a href=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34; rel=&#34;bookmark&#34; title=&#34;first_post&#34;&gt;first_post&lt;/a&gt;&lt;/h1&gt;
+        
+         
+        &lt;h2&gt;&lt;span class=&#34;entry-date date published&#34;&gt;&lt;time datetime=&#34;2017-02-05 10:12:43 &amp;#43;0000 UTC&#34;&gt;February 5, 2017&lt;/time&gt;&lt;/span&gt;&lt;/h2&gt;
+        
+      &lt;p class=&#34;entry-reading-time&#34;&gt;
+        &lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;
+        Reading time ~1 minute
+    &lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/header&gt;
+    &lt;div class=&#34;entry-content&#34;&gt;
       
-      <guid>https://stevehemingway.github.io/posts/code-highlighting-post/</guid>
-      <description>
-
-&lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;highlighted-code-blocks&#34;&gt;Highlighted Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/static/css/_sass/_syntax.scss&lt;/code&gt;.&lt;/p&gt;
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-&lt;nav class=&#34;pagination&#34; role=&#34;navigation&#34;&gt;
-    {% if page.previous %}
-        &lt;a href=&#34;{{ site.url }}{{ page.previous.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.previous.title }}&#34;&gt;Previous article&lt;/a&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;a href=&#34;{{ site.url }}{{ page.next.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.next.title }}&#34;&gt;Next article&lt;/a&gt;
-    {% endif %}
-&lt;/nav&gt;&lt;!-- /.pagination --&gt;
-module Jekyll
-  class TagIndex &lt; Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = &#39;index.html&#39;
-      self.process(@name)
-      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
-      self.data[&#39;tag&#39;] = tag
-      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
-      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;–&#39;
-      self.data[&#39;title&#39;] = &#34;#{tag_title_prefix}#{tag}&#34;
-      self.data[&#39;description&#39;] = &#34;An archive of posts tagged #{tag}.&#34;
-    end
-  end
-end
-
-&lt;h3 id=&#34;standard-code-block&#34;&gt;Standard Code Block&lt;/h3&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;nav class=&amp;quot;pagination&amp;quot; role=&amp;quot;navigation&amp;quot;&amp;gt;
-    {% if page.previous %}
-        &amp;lt;a href=&amp;quot;{{ site.url }}{{ page.previous.url }}&amp;quot; class=&amp;quot;btn&amp;quot; title=&amp;quot;{{ page.previous.title }}&amp;quot;&amp;gt;Previous article&amp;lt;/a&amp;gt;
-    {% endif %}
-    {% if page.next %}
-        &amp;lt;a href=&amp;quot;{{ site.url }}{{ page.next.url }}&amp;quot; class=&amp;quot;btn&amp;quot; title=&amp;quot;{{ page.next.title }}&amp;quot;&amp;gt;Next article&amp;lt;/a&amp;gt;
-    {% endif %}
-&amp;lt;/nav&amp;gt;&amp;lt;!-- /.pagination --&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;fenced-code-blocks&#34;&gt;Fenced Code Blocks&lt;/h3&gt;
-
-&lt;p&gt;To modify styling and highlight colors edit &lt;code&gt;/static/css/_sass/_coderay.scss&lt;/code&gt;.&lt;/p&gt;
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-&lt;nav class=&#34;pagination&#34; role=&#34;navigation&#34;&gt;
-    {% if page.previous %}
-        &lt;a href=&#34;{{ site.url }}{{ page.previous.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.previous.title }}&#34;&gt;Previous article&lt;/a&gt;
-    {% endif %}
-    {% if page.next %}
-        &lt;a href=&#34;{{ site.url }}{{ page.next.url }}&#34; class=&#34;btn&#34; title=&#34;{{ page.next.title }}&#34;&gt;Next article&lt;/a&gt;
-    {% endif %}
-&lt;/nav&gt;&lt;!-- /.pagination --&gt;
-module Jekyll
-  class TagIndex &lt; Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = &#39;index.html&#39;
-      self.process(@name)
-      self.read_yaml(File.join(base, &#39;_layouts&#39;), &#39;tag_index.html&#39;)
-      self.data[&#39;tag&#39;] = tag
-      tag_title_prefix = site.config[&#39;tag_title_prefix&#39;] || &#39;Tagged: &#39;
-      tag_title_suffix = site.config[&#39;tag_title_suffix&#39;] || &#39;–&#39;
-      self.data[&#39;title&#39;] = &#34;#{tag_title_prefix}#{tag}&#34;
-      self.data[&#39;description&#39;] = &#34;An archive of posts tagged #{tag}.&#34;
-    end
-  end
-end
-
-&lt;h3 id=&#34;github-gist-embed&#34;&gt;GitHub Gist Embed&lt;/h3&gt;
-
-&lt;p&gt;An example of a Gist embed below.&lt;/p&gt;
-
-&lt;script src=&#34;https://gist.github.com/mmistakes/43a355923921d22cd993.js&#34;&gt;&lt;/script&gt;
-&lt;div class=&#34;footnotes&#34;&gt;
-
-&lt;hr /&gt;
-
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Syntax_highlighting&#34;&gt;http://en.wikipedia.org/wiki/Syntax_highlighting&lt;/a&gt;
- &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+      &lt;footer class=&#34;entry-meta&#34;&gt;
+          
+        &lt;span class=&#34;entry-tags&#34;&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/#development&#34; title=&#34;Pages tagged development&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;development&lt;/span&gt;&lt;/a&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/#golang&#34; title=&#34;Pages tagged golang&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;golang&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+        
+        
+        &lt;div class=&#34;social-share&#34;&gt;
+  &lt;ul class=&#34;socialcount socialcount-small inline-list&#34;&gt;
+    &lt;li class=&#34;facebook&#34;&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Facebook&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-facebook-square&#34;&gt;&lt;/i&gt; Like&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&#34;twitter&#34;&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Twitter&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-twitter-square&#34;&gt;&lt;/i&gt; Tweet&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;li class=&#34;googleplus&#34;&gt;&lt;a href=&#34;https://plus.google.com/share?url=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Google Plus&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-google-plus-square&#34;&gt;&lt;/i&gt; +1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/div&gt;
-</description>
-    </item>
+
+      &lt;/footer&gt;
+    &lt;/div&gt;
     
-    <item>
-      <title>Sample Link Post</title>
-      <link>https://stevehemingway.github.io/posts/sample-link-post/</link>
-      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/sample-link-post/</guid>
-      <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
-</description>
-    </item>
+    &lt;section id=&#34;disqus_thread&#34;&gt;&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+
+(function() {
     
-    <item>
-      <title>A Post with a Video</title>
-      <link>https://stevehemingway.github.io/posts/video-post/</link>
-      <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/video-post/</guid>
-      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
     
-    <item>
-      <title>Post with Large Feature Image and Text</title>
-      <link>https://stevehemingway.github.io/posts/readability-feature-post/</link>
-      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/readability-feature-post/</guid>
-      <description>
+    if (window.location.hostname == &#34;localhost&#34;)
+        return;
 
-&lt;p&gt;This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&#34;cupidatat-90-s-lo-fi-authentic-try-hard&#34;&gt;Cupidatat 90&amp;rsquo;s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90&amp;rsquo;s.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sartorial hoodie&lt;/li&gt;
-&lt;li&gt;Labore viral forage&lt;/li&gt;
-&lt;li&gt;Tote bag selvage&lt;/li&gt;
-&lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven&amp;rsquo;t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney&amp;rsquo;s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
-
-&lt;h2 id=&#34;forage-occaecat-cardigan-qui&#34;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
-
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90&amp;rsquo;s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney&amp;rsquo;s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney&amp;rsquo;s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&#34;hoodie-duis&#34;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90&amp;rsquo;s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&#34;thundercats-ho&#34;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney&amp;rsquo;s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney&amp;rsquo;s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
-</description>
-    </item>
+    var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
+    var disqus_shortname = &#39;stevehem&#39;;
+    dsq.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
+    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;http://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;a href=&#34;http://disqus.com/&#34; class=&#34;dsq-brlink&#34;&gt;comments powered by &lt;span class=&#34;logo-disqus&#34;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
+&lt;/section&gt;
     
-    <item>
-      <title>A Post with Images</title>
-      <link>https://stevehemingway.github.io/posts/sample-post-images/</link>
-      <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/sample-post-images/</guid>
-      <description>
+  &lt;/article&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
+&lt;div class=&#34;footer-wrapper&#34;&gt;
+  &lt;footer role=&#34;contentinfo&#34;&gt;
+    &lt;span&gt; Powered by &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;nofollow&#34;&gt;Hugo&lt;/a&gt; using the &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme&#34; rel=&#34;nofollow&#34;&gt;HPSTR&lt;/a&gt; theme.&lt;/span&gt;
 
-&lt;h2 id=&#34;figures-for-images-or-video&#34;&gt;Figures (for images or video)&lt;/h2&gt;
+  &lt;/footer&gt;
+&lt;/div&gt;
 
-&lt;h3 id=&#34;one-up&#34;&gt;One Up&lt;/h3&gt;
+&lt;script src=&#34;//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;window.jQuery || document.write(&#39;&lt;script src=&#34;\/js\/vendor\/jquery-1.9.1.min.js&#34;&gt;&lt;\/script&gt;&#39;)&lt;/script&gt;
+&lt;script src=&#34;https://stevehemingway.github.io/js/scripts.min.js&#34;&gt;&lt;/script&gt;
 
-&lt;figure&gt;
-    &lt;a href=&#34;//farm9.staticflickr.com/8426/7758832526_cc8f681e48_b.jpg&#34;&gt;&lt;img src=&#34;//farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;figcaption&gt;&lt;a href=&#34;//www.flickr.com/photos/80901381@N04/7758832526/&#34; title=&#34;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&#34;&gt;Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr&lt;/a&gt;.&lt;/figcaption&gt;
-&lt;/figure&gt;
 
-&lt;h3 id=&#34;two-up&#34;&gt;Two Up&lt;/h3&gt;
 
-&lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
-&lt;figure class=&#34;half&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
-	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 
-&lt;p&gt;And you&amp;rsquo;ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&#34;half&#34;&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;
-    &lt;figcaption&gt;Two images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h3 id=&#34;three-up&#34;&gt;Three Up&lt;/h3&gt;
-
-&lt;p&gt;Apply the &lt;code&gt;third&lt;/code&gt; class like so to display three images side by side that share the same caption.&lt;/p&gt;
-&lt;figure class=&#34;third&#34;&gt;
-	&lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-	&lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-	&lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-	&lt;figcaption&gt;Caption describing these three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;And you&amp;rsquo;ll get something that looks like this:&lt;/p&gt;
-
-&lt;figure class=&#34;third&#34;&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;a href=&#34;//placehold.it/1200x600.jpg&#34;&gt;&lt;img src=&#34;//placehold.it/600x300.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;
-    &lt;figcaption&gt;Three images.&lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Testing Readability with a Bunch of Text</title>
-      <link>https://stevehemingway.github.io/posts/readability-post/</link>
-      <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/readability-post/</guid>
-      <description>
-
-&lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
-
-&lt;p&gt;Vero laborum commodo occupy. Semiotics voluptate mumblecore pug. Cosby sweater ullamco quinoa ennui assumenda, sapiente occupy delectus lo-fi. Ea fashion axe Marfa cillum aliquip. Retro Bushwick keytar cliche. Before they sold out sustainable gastropub Marfa readymade, ethical Williamsburg skateboard brunch qui consectetur gentrify semiotics. Mustache cillum irony, fingerstache magna pour-over keffiyeh tousled selfies.&lt;/p&gt;
-
-&lt;h2 id=&#34;cupidatat-90-s-lo-fi-authentic-try-hard&#34;&gt;Cupidatat 90&amp;rsquo;s lo-fi authentic try-hard&lt;/h2&gt;
-
-&lt;p&gt;In pug Portland incididunt mlkshk put a bird on it vinyl quinoa. Terry Richardson shabby chic +1, scenester Tonx excepteur tempor fugiat voluptate fingerstache aliquip nisi next level. Farm-to-table hashtag Truffaut, Odd Future ex meggings gentrify single-origin coffee try-hard 90&amp;rsquo;s.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Sartorial hoodie&lt;/li&gt;
-&lt;li&gt;Labore viral forage&lt;/li&gt;
-&lt;li&gt;Tote bag selvage&lt;/li&gt;
-&lt;li&gt;DIY exercitation et id ugh tumblr church-key&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Incididunt umami sriracha, ethical fugiat VHS ex assumenda yr irure direct trade. Marfa Truffaut bicycle rights, kitsch placeat Etsy kogi asymmetrical. Beard locavore flexitarian, kitsch photo booth hoodie plaid ethical readymade leggings yr.&lt;/p&gt;
-
-&lt;p&gt;Aesthetic odio dolore, meggings disrupt qui readymade stumptown brunch Terry Richardson pour-over gluten-free. Banksy american apparel in selfies, biodiesel flexitarian organic meh wolf quinoa gentrify banjo kogi. Readymade tofu ex, scenester dolor umami fingerstache occaecat fashion axe Carles jean shorts minim. Keffiyeh fashion axe nisi Godard mlkshk dolore. Lomo you probably haven&amp;rsquo;t heard of them eu non, Odd Future Truffaut pug keytar meggings McSweeney&amp;rsquo;s Pinterest cred. Etsy literally aute esse, eu bicycle rights qui meggings fanny pack. Gentrify leggings pug flannel duis.&lt;/p&gt;
-
-&lt;h2 id=&#34;forage-occaecat-cardigan-qui&#34;&gt;Forage occaecat cardigan qui&lt;/h2&gt;
-
-&lt;p&gt;Fashion axe hella gastropub lo-fi kogi 90&amp;rsquo;s aliquip +1 veniam delectus tousled. Cred sriracha locavore gastropub kale chips, iPhone mollit sartorial. Anim dolore 8-bit, pork belly dolor photo booth aute flannel small batch. Dolor disrupt ennui, tattooed whatever salvia Banksy sartorial roof party selfies raw denim sint meh pour-over. Ennui eu cardigan sint, gentrify iPhone cornhole.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Whatever velit occaecat quis deserunt gastropub, leggings elit tousled roof party 3 wolf moon kogi pug blue bottle ea. Fashion axe shabby chic Austin quinoa pickled laborum bitters next level, disrupt deep v accusamus non fingerstache.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Tote bag asymmetrical elit sunt. Occaecat authentic Marfa, hella McSweeney&amp;rsquo;s next level irure veniam master cleanse. Sed hoodie letterpress artisan wolf leggings, 3 wolf moon commodo ullamco. Anim occupy ea labore Terry Richardson. Tofu ex master cleanse in whatever pitchfork banh mi, occupy fugiat fanny pack Austin authentic. Magna fugiat 3 wolf moon, labore McSweeney&amp;rsquo;s sustainable vero consectetur. Gluten-free disrupt enim, aesthetic fugiat jean shorts trust fund keffiyeh magna try-hard.&lt;/p&gt;
-
-&lt;h2 id=&#34;hoodie-duis&#34;&gt;Hoodie Duis&lt;/h2&gt;
-
-&lt;p&gt;Actually salvia consectetur, hoodie duis lomo YOLO sunt sriracha. Aute pop-up brunch farm-to-table odio, salvia irure occaecat. Sriracha small batch literally skateboard. Echo Park nihil hoodie, aliquip forage artisan laboris. Trust fund reprehenderit nulla locavore. Stumptown raw denim kitsch, keffiyeh nulla twee dreamcatcher fanny pack ullamco 90&amp;rsquo;s pop-up est culpa farm-to-table. Selfies 8-bit do pug odio.&lt;/p&gt;
-
-&lt;h3 id=&#34;thundercats-ho&#34;&gt;Thundercats Ho!&lt;/h3&gt;
-
-&lt;p&gt;Fingerstache thundercats Williamsburg, deep v scenester Banksy ennui vinyl selfies mollit biodiesel duis odio pop-up. Banksy 3 wolf moon try-hard, sapiente enim stumptown deep v ad letterpress. Squid beard brunch, exercitation raw denim yr sint direct trade. Raw denim narwhal id, flannel DIY McSweeney&amp;rsquo;s seitan. Letterpress artisan bespoke accusamus, meggings laboris consequat Truffaut qui in seitan. Sustainable cornhole Schlitz, twee Cosby sweater banh mi deep v forage letterpress flannel whatever keffiyeh. Sartorial cred irure, semiotics ethical sed blue bottle nihil letterpress.&lt;/p&gt;
-
-&lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney&amp;rsquo;s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
-
-&lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sample Post</title>
-      <link>https://stevehemingway.github.io/posts/sample-post/</link>
-      <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/sample-post/</guid>
-      <description>
-
-&lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
-&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
-
-&lt;h3 id=&#34;body-text&#34;&gt;Body text&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.github.io/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;p&gt;HTML and &lt;abbr title=&#34;cascading stylesheets&#34;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
-
-&lt;h3 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&#34;ordered-lists&#34;&gt;Ordered Lists&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Item one
-
-&lt;ol&gt;
-&lt;li&gt;sub item one&lt;/li&gt;
-&lt;li&gt;sub item two&lt;/li&gt;
-&lt;li&gt;sub item three&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;unordered-lists&#34;&gt;Unordered Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item one&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;li&gt;Item three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Header1&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Header2&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Header3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Foot1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Foot2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;Foot3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;code-snippets&#34;&gt;Code Snippets&lt;/h2&gt;
-
-&lt;p&gt;Syntax highlighting via Rouge&lt;/p&gt;
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-
-&lt;p&gt;Non Pygments code example&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;awesome&amp;quot;&amp;gt;
-    &amp;lt;p&amp;gt;This is great isn&#39;t it?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;buttons&#34;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-&lt;a href=&#34;#&#34; class=&#34;btn btn-success&#34;&gt;Success Button&lt;/a&gt;
-
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn&#34;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-success&#34;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-warning&#34;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-danger&#34;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-info&#34;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
