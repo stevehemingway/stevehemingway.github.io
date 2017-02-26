@@ -1,20 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/index.xml</link>
-    <description>Recent content on Steve Hemingway</description>
+    <title>Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/index.xml</link>
+    <description>Recent content on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 24 Feb 2017 15:02:38 +0000</lastBuildDate>
-    <atom:link href="https://stevehemingway.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 16:03:49 +0000</lastBuildDate>
+    <atom:link href="https://stevehemingway.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Steve Hemingway</title>
+      <link>https://stevehemingway.com/about/</link>
+      <pubDate>Sun, 26 Feb 2017 16:03:49 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-this-website&#34;&gt;About this website&lt;/h1&gt;
+
+&lt;p&gt;This is my latest corner of the web.&lt;/p&gt;
+
+&lt;p&gt;I used to have a blog at Tumblr. The &lt;a href=&#34;http://stevehemingway.tumblr.com/&#34;&gt;old posts&lt;/a&gt; are still there, but I won&amp;rsquo;t be adding to them. I generally don&amp;rsquo;t see promoted posts in my browser, and I wasn&amp;rsquo;t aware that my genuine posts were interspersed with promoted ones suggesting that people should check to see if they were due mis-sold PPI and the like.&lt;/p&gt;
+
+&lt;p&gt;This is a price which is too much, especially as there are many free alternatives. I am hosting this both on my own mail server on digital ocean and on github pages, which is entirely free. I probably will drop the github pages hosting once I get comfortable with the Digital Ocean offering.&lt;/p&gt;
+
+&lt;p&gt;I have various social media accounts. I&amp;rsquo;ll sort out some links to them eventually.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Update on Blog Setup</title>
-      <link>https://stevehemingway.github.io/posts/update_on_blog_setup/</link>
+      <link>https://stevehemingway.com/posts/update_on_blog_setup/</link>
       <pubDate>Fri, 24 Feb 2017 15:02:38 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/update_on_blog_setup/</guid>
+      <guid>https://stevehemingway.com/posts/update_on_blog_setup/</guid>
       <description>&lt;p&gt;Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;this page&lt;/a&gt; and this time it kind of worked.&lt;/p&gt;
 
 &lt;p&gt;It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&amp;rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&amp;rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!&lt;/p&gt;
@@ -35,10 +56,10 @@
     
     <item>
       <title>March Newsletter</title>
-      <link>https://stevehemingway.github.io/posts/March_Newsletter/</link>
+      <link>https://stevehemingway.com/posts/March_Newsletter/</link>
       <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/March_Newsletter/</guid>
+      <guid>https://stevehemingway.com/posts/March_Newsletter/</guid>
       <description>&lt;p&gt;&lt;strong&gt;NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In the penultimate meeting of NHDC for the current civic year, the budget for &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;18&lt;/sub&gt; was agreed.  Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.&lt;/p&gt;
@@ -58,11 +79,11 @@
     </item>
     
     <item>
-      <title>Station_Pub</title>
-      <link>https://stevehemingway.github.io/posts/StationPub/</link>
+      <title>Station Pub</title>
+      <link>https://stevehemingway.com/posts/StationPub/</link>
       <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/StationPub/</guid>
+      <guid>https://stevehemingway.com/posts/StationPub/</guid>
       <description>&lt;p&gt;My experience of the Station Pub in Knebworth is not one that makes me want to go back. The pub is cold, noisy and rarely populated by anyone I know. This is a pity, as it&amp;rsquo;s a very short distance from where I live. A few months ago, word went out that it had been advertised for sale. There were a few discussions about it in the Parish Council, where we decided that we&amp;rsquo;d better apply for it to be listed as an asset of community value. Planning applications to develop a very high density development of flats have been received for the site across the road, which have so far been refused, but eventually will result in some residential development happening. In spite of the fact that this is not something that anyone who lives in the village want to see built.&lt;/p&gt;
 
 &lt;p&gt;On Thursday, heard that the pub had closed its doors, and the staff had been redeployed in other Greene King pubs nearby. A flurry of activity happened, which resulted in:&lt;/p&gt;
@@ -82,10 +103,10 @@
     
     <item>
       <title>Community engagement using Facebook</title>
-      <link>https://stevehemingway.github.io/posts/facebook_activism/</link>
+      <link>https://stevehemingway.com/posts/facebook_activism/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/facebook_activism/</guid>
+      <guid>https://stevehemingway.com/posts/facebook_activism/</guid>
       <description>
 
 &lt;h1 id=&#34;the-station-pub-knebworth&#34;&gt;The Station Pub, Knebworth&lt;/h1&gt;
@@ -105,10 +126,10 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <item>
       <title>Is Twitter the key Social Media Platform?</title>
-      <link>https://stevehemingway.github.io/posts/Twitter/</link>
+      <link>https://stevehemingway.com/posts/Twitter/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/Twitter/</guid>
+      <guid>https://stevehemingway.com/posts/Twitter/</guid>
       <description>
 
 &lt;h2 id=&#34;my-experience-of-the-twittersphere&#34;&gt;My experience of the Twittersphere&lt;/h2&gt;
@@ -125,10 +146,10 @@ This is the only pub in the village, and, since it is right in the centre, was v
     
     <item>
       <title>Post with a Background Image</title>
-      <link>https://stevehemingway.github.io/techie_stuff/background-image/</link>
+      <link>https://stevehemingway.com/techie_stuff/background-image/</link>
       <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/background-image/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/background-image/</guid>
       <description>&lt;p&gt;Here be a sample post with a custom background image. To utilize this &amp;ldquo;feature&amp;rdquo; just add the following YAML to a post&amp;rsquo;s front matter.&lt;/p&gt;
 background: /images/filename.png
 
@@ -142,10 +163,10 @@ background: /images/filename.png
     
     <item>
       <title>Syntax Highlighting Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/code-highlighting-post/</link>
       <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/code-highlighting-post/</guid>
       <description>
 
 &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -249,20 +270,20 @@ end
     
     <item>
       <title>Sample Link Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-link-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-link-post/</link>
       <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-link-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-link-post/</guid>
       <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Post with a Video</title>
-      <link>https://stevehemingway.github.io/techie_stuff/video-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/video-post/</link>
       <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/video-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/video-post/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
@@ -272,10 +293,10 @@ end
     
     <item>
       <title>Post with Large Feature Image and Text</title>
-      <link>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/readability-feature-post/</link>
       <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/readability-feature-post/</guid>
       <description>
 
 &lt;p&gt;This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -323,10 +344,10 @@ end
     
     <item>
       <title>A Post with Images</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-post-images/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-post-images/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-post-images/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-post-images/</guid>
       <description>
 
 &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -344,8 +365,8 @@ end
 
 &lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
 &lt;figure class=&#34;half&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
 	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -385,10 +406,10 @@ end
     
     <item>
       <title>Testing Readability with a Bunch of Text</title>
-      <link>https://stevehemingway.github.io/techie_stuff/readability-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/readability-post/</link>
       <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/readability-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/readability-post/</guid>
       <description>
 
 &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -436,10 +457,10 @@ end
     
     <item>
       <title>Sample Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-post/</link>
       <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-post/</guid>
       <description>
 
 &lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -460,7 +481,7 @@ end
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.github.io/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.com/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
 
@@ -570,10 +591,10 @@ end
     
     <item>
       <title></title>
-      <link>https://stevehemingway.github.io/posts/first_post/</link>
+      <link>https://stevehemingway.com/posts/first_post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/first_post/</guid>
+      <guid>https://stevehemingway.com/posts/first_post/</guid>
       <description>&lt;!DOCTYPE html&gt;
 &lt;!--[if lt IE 7]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8 lt-ie7&#34; lang=&#34;en&#34;&gt; &lt;![endif]--&gt;
 &lt;!--[if (IE 7)&amp;!(IEMobile)]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8&#34; lang=&#34;en&#34;&gt;&lt;![endif]--&gt;
@@ -619,7 +640,7 @@ end
 &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
 
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://stevehemingway.github.io/css/main.css&#34;&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://stevehemingway.com/css/main.css&#34;&gt;
 
 &lt;link href=&#34;//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
 
@@ -627,10 +648,10 @@ end
 
 &lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.18.1&#34; /&gt;
 
-&lt;script src=&#34;https://stevehemingway.github.io/js/vendor/modernizr-2.6.2.custom.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://stevehemingway.com/js/vendor/modernizr-2.6.2.custom.min.js&#34;&gt;&lt;/script&gt;
 
 
-&lt;link rel=&#34;shortcut icon&#34; href=&#34;https://stevehemingway.github.io/favicon.png&#34;&gt;
+&lt;link rel=&#34;shortcut icon&#34; href=&#34;https://stevehemingway.com/favicon.png&#34;&gt;
 
 
 &lt;/head&gt;
@@ -639,19 +660,19 @@ end
 &lt;nav id=&#34;dl-menu&#34; class=&#34;dl-menuwrapper&#34; role=&#34;navigation&#34;&gt;
 	&lt;button class=&#34;dl-trigger&#34;&gt;Open Menu&lt;/button&gt;
 	&lt;ul class=&#34;dl-menu&#34;&gt;
-		&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
 		&lt;li&gt;
 			&lt;a href=&#34;#&#34;&gt;About&lt;/a&gt;
 			&lt;ul class=&#34;dl-submenu&#34;&gt;
 			
 				&lt;li&gt;
 					
-					&lt;img src=&#34;https://stevehemingway.github.io/images/steve.jpg&#34; alt=&#34;Steve&#39;s photo&#34; class=&#34;author-photo&#34;&gt;
+					&lt;img src=&#34;https://stevehemingway.com/images/steve.jpg&#34; alt=&#34;Steve&#39;s photo&#34; class=&#34;author-photo&#34;&gt;
 					
 					&lt;h4&gt;Steve&lt;/h4&gt;
 					&lt;p&gt;Chemist, physicist, programmer, quant, family man&lt;/p&gt;
 				&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/about/&#34;&gt;&lt;span class=&#34;btn btn-inverse&#34;&gt;Learn More&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/about/&#34;&gt;&lt;span class=&#34;btn btn-inverse&#34;&gt;Learn More&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 				
 				
 				
@@ -670,12 +691,12 @@ end
 		&lt;li&gt;
 			&lt;a href=&#34;#&#34;&gt;Posts&lt;/a&gt;
 			&lt;ul class=&#34;dl-submenu&#34;&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/posts/&#34;&gt;All Posts&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/&#34;&gt;All Tags&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/posts/&#34;&gt;All Posts&lt;/a&gt;&lt;/li&gt;
+				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/tags/&#34;&gt;All Tags&lt;/a&gt;&lt;/li&gt;
 			&lt;/ul&gt;
 		&lt;/li&gt;
 		
-	    &lt;li&gt;&lt;a href=&#34;https://stevehemingway.github.io/theme-setup/&#34; &gt;Theme Setup&lt;/a&gt;&lt;/li&gt;
+	    &lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/theme-setup/&#34; &gt;Theme Setup&lt;/a&gt;&lt;/li&gt;
 	  
 	    &lt;li&gt;&lt;a href=&#34;http://mademistakes.com&#34; target=&#34;_blank&#34;&gt;External Link&lt;/a&gt;&lt;/li&gt;
 	  
@@ -689,7 +710,7 @@ end
     &lt;header class=&#34;header-title&#34;&gt;
       &lt;div class=&#34;header-title-wrap&#34;&gt;
         
-          &lt;h1 class=&#34;entry-title&#34;&gt;&lt;a href=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34; rel=&#34;bookmark&#34; title=&#34;first_post&#34;&gt;first_post&lt;/a&gt;&lt;/h1&gt;
+          &lt;h1 class=&#34;entry-title&#34;&gt;&lt;a href=&#34;https://stevehemingway.com/content/posts/first_post/&#34; rel=&#34;bookmark&#34; title=&#34;first_post&#34;&gt;first_post&lt;/a&gt;&lt;/h1&gt;
         
          
         &lt;h2&gt;&lt;span class=&#34;entry-date date published&#34;&gt;&lt;time datetime=&#34;2017-02-05 10:12:43 &amp;#43;0000 UTC&#34;&gt;February 5, 2017&lt;/time&gt;&lt;/span&gt;&lt;/h2&gt;
@@ -704,7 +725,7 @@ end
       
       &lt;footer class=&#34;entry-meta&#34;&gt;
           
-        &lt;span class=&#34;entry-tags&#34;&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/#development&#34; title=&#34;Pages tagged development&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;development&lt;/span&gt;&lt;/a&gt;&lt;a href=&#34;https://stevehemingway.github.io/tags/#golang&#34; title=&#34;Pages tagged golang&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;golang&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
+        &lt;span class=&#34;entry-tags&#34;&gt;&lt;a href=&#34;https://stevehemingway.com/tags/#development&#34; title=&#34;Pages tagged development&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;development&lt;/span&gt;&lt;/a&gt;&lt;a href=&#34;https://stevehemingway.com/tags/#golang&#34; title=&#34;Pages tagged golang&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;golang&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
         
         
         &lt;div class=&#34;social-share&#34;&gt;
@@ -749,194 +770,13 @@ end
 
 &lt;script src=&#34;//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js&#34;&gt;&lt;/script&gt;
 &lt;script&gt;window.jQuery || document.write(&#39;&lt;script src=&#34;\/js\/vendor\/jquery-1.9.1.min.js&#34;&gt;&lt;\/script&gt;&#39;)&lt;/script&gt;
-&lt;script src=&#34;https://stevehemingway.github.io/js/scripts.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://stevehemingway.com/js/scripts.min.js&#34;&gt;&lt;/script&gt;
 
 
 
 &lt;/body&gt;
 &lt;/html&gt;
 
-</description>
-    </item>
-    
-    <item>
-      <title>Theme Setup</title>
-      <link>https://stevehemingway.github.io/techie_stuff/theme-setup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/techie_stuff/theme-setup/</guid>
-      <description>
-
-&lt;p&gt;This is a port of the &lt;strong&gt;HPSTR&lt;/strong&gt; theme to &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt;. This theme is perfect for bloggers.&lt;/p&gt;
-
-&lt;h2 id=&#34;get-the-theme&#34;&gt;Get the theme&lt;/h2&gt;
-
-&lt;p&gt;With Git installed, run the following commands inside the Hugo site folder. If Hugo has not yet been installed, read the setup guide &lt;a href=&#34;https://gohugo.io/overview/installing/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;$ mkdir themes
-$ cd themes
-$ git clone https://github.com/dldx/hpstr-hugo-theme.git hpstr
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;You can get a zip of the latest version of the theme from the &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme&#34;&gt;home page&lt;/a&gt; and extract it to the themes folder.&lt;/p&gt;
-
-&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
-
-&lt;p&gt;Next, you need to configure your site and add some content. We provide a complete example site under the folder &lt;code&gt;exampleSite&lt;/code&gt;. All you need to do is copy the contents of that folder into the main hugo site folder so that it looks something like this:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo-website
-├── config.toml
-├── content
-│   └── posts
-├── data
-├── static
-│   ├── assets
-│   │   ├── css
-│   │   ├── fonts
-│   │   └── js
-│   │       ├── plugins
-│   │       └── vendor
-│   └── images
-└── themes
-    └── hpstr
-        ├── archetypes
-        ├── layouts
-        │   ├── _default
-        │   └── partials
-        └── static
-            ├── css
-            │   └── _sass
-            │       └── vendor
-            │           ├── font-awesome
-            │           └── magnific-popup
-            ├── fonts
-            └── js
-                ├── plugins
-                └── vendor
-
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;This should be enough to get a working website!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;running-hugo&#34;&gt;Running Hugo&lt;/h2&gt;
-
-&lt;p&gt;To serve the site while you write posts, simply run &lt;code&gt;hugo server&lt;/code&gt; in the base folder. You can now edit and make new posts, which will show up instantly. To render a permanent site, run &lt;code&gt;hugo&lt;/code&gt; on its own.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;configuration&#34;&gt;Configuration&lt;/h2&gt;
-
-&lt;h3 id=&#34;disqus-comments&#34;&gt;Disqus Comments&lt;/h3&gt;
-
-&lt;p&gt;Create a &lt;a href=&#34;http://disqus.com&#34;&gt;Disqus&lt;/a&gt; account and change &lt;code&gt;disqusShortname&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; to the Disqus &lt;em&gt;shortname&lt;/em&gt; you just setup. By default comments appear on all post and pages if you assigned a shortname. Note that comments won&amp;rsquo;t generally load when you are running the server locally. To disable commenting on a post or page, add the following to its YAML Front Matter:&lt;/p&gt;
-comments: false
-
-&lt;h3 id=&#34;social-share-links&#34;&gt;Social Share Links&lt;/h3&gt;
-
-&lt;p&gt;To disable Facebook, Twitter, and Google+ share links on a post or page, add the following to its front matter:&lt;/p&gt;
-share: false
-
-&lt;h3 id=&#34;owner-author-information&#34;&gt;Owner/Author Information&lt;/h3&gt;
-
-&lt;p&gt;Change your name, and avatar photo (200x200 pixels or larger), email, and social networking URLs in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;To add a copyright string to the footer, add &lt;code&gt;copyright = &amp;quot;(c) Blah&amp;quot;&lt;/code&gt; to &lt;code&gt;config.toml&lt;/code&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;google-analytics-and-webmaster-tools&#34;&gt;Google Analytics and Webmaster Tools&lt;/h3&gt;
-
-&lt;p&gt;To add Google Analytics, you may add your tracking id to &lt;code&gt;config.toml&lt;/code&gt;:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;googleAnalytics = &amp;quot;UA-123-45&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h3 id=&#34;navigation-links&#34;&gt;Navigation Links&lt;/h3&gt;
-
-&lt;p&gt;To add additional links in the drop down menu edit &lt;code&gt;data/navigation.toml&lt;/code&gt;. Use the following format to set the URL and title for as many links as you&amp;rsquo;d like. &lt;em&gt;External links will open in a new window.&lt;/em&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;[[links]]
-title = &amp;quot;Theme Setup&amp;quot;
-url = &amp;quot;/theme-setup/&amp;quot;
-
-[[links]]
-title = &amp;quot;External Link&amp;quot;
-url = &amp;quot;http://mademistakes.com&amp;quot;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;adding-new-content&#34;&gt;Adding New Content&lt;/h2&gt;
-
-&lt;p&gt;Posts are stored in the &lt;code&gt;content&lt;/code&gt; directory. By default, only content in the &lt;code&gt;content/posts&lt;/code&gt; will show up in the &lt;code&gt;All Posts&lt;/code&gt; section, however, you can link to other sections manually. For example, if you create a post at &lt;code&gt;gallery/photo1.md&lt;/code&gt;, your post will appear both under the home page and under &lt;code&gt;/gallery&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;By the way, Hugo has a shortcut for creating new posts: &lt;code&gt;hugo new gallery/photo1.md&lt;/code&gt;. See &lt;code&gt;hugo new --help&lt;/code&gt; for more details.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;feature-images&#34;&gt;Feature Images&lt;/h3&gt;
-
-&lt;p&gt;A good rule of thumb is to keep feature images nice and wide so you don&amp;rsquo;t push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices.&lt;/p&gt;
-
-&lt;p&gt;To add a feature image to a post or page just include the filename in the front matter like so.&lt;/p&gt;
-image:
-  feature: /images/feature-image-filename.jpg
-  thumb: thumbnail-image.jpg #keep it square 200x200 px is good
-
-&lt;p&gt;If you want to apply attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source.&lt;/p&gt;
-image:
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
-
-&lt;p&gt;By default the &lt;code&gt;&amp;lt;div&amp;gt;&lt;/code&gt; containing feature images is set to have a minimum height of 400px with CSS. Anything taller is hidden with an &lt;code&gt;overflow: hidden&lt;/code&gt; declaration. You can customize the height of the homepage feature image and those appearing on posts/pages by modifying the following variables in &lt;code&gt;/static/css/_sass/_variables.scss&lt;/code&gt;.&lt;/p&gt;
-$feature-image-height: 400px; // min 150px recommended
-$front-page-feature-image-height: 400px; // min 150px recommended
-
-&lt;h4 id=&#34;post-page-thumbnails-for-og-and-twitter-cards&#34;&gt;Post/Page Thumbnails for OG and Twitter Cards&lt;/h4&gt;
-
-&lt;p&gt;Post and page thumbnails work the same way. These are used by &lt;a href=&#34;https://developers.facebook.com/docs/opengraph/&#34;&gt;Open Graph&lt;/a&gt; and &lt;a href=&#34;https://dev.twitter.com/docs/cards&#34;&gt;Twitter Cards&lt;/a&gt; meta tags found in &lt;code&gt;partials/twitter-og-cards.html&lt;/code&gt;. If you don&amp;rsquo;t assign a thumbnail the image you assigned to &lt;code&gt;params.author.avatar&lt;/code&gt; in &lt;code&gt;config.toml&lt;/code&gt; will be used.&lt;/p&gt;
-
-&lt;p&gt;Here&amp;rsquo;s an example of what a tweet to your site could look like if you activate Twitter Cards and include all the metas in your post&amp;rsquo;s YAML.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://stevehemingway.github.io/images/twitter-card-summary-large-image.jpg&#34; alt=&#34;Twitter Card summary large image screenshot&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Twitter cards make it possible to attach images and post summaries to Tweets that link to your content. Summary Card meta tags have been added to &lt;code&gt;head.html&lt;/code&gt; to support this, you just need to &lt;a href=&#34;https://dev.twitter.com/docs/cards&#34;&gt;validate and apply your domain&lt;/a&gt; to turn it on.&lt;/p&gt;
-
-&lt;h3 id=&#34;videos&#34;&gt;Videos&lt;/h3&gt;
-
-&lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;further-customization&#34;&gt;Further Customization&lt;/h2&gt;
-
-&lt;p&gt;By editing values found in &lt;code&gt;static/css/_sass/variables.scss&lt;/code&gt; you can fine tune the site&amp;rsquo;s colors and typography. You will need a &lt;a href=&#34;http://sass-lang.com&#34;&gt;sass processor&lt;/a&gt; to render the files to css.&lt;/p&gt;
-
-&lt;p&gt;For example if you wanted a red background instead of white you&amp;rsquo;d change &lt;code&gt;$bodycolor: #fff;&lt;/code&gt; to &lt;code&gt;$bodycolor: $cc0033;&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note from dldx: I haven&amp;rsquo;t changed the Gruntfile to work for hugo yet. If anyone would like to submit a PR, feel free! :) The following is just the original documentation for this theme&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;To modify the site&amp;rsquo;s JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into &lt;code&gt;scripts.min.js&lt;/code&gt;. &lt;a href=&#34;http://nodejs.org/&#34;&gt;Install Node.js&lt;/a&gt;, then &lt;a href=&#34;http://gruntjs.com/getting-started&#34;&gt;install Grunt&lt;/a&gt;, and then finally install the dependencies for the theme contained in &lt;code&gt;package.json&lt;/code&gt;:&lt;/p&gt;
-npm install
-
-&lt;p&gt;From the theme&amp;rsquo;s root, use &lt;code&gt;grunt&lt;/code&gt; to concatenate JavaScript files and optimize &lt;code&gt;.jpg&lt;/code&gt;, &lt;code&gt;.png&lt;/code&gt; and &lt;code&gt;.svg&lt;/code&gt; files in the &lt;code&gt;images/&lt;/code&gt; folder.&lt;/p&gt;
-
-&lt;p&gt;You can also use &lt;code&gt;grunt dev&lt;/code&gt; in combination with &lt;code&gt;bundle exec jekyll serve&lt;/code&gt; to watch for updates in JS files that Grunt will then automatically re-build as you write your code, which will in turn auto-generate your Jekyll site when developing locally.&lt;/p&gt;
-
-&lt;p&gt;For more information on how to configure Hugo or content, check out the &lt;a href=&#34;https://gohugo.io/overview/introduction/&#34;&gt;Hugo documentation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;questions&#34;&gt;Questions?&lt;/h2&gt;
-
-&lt;p&gt;Having a problem getting something to work or want to know why I setup something in a certain way? You can contact me on &lt;a href=&#34;https://github.com/dldx&#34;&gt;github&lt;/a&gt; or &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme/issues/new&#34;&gt;file a GitHub Issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme/blob/master/LICENSE.md&#34;&gt;MIT License&lt;/a&gt; version 2 or later. So feel free to to modify this theme to suit your needs.&lt;/p&gt;
 </description>
     </item>
     

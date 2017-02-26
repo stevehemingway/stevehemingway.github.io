@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/categories/golang/index.xml</link>
-    <description>Recent content in Golang on Steve Hemingway</description>
+    <title>Golang on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/categories/golang/index.xml</link>
+    <description>Recent content in Golang on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/categories/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>March Newsletter</title>
-      <link>https://stevehemingway.github.io/posts/March_Newsletter/</link>
+      <link>https://stevehemingway.com/posts/March_Newsletter/</link>
       <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/March_Newsletter/</guid>
+      <guid>https://stevehemingway.com/posts/March_Newsletter/</guid>
       <description>&lt;p&gt;&lt;strong&gt;NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;In the penultimate meeting of NHDC for the current civic year, the budget for &lt;sup&gt;2017&lt;/sup&gt;&amp;frasl;&lt;sub&gt;18&lt;/sub&gt; was agreed.  Further savings were identified, as well as a substantial programme of capital expenditure. The council faces challenging times ahead as it has to contend with dwindling revenues from the New Homes Bonus and from Business Rates.&lt;/p&gt;
@@ -29,29 +30,6 @@
 &lt;p&gt;One of the more controversial policies recently has been the one which applies to community halls owned by the council. The policy has been to lease these to local groups on a &amp;lsquo;repairing and insuring lease&amp;rsquo;. This has put some pressure on some local groups who find that it is difficult to adapt to paying for the costs of maintaining their premises. It does, however, put them on an equal footing with groups in parished areas, like Knebworth. Parishes, such as ours, have always had to bear these costs, especially now capital grants for village halls have largely dried up.&lt;/p&gt;
 
 &lt;p&gt;So, by now you&amp;rsquo;re probably wondering how much your council tax is going to go up in April. The NHDC precept for a Band D property will be £216.96 next year, an increase of £5, an increase of 2.4% in cash terms, close to zero in real terms. Not great, but as low as was reasonably achieveable in the circumstances.  (The rest of your Council Tax is made up of contributions to the County Council, the Police and the Parish Council.) For other Council Tax Bands, see the NHDC website, or just wait for your bill to be delivered.&lt;span id=&#34;header-c48&#34; class=&#34;anchor&#34;&gt;&lt;/span&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Station_Pub</title>
-      <link>https://stevehemingway.github.io/posts/StationPub/</link>
-      <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>
-      
-      <guid>https://stevehemingway.github.io/posts/StationPub/</guid>
-      <description>&lt;p&gt;My experience of the Station Pub in Knebworth is not one that makes me want to go back. The pub is cold, noisy and rarely populated by anyone I know. This is a pity, as it&amp;rsquo;s a very short distance from where I live. A few months ago, word went out that it had been advertised for sale. There were a few discussions about it in the Parish Council, where we decided that we&amp;rsquo;d better apply for it to be listed as an asset of community value. Planning applications to develop a very high density development of flats have been received for the site across the road, which have so far been refused, but eventually will result in some residential development happening. In spite of the fact that this is not something that anyone who lives in the village want to see built.&lt;/p&gt;
-
-&lt;p&gt;On Thursday, heard that the pub had closed its doors, and the staff had been redeployed in other Greene King pubs nearby. A flurry of activity happened, which resulted in:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;a new Twitter account was set up to tweet the latest news about the pub,&lt;/li&gt;
-&lt;li&gt;a new Facebook being set up that rapidly went from zero to around 600 members by the end of the weekend,&lt;/li&gt;
-&lt;li&gt;a new website being created, which has received hundreds of hits,&lt;/li&gt;
-&lt;li&gt;a mailing list being set up to collect pledges and offers to help with a campaign.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;You can see the website &lt;a href=&#34;https://www.stationpub.org.uk&#34;&gt;here&lt;/a&gt;, where you&amp;rsquo;ll find links to all the aspects of the campaign&amp;rsquo;s web presence.&lt;/p&gt;
-
-&lt;p&gt;What is quite astonishing is how rapidly the residents of Knebworth could be alerted to the closing of the pub and the existence of a campaign to save it. I have always been an advocate of local politicians using social media, usually in the face of extreme skepticism from the assembled company. Although I&amp;rsquo;d like to think that this example would persuade them of the effectiveness of the web, my experience is that people can be very obdurate in their views.&lt;/p&gt;
 </description>
     </item>
     

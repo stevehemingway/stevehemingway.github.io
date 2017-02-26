@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sample Post on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/tags/sample-post/index.xml</link>
-    <description>Recent content in Sample Post on Steve Hemingway</description>
+    <title>Sample Post on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/tags/sample-post/index.xml</link>
+    <description>Recent content in Sample Post on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/tags/sample-post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/tags/sample-post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post with a Background Image</title>
-      <link>https://stevehemingway.github.io/techie_stuff/background-image/</link>
+      <link>https://stevehemingway.com/techie_stuff/background-image/</link>
       <pubDate>Sat, 26 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/background-image/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/background-image/</guid>
       <description>&lt;p&gt;Here be a sample post with a custom background image. To utilize this &amp;ldquo;feature&amp;rdquo; just add the following YAML to a post&amp;rsquo;s front matter.&lt;/p&gt;
 background: /images/filename.png
 
@@ -27,10 +28,10 @@ background: /images/filename.png
     
     <item>
       <title>Syntax Highlighting Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/code-highlighting-post/</link>
       <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/code-highlighting-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/code-highlighting-post/</guid>
       <description>
 
 &lt;p&gt;Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a rel=&#34;footnote&#34; href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -134,20 +135,20 @@ end
     
     <item>
       <title>Sample Link Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-link-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-link-post/</link>
       <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-link-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-link-post/</guid>
       <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Post with a Video</title>
-      <link>https://stevehemingway.github.io/techie_stuff/video-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/video-post/</link>
       <pubDate>Tue, 25 Jun 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/video-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/video-post/</guid>
       <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/SU3kYxJmWuQ&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Video embeds are responsive and scale with the width of the main content block with the help of &lt;a href=&#34;http://fitvidsjs.com/&#34;&gt;FitVids&lt;/a&gt;.&lt;/p&gt;
@@ -157,10 +158,10 @@ end
     
     <item>
       <title>Post with Large Feature Image and Text</title>
-      <link>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/readability-feature-post/</link>
       <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/readability-feature-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/readability-feature-post/</guid>
       <description>
 
 &lt;p&gt;This is a sample post with a large feature image up top and tons of text. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -208,10 +209,10 @@ end
     
     <item>
       <title>A Post with Images</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-post-images/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-post-images/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-post-images/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-post-images/</guid>
       <description>
 
 &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -229,8 +230,8 @@ end
 
 &lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
 &lt;figure class=&#34;half&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
 	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -270,10 +271,10 @@ end
     
     <item>
       <title>Testing Readability with a Bunch of Text</title>
-      <link>https://stevehemingway.github.io/techie_stuff/readability-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/readability-post/</link>
       <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/readability-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/readability-post/</guid>
       <description>
 
 &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;
@@ -321,10 +322,10 @@ end
     
     <item>
       <title>Sample Post</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-post/</link>
       <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-post/</guid>
       <description>
 
 &lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
@@ -345,7 +346,7 @@ end
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.github.io/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.com/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
 

@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Council on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/categories/council/index.xml</link>
-    <description>Recent content in Council on Steve Hemingway</description>
+    <title>Council on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/categories/council/index.xml</link>
+    <description>Recent content in Council on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/categories/council/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/categories/council/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Is Twitter the key Social Media Platform?</title>
-      <link>https://stevehemingway.github.io/posts/Twitter/</link>
+      <link>https://stevehemingway.com/posts/Twitter/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/Twitter/</guid>
+      <guid>https://stevehemingway.com/posts/Twitter/</guid>
       <description>
 
 &lt;h2 id=&#34;my-experience-of-the-twittersphere&#34;&gt;My experience of the Twittersphere&lt;/h2&gt;

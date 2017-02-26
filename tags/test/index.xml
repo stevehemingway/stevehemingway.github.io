@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/tags/test/index.xml</link>
-    <description>Recent content in Test on Steve Hemingway</description>
+    <title>Test on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/tags/test/index.xml</link>
+    <description>Recent content in Test on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Post with Images</title>
-      <link>https://stevehemingway.github.io/techie_stuff/sample-post-images/</link>
+      <link>https://stevehemingway.com/techie_stuff/sample-post-images/</link>
       <pubDate>Wed, 22 May 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/sample-post-images/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/sample-post-images/</guid>
       <description>
 
 &lt;p&gt;Here are some examples of what a post with images might look like. If you want to display two or three images next to each other responsively use &lt;code&gt;figure&lt;/code&gt; with the appropriate &lt;code&gt;class&lt;/code&gt;. Each instance of &lt;code&gt;figure&lt;/code&gt; is auto-numbered and displayed in the caption.&lt;/p&gt;
@@ -31,8 +32,8 @@
 
 &lt;p&gt;Apply the &lt;code&gt;half&lt;/code&gt; class like so to display two images side by side that share the same caption.&lt;/p&gt;
 &lt;figure class=&#34;half&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
-	&lt;img src=&#34;https://stevehemingway.github.io/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-1.jpg&#34; alt=&#34;&#34;&gt;
+	&lt;img src=&#34;https://stevehemingway.com/images/image-filename-2.jpg&#34; alt=&#34;&#34;&gt;
 	&lt;figcaption&gt;Caption describing these two images.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -72,10 +73,10 @@
     
     <item>
       <title>Testing Readability with a Bunch of Text</title>
-      <link>https://stevehemingway.github.io/techie_stuff/readability-post/</link>
+      <link>https://stevehemingway.com/techie_stuff/readability-post/</link>
       <pubDate>Tue, 22 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/techie_stuff/readability-post/</guid>
+      <guid>https://stevehemingway.com/techie_stuff/readability-post/</guid>
       <description>
 
 &lt;p&gt;Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90&amp;rsquo;s narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney&amp;rsquo;s. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.&lt;/p&gt;

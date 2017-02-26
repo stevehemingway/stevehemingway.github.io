@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Development on Steve Hemingway</title>
-    <link>https://stevehemingway.github.io/tags/development/index.xml</link>
-    <description>Recent content in Development on Steve Hemingway</description>
+    <title>Development on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/tags/development/index.xml</link>
+    <description>Recent content in Development on Steve Hemingway&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <atom:link href="https://stevehemingway.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/tags/development/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Update on Blog Setup</title>
-      <link>https://stevehemingway.github.io/posts/update_on_blog_setup/</link>
+      <link>https://stevehemingway.com/posts/update_on_blog_setup/</link>
       <pubDate>Fri, 24 Feb 2017 15:02:38 +0000</pubDate>
       
-      <guid>https://stevehemingway.github.io/posts/update_on_blog_setup/</guid>
+      <guid>https://stevehemingway.com/posts/update_on_blog_setup/</guid>
       <description>&lt;p&gt;Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;this page&lt;/a&gt; and this time it kind of worked.&lt;/p&gt;
 
 &lt;p&gt;It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&amp;rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&amp;rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!&lt;/p&gt;
