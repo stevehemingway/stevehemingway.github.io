@@ -168,7 +168,9 @@
 
 <p>Now to add to my blog I create a markdown file, add it to the github pages repo, then git pull it to the dreamhost machine.</p>
 
-<p>As a slight added complication, I run the DNS for this domain on another machine - a digital ocean dropbox, running mail-in-a-box. I discover I have to look in the dreamhost control panel DNS settings for the domain to see what IP address to use for the A record. I can&rsquo;t just use the main (arago) IP address.</p>
+<p>As a slight added complication, I run the DNS for this domain on another machine - a digital ocean dropbox, running mail-in-a-box. I discover I have to look in the dreamhost control panel DNS settings for the domain to see what IP address to use for the A record. I can&rsquo;t just use the main (arago) IP address. This is not entirely straightforward. I had to setup a number of A records: the blog.stevehemingway record and the bare record (@), to different IP addresses. The DNS section of the domain management part the Dreamhost control panel gives the list of DNS records to set up. Having the mail server running on a completely different platform is not a problem: to keep this working, all that is needed is a good set of MX records, which Mail-in-a-box sets up automatically.</p>
+
+<p>This is the sort of thing that makes setting up a website so much messier than it should be, and is the reason that firms like Squarespace will thrive, as they offer a complete, bundled solution for a fixed, modest monthly fee.</p>
 
 <p>Who would have thought that something so simple could be so &hellip;. messy?</p>
 
