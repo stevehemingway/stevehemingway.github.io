@@ -6,23 +6,23 @@
 <head>
 <meta charset="utf-8">
 <title>Update on Blog Setup &#8211; Steve Hemingway&#39;s blog</title>
-<meta name="description" content="">
+<meta name="description" content="update on blog setup ">
 
     
 
-<meta name="keywords" content="Development, golang">
+<meta name="keywords" content="social_media, techie">
 
 
 
 <meta name="twitter:title" content="Update on Blog Setup">
-<meta name="twitter:description" content="The blog of a geek manqué">
+<meta name="twitter:description" content="update on blog setup ">
 
 
 
 
 <meta property="og:type" content="article">
 <meta property="og:title" content="Update on Blog Setup">
-<meta property="og:description" content="The blog of a geek manqué">
+<meta property="og:description" content="update on blog setup ">
 <meta property="og:url" content="https://stevehemingway.com/posts/update_on_blog_setup/">
 <meta property="og:site_name" content="Steve Hemingway&#39;s blog">
 
@@ -49,7 +49,7 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<meta name="generator" content="Hugo 0.18.1" />
+<meta name="generator" content="Hugo 0.19" />
 
 <script src="/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
@@ -124,12 +124,14 @@
         
       <p class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
-        Reading time ~2 minutes
+        Reading time ~3 minutes
     </p>
       </div>
     </header>
     <div class="entry-content">
-      <p>Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on <a href="https://gohugo.io/tutorials/github-pages-blog/">this page</a> and this time it kind of worked.</p>
+      
+
+<p>Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on <a href="https://gohugo.io/tutorials/github-pages-blog/">this page</a> and this time it kind of worked.</p>
 
 <p>It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!</p>
 
@@ -145,9 +147,13 @@
 
 <p>Who would have thought that something so simple could be so &hellip;. messy?</p>
 
+<h2 id="update-on-1-mar">Update on 1 Mar</h2>
+
+<p>I am making headway. You can see the input and the output in the github repositories. My understanding of git has been improving. I now understand that a remote repository wants to be &lsquo;bare&rsquo; - free of working files, so if you want the generated files to appear on a webserver, you should just push them to a remote repository, and run a git pull command on the web server. I think github pages must do that via some sort of chron job, but for me to refresh the site on my droplet, it&rsquo;s easier just to ssh in and run git pull from the command line.</p>
+
       <footer class="entry-meta">
           
-        <span class="entry-tags"><a href="/tags/#development" title="Pages tagged development" class="tag"><span class="term">development</span></a><a href="/tags/#golang" title="Pages tagged golang" class="tag"><span class="term">golang</span></a></span>
+        <span class="entry-tags"><a href="/tags/#social_media" title="Pages tagged social_media" class="tag"><span class="term">social_media</span></a><a href="/tags/#techie" title="Pages tagged techie" class="tag"><span class="term">techie</span></a></span>
         
         
         <div class="social-share">
