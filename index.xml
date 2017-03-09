@@ -23,6 +23,28 @@ The presentation is being made by &lt;a href=&#34;https://remarkablegroup.co.uk/
     </item>
     
     <item>
+      <title>The role of (Local) government</title>
+      <link>https://stevehemingway.com/posts/coase/</link>
+      <pubDate>Wed, 01 Mar 2017 17:43:52 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/posts/coase/</guid>
+      <description>&lt;p&gt;I have been an elected politician for three years now. I have spent a lot of time in meetings, where people have said a lot of things. In some cases they have said the same things over and over but in many cases they have argued for the Council &lt;em&gt;doing&lt;/em&gt; things. In nearly ever case, the focus has been on the benefits of taking the action. The implicit subtext is that this clearly exceeds the cost.&lt;/p&gt;
+
+&lt;p&gt;Most politicians would, if pressed, concede that all actions have a reaction, and, in reality there are very few changes that leave everyone better off. The hope is that the costs are low, and spread widely, and will be offset by one or other of the other actions taken which, cumulatively, leave everyone better off.&lt;/p&gt;
+
+&lt;p&gt;This is not unreasonable. we discuss many policies which cost very little in financial terms. A grant of &amp;pound;1,000 will cost the average person in the District less than a penny. It seems obvious that the average person would simply never notice such a cost. The gratitude and clear benefits to the recipient are, however, very clear to the grant committee. The argument hardly needs to be made that the award is worthwhile.&lt;/p&gt;
+
+&lt;p&gt;From an empathetic point of view, this is the right thing to do. But a quiet voice in my head keeps telling me that the resources that those 100,000 pennies represent have been diverted from what the producers of them would have chosen, to a charity that most of them have never heard of. Maybe if they had spent the time understanding the good work done by the organisers of this charity, they would have come to the same conclusion that we did. By examining the application, the constitution of the charity, the record of good work that it has done, we have saved countless hours of due diligence that could never have been justified if they were each considering dropping just a single penny in a collecting tin.&lt;/p&gt;
+
+&lt;p&gt;This is the argument made by Ronald Coase. That the practicalities of atomised decision making, are such that it makes eminent sense to delegate to a small group who can then arrange the joint purchase of services that in the absence of all the frictional forces operating in the real economy would have been impractical to agree.&lt;/p&gt;
+
+&lt;p&gt;The District Council collects household waste, and arranges for it to be disposed of. Every household may avail itself of this service. The cost is very modest. Private contractors would probably spring up if this service were not offered by the Council, and householders would, in most cases, sign up with one or other of the private contractors. Although I believe that capitalism is an incredibly efficient mechanism for supplying many goods and services, I acknowledge that it is very unlikely that households would save money.&lt;/p&gt;
+
+&lt;p&gt;There are certainly problems with local or central governments providing services. One of the biggest is the difficulty in innovating, especially when consumers no longer have the incentive to adapt their own behaviours to enable more cost effective delivery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>About Steve Hemingway</title>
       <link>https://stevehemingway.com/about/</link>
       <pubDate>Sun, 26 Feb 2017 16:03:49 +0000</pubDate>
@@ -30,15 +52,13 @@ The presentation is being made by &lt;a href=&#34;https://remarkablegroup.co.uk/
       <guid>https://stevehemingway.com/about/</guid>
       <description>
 
-&lt;h1 id=&#34;about-this-website&#34;&gt;About this website&lt;/h1&gt;
+&lt;h1 id=&#34;about-steve&#34;&gt;About Steve&lt;/h1&gt;
 
 &lt;p&gt;This is my latest corner of the web.&lt;/p&gt;
 
-&lt;p&gt;I used to have a blog at Tumblr. The &lt;a href=&#34;http://stevehemingway.tumblr.com/&#34;&gt;old posts&lt;/a&gt; are still there, but I won&amp;rsquo;t be adding to them. I generally don&amp;rsquo;t see promoted posts in my browser, and I wasn&amp;rsquo;t aware that my genuine posts were interspersed with promoted ones suggesting that people should check to see if they were due mis-sold PPI and the like.&lt;/p&gt;
+&lt;p&gt;I used to have a blog at Tumblr. The &lt;a href=&#34;http://stevehemingway.tumblr.com/&#34;&gt;old posts&lt;/a&gt; are still there. Tumblr has a lot going for it: spectacular free templates with all sorts of clever effects, the ability to auto tweet and auto post to Facebook. The problem is that there is no such thing as a free lunch. I don’t mind advertising when it is for things sane people might want to buy. The problem is that, increasingly, legitimate advertisers have come to realise that online advertising doesn’t generate increased sales, at least not enough to cover the cost of it. The end result is only people seeking to prey on the vulnerable find it profitable to advertise on social media. The problem is particularly acute, because advertisements are increasingly indistinguishable from my genuine content, resulting in readers assuming that I endorse products that horrify me.&lt;/p&gt;
 
-&lt;p&gt;This is a price which is too much, especially as there are many free alternatives. I am hosting this both on my own mail server on digital ocean and on github pages, which is entirely free. I probably will drop the github pages hosting once I get comfortable with the Digital Ocean offering.&lt;/p&gt;
-
-&lt;p&gt;I have various social media accounts. I&amp;rsquo;ll sort out some links to them eventually.&lt;/p&gt;
+&lt;p&gt;The source code for this website can all be examined at &lt;a href=&#34;https://www.github.com&#34;&gt;github&lt;/a&gt;. I haven’t given a link to the actual source because if you cannot find it easily you’re unlikely to find it of much interest. Git, and sites like github and bitbucket are wonderful things. If you are remotely interested in geeky things, I strongly suggest that you take a look at them.&lt;/p&gt;
 </description>
     </item>
     
@@ -48,7 +68,9 @@ The presentation is being made by &lt;a href=&#34;https://remarkablegroup.co.uk/
       <pubDate>Fri, 24 Feb 2017 15:02:38 +0000</pubDate>
       
       <guid>https://stevehemingway.com/posts/update_on_blog_setup/</guid>
-      <description>&lt;p&gt;Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;this page&lt;/a&gt; and this time it kind of worked.&lt;/p&gt;
+      <description>
+
+&lt;p&gt;Git submodules are still a bit of a mystery to me, but I yet again followed the instructions on &lt;a href=&#34;https://gohugo.io/tutorials/github-pages-blog/&#34;&gt;this page&lt;/a&gt; and this time it kind of worked.&lt;/p&gt;
 
 &lt;p&gt;It finally dawned on me that git push and pull link a local work tree to a remote repository. You can&amp;rsquo;t run a web server on the remote machine, point it at the repository, and expect it to serve web pages, even though that&amp;rsquo;s what the repository (possibly) contains. Git gurus, stop rolling your eyes!&lt;/p&gt;
 
@@ -63,6 +85,10 @@ The presentation is being made by &lt;a href=&#34;https://remarkablegroup.co.uk/
 &lt;p&gt;This is the sort of thing that makes setting up a website so much messier than it should be, and is the reason that firms like Squarespace will thrive, as they offer a complete, bundled solution for a fixed, modest monthly fee.&lt;/p&gt;
 
 &lt;p&gt;Who would have thought that something so simple could be so &amp;hellip;. messy?&lt;/p&gt;
+
+&lt;h2 id=&#34;update-on-1-mar&#34;&gt;Update on 1 Mar&lt;/h2&gt;
+
+&lt;p&gt;I am making headway. You can see the input and the output in the github repositories. My understanding of git has been improving. I now understand that a remote repository wants to be &amp;lsquo;bare&amp;rsquo; - free of working files, so if you want the generated files to appear on a webserver, you should just push them to a remote repository, and run a git pull command on the web server. I think github pages must do that via some sort of chron job, but for me to refresh the site on my droplet, it&amp;rsquo;s easier just to ssh in and run git pull from the command line.&lt;/p&gt;
 </description>
     </item>
     
@@ -464,140 +490,6 @@ end
 &lt;p&gt;Occupy et selvage squid, pug brunch blog nesciunt hashtag mumblecore skateboard yr kogi. Ugh small batch swag four loko. Fap post-ironic qui tote bag farm-to-table american apparel scenester keffiyeh vero, swag non pour-over gentrify authentic pitchfork. Schlitz scenester lo-fi voluptate, tote bag irony bicycle rights pariatur vero Vice freegan wayfarers exercitation nisi shoreditch. Chambray tofu vero sed. Street art swag literally leggings, Cosby sweater mixtape PBR lomo Banksy non in pitchfork ennui McSweeney&amp;rsquo;s selfies. Odd Future Banksy non authentic.&lt;/p&gt;
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sample Post</title>
-      <link>https://stevehemingway.com/techie_stuff/sample-post/</link>
-      <pubDate>Thu, 10 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.com/techie_stuff/sample-post/</guid>
-      <description>
-
-&lt;p&gt;Below is just about everything you&amp;rsquo;ll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.&lt;/p&gt;
-
-&lt;h1 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h1&gt;
-
-&lt;h2 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h2&gt;
-
-&lt;h3 id=&#34;heading-3&#34;&gt;Heading 3&lt;/h3&gt;
-
-&lt;h4 id=&#34;heading-4&#34;&gt;Heading 4&lt;/h4&gt;
-
-&lt;h5 id=&#34;heading-5&#34;&gt;Heading 5&lt;/h5&gt;
-
-&lt;h6 id=&#34;heading-6&#34;&gt;Heading 6&lt;/h6&gt;
-
-&lt;h3 id=&#34;body-text&#34;&gt;Body text&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#34;Smithsonian Image&#34; src=&#34;https://stevehemingway.com/images/3953273590_704e3899d5_m.jpg&#34; style=&#34;float: right;&#34;/&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H&lt;sub&gt;2&lt;/sub&gt;O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times &lt;cite&gt;(That’s a citation)&lt;/cite&gt;. &lt;u&gt;Underline&lt;/u&gt;. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
-
-&lt;p&gt;HTML and &lt;abbr title=&#34;cascading stylesheets&#34;&gt;CSS&lt;abbr&gt; are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.&lt;/p&gt;
-
-&lt;h3 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;list-types&#34;&gt;List Types&lt;/h2&gt;
-
-&lt;h3 id=&#34;ordered-lists&#34;&gt;Ordered Lists&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Item one
-
-&lt;ol&gt;
-&lt;li&gt;sub item one&lt;/li&gt;
-&lt;li&gt;sub item two&lt;/li&gt;
-&lt;li&gt;sub item three&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;unordered-lists&#34;&gt;Unordered Lists&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Item one&lt;/li&gt;
-&lt;li&gt;Item two&lt;/li&gt;
-&lt;li&gt;Item three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;tables&#34;&gt;Tables&lt;/h2&gt;
-
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Header1&lt;/th&gt;
-&lt;th align=&#34;center&#34;&gt;Header2&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Header3&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;cell4&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;cell5&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;cell6&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;Foot1&lt;/td&gt;
-&lt;td align=&#34;center&#34;&gt;Foot2&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;Foot3&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&#34;code-snippets&#34;&gt;Code Snippets&lt;/h2&gt;
-
-&lt;p&gt;Syntax highlighting via Rouge&lt;/p&gt;
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-
-&lt;p&gt;Non Pygments code example&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;&amp;lt;div id=&amp;quot;awesome&amp;quot;&amp;gt;
-    &amp;lt;p&amp;gt;This is great isn&#39;t it?&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;h2 id=&#34;buttons&#34;&gt;Buttons&lt;/h2&gt;
-
-&lt;p&gt;Make any link standout more when applying the &lt;code&gt;.btn&lt;/code&gt; class.&lt;/p&gt;
-&lt;a href=&#34;#&#34; class=&#34;btn btn-success&#34;&gt;Success Button&lt;/a&gt;
-
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn&#34;&gt;Primary Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-success&#34;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-warning&#34;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-danger&#34;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
-&lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-info&#34;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
 </description>
     </item>
     
