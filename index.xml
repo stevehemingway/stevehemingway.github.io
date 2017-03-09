@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Steve Hemingway 2017</copyright>
-    <lastBuildDate>Sun, 26 Feb 2017 16:03:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2017 15:36:40 +0000</lastBuildDate>
     <atom:link href="https://stevehemingway.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Redevelopment of Chas Lowe Site</title>
+      <link>https://stevehemingway.com/posts/chas_lowe/</link>
+      <pubDate>Thu, 09 Mar 2017 15:36:40 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/posts/chas_lowe/</guid>
+      <description>&lt;p&gt;As you may be aware, Chas Lowes site has been sold and the shop will be closing at the end of this month.  Mccarthy and Stone have purchased the site and will be giving an open presentation of their &amp;lsquo;proposes Plan&amp;rsquo; on the 28th of March in Trinity Church between noon and 7:30pm.
+If you have views on how you would like to see the site developed, please do attend.
+The presentation is being made by &lt;a href=&#34;https://remarkablegroup.co.uk/&#34;&gt;The Remarkable Group&lt;/a&gt; who are handling the PR for McCarthy and Stone.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>About Steve Hemingway</title>
@@ -586,197 +598,6 @@ end
 &lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-warning&#34;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
 &lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-danger&#34;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
 &lt;div markdown=&#34;0&#34;&gt;&lt;a href=&#34;#&#34; class=&#34;btn btn-info&#34;&gt;Info Button&lt;/a&gt;&lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://stevehemingway.com/posts/first_post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.com/posts/first_post/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;!--[if lt IE 7]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8 lt-ie7&#34; lang=&#34;en&#34;&gt; &lt;![endif]--&gt;
-&lt;!--[if (IE 7)&amp;!(IEMobile)]&gt;&lt;html class=&#34;no-js lt-ie9 lt-ie8&#34; lang=&#34;en&#34;&gt;&lt;![endif]--&gt;
-&lt;!--[if (IE 8)&amp;!(IEMobile)]&gt;&lt;html class=&#34;no-js lt-ie9&#34; lang=&#34;en&#34;&gt;&lt;![endif]--&gt;
-&lt;!--[if gt IE 8]&gt;&lt;!--&gt; &lt;html class=&#34;no-js&#34; lang=&#34;en&#34;&gt;&lt;!--&lt;![endif]--&gt;
-&lt;head&gt;
-&lt;meta charset=&#34;utf-8&#34;&gt;
-&lt;title&gt;first_post &amp;#8211; Steve Hemingway&lt;/title&gt;
-&lt;meta name=&#34;description&#34; content=&#34;&#34;&gt;
-
-    
-
-&lt;meta name=&#34;keywords&#34; content=&#34;Development, golang&#34;&gt;
-
-
-
-&lt;meta name=&#34;twitter:title&#34; content=&#34;first_post&#34;&gt;
-&lt;meta name=&#34;twitter:description&#34; content=&#34;The blog of a geek manqué&#34;&gt;
-
-
-
-
-&lt;meta property=&#34;og:type&#34; content=&#34;article&#34;&gt;
-&lt;meta property=&#34;og:title&#34; content=&#34;first_post&#34;&gt;
-&lt;meta property=&#34;og:description&#34; content=&#34;The blog of a geek manqué&#34;&gt;
-&lt;meta property=&#34;og:url&#34; content=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34;&gt;
-&lt;meta property=&#34;og:site_name&#34; content=&#34;Steve Hemingway&#34;&gt;
-
-
-
-  &lt;meta property=&#34;og:updated_time&#34; content=&#34;2017-02-05T10:12:43&amp;#43;00:00&#34;/&gt;
-
-
-
-
-
-
-&lt;link rel=&#34;canonical&#34; href=&#34;https://stevehemingway.github.io/content/posts/first_post/&#34;&gt;
-
-
-&lt;meta name=&#34;HandheldFriendly&#34; content=&#34;True&#34;&gt;
-&lt;meta name=&#34;MobileOptimized&#34; content=&#34;320&#34;&gt;
-&lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1.0&#34;&gt;
-
-
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://stevehemingway.com/css/main.css&#34;&gt;
-
-&lt;link href=&#34;//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic&#34; rel=&#34;stylesheet&#34; type=&#34;text/css&#34;&gt;
-
-&lt;meta http-equiv=&#34;cleartype&#34; content=&#34;on&#34;&gt;
-
-&lt;meta name=&#34;generator&#34; content=&#34;Hugo 0.18.1&#34; /&gt;
-
-&lt;script src=&#34;https://stevehemingway.com/js/vendor/modernizr-2.6.2.custom.min.js&#34;&gt;&lt;/script&gt;
-
-
-&lt;link rel=&#34;shortcut icon&#34; href=&#34;https://stevehemingway.com/favicon.png&#34;&gt;
-
-
-&lt;/head&gt;
-
-&lt;body id=&#34;post&#34; &gt;
-&lt;nav id=&#34;dl-menu&#34; class=&#34;dl-menuwrapper&#34; role=&#34;navigation&#34;&gt;
-	&lt;button class=&#34;dl-trigger&#34;&gt;Open Menu&lt;/button&gt;
-	&lt;ul class=&#34;dl-menu&#34;&gt;
-		&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/&#34;&gt;Home&lt;/a&gt;&lt;/li&gt;
-		&lt;li&gt;
-			&lt;a href=&#34;#&#34;&gt;About&lt;/a&gt;
-			&lt;ul class=&#34;dl-submenu&#34;&gt;
-			
-				&lt;li&gt;
-					
-					&lt;img src=&#34;https://stevehemingway.com/images/steve.jpg&#34; alt=&#34;Steve&#39;s photo&#34; class=&#34;author-photo&#34;&gt;
-					
-					&lt;h4&gt;Steve&lt;/h4&gt;
-					&lt;p&gt;Chemist, physicist, programmer, quant, family man&lt;/p&gt;
-				&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/about/&#34;&gt;&lt;span class=&#34;btn btn-inverse&#34;&gt;Learn More&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-				
-				
-				
-				
-				
-				&lt;li&gt;
-					&lt;a href=&#34;https://github.com/stevehemingway/myblog-hugo&#34;&gt;&lt;i class=&#34;fa fa-fw fa-github&#34;&gt;&lt;/i&gt; GitHub&lt;/a&gt;
-				&lt;/li&gt;
-				
-				
-				
-				
-			
-			&lt;/ul&gt;
-		&lt;/li&gt;
-		&lt;li&gt;
-			&lt;a href=&#34;#&#34;&gt;Posts&lt;/a&gt;
-			&lt;ul class=&#34;dl-submenu&#34;&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/posts/&#34;&gt;All Posts&lt;/a&gt;&lt;/li&gt;
-				&lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/tags/&#34;&gt;All Tags&lt;/a&gt;&lt;/li&gt;
-			&lt;/ul&gt;
-		&lt;/li&gt;
-		
-	    &lt;li&gt;&lt;a href=&#34;https://stevehemingway.com/theme-setup/&#34; &gt;Theme Setup&lt;/a&gt;&lt;/li&gt;
-	  
-	    &lt;li&gt;&lt;a href=&#34;http://mademistakes.com&#34; target=&#34;_blank&#34;&gt;External Link&lt;/a&gt;&lt;/li&gt;
-	  
-	&lt;/ul&gt;
-&lt;/nav&gt;
-
- 
-
-&lt;div id=&#34;main&#34; role=&#34;main&#34;&gt;
-  &lt;article class=&#34;hentry&#34;&gt;
-    &lt;header class=&#34;header-title&#34;&gt;
-      &lt;div class=&#34;header-title-wrap&#34;&gt;
-        
-          &lt;h1 class=&#34;entry-title&#34;&gt;&lt;a href=&#34;https://stevehemingway.com/content/posts/first_post/&#34; rel=&#34;bookmark&#34; title=&#34;first_post&#34;&gt;first_post&lt;/a&gt;&lt;/h1&gt;
-        
-         
-        &lt;h2&gt;&lt;span class=&#34;entry-date date published&#34;&gt;&lt;time datetime=&#34;2017-02-05 10:12:43 &amp;#43;0000 UTC&#34;&gt;February 5, 2017&lt;/time&gt;&lt;/span&gt;&lt;/h2&gt;
-        
-      &lt;p class=&#34;entry-reading-time&#34;&gt;
-        &lt;i class=&#34;fa fa-clock-o&#34;&gt;&lt;/i&gt;
-        Reading time ~1 minute
-    &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/header&gt;
-    &lt;div class=&#34;entry-content&#34;&gt;
-      
-      &lt;footer class=&#34;entry-meta&#34;&gt;
-          
-        &lt;span class=&#34;entry-tags&#34;&gt;&lt;a href=&#34;https://stevehemingway.com/tags/#development&#34; title=&#34;Pages tagged development&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;development&lt;/span&gt;&lt;/a&gt;&lt;a href=&#34;https://stevehemingway.com/tags/#golang&#34; title=&#34;Pages tagged golang&#34; class=&#34;tag&#34;&gt;&lt;span class=&#34;term&#34;&gt;golang&lt;/span&gt;&lt;/a&gt;&lt;/span&gt;
-        
-        
-        &lt;div class=&#34;social-share&#34;&gt;
-  &lt;ul class=&#34;socialcount socialcount-small inline-list&#34;&gt;
-    &lt;li class=&#34;facebook&#34;&gt;&lt;a href=&#34;https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Facebook&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-facebook-square&#34;&gt;&lt;/i&gt; Like&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&#34;twitter&#34;&gt;&lt;a href=&#34;https://twitter.com/intent/tweet?text=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Twitter&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-twitter-square&#34;&gt;&lt;/i&gt; Tweet&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-    &lt;li class=&#34;googleplus&#34;&gt;&lt;a href=&#34;https://plus.google.com/share?url=https%3a%2f%2fstevehemingway.github.io%2fcontent%2fposts%2ffirst_post%2f&#34; target=&#34;_blank&#34; title=&#34;Share on Google Plus&#34;&gt;&lt;span class=&#34;count&#34;&gt;&lt;i class=&#34;fa fa-google-plus-square&#34;&gt;&lt;/i&gt; +1&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-      &lt;/footer&gt;
-    &lt;/div&gt;
-    
-    &lt;section id=&#34;disqus_thread&#34;&gt;&lt;div id=&#34;disqus_thread&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34;&gt;
-
-(function() {
-    
-    
-    if (window.location.hostname == &#34;localhost&#34;)
-        return;
-
-    var dsq = document.createElement(&#39;script&#39;); dsq.type = &#39;text/javascript&#39;; dsq.async = true;
-    var disqus_shortname = &#39;stevehem&#39;;
-    dsq.src = &#39;//&#39; + disqus_shortname + &#39;.disqus.com/embed.js&#39;;
-    (document.getElementsByTagName(&#39;head&#39;)[0] || document.getElementsByTagName(&#39;body&#39;)[0]).appendChild(dsq);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&#34;http://disqus.com/?ref_noscript&#34;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;a href=&#34;http://disqus.com/&#34; class=&#34;dsq-brlink&#34;&gt;comments powered by &lt;span class=&#34;logo-disqus&#34;&gt;Disqus&lt;/span&gt;&lt;/a&gt;
-&lt;/section&gt;
-    
-  &lt;/article&gt;
-&lt;/div&gt;
-
-&lt;div class=&#34;footer-wrapper&#34;&gt;
-  &lt;footer role=&#34;contentinfo&#34;&gt;
-    &lt;span&gt; Powered by &lt;a href=&#34;https://gohugo.io/&#34; rel=&#34;nofollow&#34;&gt;Hugo&lt;/a&gt; using the &lt;a href=&#34;https://github.com/dldx/hpstr-hugo-theme&#34; rel=&#34;nofollow&#34;&gt;HPSTR&lt;/a&gt; theme.&lt;/span&gt;
-
-  &lt;/footer&gt;
-&lt;/div&gt;
-
-&lt;script src=&#34;//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js&#34;&gt;&lt;/script&gt;
-&lt;script&gt;window.jQuery || document.write(&#39;&lt;script src=&#34;\/js\/vendor\/jquery-1.9.1.min.js&#34;&gt;&lt;\/script&gt;&#39;)&lt;/script&gt;
-&lt;script src=&#34;https://stevehemingway.com/js/scripts.min.js&#34;&gt;&lt;/script&gt;
-
-
-
-&lt;/body&gt;
-&lt;/html&gt;
-
 </description>
     </item>
     
