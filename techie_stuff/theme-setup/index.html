@@ -56,7 +56,7 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<meta name="generator" content="Hugo 0.18.1" />
+<meta name="generator" content="Hugo 0.19-DEV" />
 
 <script src="/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
@@ -208,12 +208,14 @@ $ git clone https://github.com/dldx/hpstr-hugo-theme.git hpstr
 <h3 id="disqus-comments">Disqus Comments</h3>
 
 <p>Create a <a href="http://disqus.com">Disqus</a> account and change <code>disqusShortname</code> in <code>config.toml</code> to the Disqus <em>shortname</em> you just setup. By default comments appear on all post and pages if you assigned a shortname. Note that comments won&rsquo;t generally load when you are running the server locally. To disable commenting on a post or page, add the following to its YAML Front Matter:</p>
-comments: false
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #ae81ff">comments</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">false</span>
+</pre></div>
 
 <h3 id="social-share-links">Social Share Links</h3>
 
 <p>To disable Facebook, Twitter, and Google+ share links on a post or page, add the following to its front matter:</p>
-share: false
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #ae81ff">share</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">false</span>
+</pre></div>
 
 <h3 id="owner-author-information">Owner/Author Information</h3>
 
@@ -256,19 +258,22 @@ url = &quot;http://mademistakes.com&quot;
 <p>A good rule of thumb is to keep feature images nice and wide so you don&rsquo;t push the body text too far down. An image cropped around around 1024 x 256 pixels will keep file size down with an acceptable resolution for most devices.</p>
 
 <p>To add a feature image to a post or page just include the filename in the front matter like so.</p>
-image:
-  feature: /images/feature-image-filename.jpg
-  thumb: thumbnail-image.jpg #keep it square 200x200 px is good
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #ae81ff">image</span><span style="color: #f8f8f2">:</span>
+  <span style="color: #ae81ff">feature</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">/images/feature-image-filename.jpg</span>
+  <span style="color: #ae81ff">thumb</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">thumbnail-image.jpg</span> <span style="color: #75715e">#keep it square 200x200 px is good</span>
+</pre></div>
 
 <p>If you want to apply attribution to a feature image use the following YAML front matter on posts or pages. Image credits appear directly below the feature image with a link back to the original source.</p>
-image:
-  feature: feature-image-filename.jpg
-  credit: Michael Rose #name of the person or site you want to credit
-  creditlink: http://mademistakes.com #url to their site or licensing
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #ae81ff">image</span><span style="color: #f8f8f2">:</span>
+  <span style="color: #ae81ff">feature</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">feature-image-filename.jpg</span>
+  <span style="color: #ae81ff">credit</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">Michael Rose</span> <span style="color: #75715e">#name of the person or site you want to credit</span>
+  <span style="color: #ae81ff">creditlink</span><span style="color: #f8f8f2">:</span> <span style="color: #ae81ff">http://mademistakes.com</span> <span style="color: #75715e">#url to their site or licensing</span>
+</pre></div>
 
 <p>By default the <code>&lt;div&gt;</code> containing feature images is set to have a minimum height of 400px with CSS. Anything taller is hidden with an <code>overflow: hidden</code> declaration. You can customize the height of the homepage feature image and those appearing on posts/pages by modifying the following variables in <code>/static/css/_sass/_variables.scss</code>.</p>
-$feature-image-height: 400px; // min 150px recommended
-$front-page-feature-image-height: 400px; // min 150px recommended
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f8f8f2">$feature-image-height</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">400</span><span style="color: #66d9ef">px</span><span style="color: #f8f8f2">;</span> <span style="color: #75715e">// min 150px recommended</span>
+<span style="color: #f8f8f2">$front-page-feature-image-height</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">400</span><span style="color: #66d9ef">px</span><span style="color: #f8f8f2">;</span> <span style="color: #75715e">// min 150px recommended</span>
+</pre></div>
 
 <h4 id="post-page-thumbnails-for-og-and-twitter-cards">Post/Page Thumbnails for OG and Twitter Cards</h4>
 
@@ -295,7 +300,8 @@ $front-page-feature-image-height: 400px; // min 150px recommended
 <p><em>Note from dldx: I haven&rsquo;t changed the Gruntfile to work for hugo yet. If anyone would like to submit a PR, feel free! :) The following is just the original documentation for this theme</em></p>
 
 <p>To modify the site&rsquo;s JavaScript files I setup a Grunt build script to lint/concatenate/minify all scripts into <code>scripts.min.js</code>. <a href="http://nodejs.org/">Install Node.js</a>, then <a href="http://gruntjs.com/getting-started">install Grunt</a>, and then finally install the dependencies for the theme contained in <code>package.json</code>:</p>
-npm install
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span>npm install
+</pre></div>
 
 <p>From the theme&rsquo;s root, use <code>grunt</code> to concatenate JavaScript files and optimize <code>.jpg</code>, <code>.png</code> and <code>.svg</code> files in the <code>images/</code> folder.</p>
 

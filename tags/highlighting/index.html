@@ -52,7 +52,7 @@
 
 <meta http-equiv="cleartype" content="on">
 
-<meta name="generator" content="Hugo 0.18.1" />
+<meta name="generator" content="Hugo 0.19-DEV" />
 
 <script src="/js/vendor/modernizr-2.6.2.custom.min.js"></script>
 
@@ -143,7 +143,7 @@
         
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
-        Reading time ~1 minute
+        Reading time ~2 minutes
       </span>
     </div>
     
@@ -158,36 +158,39 @@
 <h3 id="highlighted-code-blocks">Highlighted Code Blocks</h3>
 
 <p>To modify styling and highlight colors edit <code>/static/css/_sass/_syntax.scss</code>.</p>
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-<nav class="pagination" role="navigation">
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f8f8f2">#container</span> <span style="color: #f8f8f2">{</span>
+    <span style="color: #f8f8f2">float</span><span style="color: #f92672">:</span> <span style="color: #f8f8f2">left;</span>
+    <span style="color: #f8f8f2">margin</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">0</span> <span style="color: #ae81ff">-240px</span> <span style="color: #ae81ff">0</span> <span style="color: #ae81ff">0</span><span style="color: #f8f8f2">;</span>
+    <span style="color: #f8f8f2">width</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">100%</span><span style="color: #f8f8f2">;</span>
+<span style="color: #f8f8f2">}</span>
+</pre></div>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">nav</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;pagination&quot;</span> <span style="color: #a6e22e">role</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;navigation&quot;</span><span style="color: #f8f8f2">&gt;</span>
     {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+        <span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">a</span> <span style="color: #a6e22e">href</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ site.url }}{{ page.previous.url }}&quot;</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;btn&quot;</span> <span style="color: #a6e22e">title</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ page.previous.title }}&quot;</span><span style="color: #f8f8f2">&gt;</span>Previous article<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">a</span><span style="color: #f8f8f2">&gt;</span>
     {% endif %}
     {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+        <span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">a</span> <span style="color: #a6e22e">href</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ site.url }}{{ page.next.url }}&quot;</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;btn&quot;</span> <span style="color: #a6e22e">title</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ page.next.title }}&quot;</span><span style="color: #f8f8f2">&gt;</span>Next article<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">a</span><span style="color: #f8f8f2">&gt;</span>
     {% endif %}
-</nav><!-- /.pagination -->
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '–'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
+<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">nav</span><span style="color: #f8f8f2">&gt;</span><span style="color: #75715e">&lt;!-- /.pagination --&gt;</span>
+</pre></div>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">module</span> <span style="color: #f8f8f2">Jekyll</span>
+  <span style="color: #66d9ef">class</span> <span style="color: #a6e22e">TagIndex</span> <span style="color: #f92672">&lt;</span> <span style="color: #66d9ef">Page</span>
+    <span style="color: #66d9ef">def</span> <span style="color: #a6e22e">initialize</span><span style="color: #f8f8f2">(site,</span> <span style="color: #f8f8f2">base,</span> <span style="color: #f8f8f2">dir,</span> <span style="color: #f8f8f2">tag)</span>
+      <span style="color: #f8f8f2">@site</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span>
+      <span style="color: #f8f8f2">@base</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">base</span>
+      <span style="color: #f8f8f2">@dir</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">dir</span>
+      <span style="color: #f8f8f2">@name</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&#39;index.html&#39;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">process(@name)</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">read_yaml(</span><span style="color: #66d9ef">File</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">join(base,</span> <span style="color: #e6db74">&#39;_layouts&#39;</span><span style="color: #f8f8f2">),</span> <span style="color: #e6db74">&#39;tag_index.html&#39;</span><span style="color: #f8f8f2">)</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">tag</span>
+      <span style="color: #f8f8f2">tag_title_prefix</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">config</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag_title_prefix&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">||</span> <span style="color: #e6db74">&#39;Tagged: &#39;</span>
+      <span style="color: #f8f8f2">tag_title_suffix</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">config</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag_title_suffix&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">||</span> <span style="color: #e6db74">&#39;–&#39;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;title&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&quot;#{</span><span style="color: #f8f8f2">tag_title_prefix</span><span style="color: #e6db74">}#{</span><span style="color: #f8f8f2">tag</span><span style="color: #e6db74">}&quot;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;description&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&quot;An archive of posts tagged #{</span><span style="color: #f8f8f2">tag</span><span style="color: #e6db74">}.&quot;</span>
+    <span style="color: #66d9ef">end</span>
+  <span style="color: #66d9ef">end</span>
+<span style="color: #66d9ef">end</span>
+</pre></div>
 
 <h3 id="standard-code-block">Standard Code Block</h3>
 
@@ -204,36 +207,39 @@ end
 <h3 id="fenced-code-blocks">Fenced Code Blocks</h3>
 
 <p>To modify styling and highlight colors edit <code>/static/css/_sass/_coderay.scss</code>.</p>
-#container {
-    float: left;
-    margin: 0 -240px 0 0;
-    width: 100%;
-}
-<nav class="pagination" role="navigation">
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f8f8f2">#container</span> <span style="color: #f8f8f2">{</span>
+    <span style="color: #f8f8f2">float</span><span style="color: #f92672">:</span> <span style="color: #f8f8f2">left;</span>
+    <span style="color: #f8f8f2">margin</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">0</span> <span style="color: #ae81ff">-240px</span> <span style="color: #ae81ff">0</span> <span style="color: #ae81ff">0</span><span style="color: #f8f8f2">;</span>
+    <span style="color: #f8f8f2">width</span><span style="color: #f92672">:</span> <span style="color: #ae81ff">100%</span><span style="color: #f8f8f2">;</span>
+<span style="color: #f8f8f2">}</span>
+</pre></div>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">nav</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;pagination&quot;</span> <span style="color: #a6e22e">role</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;navigation&quot;</span><span style="color: #f8f8f2">&gt;</span>
     {% if page.previous %}
-        <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
+        <span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">a</span> <span style="color: #a6e22e">href</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ site.url }}{{ page.previous.url }}&quot;</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;btn&quot;</span> <span style="color: #a6e22e">title</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ page.previous.title }}&quot;</span><span style="color: #f8f8f2">&gt;</span>Previous article<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">a</span><span style="color: #f8f8f2">&gt;</span>
     {% endif %}
     {% if page.next %}
-        <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
+        <span style="color: #f8f8f2">&lt;</span><span style="color: #f92672">a</span> <span style="color: #a6e22e">href</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ site.url }}{{ page.next.url }}&quot;</span> <span style="color: #a6e22e">class</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;btn&quot;</span> <span style="color: #a6e22e">title</span><span style="color: #f92672">=</span><span style="color: #e6db74">&quot;{{ page.next.title }}&quot;</span><span style="color: #f8f8f2">&gt;</span>Next article<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">a</span><span style="color: #f8f8f2">&gt;</span>
     {% endif %}
-</nav><!-- /.pagination -->
-module Jekyll
-  class TagIndex < Page
-    def initialize(site, base, dir, tag)
-      @site = site
-      @base = base
-      @dir = dir
-      @name = 'index.html'
-      self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
-      self.data['tag'] = tag
-      tag_title_prefix = site.config['tag_title_prefix'] || 'Tagged: '
-      tag_title_suffix = site.config['tag_title_suffix'] || '–'
-      self.data['title'] = "#{tag_title_prefix}#{tag}"
-      self.data['description'] = "An archive of posts tagged #{tag}."
-    end
-  end
-end
+<span style="color: #f8f8f2">&lt;/</span><span style="color: #f92672">nav</span><span style="color: #f8f8f2">&gt;</span><span style="color: #75715e">&lt;!-- /.pagination --&gt;</span>
+</pre></div>
+<div class="highlight" style="background: #272822"><pre style="line-height: 125%"><span></span><span style="color: #66d9ef">module</span> <span style="color: #f8f8f2">Jekyll</span>
+  <span style="color: #66d9ef">class</span> <span style="color: #a6e22e">TagIndex</span> <span style="color: #f92672">&lt;</span> <span style="color: #66d9ef">Page</span>
+    <span style="color: #66d9ef">def</span> <span style="color: #a6e22e">initialize</span><span style="color: #f8f8f2">(site,</span> <span style="color: #f8f8f2">base,</span> <span style="color: #f8f8f2">dir,</span> <span style="color: #f8f8f2">tag)</span>
+      <span style="color: #f8f8f2">@site</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span>
+      <span style="color: #f8f8f2">@base</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">base</span>
+      <span style="color: #f8f8f2">@dir</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">dir</span>
+      <span style="color: #f8f8f2">@name</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&#39;index.html&#39;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">process(@name)</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">read_yaml(</span><span style="color: #66d9ef">File</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">join(base,</span> <span style="color: #e6db74">&#39;_layouts&#39;</span><span style="color: #f8f8f2">),</span> <span style="color: #e6db74">&#39;tag_index.html&#39;</span><span style="color: #f8f8f2">)</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">tag</span>
+      <span style="color: #f8f8f2">tag_title_prefix</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">config</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag_title_prefix&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">||</span> <span style="color: #e6db74">&#39;Tagged: &#39;</span>
+      <span style="color: #f8f8f2">tag_title_suffix</span> <span style="color: #f92672">=</span> <span style="color: #f8f8f2">site</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">config</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;tag_title_suffix&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">||</span> <span style="color: #e6db74">&#39;–&#39;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;title&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&quot;#{</span><span style="color: #f8f8f2">tag_title_prefix</span><span style="color: #e6db74">}#{</span><span style="color: #f8f8f2">tag</span><span style="color: #e6db74">}&quot;</span>
+      <span style="color: #f8f8f2">self</span><span style="color: #f92672">.</span><span style="color: #f8f8f2">data</span><span style="color: #f92672">[</span><span style="color: #e6db74">&#39;description&#39;</span><span style="color: #f92672">]</span> <span style="color: #f92672">=</span> <span style="color: #e6db74">&quot;An archive of posts tagged #{</span><span style="color: #f8f8f2">tag</span><span style="color: #e6db74">}.&quot;</span>
+    <span style="color: #66d9ef">end</span>
+  <span style="color: #66d9ef">end</span>
+<span style="color: #66d9ef">end</span>
+</pre></div>
 
 <h3 id="github-gist-embed">GitHub Gist Embed</h3>
 
