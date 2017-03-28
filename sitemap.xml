@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://stevehemingway.com/posts/April_newsletter/</loc>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/posts/chas_lowe/</loc>
     <lastmod>2017-03-09T15:36:40+00:00</lastmod>
   </url>
@@ -109,6 +114,10 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/helping/</loc>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/tags/council/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
     <priority>0</priority>
@@ -146,13 +155,13 @@
   
   <url>
     <loc>https://stevehemingway.com/tags/knebworth/</loc>
-    <lastmod>2017-02-21T22:57:46+00:00</lastmod>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/knebworth/</loc>
-    <lastmod>2017-02-13T14:12:17+00:00</lastmod>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -181,6 +190,12 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/categories/newsletter/</loc>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/tags/nhdc/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
     <priority>0</priority>
@@ -199,8 +214,14 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/tags/politics/</loc>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/posts/</loc>
-    <lastmod>2017-03-09T15:36:40+00:00</lastmod>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -213,6 +234,12 @@
   <url>
     <loc>https://stevehemingway.com/tags/sample-post/</loc>
     <lastmod>2013-10-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/tags/social-media/</loc>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -230,7 +257,7 @@
   
   <url>
     <loc>https://stevehemingway.com/</loc>
-    <lastmod>2017-03-09T15:36:40+00:00</lastmod>
+    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -259,10 +286,6 @@
   
   <url>
     <loc>https://stevehemingway.com/techie_stuff/theme-setup/</loc>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/theme-setup/</loc>
   </url>
   
   <url>
