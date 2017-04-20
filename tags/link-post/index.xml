@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link Post on Steve Hemingway&#39;s blog</title>
+    <link>https://stevehemingway.com/tags/link-post/index.xml</link>
+    <description>Recent content in Link Post on Steve Hemingway&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Steve Hemingway 2017</copyright>
+    <atom:link href="https://stevehemingway.com/tags/link-post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sample Link Post</title>
+      <link>https://stevehemingway.com/techie_stuff/sample-link-post/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/techie_stuff/sample-link-post/</guid>
+      <description>&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code&gt;link: http://url-you-want-linked&lt;/code&gt; to the post&amp;rsquo;s YAML front matter and you&amp;rsquo;re done.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
