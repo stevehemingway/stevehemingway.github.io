@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/categories/planning/</link>
+    <description>Recent content in Planning on Steve Hemingway&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Fri, 16 Jun 2017 14:34:30 +0100</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/categories/planning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local Plan Submission</title>
+      <link>https://stevehemingway.com/2017/local-plan-submission/</link>
+      <pubDate>Fri, 16 Jun 2017 14:34:30 +0100</pubDate>
+      
+      <guid>https://stevehemingway.com/2017/local-plan-submission/</guid>
+      <description>Following the meeting and resolutions of Full Council on 11 April 2017, the new Local Plan for North Hertfordshire has now been submitted to the Secretary of State for examination.
+The Planning Inspectorate have advised the Council that Inspector Simon Berkeley BA MA MRTPI has been appointed to conduct the examination. The precise date for the opening of any formal hearing part of the examination into the Local Plan will be decided by the Inspector.</description>
+    </item>
+    
+    <item>
+      <title>Knebworth Parish News, Sept 2014</title>
+      <link>https://stevehemingway.com/2014/september/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/2014/september/</guid>
+      <description>Swangley&amp;rsquo;s Farm Solar PV As you may already be aware, there is a proposal to build a &amp;lsquo;solar farm&amp;rsquo; on one of the fields comprising Swangley&amp;rsquo;s Farm. This will involve covering much of the field with solar panels, fixed on metal frames, installing a container-sized inverter building, and connecting the latter to the grid. The field is at the junction of Swangley&amp;rsquo;s Lane and Baines Lane, at the eastern boundary of the parish, where it borders Datchworth Parish.</description>
+    </item>
+    
+  </channel>
+</rss>

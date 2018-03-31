@@ -1,55 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social_media on Steve Hemingway&#39;s blog</title>
-    <link>https://stevehemingway.com/categories/social_media/index.xml</link>
-    <description>Recent content in Social_media on Steve Hemingway&#39;s blog</description>
+    <title>Social_media on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/categories/social_media/</link>
+    <description>Recent content in Social_media on Steve Hemingway&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2017</copyright>
-    <atom:link href="https://stevehemingway.com/categories/social_media/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 15:28:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/categories/social_media/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Community engagement using Facebook</title>
-      <link>https://stevehemingway.com/posts/facebook_activism/</link>
+      <link>https://stevehemingway.com/2017/facebook_activism/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/facebook_activism/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-station-pub-knebworth&#34;&gt;The Station Pub, Knebworth&lt;/h1&gt;
-
-&lt;p&gt;I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub.
-This is the only pub in the village, and, since it is right in the centre, was very visible.&lt;/p&gt;
-
-&lt;p&gt;I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.&lt;/p&gt;
-
-&lt;p&gt;Today I found that hundreds had already joined, and a further three hundred were queing up to join today.&lt;/p&gt;
-
-&lt;p&gt;The rate of joining this group was astonishing. I am now convinced that mailing lists are comprehensively obsoleted by Facebook.&lt;/p&gt;
-
-&lt;p&gt;Some people do not use FB, but the ease of adding someone to a group is so great that there is no other medium that can work so quickly. The problem is that this only works when the campaign is something that people are seriously affected by, or at least interested in. A cause that nobody cares about much will go nowhere.&lt;/p&gt;
-</description>
+      <guid>https://stevehemingway.com/2017/facebook_activism/</guid>
+      <description>The Station Pub, Knebworth I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub. This is the only pub in the village, and, since it is right in the centre, was very visible.
+I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.
+Today I found that hundreds had already joined, and a further three hundred were queing up to join today.</description>
     </item>
     
     <item>
       <title>Is Twitter the key Social Media Platform?</title>
-      <link>https://stevehemingway.com/posts/Twitter/</link>
+      <link>https://stevehemingway.com/posts/twitter/</link>
       <pubDate>Sun, 05 Feb 2017 10:13:50 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/Twitter/</guid>
-      <description>
-
-&lt;h2 id=&#34;my-experience-of-the-twittersphere&#34;&gt;My experience of the Twittersphere&lt;/h2&gt;
-
-&lt;p&gt;I&amp;rsquo;ve been on Twitter for a long time. Since 2007. From a time before Stephen Fry discovered the medium, and many years before Donald Trump did so. I&amp;rsquo;ve mainly used it passively. I kept my account private, and followed only those authors whose work interested me. A lot of libertarian comment and analysis, some humour, especially the dark side. I have a number of followers, but get virtually no engagement with them. They are either people I follow, and feel that it is only good manners to follow back, or people who somehow have the email address linked to the account in the address book they have handed over to Twitter Inc.&lt;/p&gt;
-
-&lt;p&gt;Although I have never tweeted anything very incendiary, and do not follow anyone I wouldn&amp;rsquo;t want my mother to know I was following, I decided that when I was elected I&amp;rsquo;d better start a new account for the political me. This happened in 2014, and I&amp;rsquo;ve been quietly tweeting since, without much traction.&lt;/p&gt;
-
-&lt;p&gt;Of late I&amp;rsquo;ve decided to integrate a bit more automation, using ifttt.com, and simply linking my Twitter account to a FB page. I&amp;rsquo;d previously auto tweeted from my Tumblr blog, but that never seemed to do any good.&lt;/p&gt;
-
-&lt;p&gt;Anyway, for reasons quite beyond me, my follower numbers seem to be accelerating. The threat to close the Station Pub seems a catalyst. Maybe it&amp;rsquo;s just that my odd retweet is enough to create a sustaining wave. I confess to paying a magnificent £10 to promote one tweet, but I don&amp;rsquo;t think I&amp;rsquo;ll be doing that again in a hurry, as there seems to be no way to localize the audience, in contrast to FB.&lt;/p&gt;
-</description>
+      <guid>https://stevehemingway.com/posts/twitter/</guid>
+      <description>My experience of the Twittersphere I&amp;rsquo;ve been on Twitter for a long time. Since 2007. From a time before Stephen Fry discovered the medium, and many years before Donald Trump did so. I&amp;rsquo;ve mainly used it passively. I kept my account private, and followed only those authors whose work interested me. A lot of libertarian comment and analysis, some humour, especially the dark side. I have a number of followers, but get virtually no engagement with them.</description>
     </item>
     
   </channel>

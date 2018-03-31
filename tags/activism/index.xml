@@ -1,35 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Activism on Steve Hemingway&#39;s blog</title>
-    <link>https://stevehemingway.com/tags/activism/index.xml</link>
-    <description>Recent content in Activism on Steve Hemingway&#39;s blog</description>
+    <title>Activism on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/tags/activism/</link>
+    <description>Recent content in Activism on Steve Hemingway&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2017</copyright>
-    <atom:link href="https://stevehemingway.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Fri, 10 Feb 2017 15:28:49 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Community engagement using Facebook</title>
-      <link>https://stevehemingway.com/posts/facebook_activism/</link>
+      <link>https://stevehemingway.com/2017/facebook_activism/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/facebook_activism/</guid>
-      <description>
-
-&lt;h1 id=&#34;the-station-pub-knebworth&#34;&gt;The Station Pub, Knebworth&lt;/h1&gt;
-
-&lt;p&gt;I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub.
-This is the only pub in the village, and, since it is right in the centre, was very visible.&lt;/p&gt;
-
-&lt;p&gt;I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.&lt;/p&gt;
-
-&lt;p&gt;Today I found that hundreds had already joined, and a further three hundred were queing up to join today.&lt;/p&gt;
-
-&lt;p&gt;The rate of joining this group was astonishing. I am now convinced that mailing lists are comprehensively obsoleted by Facebook.&lt;/p&gt;
-
-&lt;p&gt;Some people do not use FB, but the ease of adding someone to a group is so great that there is no other medium that can work so quickly. The problem is that this only works when the campaign is something that people are seriously affected by, or at least interested in. A cause that nobody cares about much will go nowhere.&lt;/p&gt;
-</description>
+      <guid>https://stevehemingway.com/2017/facebook_activism/</guid>
+      <description>The Station Pub, Knebworth I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub. This is the only pub in the village, and, since it is right in the centre, was very visible.
+I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.
+Today I found that hundreds had already joined, and a further three hundred were queing up to join today.</description>
     </item>
     
   </channel>

@@ -1,28 +1,139 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://stevehemingway.com/posts/letter_about_whipping/</loc>
+    <loc>https://stevehemingway.com/posts/self-build-register/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/chas_lowe_sandyard_application/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/march_update/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/verge-parking/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/notes/</loc>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/who_do_i_call/</loc>
+    <lastmod>2018-02-15T17:03:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/churchgate/</loc>
+    <lastmod>2018-01-31T17:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2018/2018_feb/</loc>
+    <lastmod>2018-01-29T14:46:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2018/jan_kpn/</loc>
+    <lastmod>2017-12-30T16:40:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/dec_newsletter/</loc>
+    <lastmod>2017-12-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/hyopa/</loc>
+    <lastmod>2017-11-16T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/nov_kpn/</loc>
+    <lastmod>2017-11-01T11:43:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/oct/</loc>
+    <lastmod>2017-10-01T16:40:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/oct_kpn/</loc>
+    <lastmod>2017-09-19T11:42:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/sept_kpn/</loc>
+    <lastmod>2017-09-01T10:47:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/august_kpn/</loc>
+    <lastmod>2017-07-17T12:37:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/jul-newsletter/</loc>
+    <lastmod>2017-07-04T20:49:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/local-plan-submission/</loc>
+    <lastmod>2017-06-16T14:34:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/caa-consultation/</loc>
+    <lastmod>2017-06-14T16:07:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/june_17/</loc>
+    <lastmod>2017-05-16T12:17:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/elections/</loc>
+    <lastmod>2017-05-05T09:51:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/may_kpn/</loc>
+    <lastmod>2017-04-20T11:25:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/letter_about_whipping/</loc>
     <lastmod>2017-04-06T09:42:12+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/April_newsletter/</loc>
+    <loc>https://stevehemingway.com/2017/april_newsletter/</loc>
     <lastmod>2017-03-28T12:31:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/VisionLinks/</loc>
+    <loc>https://stevehemingway.com/2017/visionlinks/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/chas_lowe/</loc>
+    <loc>https://stevehemingway.com/2017/chas_lowe/</loc>
     <lastmod>2017-03-09T15:36:40+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/coase/</loc>
+    <loc>https://stevehemingway.com/2017/coase/</loc>
     <lastmod>2017-03-01T17:43:52+00:00</lastmod>
   </url>
   
@@ -32,72 +143,183 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/update_on_blog_setup/</loc>
-    <lastmod>2017-02-24T15:02:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/posts/March_Newsletter/</loc>
+    <loc>https://stevehemingway.com/2017/march_newsletter/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/StationPub/</loc>
+    <loc>https://stevehemingway.com/2017/stationpub/</loc>
     <lastmod>2017-02-13T14:12:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/facebook_activism/</loc>
+    <loc>https://stevehemingway.com/2017/facebook_activism/</loc>
     <lastmod>2017-02-10T15:28:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/Twitter/</loc>
+    <loc>https://stevehemingway.com/posts/twitter/</loc>
     <lastmod>2017-02-05T10:13:50+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/background-image/</loc>
-    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/161114-knebworth-parish-news-dec.docx/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/code-highlighting-post/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/161016-knebworth-parish-news-nov.docx/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/sample-link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160916-knebworth-parish-news-oct.docx/</loc>
+    <lastmod>2016-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/video-post/</loc>
-    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160813-knebworth-parish-news-sep.docx/</loc>
+    <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/readability-feature-post/</loc>
-    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160714-knebworth-parish-news-aug-final.docx/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/sample-post-images/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160614-knebworth-parish-news-jul.docx/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/readability-post/</loc>
-    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160515-knebworth-parish-news-june.docx/</loc>
+    <lastmod>2016-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/sample-post/</loc>
-    <lastmod>2011-03-10T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/2016/160415-knebworth-parish-news-may.docx/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/first_post/</loc>
+    <loc>https://stevehemingway.com/2016/160214-knebworth-parish-news-mar.docx/</loc>
+    <lastmod>2016-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2016/160114-knebworth-parish-news-feb.docx/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2016/january-newsletter.docx/</loc>
+    <lastmod>2016-01-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/151008-knebworth-parish-news-nov/</loc>
+    <lastmod>2015-11-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/150816-knebworth-parish-news-sep/</loc>
+    <lastmod>2015-09-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/150715-knebworth-parish-news-aug/</loc>
+    <lastmod>2015-08-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/150613-knebworth-parish-news-july/</loc>
+    <lastmod>2015-07-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/june-2015-newsletter.docx/</loc>
+    <lastmod>2015-06-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/may-2015-newsletter.docx/</loc>
+    <lastmod>2015-05-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/april-2015-newsletter.docx/</loc>
+    <lastmod>2015-04-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/march-newsletter.docx/</loc>
+    <lastmod>2015-03-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/february-newsletter.docx/</loc>
+    <lastmod>2015-02-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/151204-knebworth-parish-news-jan/</loc>
+    <lastmod>2015-01-01T15:26:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/december/</loc>
+    <lastmod>2014-12-01T15:36:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/november/</loc>
+    <lastmod>2014-11-01T15:36:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/october/</loc>
+    <lastmod>2014-10-01T15:36:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/september/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/august/</loc>
+    <lastmod>2014-08-01T15:36:40+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2014/</loc>
+    <lastmod>2014-12-01T15:36:40+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2015/</loc>
+    <lastmod>2015-11-01T15:26:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2016/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2017/</loc>
+    <lastmod>2017-12-01T15:26:52+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/2018/</loc>
+    <lastmod>2018-01-29T14:46:26+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -114,18 +336,19 @@
   
   <url>
     <loc>https://stevehemingway.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/code/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/community/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/categories/consultation/</loc>
+    <lastmod>2017-06-14T16:07:35+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,56 +369,44 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/categories/elections/</loc>
+    <lastmod>2017-05-05T09:51:37+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/categories/golang/</loc>
     <lastmod>2017-02-21T22:57:46+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/tags/highlighting/</loc>
-    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/images/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/intro/</loc>
-    <lastmod>2012-05-22T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/categories/hcc/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/knebworth/</loc>
-    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/knebworth/</loc>
-    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/legacy/</loc>
-    <lastmod>2017-03-01T17:43:52+00:00</lastmod>
+    <lastmod>2017-05-16T12:17:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/legacy-golang/</loc>
-    <lastmod>2017-03-01T17:43:52+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/link-post/</loc>
-    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-05-16T12:17:55+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -225,7 +436,19 @@
   
   <url>
     <loc>https://stevehemingway.com/categories/nhdc/</loc>
-    <lastmod>2017-02-21T22:57:46+00:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/tags/north-herts/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/categories/parish-news/</loc>
+    <lastmod>2017-04-20T11:25:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -236,8 +459,14 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/categories/planning/</loc>
+    <lastmod>2017-06-16T14:34:30+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/tags/politics/</loc>
-    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -249,7 +478,7 @@
   
   <url>
     <loc>https://stevehemingway.com/posts/</loc>
-    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -260,26 +489,14 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/tags/readability/</loc>
-    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/sample-post/</loc>
-    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://stevehemingway.com/tags/social-media/</loc>
-    <lastmod>2017-03-28T12:31:34+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/social_media/</loc>
-    <lastmod>2017-02-24T15:02:38+00:00</lastmod>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -291,46 +508,31 @@
   
   <url>
     <loc>https://stevehemingway.com/</loc>
-    <lastmod>2017-04-06T09:42:12+01:00</lastmod>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/</loc>
+    <lastmod>2017-02-10T15:28:49+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/tags/techie/</loc>
-    <lastmod>2017-02-24T15:02:38+00:00</lastmod>
+    <loc>https://stevehemingway.com/tags/tech/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/techie_stuff/</loc>
-    <lastmod>2013-10-26T00:00:00+00:00</lastmod>
+    <loc>https://stevehemingway.com/categories/tech/</loc>
+    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/test/</loc>
-    <lastmod>2013-05-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/techie_stuff/theme-setup/</loc>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/twitter/</loc>
     <lastmod>2017-02-13T14:12:17+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://stevehemingway.com/tags/video/</loc>
-    <lastmod>2013-06-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
