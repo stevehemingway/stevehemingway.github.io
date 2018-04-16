@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://stevehemingway.com/posts/cfcgf_2018/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/inspectors_note_eip/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/carry-over-budget/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/verge-parking/</loc>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/station_pub_report/</loc>
+    <lastmod>2018-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/posts/knebworth_jmi_environmental_area/</loc>
+    <lastmod>2018-03-31T17:42:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/posts/self-build-register/</loc>
     <lastmod>2018-03-27T00:00:00+00:00</lastmod>
   </url>
@@ -13,12 +43,12 @@
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/march_update/</loc>
+    <loc>https://stevehemingway.com/posts/unauth_developments/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stevehemingway.com/posts/verge-parking/</loc>
+    <loc>https://stevehemingway.com/posts/march_update/</loc>
     <lastmod>2018-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -341,6 +371,12 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/tags/community/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/categories/community/</loc>
     <lastmod>2017-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -349,6 +385,12 @@
   <url>
     <loc>https://stevehemingway.com/categories/consultation/</loc>
     <lastmod>2017-06-14T16:07:35+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/tags/consultations/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -381,8 +423,20 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/tags/grants/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://stevehemingway.com/categories/grants/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/categories/hcc/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -394,7 +448,7 @@
   
   <url>
     <loc>https://stevehemingway.com/categories/knebworth/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -436,13 +490,13 @@
   
   <url>
     <loc>https://stevehemingway.com/categories/nhdc/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/north-herts/</loc>
-    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -459,14 +513,20 @@
   </url>
   
   <url>
+    <loc>https://stevehemingway.com/tags/planning/</loc>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://stevehemingway.com/categories/planning/</loc>
-    <lastmod>2017-06-16T14:34:30+01:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/tags/politics/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -478,7 +538,7 @@
   
   <url>
     <loc>https://stevehemingway.com/posts/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -508,7 +568,7 @@
   
   <url>
     <loc>https://stevehemingway.com/</loc>
-    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-04-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -520,13 +580,13 @@
   
   <url>
     <loc>https://stevehemingway.com/tags/tech/</loc>
-    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://stevehemingway.com/categories/tech/</loc>
-    <lastmod>2018-03-16T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

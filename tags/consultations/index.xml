@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Consultations on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/tags/consultations/</link>
+    <description>Recent content in Consultations on Steve Hemingway&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/tags/consultations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Consultation: unauthorised developments and encampments</title>
+      <link>https://stevehemingway.com/posts/unauth_developments/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/posts/unauth_developments/</guid>
+      <description>As you may know, the Government have recently issued a consultation on powers for dealing with unauthorised developments and encampments. The consultation document can be found here.
+Questions include: 1. What evidence is there of unauthorised development and encampments in your community, and what issues does this raise for the local community?
+ We would like to invite evidence of unauthorised encampments which have occurred in the last 2 years, as follows:  the number of instances where trespassers have occupied land without authorisation, including the location and scale of the encampment.</description>
+    </item>
+    
+  </channel>
+</rss>
