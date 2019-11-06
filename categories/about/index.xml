@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/categories/about/</link>
+    <description>Recent content in About on Steve Hemingway&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Steve Hemingway&#39;s Corner of the World Wide Web</title>
+      <link>https://stevehemingway.com/2018/notes/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/2018/notes/</guid>
+      <description>Note that I was defeated in the District Council elections in May 2017. I continue to be active in Knebworth and hope that I may serve the electors again one day. However, I no longer write a column in the Parish News which makes this kind of website rather inconvenient to maintain. I plan to write the odd post in a website called minds.com. You can find my contributions at this address.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Steve Hemingway 2018</copyright>
-    <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stevehemingway.com/categories/planning/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>No, I did not vote to develop sites around Knebworth</title>
+      <link>https://stevehemingway.com/posts/local_plan_vote/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/posts/local_plan_vote/</guid>
+      <description>TL;DR: In the NHDC Council Meeting of 11th April 2017 I voted to save public consultation responses from the shredder. My political opponents are painting this as if I voted to build on fields all around Knebworth. As I have repeatedly said in the past, I am opposed to all Green Belt development around the village.
+The actual resolutions I voted for: I have had a number of local residents contacting me stating that I voted for development to take place on sites around Knebworth.</description>
+    </item>
     
     <item>
       <title>EiP - Local Plan Examination. End of Public Hearings</title>
@@ -53,10 +63,10 @@ Supplementary Planning Documents</description>
     
     <item>
       <title> Consultation: unauthorised developments and encampments</title>
-      <link>https://stevehemingway.com/posts/unauth_developments/</link>
+      <link>https://stevehemingway.com/2018/unauth_developments/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/unauth_developments/</guid>
+      <guid>https://stevehemingway.com/2018/unauth_developments/</guid>
       <description>As you may know, the Government have recently issued a consultation on powers for dealing with unauthorised developments and encampments. The consultation document can be found here.
 Questions include: 1. What evidence is there of unauthorised development and encampments in your community, and what issues does this raise for the local community?
  We would like to invite evidence of unauthorised encampments which have occurred in the last 2 years, as follows:  the number of instances where trespassers have occupied land without authorisation, including the location and scale of the encampment.</description>

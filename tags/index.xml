@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Steve Hemingway 2018</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 15:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stevehemingway.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://stevehemingway.com/tags/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://stevehemingway.com/tags/about/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Activism</title>
@@ -24,7 +42,7 @@
     <item>
       <title>Community</title>
       <link>https://stevehemingway.com/tags/community/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/community/</guid>
       <description></description>
@@ -49,6 +67,15 @@
     </item>
     
     <item>
+      <title>Freedom</title>
+      <link>https://stevehemingway.com/tags/freedom/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/freedom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grants</title>
       <link>https://stevehemingway.com/tags/grants/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
@@ -58,9 +85,27 @@
     </item>
     
     <item>
+      <title>Hcc</title>
+      <link>https://stevehemingway.com/tags/hcc/</link>
+      <pubDate>Tue, 17 Apr 2018 17:42:37 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/hcc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://stevehemingway.com/tags/internet/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Knebworth</title>
       <link>https://stevehemingway.com/tags/knebworth/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/knebworth/</guid>
       <description></description>
@@ -78,7 +123,7 @@
     <item>
       <title>Nhdc</title>
       <link>https://stevehemingway.com/tags/nhdc/</link>
-      <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 13:08:14 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/nhdc/</guid>
       <description></description>
@@ -87,7 +132,7 @@
     <item>
       <title>North Herts</title>
       <link>https://stevehemingway.com/tags/north-herts/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/north-herts/</guid>
       <description></description>
@@ -105,7 +150,7 @@
     <item>
       <title>Planning</title>
       <link>https://stevehemingway.com/tags/planning/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/planning/</guid>
       <description></description>
@@ -114,7 +159,7 @@
     <item>
       <title>Politics</title>
       <link>https://stevehemingway.com/tags/politics/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/politics/</guid>
       <description></description>
@@ -130,9 +175,18 @@
     </item>
     
     <item>
+      <title>Pubs</title>
+      <link>https://stevehemingway.com/tags/pubs/</link>
+      <pubDate>Sun, 20 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/pubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social Media</title>
       <link>https://stevehemingway.com/tags/social-media/</link>
-      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/social-media/</guid>
       <description></description>
@@ -162,6 +216,15 @@
       <pubDate>Mon, 13 Feb 2017 14:12:17 +0000</pubDate>
       
       <guid>https://stevehemingway.com/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voting</title>
+      <link>https://stevehemingway.com/tags/voting/</link>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/tags/voting/</guid>
       <description></description>
     </item>
     

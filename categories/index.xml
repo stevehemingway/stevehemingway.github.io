@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>(c) Steve Hemingway 2018</copyright>
-    <lastBuildDate>Fri, 10 Feb 2017 15:28:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://stevehemingway.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://stevehemingway.com/categories/about/</link>
+      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/categories/about/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Activism</title>
@@ -24,7 +33,7 @@
     <item>
       <title>Community</title>
       <link>https://stevehemingway.com/categories/community/</link>
-      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 31 Mar 2018 17:42:37 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/community/</guid>
       <description></description>
@@ -58,6 +67,15 @@
     </item>
     
     <item>
+      <title>Global</title>
+      <link>https://stevehemingway.com/categories/global/</link>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/categories/global/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Golang</title>
       <link>https://stevehemingway.com/categories/golang/</link>
       <pubDate>Tue, 21 Feb 2017 22:57:46 +0000</pubDate>
@@ -78,7 +96,7 @@
     <item>
       <title>Hcc</title>
       <link>https://stevehemingway.com/categories/hcc/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Apr 2018 17:42:37 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/hcc/</guid>
       <description></description>
@@ -87,7 +105,7 @@
     <item>
       <title>Knebworth</title>
       <link>https://stevehemingway.com/categories/knebworth/</link>
-      <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/knebworth/</guid>
       <description></description>
@@ -132,7 +150,7 @@
     <item>
       <title>Nhdc</title>
       <link>https://stevehemingway.com/categories/nhdc/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Dec 2018 15:33:55 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/nhdc/</guid>
       <description></description>
@@ -150,7 +168,7 @@
     <item>
       <title>Planning</title>
       <link>https://stevehemingway.com/categories/planning/</link>
-      <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/planning/</guid>
       <description></description>
@@ -166,20 +184,20 @@
     </item>
     
     <item>
+      <title>Royston</title>
+      <link>https://stevehemingway.com/categories/royston/</link>
+      <pubDate>Sun, 09 Dec 2018 13:08:14 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/categories/royston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Social_media</title>
       <link>https://stevehemingway.com/categories/social_media/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
       <guid>https://stevehemingway.com/categories/social_media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://stevehemingway.com/categories/tech/</link>
-      <pubDate>Sun, 18 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://stevehemingway.com/categories/tech/</guid>
       <description></description>
     </item>
     

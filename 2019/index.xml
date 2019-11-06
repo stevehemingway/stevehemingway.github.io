@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2019 on Steve Hemingway&#39;s website</title>
+    <link>https://stevehemingway.com/2019/</link>
+    <description>Recent content in 2019 on Steve Hemingway&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>(c) Steve Hemingway 2018</copyright>
+    <lastBuildDate>Thu, 28 Feb 2019 13:06:59 +0000</lastBuildDate>
+    
+	<atom:link href="https://stevehemingway.com/2019/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Extended Consultation</title>
+      <link>https://stevehemingway.com/2019/extended-cons/</link>
+      <pubDate>Thu, 28 Feb 2019 13:06:59 +0000</pubDate>
+      
+      <guid>https://stevehemingway.com/2019/extended-cons/</guid>
+      <description>The consultation period for the Main Modifications to the North Hertfordshire Local Plan 2011 2031 has been extended. The consultation period will now run until Thursday 11 April 2019. This letter clarifies that the consultation also provides the opportunity to respond to the new written evidence produced or submitted by the Council during the Examination. This includes, but is not limited to, the ‘homework’ that was submitted following the close of the hearing sessions.</description>
+    </item>
+    
+  </channel>
+</rss>
