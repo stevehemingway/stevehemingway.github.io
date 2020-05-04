@@ -1,35 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Grants on Steve Hemingway&#39;s website</title>
-    <link>https://stevehemingway.com/tags/grants/</link>
-    <description>Recent content in Grants on Steve Hemingway&#39;s website</description>
+    <title>Grants on Some Title</title>
+    <link>https://example.com/tags/grants/</link>
+    <description>Recent content in Grants on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2018</copyright>
+    <language>en-us</language>
     <lastBuildDate>Sun, 15 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stevehemingway.com/tags/grants/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/grants/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Community Facilities Capital Grant Fund</title>
-      <link>https://stevehemingway.com/posts/cfcgf_2018/</link>
+      <link>https://example.com/post/cfcgf_2018/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/cfcgf_2018/</guid>
-      <description>North Hertfordshire District Council (NHDC) has awarded grant funding of over &amp;pound;240,000 to a number of community buildings across the district.
-Knebworth Scout and Guide Group was awarded &amp;pound;32,000 for essential maintenance to its circa 1950’s headquarters. The funding will be put towards roofing, paving and drainage repairs. It is hoped that further funding will be available from the Knebworth Village Trust, which provides capital grants to organisations which are wholly or mainly for the use of residents of the parish of Knebworth.</description>
+      <guid>https://example.com/post/cfcgf_2018/</guid>
+      <description>North Hertfordshire District Council (NHDC) has awarded grant funding of over £240,000 to a number of community buildings across the district.
+Knebworth Scout and Guide Group was awarded £32,000 for essential maintenance to its circa 1950’s headquarters. The funding will be put towards roofing, paving and drainage repairs. It is hoped that further funding will be available from the Knebworth Village Trust, which provides capital grants to organisations which are wholly or mainly for the use of residents of the parish of Knebworth.</description>
     </item>
     
     <item>
       <title>New Southern Rural grant funding available for 2018/19</title>
-      <link>https://stevehemingway.com/posts/carry-over-budget/</link>
+      <link>https://example.com/post/carry-over-budget/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/carry-over-budget/</guid>
+      <guid>https://example.com/post/carry-over-budget/</guid>
       <description>As a result of the decision not to cease Area Committee Grants in the February Council Meeting when the Revenue Budget was agreed, residents of North Herts once again have the opportunity to apply for grants from Area Committees.
-If you are a local charity, voluntary group or not for profit organisation you are eligible for a share of its almost &amp;pound;90,000 grant funding pot in 2018-19.
+If you are a local charity, voluntary group or not for profit organisation you are eligible for a share of its almost £90,000 grant funding pot in 2018-19.
 The Council provides grants to voluntary groups and not-for-profits through its five Area Committees.</description>
     </item>
     

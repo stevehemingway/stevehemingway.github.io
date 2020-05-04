@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Internet on Steve Hemingway&#39;s website</title>
-    <link>https://stevehemingway.com/tags/internet/</link>
-    <description>Recent content in Internet on Steve Hemingway&#39;s website</description>
+    <title>Internet on Some Title</title>
+    <link>https://example.com/tags/internet/</link>
+    <description>Recent content in Internet on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2018</copyright>
+    <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stevehemingway.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pre-emptive copyright filter</title>
-      <link>https://stevehemingway.com/posts/pre-emptive-copyright-filter/</link>
+      <link>https://example.com/post/pre-emptive-copyright-filter/</link>
       <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/pre-emptive-copyright-filter/</guid>
+      <guid>https://example.com/post/pre-emptive-copyright-filter/</guid>
       <description>The European Parliament voted to burden every blog like this with an obligation to anticipate any possible copyright breach, even to the point of using the title of a title elsewhere. To my mind politicians do not understand the Internet and instinctively do the wrong thing.
 This is what the EFF has to say:
  Despite waves of calls and emails from European Internet users, the European Parliament today voted to accept the principle of a universal pre-emptive copyright filter for content-sharing sites, as well as the idea that news publishers should have the right to sue others for quoting news items online or even using their titles as links to articles.</description>

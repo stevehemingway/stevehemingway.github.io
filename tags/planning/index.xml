@@ -1,43 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Planning on Steve Hemingway&#39;s website</title>
-    <link>https://stevehemingway.com/tags/planning/</link>
-    <description>Recent content in Planning on Steve Hemingway&#39;s website</description>
+    <title>Planning on Some Title</title>
+    <link>https://example.com/tags/planning/</link>
+    <description>Recent content in Planning on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2018</copyright>
+    <language>en-us</language>
     <lastBuildDate>Mon, 30 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stevehemingway.com/tags/planning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/planning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>No, I did not vote to develop sites around Knebworth</title>
-      <link>https://stevehemingway.com/posts/local_plan_vote/</link>
+      <link>https://example.com/post/local_plan_vote/</link>
       <pubDate>Mon, 30 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/local_plan_vote/</guid>
+      <guid>https://example.com/post/local_plan_vote/</guid>
       <description>TL;DR: In the NHDC Council Meeting of 11th April 2017 I voted to save public consultation responses from the shredder. My political opponents are painting this as if I voted to build on fields all around Knebworth. As I have repeatedly said in the past, I am opposed to all Green Belt development around the village.
 The actual resolutions I voted for: I have had a number of local residents contacting me stating that I voted for development to take place on sites around Knebworth.</description>
     </item>
     
     <item>
       <title>EiP - Local Plan Examination. End of Public Hearings</title>
-      <link>https://stevehemingway.com/posts/inspectors_note_eip/</link>
+      <link>https://example.com/post/inspectors_note_eip/</link>
       <pubDate>Sun, 15 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/inspectors_note_eip/</guid>
+      <guid>https://example.com/post/inspectors_note_eip/</guid>
       <description>At the end of the hearing sessions on 27 March the Inspector set out the next steps in the EiP of the Local Plan. A note has now been prepared and this can be viewed in the examination documents ED130.
 During the hearing sessions the Inspector asked the Council to complete a number of actions to provide additional information to the examination. Some of these actions have already been completed and the Council are intending to finish the remainder by the end of April.</description>
     </item>
     
     <item>
       <title>Officer&#39;s Report for Station Pub Application</title>
-      <link>https://stevehemingway.com/posts/station_pub_report/</link>
+      <link>https://example.com/post/station_pub_report/</link>
       <pubDate>Sat, 07 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/station_pub_report/</guid>
+      <guid>https://example.com/post/station_pub_report/</guid>
       <description>Date of expiry of statutory period: 26.09.2017
 Submitted Plan Nos
 SE-760-01 SE-760-03 SE-760-02 SE-760-20C SE-760-21B SE-760-22A SE-760-23A SE-760-24A 6098-1 SE-760-25C SE-760 revA
@@ -54,10 +53,10 @@ Supplementary Planning Documents</description>
     
     <item>
       <title>Aggregates Yard Planning Application</title>
-      <link>https://stevehemingway.com/posts/chas_lowe_sandyard_application/</link>
+      <link>https://example.com/post/chas_lowe_sandyard_application/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/posts/chas_lowe_sandyard_application/</guid>
+      <guid>https://example.com/post/chas_lowe_sandyard_application/</guid>
       <description>Yesterday I spoke at a Planning Control Committee meeting. I was supporting the Parish Council, in the form of Cllr Roger Willcocks, in objecting to application, &amp;lsquo;17/02652/1 - 135A LONDON ROAD, KNEBWORTH, SG3 6EX&amp;rsquo;. This is the conversion of the old aggregates yard, part of Chas Lowe &amp;amp; Sons, into two 2-bed flats and two commercial (retail) units. The grounds on which we objected were principally to do with parking.</description>
     </item>
     

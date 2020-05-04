@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Activism on Steve Hemingway&#39;s website</title>
-    <link>https://stevehemingway.com/tags/activism/</link>
-    <description>Recent content in Activism on Steve Hemingway&#39;s website</description>
+    <title>Activism on Some Title</title>
+    <link>https://example.com/tags/activism/</link>
+    <description>Recent content in Activism on Some Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>(c) Steve Hemingway 2018</copyright>
+    <language>en-us</language>
     <lastBuildDate>Fri, 10 Feb 2017 15:28:49 +0000</lastBuildDate>
     
-	<atom:link href="https://stevehemingway.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/activism/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Community engagement using Facebook</title>
-      <link>https://stevehemingway.com/2017/facebook_activism/</link>
+      <link>https://example.com/post/2017/facebook_activism/</link>
       <pubDate>Fri, 10 Feb 2017 15:28:49 +0000</pubDate>
       
-      <guid>https://stevehemingway.com/2017/facebook_activism/</guid>
+      <guid>https://example.com/post/2017/facebook_activism/</guid>
       <description>The Station Pub, Knebworth I was contacted yesterday, in my capacity as ward councillor, about the closure of the Station Pub. This is the only pub in the village, and, since it is right in the centre, was very visible.
 I recommended creating a Facebook Group. I had a meeting, and someone else set up the group.
 Today I found that hundreds had already joined, and a further three hundred were queing up to join today.</description>
