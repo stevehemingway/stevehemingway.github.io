@@ -1,5 +1,6 @@
-
-date: 2017-03-09T15:36:40Ztitle: "Redevelopment of Chas Lowe Site"Description = "Redevelopment of Chas Lowe Site"
+date: 2017-03-09T15:36:40Z
+title:  "Redevelopment of Chas Lowe Site"
+Description: "Redevelopment of Chas Lowe Site"
 menu = "main"
 
  

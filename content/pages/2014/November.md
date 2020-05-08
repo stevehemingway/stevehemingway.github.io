@@ -1,5 +1,6 @@
-
-date: 2014-11-01T15:36:40Ztitle: "November Article"Description = "Surgery, Solar Farm, Cricket Club, Bulwer Lytton"
+date: 2014-11-01T15:36:40Z
+title: "November Article"
+Description = "Surgery, Solar Farm, Cricket Club, Bulwer Lytton"
 menu = "main"
 
 # Application to redevelop the GP Surgery at 1 Stevenage Road

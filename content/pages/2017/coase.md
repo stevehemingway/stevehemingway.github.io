@@ -1,7 +1,8 @@
 title: "The role of (Local) government"
 menu = "main"
 Categories = ["legacy","legacy GoLang"]
-Tags = ["philosophy"]Description = ""
+Tags = ["philosophy"]
+Description: ""
 date: 2017-03-01T17:43:52Z
 
 
