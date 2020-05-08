@@ -4,13 +4,13 @@ from __future__ import unicode_literals
 
 AUTHOR = 'stevehemingway'
 SITENAME = 'Super Blog'
-SITEURL = ''
+SITEURL = 'https://stevehemingway.github.io'
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'EN-gb'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
