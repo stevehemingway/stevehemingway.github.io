@@ -1,12 +1,10 @@
-+++
-date = "2017-03-12"
-title = "A Vision for Knebworth"
-Description = "Some useful links for getting involved"
+
+date: 2017-03-12title: "A Vision for Knebworth"Description = "Some useful links for getting involved"
 menu = "main"
 Categories = ["Community","Knebworth"]
 Tags = ["pub","Knebworth"]
 
-+++
+
 
 # Links
 

@@ -1,11 +1,10 @@
----
-Description : "Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane."
-title : "Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane."
-date : "2018-04-17T17:42:37Z"
+title: "Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane."
+title: "Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane."
+date: 2018-04-17T17:42:37Z
 Tags : ["Politics", "North Herts", "HCC"]
 Categories : [  "HCC"]
 menu : "main"
----
+
 
 Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane.
 

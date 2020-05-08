@@ -1,11 +1,8 @@
-+++
-Description = "August Newsletter"
-Title = "Waste Collection Contract and Station Pub"
-date = 2017-08-01T11:43:51Z 
+Description = "August Newsletter"title: "Waste Collection Contract and Station Pub"date: 2017-08-01T11:43:51Z 
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 ## Waste Collection and Street Cleansing Contract

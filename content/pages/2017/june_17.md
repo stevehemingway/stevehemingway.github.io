@@ -1,11 +1,8 @@
-+++
-Categories = ["legacy","legacy GoLang"]
-Description = "June KPN Newsletter"
-Tags = ["Politics","Knebworth","social media"]
-date = "2017-05-16T12:17:55+01:00"
-menu = "main"
-title = "June Update" 
-+++
+
+Categories = ["legacy","legacy GoLang"]Description = "June KPN Newsletter"
+Tags = ["Politics","Knebworth","social media"]date: "2017-05-16T12:17:55+01:00"
+menu = "main"title: "June Update" 
+
 
 
 

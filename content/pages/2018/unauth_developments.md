@@ -1,11 +1,9 @@
----
-Description : " Consultation: unauthorised developments and encampments"
-title : " Consultation: unauthorised developments and encampments"
-date : 2018-03-01
+Description : " Consultation: unauthorised developments and encampments"title: " Consultation: unauthorised developments and encampments"
+date: 2018-03-01
 Tags : ["Consultations"]
 Categories : [ "Planning"]
 menu : "main"
----
+
 As you may know, the Government have recently issued a consultation on powers for dealing with unauthorised developments and encampments. The consultation document can be found [here]( https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/697354/Consultation_-_unauthorised_encampments.pdf).
 
 Questions include:

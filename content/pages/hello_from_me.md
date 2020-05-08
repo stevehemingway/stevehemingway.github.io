@@ -1,11 +1,9 @@
----
-Description : "I am still around but am more active on Twitter nowadays"
-title : "A voice from the past"
-date : 2018-09-06
+title: "I am still around but am more active on Twitter nowadays"title: "A voice from the past"
+date: 2018-09-06
 Tags : ["North Herts", "Knebworth", "community"]
 Categories : [ "Knebworth"]
 menu : "main"
----
+
 
 Hello There!
 

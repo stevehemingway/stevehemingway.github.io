@@ -1,10 +1,8 @@
-+++
-Title = "October Parish News Article"
-date = "2017-10-01T16:40:07Z"
+title: "October Parish News Article"date: "2017-10-01T16:40:07Z"
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 # NHDC Corporate Plan Approved

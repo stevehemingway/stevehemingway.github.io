@@ -1,19 +1,16 @@
-+++
-Categories = ["consultation"]
-Description = "CAA Consultation on decision making process"
-Tags = ["Politics", "Knebworth", "social media"]
-date = "2017-06-14T16:07:35+01:00"
-menu = "main"
-title = "CAA consultation"
 
-+++
+Categories = ["consultation"]Description = "CAA Consultation on decision making process"
+Tags = ["Politics", "Knebworth", "social media"]date: "2017-06-14T16:07:35+01:00"
+menu = "main"title: "CAA consultation"
+
+
 
 I received the following email letter today, and I thought it would be useful to share it with local residents. Luton airport is an important 
 local employer, as well as a very important public transport hub for us all, but it does create some problems. The CAA are keen to hear your views.
 
 Steve. 
 
----
+
 # Letter from CAA
 
 Dear Cllr Hemingway
@@ -41,5 +38,5 @@ Yours sincerely
 Neil Thompson
 Operations Director
 
----
+
 

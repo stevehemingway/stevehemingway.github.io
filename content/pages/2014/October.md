@@ -1,9 +1,6 @@
-+++
-date = "2014-10-01T15:36:40Z"
-title = "October Article"
-Description = "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
+date: 2014-10-01T15:36:40Ztitle: "October Article"Description = "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
 menu = "main"
-+++
+
 
 
 # Planning Matters

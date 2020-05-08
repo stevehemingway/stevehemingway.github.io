@@ -1,11 +1,8 @@
-+++
-Description = "Knebworth Parish News October Newsletter"
-Title = "October 2017 Newsletter"
-date = 2017-09-19T11:42:35Z
+Description = "Knebworth Parish News October Newsletter"title: "October 2017 Newsletter"date: 2017-09-19T11:42:35Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 # NHDC Corporate Plan Approved

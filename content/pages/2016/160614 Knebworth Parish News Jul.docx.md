@@ -1,8 +1,6 @@
-+++
-date = "2016-07-01"
-title = "JULY UPDATE"
+date: 2016-07-01title: "JULY UPDATE"
 menu = "2016"
-+++
+
 
 
 **NHDC Grants Policy:** NHDC awards grants every year of around half a

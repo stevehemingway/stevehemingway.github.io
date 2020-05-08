@@ -1,11 +1,8 @@
-+++
-Description = "Lessons that can be drawn from a local planning application"
-Title = "Travellers site at Pottersheath, Codicote"
-date = 2017-11-01T11:43:51Z 
+Description = "Lessons that can be drawn from a local planning application"title: "Travellers site at Pottersheath, Codicote"date: 2017-11-01T11:43:51Z 
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 

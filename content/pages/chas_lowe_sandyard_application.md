@@ -1,11 +1,9 @@
----
-Description : "Member Advocate at Planning Control Committee"
-title : "Aggregates Yard Planning Application"
-date : 2018-03-16
+title: "Member Advocate at Planning Control Committee"title: "Aggregates Yard Planning Application"
+date: 2018-03-16
 Tags : ["Politics", "North Herts", "Planning"]
 Categories : [ "Planning"]
 menu : "2018"
----
+
 
 Yesterday I spoke at [a Planning Control Committee meeting](http://web.north-herts.gov.uk/aksnherts/users/public/admin/kab14.pl?operation=SUBMIT&meet=135&cmte=PCC&grpid=public&arc=71). I was supporting the Parish Council, in the form of Cllr Roger Willcocks, in objecting to application, '17/02652/1 - 135A LONDON ROAD, KNEBWORTH, SG3 6EX'. This is the conversion of the old aggregates yard, part of Chas Lowe & Sons, into two 2-bed flats and two commercial (retail) units. The grounds on which we objected were principally to do with parking.
 

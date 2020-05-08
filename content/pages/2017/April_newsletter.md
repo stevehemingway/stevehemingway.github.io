@@ -1,12 +1,10 @@
-+++
-Tags = ["Politics","Knebworth","social media"]
-Description = ""
+
+Tags = ["Politics","Knebworth","social media"]Description = ""
 menu = "main"
-date = "2017-03-28T12:31:34+01:00"
-title = "April Newsletter"
+date: 2017-03-28T12:31:34+01:00title: "April Newsletter"
 Categories = ["Knebworth","newsletter"]
 
-+++
+
 
 This article  appeared in the April edition of the Knebworth Parish News.
 

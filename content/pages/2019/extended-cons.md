@@ -1,8 +1,7 @@
----
 title: "Extended Consultation"
 date: 2019-02-28T13:06:59Z
 draft: false
----
+
 
 The consultation period for the Main Modifications to the North Hertfordshire
 Local Plan 2011  2031 has been extended. The consultation period will now run

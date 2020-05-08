@@ -1,11 +1,8 @@
-+++
-Description = "Dec Newsletter"
-Title = "Local Plan, Brown Bins, Dec Newsletter"
-date = 2017-12-01T15:26:52Z
+Description = "Dec Newsletter"title: "Local Plan, Brown Bins, Dec Newsletter"date: 2017-12-01T15:26:52Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
-+++
+
 
 ## New Contract for Waste Collection
 
@@ -37,7 +34,7 @@ call 0844 571 4444 or visit
 [www.herts.getcomposting.com](http://www.herts.getcomposting.com).
 
 # NHDC Local Plan - Examination
----------------------------------
+
 
 The Examination in
 Public of the Local Plan started on the 13th November, the Inspector is
@@ -56,7 +53,7 @@ public and are held in the Icknield Centre, Icknield Way in Letchworth.
 Full details are on NHDC's website.
 
 # Merry Christmas
--------------------
+-
 
 May I take this opportunity to wish you all a very Merry Christmas and a
 Happy New Year. Subscriptions for the Parish News become due again this

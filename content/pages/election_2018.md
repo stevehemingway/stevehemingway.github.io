@@ -1,11 +1,9 @@
----
-Description : "Election 2018"
-title : "District Council Elections"
-date : 2018-05-09
+title: "Election 2018"title: "District Council Elections"
+date: 2018-05-09
 Tags : ["Politics", "Knebworth"]
 Categories : ["Knebworth", "NHDC"]
 menu : "main"
----
+
 
 ## Update on election from 3 May
 

@@ -1,11 +1,9 @@
----
-Description : "Thoughts on Verge Parking"
-title : "Who is responsible for controlling verge parking?"
-date : 2018-04-14
+title: "Thoughts on Verge Parking"title: "Who is responsible for controlling verge parking?"
+date: 2018-04-14
 Tags : ["North Herts"]
 Categories : [ "Knebworth", "NHDC", "HCC"]
 menu : "main"
----
+
 
 Over our long, wet winter in our congested village with its inadequate parking facilities, one issue comes up time and time again. This is the anti-social habit of drivers parking with one (or more) pairs of wheels on the grass verge, turning it into a muddy wreck.
 

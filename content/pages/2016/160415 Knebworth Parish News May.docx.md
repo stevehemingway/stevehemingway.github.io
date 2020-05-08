@@ -1,8 +1,5 @@
-+++
-date = "2016-05-01"
-title = "MAY UPDATE"
+date: 2016-05-01title: "MAY UPDATE"
 menu = "2016"
-+++
 
 
 # NHDC Emerging Local Plan
@@ -35,8 +32,7 @@ http://www.north-herts.gov.uk/planning/planning-policy/local-plan-emerging-polic
 submitted
 since 2013)](http://www.north-herts.gov.uk/sites/northherts-cms/files/Composite%20document%202.pdf)").
 All are currently in the Green Belt, so this is, essentially, a
-suggestion that they be taken out of the Green Belt. On the document
-titled "NHDC Local Plan - New Sites 2015" these sites are numbered 334,
+suggestion that they be taken out of the Green Belt. On the documenttitled "NHDC Local Plan - New Sites 2015" these sites are numbered 334,
 335 and 336. They are Cnebba's Field, Old Knebworth, the land to the
 rear of Redwoods in Deards End Lane, and land east of Old Knebworth
 lane. The three sites would comprise 79 potential dwellings in all, but

@@ -1,11 +1,10 @@
----
-Description : "New Southern Rural grant funding available for 2018/19"
-title : "New Southern Rural grant funding available for 2018/19"
-date : 2018-04-15
+Description: "New Southern Rural grant funding available for 2018/19"
+title: "New Southern Rural grant funding available for 2018/19"
+date: 2018-04-15
 Tags : ["Community", "North Herts", "Grants"]
 Categories : [ "Grants", "NHDC"]
 menu : "main"
----
+
 
 As a result of the decision not to cease Area Committee Grants in the February Council Meeting when the Revenue Budget was agreed, residents of North Herts once again have the opportunity to apply for grants from Area Committees.
 

@@ -1,9 +1,8 @@
----
 title: "The Last Post"
 date: 2019-11-06 
 draft: false
 menu: main
----
+
 
 # The Last Post
 

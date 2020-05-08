@@ -1,5 +1,4 @@
-title: About
-date: 8 may 2020
+title: Aboutdate: 8 may 2020
 
 
 Hi, I am stevehemingway and I wrote this epic collection of Interweb

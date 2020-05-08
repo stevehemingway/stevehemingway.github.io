@@ -1,11 +1,8 @@
-+++
-Description = "February Newsletter"
-Title = "More About the Station Pub"
-date = 2017-02-01T11:43:51Z 
+Description = "February Newsletter"title: "More About the Station Pub"date: 2017-02-01T11:43:51Z 
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 The Station Pub is up for sale. The Parish Council is trying to raise funds to buy it for the community. See their article in this edition for more details. By the time you read this I hope that the pub will have been registered as an asset of community value at NHDC, which will give bidders time to raise funds. Technology has now multiplied the ways in which a large group of individuals can come together to finance a new venture. It will be difficult to raise the necessary funds, and to manage the business but as the only pub within walking distance of most of the residents of Knebworth I believe it is worth saving. North Herts District is home to the very first community owned pub in the country: the Red Lion at Preston, which continues to thrive thirty six years after being purchased by the community. 
 

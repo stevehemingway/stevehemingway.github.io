@@ -1,11 +1,8 @@
-+++
-Description = "January Newsletter 2016"
-title = "January"
-date = 2016-01-01T15:26:52Z
+Description = "January Newsletter 2016"title: "January"date: 2016-01-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2016"
-+++
+
 
 # Application to redevelop the GP Surgery at 1 Stevenage Road
 

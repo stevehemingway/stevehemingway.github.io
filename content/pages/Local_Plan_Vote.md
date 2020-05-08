@@ -1,11 +1,9 @@
----
-Description : "No, I did not vote to develop sites around Knebworth"
-title : "No, I did not vote to develop sites around Knebworth"
-date : 2018-04-30
+title: "No, I did not vote to develop sites around Knebworth"title: "No, I did not vote to develop sites around Knebworth"
+date: 2018-04-30
 Tags : ["Planning", "North Herts", "Voting"]
 Categories : [ "Planning", "NHDC"]
 menu : "main"
----
+
 
 # TL;DR:
 

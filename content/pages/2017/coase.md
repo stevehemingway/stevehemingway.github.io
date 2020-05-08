@@ -1,12 +1,10 @@
-+++
-title = "The role of (Local) government"
+title: "The role of (Local) government"
 menu = "main"
 Categories = ["legacy","legacy GoLang"]
-Tags = ["philosophy"]
-Description = ""
-date = "2017-03-01T17:43:52Z"
+Tags = ["philosophy"]Description = ""
+date: 2017-03-01T17:43:52Z
 
-+++
+
 
 I have been an elected politician for three years now. I have spent a lot of time in meetings, where people have said a lot of things. In some cases they have said the same things over and over but in many cases they have argued for the Council _doing_ things. In nearly ever case, the focus has been on the benefits of taking the action. The implicit subtext is that this clearly exceeds the cost.
 

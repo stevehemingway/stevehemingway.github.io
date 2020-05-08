@@ -1,8 +1,6 @@
-+++
-date = "2016-11-01"
-title = "NOVEMBER UPDATE"
+date: 2016-11-01title: "NOVEMBER UPDATE"
 menu = "2016"
-+++
+
 
 
 

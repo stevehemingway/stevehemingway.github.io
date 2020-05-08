@@ -1,12 +1,10 @@
-+++
-Description = "Press Release from NHDC re Churchgate"
-title = "Churchgate"
-date = 2018-01-31T17:42:37Z 
+Description = "Press Release from NHDC re Churchgate"title: "Churchgate"
+date: 2018-01-31T17:42:37Z 
 Tags = ["Politics", "North Herts"]
 Categories = [ "NHDC"]
 menu = "main"
 
-+++
+
 # Councillors to consider potential scheme to regenerate Hitchin’s Churchgate Centre
 
 A new potential joint venture opportunity for the regeneration of the Churchgate Centre in Hitchin will be discussed at a meeting of North Hertfordshire District Council’s (NHDC) Full Council on 8 February.

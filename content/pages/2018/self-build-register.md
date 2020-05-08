@@ -1,11 +1,9 @@
----
-Description : "Self-build and Custom Build Register"
-title : "Self-build and Custom Build Register"
-date : 2018-03-27
+Description : "Self-build and Custom Build Register"title: "Self-build and Custom Build Register"
+date: 2018-03-27
 Tags : ["Politics", "Knebworth", "social media"]
 Categories : ["Knebworth", "NHDC"]
 menu : "main"
----
+
 
 You can use [The North Herts Self Build and Custom Build Register](https://www.north-herts.gov.uk/home/planning/planning-policy/self-build-and-custom-build-register)   to register yourself as wanting a plot in the District for a self-build home.
 

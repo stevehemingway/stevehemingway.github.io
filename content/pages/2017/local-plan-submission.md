@@ -1,12 +1,10 @@
-+++
-Categories = ["planning"]
-Description = "Local Plan Submission"
-Tags = ["Politics", "Knebworth", "social media"]
-date = "2017-06-16T14:34:30+01:00"
-menu = "main"
-title = "Local Plan Submission"
 
-+++
+Categories = ["planning"]Description = "Local Plan Submission"
+Tags = ["Politics", "Knebworth", "social media"]
+date: 2017-06-16T14:34:30+01:00
+menu = "main"title: "Local Plan Submission"
+
+
 
 
 

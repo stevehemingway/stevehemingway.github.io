@@ -1,11 +1,9 @@
----
-Description : "A bad day for the Internet"
-title : "Pre-emptive copyright filter"
-date : 2018-09-12
+title: "A bad day for the Internet"title: "Pre-emptive copyright filter"
+date: 2018-09-12
 Tags : ["Internet", "freedom", ""]
 Categories : [ "global"]
 menu : "musings"
----
+
 
 The European Parliament voted to burden every blog like this with an obligation to anticipate any possible copyright breach, even to the point of using the title of a title elsewhere.
 To my mind politicians do not understand the Internet and instinctively do the wrong thing. 

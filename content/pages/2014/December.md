@@ -1,9 +1,6 @@
-+++
-date = "2014-12-01T15:36:40Z"
-title = "December Article"
-Description = "Waste Collection, Local Plan"
+date: 2014-12-01T15:36:40Ztitle: "December Article"Description = "Waste Collection, Local Plan"
 menu = "2014"
-+++
+
 
 ## NHDC Waste Collection
 

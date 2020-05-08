@@ -1,12 +1,11 @@
-+++
 Description = "Who Do I Call When I Want to Call The Council?"
-title = "Who Do I Call When I Want to Call The Council?"
-date = 2018-02-15T17:03:12Z
+title: "Who Do I Call When I Want to Call The Council?"
+date: 2018-02-15T17:03:12Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
 
-+++
+
 
 ## North Herts District Council
 
@@ -41,7 +40,7 @@ NHDC are responsible for parks and gardens in the towns in the District, but for
 * Pest Control: 01462-436694
 * Urban Parks (not Knebworth)
 
----
+
 NHDC subcontract waste and street cleaning. Contact Veolia directly for these matters:
 
 ## NHDC Waste and Recycling and Street Cleaning
@@ -54,7 +53,7 @@ Veolia: Tel 0800 3286023
 * Fly tipping
 * Drugs paraphernalia such as discarded needles
 
----
+
 
 ## Knebworth Parish Council
 
@@ -63,7 +62,7 @@ Web: [www.knebworthparishcouncil.gov.uk/](http://www.knebworthparishcouncil.gov.
 
 The Parish Council is responsible for the recreation grounds and the village hall in Knebworth.
 
----
+
 NHDC sold its council house stock in 2004 to NHH. Call them and not NHDC for matters to do with homes the own:
 
 ## North Herts Homes
@@ -77,7 +76,7 @@ If you live in a NHH property, then use the above to:
 * discuss rent payments
 
 
----
+
 The County Council is responsible for most other 'Council' functions in the District.
 
 ## Hertfordshire County Council

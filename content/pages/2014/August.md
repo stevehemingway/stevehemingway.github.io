@@ -1,9 +1,6 @@
-+++
-date = "2014-08-01T15:36:40Z"
-title = "August Newsletter"
-Description = "Local Plan, Fun Day, Parking, Village Trust, Norton Green"
+date: 2014-08-01T15:36:40Ztitle: "August Newsletter"Description = "Local Plan, Fun Day, Parking, Village Trust, Norton Green"
 menu = "main"
-+++
+
 
 ## Letchworth Update
 

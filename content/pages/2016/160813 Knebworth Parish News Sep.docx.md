@@ -1,8 +1,6 @@
-+++
-date = "2016-09-01"
-title = "SEPTEMBER UPDATE"
+date: 2016-09-01title: "SEPTEMBER UPDATE"
 menu = "2016"
-+++
+
 
 
 # NHDC Draft Local Plan 

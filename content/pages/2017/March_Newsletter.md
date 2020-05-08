@@ -1,12 +1,9 @@
-+++
-date = "2017-02-21T22:57:46Z"
-title = "March Newsletter"
-Description = "Parish News Copy for March"
+date: 2017-02-21T22:57:46Ztitle: "March Newsletter"Description = "Parish News Copy for March"
 menu = "main"
 Categories = ["NHDC","GoLang"]
 Tags = ["NHDC","Knebworth"]
 
-+++
+
 
 
 

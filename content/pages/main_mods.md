@@ -1,11 +1,9 @@
----
-Description : "Main Modifications of Local Plan"
-title : "Main Modifications NHDC Local Plan"
-date : 2018-12-04T21:19:18Z
+title: "Main Modifications of Local Plan"title: "Main Modifications NHDC Local Plan"
+date: 2018-12-04T21:19:18Z
 Tags : ["Politics", "Knebworth", "social media"]
 Categories : ["Knebworth", "NHDC"]
 menu : "main"
----
+
 
 ## Mods which relate to Knebworth 
 

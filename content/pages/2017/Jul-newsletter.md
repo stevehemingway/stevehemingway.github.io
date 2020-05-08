@@ -1,11 +1,8 @@
-+++
-Description = "July Newsletter"
-Title = "July Newsletter, published first in Knebworth Parish News"
-date = 2017-07-04T20:49:10Z
+Description = "July Newsletter"title: "July Newsletter, published first in Knebworth Parish News"date: 2017-07-04T20:49:10Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 

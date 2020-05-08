@@ -1,8 +1,6 @@
-+++
-date = "2016-08-01"
-title = "AUGUST UPDATE"
+date: 2016-08-01title: "AUGUST UPDATE"
 menu = "2016"
-+++
+
 
 
 **Parking in Knebworth:** NHDC Councillor Julian Cunningham, the NHDC

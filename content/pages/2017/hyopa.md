@@ -1,11 +1,8 @@
-+++
-Description = "Year of Physical Activity"
-Title = "Herfordshire Year of Physical Activity"
-date = 2017-11-16T15:26:52Z
+Description = "Year of Physical Activity"title: "Herfordshire Year of Physical Activity"date: 2017-11-16T15:26:52Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC", "HCC"]
 menu = "main"
-+++
+
 
 # Funding Fact Sheet
 

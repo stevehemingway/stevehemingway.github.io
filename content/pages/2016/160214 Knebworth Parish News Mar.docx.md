@@ -1,8 +1,6 @@
-+++
-date = "2016-03-01"
-title = "March UPDATE"
+date: 2016-03-01title: "March UPDATE"
 menu = "2016"
-+++
+
 
 # **Council Tax for 2016-17** **– NHDC Budget**
 

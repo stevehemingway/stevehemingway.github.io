@@ -1,11 +1,9 @@
----
-Description : "Knebworth JMI Environmental Area"
-title : "Knebworth JMI Environmental Area"
-date : "2018-03-31T17:42:37Z"
+title: "Knebworth JMI Environmental Area"title: "Knebworth JMI Environmental Area"
+date: 2018-03-31T17:42:37Z
 Tags : ["Knebworth", "Community"]
 Categories : ["community", "Knebworth" ]
 menu : "main"
----
+
 
 # The Environmental Area, AKA the Wildlife Haven
 
@@ -14,7 +12,7 @@ It was fascinating to see the Knebworth Primary School Environmental Area when I
 
 Now, thanks to many weeks of hard work put in by Alena Evans of [Evans on Earth](https://www.facebook.com/EvansonEarthgardens/) the EA is finished. It will need a lot of ongoing TLC, but there is an amazing range of things to do in a reasonably compact area. I hope that staff members in the school will exploit this valuable new resource to the full.
 
----
+
 
 Alena provided me with the following notes on the project, which I thought would be interesting to share with you:
 

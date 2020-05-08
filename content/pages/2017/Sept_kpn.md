@@ -1,11 +1,8 @@
-+++
-Description = "September Parish News"
-Title = "Byelaws, Planning Portal Software, Chas Lowe site"
-date = 2017-09-01T10:47:26Z
+Description = "September Parish News"title: "Byelaws, Planning Portal Software, Chas Lowe site"date: 2017-09-01T10:47:26Z
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 # Public Consultation on Revoking of NHDC Byelaws

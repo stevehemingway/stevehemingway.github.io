@@ -1,11 +1,9 @@
----
-Description : "Officer's Report for Station Pub Application"
-title : "Officer's Report for Station Pub Application"
-date : 2018-04-07
+title: "Officer's Report for Station Pub Application"title: "Officer's Report for Station Pub Application"
+date: 2018-04-07
 Tags : ["Politics", "North Herts", "Planning"]
 Categories : [ "Planning"]
 menu : "2018"
----
+
 
 ***Date of expiry of statutory period:*** 26.09.2017
 

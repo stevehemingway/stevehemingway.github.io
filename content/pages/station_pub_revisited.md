@@ -1,11 +1,9 @@
----
-Description : "The Planning Control Committee is invited to re-consider its reasons for refusual of the Station Pub Application"
-title : "Update on the Station Pub"
-date : 2018-09-10
+title: "The Planning Control Committee is invited to re-consider its reasons for refusual of the Station Pub Application"title: "Update on the Station Pub"
+date: 2018-09-10
 Tags : ["North Herts", "Knebworth", "community"]
 Categories : [ "Knebworth"]
 menu : "main"
----
+
 
 # The Saga Continues
 

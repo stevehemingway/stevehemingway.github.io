@@ -1,11 +1,9 @@
----
-Description : "About this website"
-title : "Steve Hemingway's Corner of the World Wide Web"
-date : 2018-02-18
+Description : "About this website"title: "Steve Hemingway's Corner of the World Wide Web"
+date: 2018-02-18
 Tags : ["Politics", "North Herts", "About"]
 Categories : [ "About"]
 menu : "main"
----
+
 
 Note that I was defeated in the District Council elections in May 2017. I
 continue to be active in Knebworth and hope that I may serve the electors again

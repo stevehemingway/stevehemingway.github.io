@@ -1,12 +1,8 @@
-+++
-
-Description = "August Newsletter - Knebworth Parish News"
-Title = "August Newsletter - Knebworth Parish News"
-date = "2017-07-17T12:37:56Z"
+Description = "August Newsletter - Knebworth Parish News"title: "August Newsletter - Knebworth Parish News"date: "2017-07-17T12:37:56Z"
 Tags = ["Politics", "Knebworth", "social media"]
 Categories = ["Knebworth", "NHDC"]
 menu = "main"
-+++
+
 
 
 # Station Pub Planning Application

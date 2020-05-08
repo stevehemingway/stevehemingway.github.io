@@ -1,11 +1,9 @@
----
-Description : "NHDC Local Plan EiP - Inspector's Note"
-title : "EiP - Local Plan Examination. End of Public Hearings"
-date : 2018-04-15
+Description : "NHDC Local Plan EiP - Inspector's Note"title: "EiP - Local Plan Examination. End of Public Hearings"
+date: 2018-04-15
 Tags : ["Politics", "North Herts", "Planning"]
 Categories : [ "Planning", "NHDC"]
 menu : "main"
----
+
 
 At the end of the hearing sessions on 27 March the Inspector set out the next steps in the EiP of the Local Plan. A note has now been prepared and this can be viewed in the examination documents ED130.
 

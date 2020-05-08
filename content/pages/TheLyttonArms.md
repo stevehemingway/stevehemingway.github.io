@@ -1,11 +1,8 @@
----
-Description : "Hurray, we finally have a working pub in Knebworth - and what a pub!"
-title : "The Lytton Arms Re-opens triumphantly"
-date : 2018-05-20
+title: "Hurray, we finally have a working pub in Knebworth - and what a pub!"title: "The Lytton Arms Re-opens triumphantly"
+date: 2018-05-20
 Tags : ["North Herts", "Knebworth", "pubs", "community"]
 Categories : [ "Knebworth"]
 menu : "main"
----
 
 We've had to wait a long time for [The Lytton Arms](http://www.thelyttonarms.co.uk/) to re-open, but on Thursday the 17th May the day we've all been waiting for arrived. The Lytton Arms was once again open for business.
 
