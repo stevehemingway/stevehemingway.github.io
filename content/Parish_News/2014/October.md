@@ -1,4 +1,4 @@
-date: 2014-10-01T15:36:40Ztitle: October ArticleDescription = "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
+date: 2014-10-01T15:36:40Ztitle: October ArticleSummary: "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
 lang: EN-gb
 
 

@@ -1,4 +1,4 @@
-title: No, I did not vote to develop sites around Knebworthtitle: "No, I did not vote to develop sites around Knebworth"
+title: "No, I did not vote to develop sites around Knebworth"
 date: 2018-04-30
 modified: 2020-05-09
 lang: EN-gb

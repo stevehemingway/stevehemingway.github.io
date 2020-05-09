@@ -1,4 +1,5 @@
-title: Knebworth JMI Environmental Areatitle: "Knebworth JMI Environmental Area"
+title: Knebworth JMI Environmental Area
+title: "Knebworth JMI Environmental Area"
 date: 2018-03-31T17:42:37Z
 modified: 2020-05-09
 lang: EN-gb
