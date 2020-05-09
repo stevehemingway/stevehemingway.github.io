@@ -1,8 +1,9 @@
-title: Aboutdate: 8 may 2020
+title: About
+date: 8 may 2020
+status: draft
 
+I am Steve Hemingway.
 
-Hi, I am stevehemingway and I wrote this epic collection of Interweb
-wisdom. In days of yore, much of this would have been deemed sorcery
-and I would probably have been burned at the stake.
+This is my stuff, which I have sort-of converted from Jekyll to Pelican.
 
-
+(this directory is supposed to hold static stuff)
