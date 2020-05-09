@@ -10,7 +10,6 @@
         <header id="banner" class="body">
                 <h1><a href="https://stevehemingway.github.io/">Steve Hemingway's Blog </a></h1>
                 <nav><ul>
-                    <li><a href="https://stevehemingway.github.io/pages/about.html">About</a></li>
                     <li><a href="https://stevehemingway.github.io/category/2014.html">2014</a></li>
                     <li><a href="https://stevehemingway.github.io/category/2015.html">2015</a></li>
                     <li><a href="https://stevehemingway.github.io/category/2016.html">2016</a></li>
@@ -41,8 +40,21 @@
 <p>In <a href="https://stevehemingway.github.io/category/2020.html">2020</a>.</p>
 
 </footer><!-- /.post-info -->      <h1>I&#8217;m back, sort&nbsp;of</h1>
-<p>I switched to a different hugo theme, this time <a href="https://themes.gohugo.io/bare-hugo-theme/">the &#8216;bare&#8217; theme by Tom Forbes</a>. 
-I am not a natural with hugo, or git, or github pages but with a lot of trial and error I have at least got it partially&nbsp;working.</p>
+<p>I had a pile of markdown stuff from my time as a councillor, which was turned into a website
+using the hpstr template for jekyll. <span class="caps">TBH</span>, I never really understood Jekyll, and I found hugo 
+pretty difficult to use. I&#8217;ve been getting into Python more recently, and I wondered if
+there was some sort of static site generator, written in Python, which had good support
+for github pages (which is where I decided to host my site now I&#8217;ve retired my old 
+cloud server I rented from digital ocean). Pelican seemed well liked, and I managed,
+with the help of a lot of fairly hairy regexp conversions,
+to turn my old Jekyll blog into a Pelican one. My first hit was <a href="https://opensource.com/article/19/5/run-your-blog-github-pages-python">this one</a> by Erik O&#8217;Shaughnessy, who seems to be a cool dude. In fact, when you search for tutorials on Pelican, 
+you&#8217;ll get a bazillion hits, all of which are probably fine, but Erik&#8217;s is the only one I&#8217;ve read.
+He focusses on using Markdown, rather than <span class="caps">RST</span>, which seems to be the native markdown
+language for Pelican. I don&#8217;t know <span class="caps">RST</span>: I use Markdown for a lot of stuff, 
+mainly because it seems to be so widely&nbsp;supported.</p>
+<p>Pelican is very neat, because it automates (via a makefile) the uploading of the file to github pages. It&#8217;s probably me, but whenever I try to use git to do anything which isn&#8217;t totally 
+bog standard I feel like an idiot. Fortunately, the makefile hides all that, and works fine
+in Windows&nbsp;powershell.</p>
     </div><!-- /.entry-content -->
 
   </article>
