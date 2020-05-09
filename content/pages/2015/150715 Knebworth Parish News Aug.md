@@ -1,4 +1,4 @@
-Description = "August Newsletter 2015"title: "August"date: 2015-08-01T15:26:52Z
+title: "August"Description = "August Newsletter 2015"date: 2015-08-01T15:26:52Z
 Tags = ["Politics", "Knebworth" ]
 Categories = ["Knebworth", "NHDC"]
 menu = "2015"

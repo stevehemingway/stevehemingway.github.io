@@ -1,8 +1,9 @@
-Description : "NHDC awards grants to Royston Bowls Club"title: "More NHDC grants awarded"
+title: "More NHDC grants awarded"
 date: 2018-12-09T13:08:14Z
 Tags : ["Politics", "NHDC"]
 Categories : ["Royston", "NHDC"]
 menu : "main"
+Description : "NHDC awards grants to Royston Bowls Club"
 
 Royston Bowls Club received £1,000 towards the purchase of a machine to de-thatch the green in order to help reduce disease and improve the playing surface.
 

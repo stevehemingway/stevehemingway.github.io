@@ -1,9 +1,7 @@
 title: "October Parish News Article"
-date: "2017-10-01T16:40:07Z"
+date: 2017-10-01
 Tags = ["Politics", "Knebworth", "social media"]
-
 Categories = ["Knebworth", "NHDC"]
-
 menu = "main"
 
 

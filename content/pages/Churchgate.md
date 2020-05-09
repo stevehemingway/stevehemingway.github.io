@@ -1,5 +1,5 @@
-Description = "Press Release from NHDC re Churchgate"title: "Churchgate"
 date: 2018-01-31T17:42:37Z 
+title: "Press Release from NHDC re Churchgate"title: "Churchgate"
 Tags = ["Politics", "North Herts"]
 Categories = [ "NHDC"]
 menu = "main"

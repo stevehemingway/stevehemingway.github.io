@@ -1,5 +1,6 @@
-Description : "Self-build and Custom Build Register"title: "Self-build and Custom Build Register"
+title: "Self-build and Custom Build Register"
 date: 2018-03-27
+Description : "Self-build and Custom Build Register"
 Tags : ["Politics", "Knebworth", "social media"]
 Categories : ["Knebworth", "NHDC"]
 menu : "main"

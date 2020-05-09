@@ -1,9 +1,8 @@
-Categories = ["legacy","legacy GoLang"]
+title: "June 2017 Update" 
 Description: "June KPN Newsletter" 
 Tags = ["Politics","Knebworth","social media"]
-date: "2017-05-16T12:17:55+01:00" 
+date: "2017-05-16" 
 menu = "main"
-title: "June Update" 
 
 
 

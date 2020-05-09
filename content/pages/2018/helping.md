@@ -1,4 +1,4 @@
-
+title: "how to contact me"
 type: pagetitle: Contacting MeDescription: "How to contact Stevehemingway"
 image:
   feature: /images/abstract-11.jpg

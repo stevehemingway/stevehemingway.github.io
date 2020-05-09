@@ -1,8 +1,8 @@
-Description = "Proposal to build a solar farm"title: "Knebworth Parish News, Sept 2014"date: "2014-09-01"
+title: "Knebworth Parish News, Sept 2014"date: "2014-09-01"
 Tags = ["Politics", "Knebworth"]
 Categories = ["Knebworth", "NHDC", "Planning"]
 menu = "2014"
-
+Description = "Proposal to build a solar farm"
 
 # Swangley's Farm Solar PV
 

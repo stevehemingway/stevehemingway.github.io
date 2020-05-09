@@ -1,6 +1,6 @@
-
 Description: "August Newsletter - Knebworth Parish News"
-title: "August Newsletter - Knebworth Parish News"date: "2017-07-17T12:37:56Z"
+title: "August Newsletter - Knebworth Parish News"
+date: 2017-07-17
 Tags = ["Politics", "Knebworth", "social media"]
 
 Categories = ["Knebworth", "NHDC"]
