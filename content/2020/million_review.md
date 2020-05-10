@@ -3,6 +3,10 @@ status: draft
 date: 2020-5-10
 slug: million
 
+I pinched all this from 
+[Max Nova's Review](http://books.max-nova.com/losing-a-million-dollars/). 
+I plan to somehow use this as the basis of some articles.
+
 #### FOREWORD
 
 **Trading, as far as I know, is the only endeavor in which the rank
