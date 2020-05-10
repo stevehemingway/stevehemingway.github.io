@@ -10,19 +10,19 @@ SITESUBTITLE = 'Knebworth musings'
 SUMMARY_MAX_LENGTH = 50
 SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 CACHE_CONTENT = False
-# OUTPUT_PATH = 'output/'
+OUTPUT_PATH = 'output/'
 STATIC_PATHS  = ['images']
 YEAR_ARCHIVE_URL = ''
 # PAGINATION_PATTERNS = '{you have to put some regexp here}' # see https://docs.getpelican.com/en/stable/settings.html
-GITHUB_URL = 'https://github.com/stevehemingway/stevehemingway.github.io'
+# GITHUB_URL = 'https://github.com/stevehemingway/stevehemingway.github.io'
 FILENAME_METADATA = '(?P<title>.*)'
+DEFAULT_DATE = 'fs'
 
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
 
-DEFAULT_LANG = 'EN-gb'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
