@@ -17,6 +17,7 @@
                     <li><a href="/category/2018.html">2018</a></li>
                     <li><a href="/category/2019.html">2019</a></li>
                     <li class="active"><a href="/category/2020.html">2020</a></li>
+                    <li><a href="/category/jottings.html">jottings</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 
@@ -41,7 +42,7 @@ You can see the full gory details at&nbsp;https://github.com/stevehemingway/stev
 <ul>
 <li>
 <p>@echo in a makefile in Windows fails. Everything else is fine, but echo fails, 
-because it&#8217;s not a proper command. This is all explained here: https://stackoverflow.com/questions/20712307/echo-fails-in-make-on-windows
+because it&#8217;s not a proper command. This is all explained <a href="https://stackoverflow.com/questions/20712307/echo-fails-in-make-on-windows">here</a>.
 The solution, as suggested, is to stick a &#8216;;&#8217; at the end of each echo line,
 forcing it to be treated like a command. 
 I actually use Pelican both on Windows and Linux systems, so I didn&#8217;t want
@@ -50,7 +51,7 @@ to break portability (although I would gladly have done so if there wasn&#8217;t
 <li>
 <p>It&#8217;s not sufficient to tell github, via the settings, that you want to use a custom domain.
 You have to have a file called <span class="caps">CNAME</span> in the root of the project with the custom domain name.
-You can read about this here: https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain.
+You can read about this <a href="https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain">here</a>.
 The key sentence is &#8216;If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the <span class="caps">CNAME</span> file to your local repository. For more information, see &#8220;Troubleshooting custom domains and GitHub Pages.&#8221;&#8217; 
 The problem is that Pelican just trashes all the files and removes the <span class="caps">CNAME</span> file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:&nbsp;publish:</p>
 </li>
