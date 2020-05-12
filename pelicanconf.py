@@ -6,6 +6,7 @@ STATIC_PATHS = [
     'images',
     'extra',  # this
 ]
+
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'custom.css'},
     'extra/robots.txt': {'path': 'robots.txt'},

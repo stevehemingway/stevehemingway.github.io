@@ -1,7 +1,7 @@
 title: Books I'm reading
 date: 2020-05-11 11:48
 slug: books
-category: jottings
+category: 2020
 
 # My Day
 
@@ -40,4 +40,4 @@ A few blogs/posts I enjoyed today:
 
 * [US Debt exceeds $25T](https://themarketear.com/posts/cE462EMD95).
 * [The sheer scale of Fed BS expansion has to be seen to be believed](https://themarketear.com/posts/ceSA55zTYl).
-* I [1971 seems a key date in the strangeness in world markets](https://wtfhappenedin1971.com/).S
+* [1971 seems a key date in the strangeness in world markets](https://wtfhappenedin1971.com/).
