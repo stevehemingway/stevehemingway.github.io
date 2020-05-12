@@ -23,9 +23,13 @@ You can read about this [here]( https://help.github.com/en/github/working-with-g
 The key sentence is 'If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the CNAME file to your local repository. For more information, see "Troubleshooting custom domains and GitHub Pages."' 
 The problem is that Pelican just trashes all the files and removes the CNAME file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:
 publish:
+
 ````
-        $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-        echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
+$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
+echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
 ````
+
+Using github involves working on two branches, *master*, which is the hard-coded branch name that github pages will always serve the site from, and another one, which I have called *content* (but is configurable in *pythonconf.py*) which has the actual 
+'source' for the website. The generated stuff in master still clutters the root directory, and you can't get rid of it because git won't let you push until you've pulled (fnarr fnarr). 
 
 That's quite enough tech stuff for today!
