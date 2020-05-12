@@ -8,7 +8,7 @@
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="/">Steve Hemingway's Blog <strong>Knebworth musings</strong></a></h1>
+                <h1><a href="/">Taffy's Monologue Blog <strong>Knebworth musings</strong></a></h1>
                 <nav><ul>
                     <li><a href="/category/2014.html">2014</a></li>
                     <li><a href="/category/2015.html">2015</a></li>
@@ -17,7 +17,6 @@
                     <li><a href="/category/2018.html">2018</a></li>
                     <li><a href="/category/2019.html">2019</a></li>
                     <li class="active"><a href="/category/2020.html">2020</a></li>
-                    <li><a href="/category/jottings.html">jottings</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 <section id="content" class="body">
@@ -61,9 +60,9 @@ The key sentence is &#8216;If you use a static site generator to build your site
 The problem is that Pelican just trashes all the files and removes the <span class="caps">CNAME</span> file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:&nbsp;publish:</p>
 </li>
 </ul>
-<div class="highlight"><pre><span></span><span class="err">        $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)</span>
+<div class="highlight"><pre><span></span><code><span class="err">        $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)</span>
 <span class="err">        echo $(CUSTOM_DOMAIN_NAME) &gt; $(OUTPUTDIR)/CNAME</span>
-</pre></div>
+</code></pre></div>
 
 
 <p>That&#8217;s quite enough tech stuff for&nbsp;today!</p>
