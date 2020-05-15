@@ -1,7 +1,6 @@
-date: 2020-04-22
 title: Markets fluctuate
 
-
+# 22nd April
 
 ## Overview
 

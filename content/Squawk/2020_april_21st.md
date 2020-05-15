@@ -1,10 +1,11 @@
 ---
 title: Oil goes to negative price!
-date: 21 April 2020
 ---
 
+# 21 April 2020
 
-### What's happening?
+
+## What's happening?
 
 All the press is discussing the fact that the settlment price for April WTI was negative $37! Seems amazing, but of course when there is no storage, you may have to pay for the privilege of delivering to someone.
 

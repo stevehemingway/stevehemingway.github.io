@@ -1,3 +1,5 @@
+title: 15th April 2020
+
 # 15th April 2020
 
 OK, last week has been pretty awful. The Fed went all in on stimulus and there was a face-ripping rally of all risk assets. You lost a lot. Ugh. Lots of stops triggered. Yesterday was also a risk-on day, and you lost money, although you did sell a few puts to offset the short positions in TSLA and RUT. You sold short-dated ones to get some positive theta. Today is sort of OK, as of now \(3:36\).

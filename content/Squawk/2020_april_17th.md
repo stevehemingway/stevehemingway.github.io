@@ -1,3 +1,5 @@
+title: 17th April 2020
+
 # Friday 17th April 2020
 
 OK, I've kinda gone delta-neutral on my long long-dated puts on TSLA, RUT and BA with shorter-dated short puts. This was a smart move. The market has been rocketing lately, for no obvious reason, as usual. At least I haven't been damaged too badly.
