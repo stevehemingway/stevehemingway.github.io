@@ -6,5 +6,13 @@ title: 15 May 2020
 
 Well, we have some incredible numbers for unemployment. Any regression model trying to fit this charg is going to explode. We have to fall back on our intuition. I can't see this is going to fully reverse for a long time. Larry Summers said as much in today's FT.  But the CBs are doing their bit, and the "don't fight the Fed" trade is in the ascendant.
 
-[Daily Shot](https://dailyshotbrief.com/the-daily-shot-brief-may-11th-2020/) ![Chart]({attach}unemployment_surges.png).
 
+![Chart]({attach}unemployment_surges.png).
+
+
+From today's [Daily Shot](https://dailyshotbrief.com/the-daily-shot-brief-may-11th-2020/) 
+
+
+There is a sense we're moving out of lockdown.
+I am getting a few enquiries for properties.
+	
