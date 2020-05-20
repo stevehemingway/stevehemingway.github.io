@@ -2,13 +2,13 @@
 <html lang="en">
 <head>
         <meta charset="utf-8" />
-        <title>Steve Hemingway's Blog - 2020</title>
+        <title>Monologue Blog - 2020</title>
         <link rel="stylesheet" href="/theme/css/main.css" />
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="/">Steve Hemingway's Blog <strong>Knebworth musings</strong></a></h1>
+                <h1><a href="/">Monologue Blog <strong>Knebworth musings</strong></a></h1>
                 <nav><ul>
                     <li><a href="/category/2014.html">2014</a></li>
                     <li><a href="/category/2015.html">2015</a></li>
@@ -17,16 +17,17 @@
                     <li><a href="/category/2018.html">2018</a></li>
                     <li><a href="/category/2019.html">2019</a></li>
                     <li class="active"><a href="/category/2020.html">2020</a></li>
-                    <li><a href="/category/jottings.html">jottings</a></li>
+                    <li><a href="/category/latest.html">Latest</a></li>
+                    <li><a href="/category/squawk.html">Squawk</a></li>
                 </ul></nav>
         </header><!-- /#banner -->
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="/pelican_notes.html">How I set up this&nbsp;site</a></h1>
+                    <h1 class="entry-title"><a href="/bond-garden.html">Bonds may be leading us up the garden&nbsp;path</a></h1>
 <footer class="post-info">
-        <abbr class="published" title="2020-05-11T10:22:00+01:00">
-                Published: Mon 11 May 2020
+        <abbr class="published" title="2020-05-13T10:53:00+01:00">
+                Published: Wed 13 May 2020
         </abbr>
 
         <address class="vcard author">
@@ -34,34 +35,18 @@
         </address>
 <p>In <a href="/category/2020.html">2020</a>.</p>
 
-</footer><!-- /.post-info --><p>This is a note for me, to remember how to create a new&nbsp;entry.</p>
-<p>I had to fiddle a bit with Pelican to make it work <span class="caps">OK</span> on Windows and
-to allow me to use a custom domain on github. 
-You can see the full gory details at&nbsp;https://github.com/stevehemingway/stevehemingway.github.io.</p>
-<p>The things that kept tripping me up were as&nbsp;follows:</p>
-<ul>
-<li>
-<p>@echo in a makefile in Windows fails. Everything else is fine, but echo fails, 
-because it&#8217;s not a proper command. This is all explained <a href="https://stackoverflow.com/questions/20712307/echo-fails-in-make-on-windows">here</a>.
-The solution, as suggested, is to stick a &#8216;;&#8217; at the end of each echo line,
-forcing it to be treated like a command. 
-I actually use Pelican both on Windows and Linux systems, so I didn&#8217;t want
-to break portability (although I would gladly have done so if there wasn&#8217;t an easy&nbsp;workaround).</p>
-</li>
-<li>
-<p>It&#8217;s not sufficient to tell github, via the settings, that you want to use a custom domain.
-You have to have a file called <span class="caps">CNAME</span> in the root of the project with the custom domain name.
-You can read about this <a href="https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain">here</a>.
-The key sentence is &#8216;If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the <span class="caps">CNAME</span> file to your local repository. For more information, see &#8220;Troubleshooting custom domains and GitHub Pages.&#8221;&#8217; 
-The problem is that Pelican just trashes all the files and removes the <span class="caps">CNAME</span> file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:&nbsp;publish:</p>
-</li>
-</ul>
-<div class="highlight"><pre><span></span><span class="err">        $(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)</span>
-<span class="err">        echo $(CUSTOM_DOMAIN_NAME) &gt; $(OUTPUTDIR)/CNAME</span>
-</pre></div>
-
-
-<p>That&#8217;s quite enough tech stuff for&nbsp;today!</p>                </article>
+</footer><!-- /.post-info --><h1>Markets are hard to&nbsp;read</h1>
+<p>Today&#8217;s <span class="caps">FT</span> (C&amp;F): Peter Oppenheimer of Goldman Sachs says that event-driven bear markets are soon over, 
+so don&#8217;t worry, chaps, everything will be fine from now on, especially for Big Tech. 
+However, maybe governments will have no option but to start taxing corporations to repair&nbsp;deficits.</p>
+<blockquote>
+<p><span class="dquo">&#8220;</span>While the impressive rally in risk assets may turn out to have been too much, too fast, given the tough road to normalisation, it is less likely that equities break their previous&nbsp;low.&#8221;</p>
+</blockquote>
+<p>In another article &#8220;Investors struggle to hear signals from bond trading&#8221; someone spends a whole page saying that 
+with the Fed buying trillions of dollars worth of bonds, price discovery and the ability
+to infer information about the real economy from long-term bond yields may be impaired.&nbsp;Wow!</p>
+<p>Another article says that China-focussed hedge funds have had a bumper run.&nbsp;Wow^2.</p>
+<p>Today markets weakened. I created an account on the ironically named  <a href="https://app.wallstreetsurvivor.com/dashboard">Wall St Survivor</a>. Reminds me of the ever interesting <a href="https://www.zerohedge.com/">Zero Hedge</a>.</p>                </article>
             </aside><!-- /#featured -->
                 <section id="content" class="body">
                     <h1>Other articles</h1>
@@ -76,8 +61,8 @@ The problem is that Pelican just trashes all the files and removes the <span cla
 
                 <div class="entry-content">
 <footer class="post-info">
-        <abbr class="published" title="2020-05-10T19:38:21.300338+01:00">
-                Published: Sun 10 May 2020
+        <abbr class="published" title="2020-05-12T21:06:09.077469+01:00">
+                Published: Tue 12 May 2020
         </abbr>
 
         <address class="vcard author">
@@ -90,6 +75,83 @@ The problem is that Pelican just trashes all the files and removes the <span cla
 (even at an undergraduate level, but certaintly not as a research scientist),
 it&#8217;s remarkable how so much of policy is claimed to be &#8216;science&nbsp;based …</p>
                 <a class="readmore" href="/the-covid-crisis-continues.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/nuclear-sink.html" rel="bookmark"
+                           title="Permalink to So why not load the bazooka with the kitchen sink and go nuclear?">So why not load the bazooka with the kitchen sink and go&nbsp;nuclear?</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2020-05-12T09:28:00+01:00">
+                Published: Tue 12 May 2020
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/stevehemingway.html">stevehemingway</a>
+        </address>
+<p>In <a href="/category/2020.html">2020</a>.</p>
+
+</footer><!-- /.post-info -->                <h1>The Fed goes where other CBs fear to&nbsp;tread</h1>
+<p>I stole the title of this post from Robin Wigglesworth&#8217;s <a href="https://www.ft.com/content/7cfe4e67-4aa9-436c-827a-b59ebbf59c54">&#8220;The Fed’s Vietnam moment&#8221;</a> published today. 
+He, in turn stole it from Alan Ruskin of Deutsche Bank (with acknowledgment). 
+It argues that the Fed may be getting in too …</p>
+                <a class="readmore" href="/nuclear-sink.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/books.html" rel="bookmark"
+                           title="Permalink to Books I’m reading">Books I&#8217;m&nbsp;reading</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2020-05-11T11:48:00+01:00">
+                Published: Mon 11 May 2020
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/stevehemingway.html">stevehemingway</a>
+        </address>
+<p>In <a href="/category/2020.html">2020</a>.</p>
+
+</footer><!-- /.post-info -->                <h1>My&nbsp;Day</h1>
+<h2>Books I&#8217;m&nbsp;reading</h2>
+<p>At the moment I&#8217;m reading Benjamin Roth&#8217;s 
+<a href="https://www.goodreads.com/notes/35451863-the-great-depression/30000791-stephen-hemingway?ref=bsop">Depression Diary</a>.
+I&#8217;ve made a few notes about it at <a href="https://goodreads.com">goodreads</a>. I try to add books I&#8217;ve read to <a href="https://www.goodreads.com/user/show/30000791-stephen-hemingway">my goodreads account</a>. 
+I&#8217;ve still got a lot on Amazon, but I try …</p>
+                <a class="readmore" href="/books.html">read more</a>
+                </div><!-- /.entry-content -->
+            </article></li>
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="/pelican_notes.html" rel="bookmark"
+                           title="Permalink to How I set up this site">How I set up this&nbsp;site</a></h1>
+                </header>
+
+                <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2020-05-11T10:22:00+01:00">
+                Published: Mon 11 May 2020
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="/author/stevehemingway.html">stevehemingway</a>
+        </address>
+<p>In <a href="/category/2020.html">2020</a>.</p>
+
+</footer><!-- /.post-info -->                <p>This is a note for me, to remember how to create a new&nbsp;entry.</p>
+<p>I had to fiddle a bit with Pelican to make it work <span class="caps">OK</span> on Windows and
+to allow me to use a custom domain on github. 
+You can see the full gory details at&nbsp;https://github …</p>
+                <a class="readmore" href="/pelican_notes.html">read more</a>
                 </div><!-- /.entry-content -->
             </article></li>
 

@@ -1,6 +1,7 @@
 PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
+PORT=8001
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content

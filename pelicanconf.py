@@ -18,7 +18,7 @@ EXTRA_PATH_METADATA = {
 
 AUTHOR = 'stevehemingway'
 SITENAME = 'Monologue Blog'
-SITESUBTITLE = 'Knebworth musings'
+SITESUBTITLE = 'random thoughts about random things'
 # SITEURL = 'https://stevehemingway.github.io'
 # SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
