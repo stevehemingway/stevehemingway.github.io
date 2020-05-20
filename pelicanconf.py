@@ -16,7 +16,7 @@ EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
 }
 
-AUTHOR = 'stevehemingway'
+AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
 SITESUBTITLE = 'random thoughts about random things'
 # SITEURL = 'https://stevehemingway.github.io'
