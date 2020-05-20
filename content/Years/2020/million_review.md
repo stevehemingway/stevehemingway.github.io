@@ -1,5 +1,5 @@
 title: Stolen from Max Nova's Review of Jim Paul's Book
-status: draft
+status: published
 date: 2020-5-10
 slug: million
 

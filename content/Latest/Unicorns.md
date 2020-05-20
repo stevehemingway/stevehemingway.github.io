@@ -10,7 +10,7 @@ connection and a smartphone. It's nice of the providers of capital to pay for th
 But, hold on: we are the providers. We all are, *de facto*, providers and consumers of capital.
 
 Martin Wolf in the FT pointed out recently that all this debt, all this foregone consumption, is gone forever.
-Nobody is going enjoy it in the future. Not current savers. Not their descendents.
+Nobody is going enjoy it in the future. Not current savers. Not their descendents ([Wolf channels Marriner Eccles](https://www.ft.com/content/2c5ddbd0-8e09-11ea-9e12-0d4655dbd44f)).
 
 I have always believed that the way to address extreme inequality in society is via a tax on capital transfers,
 before and after death. I'm arguing above that this won't be needed, but it would speed things up. 

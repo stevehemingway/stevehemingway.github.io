@@ -1,7 +1,6 @@
 title: Books I'm reading
 date: 2020-05-11 11:48
 slug: books
-category: 2020
 
 # My Day
 

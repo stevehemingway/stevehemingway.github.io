@@ -1,7 +1,6 @@
 title: This is the taste of toast
 date: 15 march 2020
 slug: toast
-category: Latest
 
 
 # Is this molecule the taste of toast?

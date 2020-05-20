@@ -1,7 +1,6 @@
 title: Bonds may be leading us up the garden path
 date: 2020-05-13 10:53
 slug: bond-garden
-category: 2020
 
 # Markets are hard to read
 
