@@ -12,6 +12,6 @@ It's a very clever thesis, but of course people have been predicting runaway inf
 
 The Market Huddle has a terrible website, but you should be able to find the podcast via your favourite podcast app or YouTube. You might be able to reach it [here](https://markethuddle.com/welcome/episodes/). 
 
-I was a huge fan of [The Macro Tourist](https://www.themacrotourist.com/) newsletter, but I can't justify another paid-for subscription, especially as Kevin is so reliably wrong about the markets. If you want a suggestion or ten, take a look at [my very own twitter list of 'top commentators'](https://twitter.com/i/lists/1133094353272860673).
+I was a huge fan of [The Macro Tourist](https://www.themacrotourist.com/) newsletter, but I can't justify another paid-for subscription, especially as Kevin is so reliably wrong about the markets. There is a huge amount of really good insight offered for free. Obviously, some of these guys are talking their own book, but that means that they have skin in the game! Take a look at [my very own twitter list of 'top commentators'](https://twitter.com/i/lists/1133094353272860673) but read everything *cum grano salis*.
 
 
