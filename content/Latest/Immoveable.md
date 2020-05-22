@@ -1,7 +1,7 @@
 title: Immoveable objects
 
 
-# Bull and Bear, Immoveable Object meets irresisbile force. Which will win out?
+# Bull and Bear, Immovable Object meets Irresistible Force. Which will win out?
 
 [Charlie Bilello](https://compoundadvisors.com) is one of the many
 great commentators who collate data and give analysis to us for free. 
