@@ -1,4 +1,5 @@
 title: It's different this time (we're getting inflation)
+date: 2020-05-20
 
 # Another serious commentator sees inflation clouds on the horizon
 

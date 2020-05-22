@@ -1,5 +1,5 @@
 title: trading log, 22 May 2020
-category:trading
+category:Trading
 
 # 22 May 2020
 
