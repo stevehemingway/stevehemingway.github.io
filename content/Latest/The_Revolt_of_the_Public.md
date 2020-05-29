@@ -20,13 +20,21 @@ but actually from their arrogance and lack of morality: something that cannot be
 however hard the elites try. Mind you, free Netflix for everyone would go a long way ...
 
 The interview is wonderfully wide-ranging. Where else could you find the 30-years War, the 30 pesos protest in Chile, the 30 Years War in 17th Century, the Treaty of Westphalia,
-Brexit, the Arab Spring, Daniel Ortega, the 1968 global protest movement, the Bolshevik Revolution,  
+Brexit, the Arab Spring, Daniel Ortega, the 1968 global protest movement, the Bolshevik Revolution, 
 Occupy Wall St., annihilism, les gilets jaunes, and protests in Tel Aviv, Arnold Kling all used to illustrate the underlying
 argument that Gurri presents. Trump is mentioned, but only fleetingly.
 
-Gurri talks about "flattening the pyramid" as the way forward: shortening the chain between rulers and the ruled. I am not convinced.
+Gurri talks about "flattening the pyramid" as the way forward: shortening the chain between rulers and the ruled. I am not convinced that this is enough, although I don't pretend to forecast how things will
+pan out.
+Popular revolution has always ended badly, with just another oligarchy at the top. The Internet is a big thing, but most individuals are
+apathetic (or, to be less judgemental, rationally ignorant) and still 
+just want to have a quiet life and enough to eat and drink. Bryan Caplan has written eloquently on this.
 
 An example quote to whet your appetite:
 > I think there needs to be something more fundamental than that, or let's say, less structural than that. And, that gets back to the Yuval Levin point, which is: there is something broken with our elites today. As is almost--wanders into an area which I find very tricky, which is morality. All right? But, in the end, politics is determined by morality, by what we think is right and wrong.
 
 And, as a bonus, we get to hear why  Russ Roberts is a great fan of the Netflix series "The Crown." 
+
+---
+
+[Gurri's Blog](https://thefifthwave.wordpress.com/) [Unread by me as yet!]
