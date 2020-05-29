@@ -1,4 +1,5 @@
 Summary: "September Parish News"
+category: politics
 title: Byelaws, Planning Portal Software, Chas Lowe site
 date: 2017-09-01T10:47:26Z
 modified: 2020-05-09

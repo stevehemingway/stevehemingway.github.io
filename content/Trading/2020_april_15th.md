@@ -1,4 +1,5 @@
 title: 15th April 2020
+category: trading
 
 # 15th April 2020
 

@@ -1,4 +1,5 @@
 title: 1st April 2020
+category: trading
 
 # 1st April 2020
 

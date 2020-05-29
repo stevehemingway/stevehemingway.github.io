@@ -1,4 +1,5 @@
 date: 2017-04-06T09:42:12+01:00
+category: politics
 title: Toeing the Party Line
 lang: EN-gb
 modified: 2020-05-09

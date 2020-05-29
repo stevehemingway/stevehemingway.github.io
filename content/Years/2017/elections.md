@@ -1,4 +1,5 @@
 title: County Election Results 4 May 2017
+category: politics
 date: 2017-05-05T09:51:37+01:00
 lang: EN-gb
 modified: 2020-05-09

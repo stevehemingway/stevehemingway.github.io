@@ -1,4 +1,5 @@
 title:  13th March 2020 — Friday the thirteenth! March 2020
+category: trading
 date: 2020-03-30
 
 ## Trades

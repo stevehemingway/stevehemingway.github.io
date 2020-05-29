@@ -1,4 +1,5 @@
 title:  14th March 2020 \(Saturday\) March 2020
+category: trading
 date: 2020-03-30
 
 No trading today \(obviously\). Ridiculous ramp by Donny yesterday evening, announcing huge stimulus package. The FED has restarted QE and has pumped unprecented quantities of cash into the banks via repo madness. There seems to be some evidence that the virus is fully under control in China. In Europe, the rate of growth is not as bad as anticipated, and the overall death rate is modest. Gold and gold miners have taken a beating. Bitcoin has been slammed. Amazingly, bonds, especially Bunds, have stumbled.

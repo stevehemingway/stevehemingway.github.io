@@ -1,8 +1,9 @@
 title: CAA consultation
+category: politics
 date: 2017-06-14
 modified: 2020-05-09
 Summary: "CAA Consultation on decision making process"
-lang: EN-gb
+lang: EN-gb
 
 
 I received the following email letter today, and I thought it would be useful to share it with local residents. Luton airport is an important 

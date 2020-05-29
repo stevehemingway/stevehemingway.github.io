@@ -1,4 +1,5 @@
 title: Incredible Hulks 
+category: trading
 
 # 23rd April 2020
 

@@ -1,4 +1,5 @@
 title: Link Post
+category: trading
 
 # 4th/5th April 2020
 

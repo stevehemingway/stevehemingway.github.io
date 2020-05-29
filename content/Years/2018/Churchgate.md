@@ -1,4 +1,5 @@
 date: 2018-01-31T17:42:37Z 
+category: politics
 title: Press Release from NHDC re Churchgatetitle: "Churchgate"
 modified: 2020-05-09
 lang: EN-gb

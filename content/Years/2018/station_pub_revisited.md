@@ -1,4 +1,5 @@
 title: Update on the Station Pub
+category: politics
 date: 2018-09-10
 modified: 2020-05-09
 lang: EN-gb

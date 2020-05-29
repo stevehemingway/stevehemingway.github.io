@@ -1,4 +1,5 @@
 title: Aggregates Yard Planning Application
+category: politics
 date: 2018-03-16
 modified: 2020-05-09
 lang: EN-gb

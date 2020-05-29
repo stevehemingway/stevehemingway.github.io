@@ -1,4 +1,5 @@
 date: 2017-03-09T15:36:40Z
+category: politics
 title: Redevelopment of Chas Lowe Site
 Summary: "Redevelopment of Chas Lowe Site"
 lang: EN-gb

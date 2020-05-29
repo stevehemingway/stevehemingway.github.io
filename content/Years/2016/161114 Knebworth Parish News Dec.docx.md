@@ -1,4 +1,5 @@
 date: 2016-12-01
+category: politics
 title: DECEMBER UPDATE
 lang: EN-gb
 

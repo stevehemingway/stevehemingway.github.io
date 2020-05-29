@@ -1,4 +1,5 @@
 date: 2017-03-28T12:31:34+01:00
+category: politics
 title: April Newsletter
 modified: 2020-05-09
 lang: EN-gb

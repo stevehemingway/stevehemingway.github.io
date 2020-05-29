@@ -1,4 +1,5 @@
 date: 2017-02-21T22:57:46Z
+category: politics
 title: March NewsletterDescription: "Parish News Copy for March"
 lang: EN-gb
 modified: 2020-05-09

@@ -1,4 +1,5 @@
 Summary: "Dec Newsletter"
+category: politics
 title: Local Plan, Brown Bins, Dec Newsletter
 date: 2017-12-01T15:26:52
 modified: 2020-05-09

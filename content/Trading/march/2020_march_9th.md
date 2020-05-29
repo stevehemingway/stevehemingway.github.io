@@ -1,4 +1,5 @@
 title:  Monday 9th March 2020
+category: trading
 date: 2020-03-30
 
 Chaos overnight: Saudi declared war on Russia and pushed crude prices down to $32

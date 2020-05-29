@@ -1,4 +1,5 @@
 Summary: "Lessons that can be drawn from a local planning application"
+category: politics
 title: Travellers site at Pottersheath, Codicote
 date: 2017-11-01T11:43:51
 modified: 2020-05-09

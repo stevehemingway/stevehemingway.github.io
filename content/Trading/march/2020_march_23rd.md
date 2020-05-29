@@ -1,4 +1,5 @@
 title:  23rd March 2020 \(Monday\) March 2020
+category: trading
 date: 2020-03-30
 
 Usual drill: checked Twitter and tried to get a feel for the open. Mondays are spoopy because the US is still in the weekend. Feeling was bearish \(but ... I'm a perma-bear so what's new\). Hopefully, today will be free of any further massive govt. stimulus and bailout operations. But you never can tell what's coming next.

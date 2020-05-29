@@ -1,4 +1,5 @@
 title: October Parish News Article
+category: politics
 date: 2017-10-01
 modified: 2020-05-09
 lang: EN-gb

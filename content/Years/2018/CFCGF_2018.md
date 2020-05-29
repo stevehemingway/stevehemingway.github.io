@@ -1,4 +1,5 @@
 title: Community Facilities Capital Grant Fund
+category: politics
 date: 2018-04-15
 modified: 2020-05-09
 lang: EN-gb

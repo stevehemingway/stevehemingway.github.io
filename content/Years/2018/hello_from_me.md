@@ -1,4 +1,5 @@
 title: "A voice from the past"
+category: politics
 date: 2018-09-06
 modified: 2020-05-09
 lang: EN-gb

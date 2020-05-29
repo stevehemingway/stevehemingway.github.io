@@ -1,4 +1,5 @@
 title:  12th March 2020 March 2020
+category: trading
 date: 2020-03-30
 
 ## About

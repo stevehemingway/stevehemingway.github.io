@@ -1,4 +1,5 @@
 ---
+category: trading
 title: Oil goes to negative price!
 ---
 

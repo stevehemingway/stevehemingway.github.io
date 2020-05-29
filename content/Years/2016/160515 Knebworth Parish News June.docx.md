@@ -1,4 +1,5 @@
 date: 2016-06-01
+category: politics
 title: JUNE UPDATE
 lang: EN-gb
 

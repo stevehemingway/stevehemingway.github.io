@@ -1,4 +1,5 @@
 title:  17th March, 2020 \(Tuesday\) March 2020
+category: trading
 date: 2020-03-30
 
 Starting to be fearful of any continued \(short\) equity exposure. Markets have gone down 30+%. At some point they will bounce. Still short, and with loose stops because intra day fluctuations are large. Covid-19 is a severe headwind for the global economy. The big worry now is that markets will be closed and the authorities will bring out the fiscal bazookas \(or howitzers\) just at a time where I am locked into unfavourable positions.

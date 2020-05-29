@@ -1,4 +1,5 @@
 title: April Wrapup
+category: trading
 
 # April Overview
 

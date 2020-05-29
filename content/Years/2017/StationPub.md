@@ -1,4 +1,5 @@
 title: Station Pub
+category: politics
 modified: 2020-05-09
 Summary: "The Station Pub, Knebworth, Campaign"
 date: 2017-02-13T14:12:17Z

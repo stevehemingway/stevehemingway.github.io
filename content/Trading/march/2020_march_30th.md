@@ -1,4 +1,5 @@
 title:  30 March 2020 March 2020
+category: trading
 date: 2020-03-30
 
 The week begins! The tail end of last week was pretty brutal, but nothing over the weekend gives any succour to the bulls.

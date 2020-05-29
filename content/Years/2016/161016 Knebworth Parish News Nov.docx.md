@@ -1,4 +1,5 @@
 date: 2016-11-01
+category: politics
 title: NOVEMBER UPDATE
 lang: EN-gb
 

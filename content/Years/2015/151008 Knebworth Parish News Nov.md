@@ -1,4 +1,5 @@
 title: NovemberSummary: "November Newsletter 2015"date: 2015-11-01T15:26:52
+category: politics
 modified: 2020-05-09
 lang: EN-gb
 

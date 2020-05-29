@@ -1,4 +1,5 @@
 title: January
+category: politics
 date: 2015-01-01T15:26:52Z
 Summary: "January Newsletter 2015"modified: 2020-05-09
 lang: EN-gb

@@ -1,4 +1,5 @@
 title: June 2017 Update 
+category: politics
 Summary: "June KPN Newsletter" 
 date: 2017-05-16
 lang: EN-gb

@@ -1,4 +1,5 @@
 date: 2016-08-01
+category: politics
 title: AUGUST UPDATE
 lang: EN-gb
 

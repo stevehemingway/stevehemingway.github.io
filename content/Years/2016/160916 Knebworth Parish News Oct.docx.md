@@ -1,4 +1,5 @@
 date: 2016-10-01
+category: politics
 title: OCTOBER UPDATE
 lang: EN-gb
 

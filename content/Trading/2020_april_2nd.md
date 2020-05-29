@@ -1,4 +1,5 @@
 title: 2nd April 2020 \(Jerry's birthday\)
+category: trading
 
 # 2nd April 2020 \(Jerry's birthday\)
 

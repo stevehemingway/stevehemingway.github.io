@@ -1,4 +1,5 @@
 title: 6th Apr 2020
+category: trading
 
 # 6th Apr 2020 
 

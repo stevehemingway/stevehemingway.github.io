@@ -1,4 +1,5 @@
 title: Markets fluctuate
+category: trading
 
 # 22nd April
 

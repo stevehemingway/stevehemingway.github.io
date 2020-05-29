@@ -1,8 +1,9 @@
 title: Knebworth Parish News, Sept 2014
+category: politics
 date: 2014-09-01
 modified: 2020-05-09
 lang: EN-gb
-Summary: "Proposal to build a solar farm"
+Summary: "Proposal to build a solar farm"
 
 # Swangley's Farm Solar PV
 

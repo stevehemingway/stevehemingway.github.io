@@ -1,4 +1,5 @@
 date: 2017-03-12
+category: politics
 title: A Vision for Knebworth
 Summary: "Some useful links for getting involved"
 lang: EN-gb

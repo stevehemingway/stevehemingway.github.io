@@ -1,4 +1,5 @@
 title:  Thursday 26th March 2020 March 2020
+category: trading
 date: 2020-03-30
 
 Still reeling from the huge rally on Tuesday. Initial unemployment claims hit _3.3 million_ and the SPX goes up by 4%. This is truly an incomprehensible market.

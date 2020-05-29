@@ -1,4 +1,5 @@
 title: Friday 3rd April 2020
+category: trading
 
 # Friday 3rd April 2020
 

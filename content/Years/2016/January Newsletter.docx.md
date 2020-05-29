@@ -1,4 +1,5 @@
 title: January 2016
+category: politics
 date: 2016-01-01T15:26:52Z
 Summary: "January Newsletter 2016"
 modified: 2020-05-09

@@ -1,4 +1,5 @@
 title: NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE
+category: politics
 date: 2018-03-01
 modified: 2020-05-09
 lang: EN-gb

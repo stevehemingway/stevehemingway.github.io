@@ -1,4 +1,5 @@
 title: Maydate: 2015-05-01T15:26:52Z
+category: politics
 Summary: "May Newsletter 2015"modified: 2020-05-09
 lang: EN-gb
 

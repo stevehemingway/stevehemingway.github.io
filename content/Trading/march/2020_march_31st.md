@@ -1,4 +1,5 @@
 title:  Tuesday 31st March 2020 March 2020
+category: trading
 date: 2020-03-30
 
 Well, this is the end of the quarter. The last week has been horrid, but the quarter as a whole will be OK.

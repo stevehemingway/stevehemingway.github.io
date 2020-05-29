@@ -1,4 +1,5 @@
 date: 2014-11-01T15:36:40Z
+category: politics
 title: November Article
 Summary: "Surgery, Solar Farm, Cricket Club, Bulwer Lytton"
 lang: EN-gb

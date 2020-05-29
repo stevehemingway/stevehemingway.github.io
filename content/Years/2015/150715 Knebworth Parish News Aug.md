@@ -1,4 +1,5 @@
 title: AugustSummary: "August Newsletter 2015"date: 2015-08-01T15:26:52Z
+category: politics
 modified: 2020-05-09
 lang: EN-gb
 
