@@ -1,8 +1,8 @@
 #!/bin/bash
 
-for i in *.md
+for i in *april*.md
 do
-	sed -i '1 a category: trading' "$i"
+	sed -i 's/2020-04-31/2020-04-30/' "$i"
 done
 
 

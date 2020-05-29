@@ -1,4 +1,5 @@
 ---
+date: 2020-04-30
 category: trading
 description: tweaks to port
 ---

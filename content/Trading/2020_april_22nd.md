@@ -1,4 +1,5 @@
 title: Markets fluctuate
+date: 2020-04-30
 category: trading
 
 # 22nd April
