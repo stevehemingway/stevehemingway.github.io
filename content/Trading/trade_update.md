@@ -1,7 +1,6 @@
 title: trading log, 22 May 2020
 category: trading
-
-# 22 May 2020
+date: 2020-05-22
 
 Not traded for a bit. Some small trades:
 
