@@ -9,9 +9,11 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 CUSTOM_DOMAIN_NAME=www.stevehemingway.com
+CACHEDIR=$(BASEDIR)/__pycache__
 
 
 GITHUB_PAGES_BRANCH=master
+GITHUB_SOURCE_BRANCH=content
 
 
 DEBUG ?= 0
@@ -38,6 +40,7 @@ help:
 	@echo '   make ssh_upload                     upload the web site via SSH        ';
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  ';
 	@echo '   make github                         upload the web site via gh-pages   ';
+	@echo '   make upload                         do a git push to github ';
 	@echo '                                                                          ';
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   ';
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    ';
@@ -48,6 +51,7 @@ html:
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
+	[ ! -d $(CACHEDIR) ] || rm -rf $(CACHEDIR)
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -82,5 +86,7 @@ github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
+upload: 
+	git push origin $(GITHUB_SOURCE_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github

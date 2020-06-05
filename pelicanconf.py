@@ -18,7 +18,7 @@ EXTRA_PATH_METADATA = {
 
 AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
-SITESUBTITLE = 'random thoughts about random things'
+SITESUBTITLE = 'investing, economics, maths, Knebworth, politics ...'
 # SITEURL = 'https://stevehemingway.github.io'
 # SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -31,6 +31,12 @@ YEAR_ARCHIVE_URL = ''
 # GITHUB_URL = 'https://github.com/stevehemingway/stevehemingway.github.io'
 FILENAME_METADATA = '(?P<title>.*)'
 DEFAULT_DATE = 'fs'
+USE_FOLDER_AS_CATEGORY = False
+
+# add search (see https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
+# PLUGINS = ['tipue_search.tipue_search']
+# this doesn't work: you have to use a theme that supports this type of search
+
 
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
 #CACHE_CONTENT = False
