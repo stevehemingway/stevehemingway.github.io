@@ -1,7 +1,7 @@
 title: Follow the Leaders
 tags: books, Livermore
-
 category: trading
+
 ## FOLLOW THE LEADERS
 
 There is always the temptation in the stock market, after a period of success, to become careless or excessively ambitious. Then it requires sound common sense and clear thinking to keep what you have. But it is not necessary to lose your money, once you have acquired it, if you will hold fast to sound principles.
@@ -35,4 +35,9 @@ After taking his initial position, if the stock acted right, the speculator coul
 On the other hand, as I have implied previously, the speculator of today who has the patience and judgment to wait the proper time for acting has, in my opinion, a better chance of cashing in good profits eventually, because the current market does not lend itself to So many artificial movements, movements that far too frequently in the old days jarred all scientific calculations out of kilter.
 
 It is obvious, therefore, that in light of conditions which exist today, no speculator who is intelligent will permit himself to operate on that scale which was more or less a commonplace some years ago. He will study a limited number of groups and of leaders in those groups. He will learn to look before he leaps. For a new age of markets has been ushered in—an age that offers safer opportunities for the reasonable, studious, competent investor and speculator.
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

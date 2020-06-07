@@ -1,7 +1,7 @@
 title: The Pivotal Point
 tags: books, Livermore
-
 category: trading
+
 ## THE PIVOTAL POINT
 
 WHENEVER I have had the patience to wait for the market to arrive at what I call a "Pivotal Point" before I started to trade, I have always made money in my operations.
@@ -110,4 +110,9 @@ It would not surprise me if the persons who in the future follow my methods of k
 
 
 If they are able to do so, you may rest assured that I will not be jealous of their success!
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

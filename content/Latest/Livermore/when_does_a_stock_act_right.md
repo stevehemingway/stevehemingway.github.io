@@ -1,7 +1,7 @@
 title: When Does a Stock Act Right?
 tags: books, Livermore
-
 category: trading
+
 ## WHEN DOES A STOCK ACT RIGHT?
 
 Stocks, like individuals, have character and personality. Some are high-strung, nervous, and jumpy: others are forthright, direct, logical. One comes to know and respect individual securities. Their action is predictable under varying sets of conditions.
@@ -46,4 +46,9 @@ Many years ago I heard of a remarkably successful speculator who lived in the Ca
 "Well," he replied, "I make speculation a business. I would be a failure if I were in the confusion of things and let myself be distracted by minor changes. I like to be away where I can think. You see, I keep a record of what has happened, after it has happened, and it gives me a rather clear picture of what markets are doing. Real movements do not end the day they start. It takes time to complete the end of a genuine movement. By being up in the mountains I am in a position to give these movements all the time they need. But a day comes when I get some prices out of the paper and put them down in my records. I notice the prices I recorded are not conforming to the same pattern of movements that has been apparent for some time. Right then I make up my mind. I go to town and get busy."
 
 That happened many years ago. Consistently, the man from the mountains, over a long period of time, drew funds abundant1y from the stock market. He was something of an inspiration to me. I went to work harder than ever trying to blend the time element with all the other data I had compiled. By constant effort I was able to bring my records into a co-ordination that aided me to a surprising degree in anticipating coming movements.
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

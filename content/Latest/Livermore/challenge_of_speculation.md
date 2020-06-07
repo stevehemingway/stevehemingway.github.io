@@ -1,7 +1,7 @@
 title: The Challenge of Speculation
 tags: books, Livermore
-
 category: trading
+
 ## THE CHALLENGE OF SPECULATION
 
 The game of speculation is the most uniformly fascinating game in the world. But it is not a game for the stupid, the mentally lazy, the man of inferior emotional balance, nor for the get-rich-quick adventurer. They will die poor.
@@ -86,4 +86,9 @@ Conversely, never buy a stock because it has had a big decline from its previous
 It may surprise many to know that in my method of trading, when I see by my records that an upward trend is in progress, I become a buyer as soon as a stock makes a new high on its movement, after having had a formal reaction. The same applies whenever I take the short side. Why? Because I am following the trend at the time. My records signal me to go ahead! I never buy on reactions or go short on rallies.
 
 One other point: It, is foolhardy to make a second trade, if your first trade shows you a loss. Never average Losses. Let that thought be written indelibly upon your mind.
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

@@ -1,7 +1,7 @@
 title: Money in the Hand
 tags: books, Livermore
-
 category: trading
+
 ## MONEY IN THE HAND
 
 When you are handling surplus income do not delegate the task to anyone. whether you are dealing In millions or in thousands the same principal lesson applies. It is your money. It will remain with you just so long as you guard it. Faulty speculation is one of the most certain ways of losing it.
@@ -49,4 +49,9 @@ The lesson here again is that speculation itself is a business and should be so 
 Now if the speculator were smart enough to know at just which time he should over-trade, the practice would be justified. He may know at times when he could or should over-trade. But once acquiring the habit, very few Solicitors are smart enough to stop. They are carried away, and they lose that peculiar sense of balance so essential to success. They never think of the day when they will be wrong. But that day arrives. The easy money takes wing, and another speculator is broke.
 
 Never make any trade unless you know you can do so with financial safety.
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

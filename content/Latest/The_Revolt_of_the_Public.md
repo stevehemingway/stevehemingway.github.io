@@ -37,4 +37,8 @@ And, as a bonus, we get to hear why  Russ Roberts is a great fan of the Netflix 
 
 ---
 
+## Follow-up links
+
 [Gurri's Blog](https://thefifthwave.wordpress.com/) [Unread by me as yet!]
+
+

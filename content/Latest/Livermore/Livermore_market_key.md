@@ -110,3 +110,8 @@ In the next chapter is given the exact reproduction of my records, with full exp
 
 
 
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
+

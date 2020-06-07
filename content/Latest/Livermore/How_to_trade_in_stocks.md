@@ -28,3 +28,8 @@ This classic book, first published in 1940, sets forth the specific trading tech
 1.  [The Million Dollar Blunder]({filename}million_dollar_blunder.md)
 1.  [The Three Million Dollar Profit]({filename}three_million_profit.md)
 1.  [The Livermore Market Key]({filename}Livermore_market_key.md)
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
+

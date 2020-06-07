@@ -78,3 +78,8 @@ Today operations of this kind are not possible, as the Commodities Exchange Admi
 
 I therefore believe the day of the old speculator has gone. His place will be taken in the future by the semi-investor, who, while not able to make such large sums in the market quickly, will be able to make more money over a given period and be able to keep it. I hold the firm belief that the future successful semi-investor will only operate at the psychological time and will eventually realize a much larger percentage out of every minor or major movement than the purely speculative-minded operator ever did.
 
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
+

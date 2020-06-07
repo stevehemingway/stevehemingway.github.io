@@ -1,6 +1,5 @@
 title: The Million Dollar Blunder
 tags: books, Livermore
-
 category: trading
 
 
@@ -78,4 +77,9 @@ I urge you always to keep a little notebook with you. Jot down interesting marke
 It cannot be said too often that in speculation and investment, success comes only to those who work for it. No one is going to hand you a lot of easy money. It is like the story of the penniless tramp. His hunger gave him the audacity to enter a restaurant and order "a big, luscious, thick, juicy steak," and, he added to the colored waiter, "tell your boss to make it snappy." In a moment the waiter ambled back and whined: "De boss say if he had dat steak here he'd eat it hisself."
 
 And if there was any easy money lying around, no one would be forcing it into your pocket.
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 

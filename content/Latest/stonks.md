@@ -1,4 +1,6 @@
 title: Buy when protestors are running in the streets
+category: trading
+tags: journal
 slug: stonks
 date: 2020-06-01
 

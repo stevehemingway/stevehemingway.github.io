@@ -1,6 +1,5 @@
 title: Preface
 tags: books, Livermore
-
 category: trading
 
 ## PREFACE
@@ -42,4 +41,9 @@ Man's most powerful weapon for self-betterment is the intelligent application of
 Whether or not risk-takers reading this work will make money by applying the lessons of Jesse Livermore to today's markets is of course a debatable question. But every reader of this book will be enriched by its wisdom, its sensible "rules"—and the signposts in it pointing up the dangers to risk-capital as represented by changing prices. Chances are this book's readers will turn to it time and again, as if to an old friend, for its richly informative pages can often be comforting—and consoling. Assuredly, it will help make anyone's stock market approach more pleasurable.
 
 PAUL SARNOFF
+
+--- 
+*Part of "How to Trade in Stocks" by Jesse Livermore.* 
+
+[Contents]({filename}How_to_trade_in_stocks.md) 
 
