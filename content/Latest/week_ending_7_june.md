@@ -1,8 +1,22 @@
-title: Week ending 7 June 2020
-date: 2020-6-7
+title: Wrap for week-ending 7 June 2020
+date: 2020-06-07
 category: trading
 tags: journal
 
+## Summary
+
+You kept your portfolio pretty much delta neutral, and you proved that this squelched 
+all the risk, and all the return too.
+
+Gradually, as it became apparent that investors perceive recent changes as signalling that the pandemic is coming to an end, you took off the risk-off hedges. You are long MXEA via calls. You have got some exposure to commodities via tankers etc. You've missed out on some spectacular breakouts (e.g. HYG, Chesapeake), but you've avoided losing money.  Definitely getting more bullish about Latin America, as a beaten-down region and as an inflation hedge.
+
+Over the weekend you listened to Louis-Vincent Gave extolling the virtues of RMB bonds, and the RMB as a new currency zone, plus Kuppy talking about guns and bitcoins. You listened to Max Kieser talking about bitcoins and gold to Chris Irons, but this was almost entirely for the entertainment value. Kieser has a point, though, talking about why we always bail out the creditors and never the debtors. 
+
+It seems weird to see markets rallying as city centres descend into chaos because of Black Lives Matters demos following the death of George Floyd (not the most attractive of martyrs).
+
+
+---
+The following is a random capture of what was happening.
 
 ## From Calculated Risk
 

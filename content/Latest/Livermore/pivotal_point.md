@@ -1,6 +1,7 @@
 title: The Pivotal Point
 tags: books, Livermore
 category: trading
+date: 2020-6-1
 
 ## THE PIVOTAL POINT
 
@@ -31,16 +32,10 @@ Well-defined trends of that kind do not occur very often—only once in about fo
 The Livermore Method of recording prices in conjunction with the time element is the result of over thirty years of study of principles which would serve me in forming a basic guide for the next important movement.
 
 
-After making my first record, I found it did not help me to any great extent. Weeks later I had a new thought which aroused me to fresh endeavors, only to find out that, while it was an improvement over the first one, it still did not give me the desired information. Successively new thoughts would come to mind, and I would make a set of new records. Gradually, after making many of these, I began to develop ideas I did not have before, and each succeeding record I made began to shape itself into better form. But from the time I started to merge the time element with price movements, my records began to talk to me!
+After making my first record, I found it did not help me to any great extent. Weeks later I had a new thought which aroused me to fresh endeavors, only to find out that, while it was an improvement over the first one, it still did not give me the desired information. Successively new thoughts would come to mind, and I would make a set of new records. Gradually, after making many of these, I began to develop ideas I did not have before, and each succeeding record I made began to shape itself into better form. But from the time I started to merge the time element with price movements, my records began to talk to me! Each record thereafter I put together in a different way, and these eventually enabled me to ascertain Pivotal Points and in turn demonstrate how to use them profitably marketwise. I have changed my calculations since then a number of times, but these records today are set up in such a way that they can talk to you also— if you but let them.
 
 
-Each record thereafter I put together in a different way, and these eventually enabled me to ascertain Pivotal Points and in turn demonstrate how to use them profitably marketwise. I have changed my calculations since then a number of times, but these records today are set up in such a way that they can talk to you also— if you but let them.
-
-
-When a speculator can determine the Pivotal Point of a stock and interpret the action at that point, he may make a commitment with the positive assurance of being right from the start.
-
-
-Many years ago I began profiting from the simplest type of Pivotal Point trades. Frequently I had observed that when a stock sold at 50. 100. 200 and even 300, a fast and straight movement almost invariably occurred after such points were passed.
+When a speculator can determine the Pivotal Point of a stock and interpret the action at that point, he may make a commitment with the positive assurance of being right from the start. Many years ago I began profiting from the simplest type of Pivotal Point trades. Frequently I had observed that when a stock sold at 50. 100. 200 and even 300, a fast and straight movement almost invariably occurred after such points were passed.
 
 
 My first attempt to profit on these Pivotal Points was in the old Anaconda stock. The instant it sold at 100, I placed an order to buy 4,000 shares. The order was not completed until the stock crossed 105 a few minutes later. That day it sold up about ten points more and the next day had another remarkable bulge. With only a few normal reactions of seven or eight points the advance continued to well over 150 in a short period of time. At no time was the Pivotal Point of 100 in danger.
@@ -49,16 +44,10 @@ My first attempt to profit on these Pivotal Points was in the old Anaconda stock
 From then on I rarely missed a big play where there was a Pivotal Point on which to work. When Anaconda sold at 200, I repeated my successful play and did the same thing again when it sold at 300. But on that occasion it did not carry through to the proper extent. It sold only to 302.75. Plainly it was flashing the danger signal. So I sold out my 8,000 shares, being fortunate enough to receive 300 a share for 5,000 shares and 299 for 1,500 shares. The 6,500 shares were sold in less than two minutes. But it took twenty-five minutes more to sell the remaining 1,500 shares in 100 and 200 lots down to 298.75. where the stock closed. I felt confident that if the stock broke below 300, it would have a swift downward movement. Next morning there was excitement. Anaconda was way down in London, opened in New York substantially lower, and within a few days was selling at 225.
 
 
-Bear in mind when using Pivotal Points in anticipating market movements, that if the stock does not perform as it should, after crossing the Pivotal Point, this is a danger signal which must be heeded.
+Bear in mind when using Pivotal Points in anticipating market movements, that if the stock does not perform as it should, after crossing the Pivotal Point, this is a danger signal which must be heeded. As shown in the above incident, the action of Anaconda, after crossing 100, entirely different than its action above 100 and 200, respectively. On those occasions there was a very fast advance of at least 10 to 15 points right after the Pivotal Point had been crossed. But this time, instead of the stock being hard to buy, the market was being supplied with quantities of it to such an extent, the stock simply could not continue its advance. Therefore the action of the stock right above 300 clearly showed it had become a dangerous stock to own. It clearly showed that what usually happens when a stock crosses its Pivotal Point was not going to be the case this time.
 
 
-As shown in the above incident, the action of Anaconda, after crossing 100, entirely different than its action above 100 and 200, respectively. On those occasions there was a very fast advance of at least 10 to 15 points right after the Pivotal Point had been crossed. But this time, instead of the stock being hard to buy, the market was being supplied with quantities of it to such an extent, the stock simply could not continue its advance. Therefore the action of the stock right above 300 clearly showed it had become a dangerous stock to own. It clearly showed that what usually happens when a stock crosses its Pivotal Point was not going to be the case this time.
-
-
-On another occasion I recall waiting three weeks before starting to buy Bethlehem Steel. On April 7, 1915, it had reached its highest Price on record:
-
-
-87.75. Having observed that stocks passing a Pivotal Point gained rapidly, and being confident that Bethlehem Steel would go through 100, on April 8 placed my first order to buy and accumulated my line from 99 up to 99.75. The same day the stock sold up to a high of 117. It never halted in its upward flight except for minor reactions until April 13, or five days later, when it sold at a high of 155, a breath-taking rise. This again illustrates the rewards which go to the person who has the patience to wait for and take advantage of the Pivotal Points.
+On another occasion I recall waiting three weeks before starting to buy Bethlehem Steel. On April 7, 1915, it had reached its highest Price on record: 87.75. Having observed that stocks passing a Pivotal Point gained rapidly, and being confident that Bethlehem Steel would go through 100, on April 8 placed my first order to buy and accumulated my line from 99 up to 99.75. The same day the stock sold up to a high of 117. It never halted in its upward flight except for minor reactions until April 13, or five days later, when it sold at a high of 155, a breath-taking rise. This again illustrates the rewards which go to the person who has the patience to wait for and take advantage of the Pivotal Points.
 
 
 But I was not through with Bethlehem. I repeated the operation at the 200 point, at the 300 point, and again at the dizzy Peak of 400. Nor had I finished, for I had anticipated what would happen in a bear market, when the stock broke the Pivotal Points on the way down. I learned the main thing was to watch the follow-through. I found it was an easy matter to turn around and get out of a position, when vitality was kicking after a stock crossed the line.
@@ -76,16 +65,10 @@ A stock may be brought out at 50, 60 or 70 a share, sell off 20 points or so, an
 By keeping stock price records and taking into consideration the time element, you will be able to find many Pivotal Points on which to make a commitment for a fast movement. But to educate yourself to trade on these points requires patience. You must devote time to the study of records, made and entered in the record-book only by yourself, and in making notes at which prices the Pivotal Points will be reached.
 
 
-Fascinating almost beyond belief, the study of Pivotal Points is, you will find, a golden field for personal research. You will derive from successful trades based on your own judgment a singular pleasure and satisfaction. You will discover that profits made in this way are immensely more gratifying than any which could possibly come from the tips or guidance of someone else. If you make your own discovery, trade your own way, exercise patience, watch for the danger signals, you will develop a proper trend of thinking.
+Fascinating almost beyond belief, the study of Pivotal Points is, you will find, a golden field for personal research. You will derive from successful trades based on your own judgment a singular pleasure and satisfaction. You will discover that profits made in this way are immensely more gratifying than any which could possibly come from the tips or guidance of someone else. If you make your own discovery, trade your own way, exercise patience, watch for the danger signals, you will develop a proper trend of thinking. In the last chapters of this book I explain in detail my own method of determining the more complex Pivotal Points in conjunction with the Livermore Market Method.
 
 
-In the last chapters of this book I explain in detail my own method of determining the more complex Pivotal Points in conjunction with the Livermore Market Method.
-
-
-Few people ever make money by trading on the occasional tips or recommendations of others. Many beg for information and then don't know how to use it.
-
-
-At a dinner party one night a lady kept pestering me beyond endurance for some market advice. In one of those weak moments I told her to buy some Cerro de Pasco which that day had crossed a Pivotal Point. From the next morning's opening the stock advanced 15 points during the next week with only trifling reactions. Then the action of the stock gave forth a danger signal. I recalled the lady's inquiry and hastened to have Mrs. Livermore telephone her to sell. Fancy my surprise to learn that she had not yet bought the stock as she first wanted to see whether my information was correct. So wags the world of market tips.
+Few people ever make money by trading on the occasional tips or recommendations of others. Many beg for information and then don't know how to use it. At a dinner party one night a lady kept pestering me beyond endurance for some market advice. In one of those weak moments I told her to buy some Cerro de Pasco which that day had crossed a Pivotal Point. From the next morning's opening the stock advanced 15 points during the next week with only trifling reactions. Then the action of the stock gave forth a danger signal. I recalled the lady's inquiry and hastened to have Mrs. Livermore telephone her to sell. Fancy my surprise to learn that she had not yet bought the stock as she first wanted to see whether my information was correct. So wags the world of market tips.
 
 
 Commodities frequently offer attractive Pivotal Points. Cocoa is traded in on the New York Cocoa Exchange. During most years the movements in this commodity do not offer many speculative inducements. Nevertheless, in making speculation a business, one automatically keeps an eye on all markets for the big opportunities.
