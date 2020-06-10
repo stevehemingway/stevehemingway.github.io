@@ -1,9 +1,9 @@
 title: Self-build and Custom Build Register
-category: politics
+category: knebworth
 date: 2018-03-27
 Summary: "Self-build and Custom Build Register"
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 You can use [The North Herts Self Build and Custom Build Register](https://www.north-herts.gov.uk/home/planning/planning-policy/self-build-and-custom-build-register)   to register yourself as wanting a plot in the District for a self-build home.
 New rules came into effect on 31 October 2016 which amended the Self-build and Custom Housebuilding Act 2015 and implemented Chapter 2 of the Housing and Planning Act 2016 which sets out provisions to support self-build and custom housebuilding.

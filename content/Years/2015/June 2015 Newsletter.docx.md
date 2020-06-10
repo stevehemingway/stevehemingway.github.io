@@ -1,7 +1,7 @@
 title: June 2015date: 2015-06-01T15:26:52Z
-category: politics
+category: knebworth
 Summary: "June Newsletter 2015"modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # June 2015 Newsletter
 The Annual Meeting of the Parish on Wednesday the 6th of May, where

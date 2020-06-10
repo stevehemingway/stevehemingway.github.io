@@ -1,8 +1,8 @@
 title: Aggregates Yard Planning Application
-category: politics
+category: knebworth
 date: 2018-03-16
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 Yesterday I spoke at [a Planning Control Committee meeting](http://web.north-herts.gov.uk/aksnherts/users/public/admin/kab14.pl?operation=SUBMIT&meet=135&cmte=PCC&grpid=public&arc=71). I was supporting the Parish Council, in the form of Cllr Roger Willcocks, in objecting to application, '17/02652/1 - 135A LONDON ROAD, KNEBWORTH, SG3 6EX'. This is the conversion of the old aggregates yard, part of Chas Lowe & Sons, into two 2-bed flats and two commercial (retail) units. The grounds on which we objected were principally to do with parking.
 Although we did our best to convince the committee to refuse permission, only two members agreed with us. The minimum parking standards had not been met, but the committee accepted that the location justified relaxing the standard. The full argument, as well as the text of the Parish Council objection, can be read in [the report of the Planning officer](http://web.north-herts.gov.uk/aksnherts/images/att13450.docx).

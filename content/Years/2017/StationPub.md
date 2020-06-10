@@ -1,10 +1,10 @@
 title: Station Pub
-category: politics
+category: knebworth
 modified: 2020-05-09
 Summary: "The Station Pub, Knebworth, Campaign"
 date: 2017-02-13T14:12:17Z
 comments = true
-lang: EN-gb
+tags: NHDC, politics
 
 My experience of the Station Pub in Knebworth is not one that makes me want to go back. The pub is cold, noisy and rarely populated by anyone I know. This is a pity, as it's a very short distance from where I live. A few months ago, word went out that it had been advertised for sale. There were a few discussions about it in the Parish Council, where we decided that we'd better apply for it to be listed as an asset of community value. Planning applications to develop a very high density development of flats have been received for the site across the road, which have so far been refused, but eventually will result in some residential development happening. In spite of the fact that this is not something that anyone who lives in the village want to see built.
 On Thursday, heard that the pub had closed its doors, and the staff had been redeployed in other Greene King pubs nearby. A flurry of activity happened, which resulted in:

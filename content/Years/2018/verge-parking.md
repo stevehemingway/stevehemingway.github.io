@@ -1,8 +1,8 @@
 title: Who is responsible for controlling verge parking?
-category: politics
+category: knebworth
 date: 2018-04-14
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 Over our long, wet winter in our congested village with its inadequate parking facilities, one issue comes up time and time again. This is the anti-social habit of drivers parking with one (or more) pairs of wheels on the grass verge, turning it into a muddy wreck.
 The solution is to contact:

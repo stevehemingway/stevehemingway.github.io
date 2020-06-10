@@ -1,8 +1,8 @@
 title: Community Facilities Capital Grant Fund
-category: politics
+category: knebworth
 date: 2018-04-15
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 North Hertfordshire District Council (NHDC) has awarded grant funding of over &pound;240,000 to a number of community buildings across the district.
 Knebworth Scout and Guide Group was awarded &pound;32,000 for essential maintenance to its circa 1950’s headquarters. The funding will be put towards roofing, paving and drainage repairs. It is hoped that further funding will be available from the Knebworth Village Trust, which provides capital grants to organisations which are wholly or mainly for the use of residents of the parish of Knebworth.

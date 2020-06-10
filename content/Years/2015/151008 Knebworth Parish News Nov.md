@@ -1,7 +1,7 @@
 title: NovemberSummary: "November Newsletter 2015"date: 2015-11-01T15:26:52
-category: politics
+category: knebworth
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 # **NOVEMBER UPDATE**

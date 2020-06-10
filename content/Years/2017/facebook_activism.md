@@ -1,8 +1,8 @@
 date: 2017-02-10T15:28:49Z
-category: politics
+category: knebworth
 title: Community engagement using Facebook
 Summary: "Facebook and Saving Pubs"
-lang: EN-gb
+tags: NHDC, politics
 
 
 # The Station Pub, Knebworth

@@ -1,8 +1,8 @@
 title: Sept
-category: politics
+category: knebworth
 date: 2015-09-01T15:26:52
 Summary: "Sept Newsletter 2015"modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # **SEPTEMBER UPDATE**
 ## NHDC – In the Summer **time**

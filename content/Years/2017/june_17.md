@@ -1,8 +1,8 @@
 title: June 2017 Update 
-category: politics
+category: knebworth
 Summary: "June KPN Newsletter" 
 date: 2017-05-16
-lang: EN-gb
+tags: NHDC, politics
 
 
 

@@ -1,8 +1,8 @@
 title: NORTH HERTFORDSHIRE DISTRICT COUNCIL – MARCH UPDATE
-category: politics
+category: knebworth
 date: 2018-03-01
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 Station Pub Planning Application (Ref 17/01622/1)
 =================================================

@@ -1,7 +1,7 @@
 date: 2016-08-01
-category: politics
+category: knebworth
 title: AUGUST UPDATE
-lang: EN-gb
+tags: NHDC, politics
 
 **Parking in Knebworth:** NHDC Councillor Julian Cunningham, the NHDC executive member with responsibility for parking policy, attended the Parish Council meeting in July. Cllr Cunningham ran through the Council’s current parking policy and confirmed that the underlying principles were unlikely to change in the new policy which is about to be developed.
 

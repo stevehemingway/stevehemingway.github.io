@@ -2,6 +2,8 @@ title: Stolen from Max Nova's Review of Jim Paul's Book
 status: published
 date: 2020-5-10
 slug: million
+tags: books
+category: trading
 
 I pinched all this from 
 [Max Nova's Review](http://books.max-nova.com/losing-a-million-dollars/). 
@@ -136,38 +138,6 @@ because of some innate trading ability.
     themselves, that is, short some other commodity (or stock) and make
     up the loss. There is no greater mistake than this. (W. D. Gann)
 
-It finally occurred to me that maybe **studying losses was more
-important than searching for some Holy Grail to making money**. So I
-started reading through all the material on the pros again and noted
-what they had to say about losses.
-
-  - My basic advice is don’t lose money. (Jim Rogers)
-  - I’m more concerned about controlling the downside. Learn to take the
-    losses. The most important thing in making money is not letting your
-    losses get out of hand. (Marty Schwartz)
-  - I’m always thinking about losing money as opposed to making money.
-    Don’t focus on making money; focus on protecting what you have.
-    (Paul Tudor Jones)
-  - One investor’s two rules of investing: Never lose money. Never
-    forget rule \#1. (Warren Buffett)
-  - The majority of unskilled investors stubbornly hold onto their
-    losses when the losses are small and reasonable. They could get out
-    cheaply, but being emotionally involved and human, they keep waiting
-    and hoping until their loss gets much bigger and costs them dearly.
-    (William O’Neil)
-  - Learn how to take losses quickly and cleanly. Don’t expect to be
-    right all the time. If you have a mistake, cut your loss as quickly
-    as possible. (Bernard Baruch)
-
-**The pros could all make money in contradictory ways because they all
-knew how to control their losses.** While one person’s method was making
-money, another person with an opposite approach would be losing — if the
-second person was in the market. And that’s just it; the second person
-wouldn’t be in the market. He’d be on the sidelines with a nominal loss.
-The pros consider it their primary responsibility not to lose money.
-
-**Learning how not to lose money is more important than learning how to
-make money.**
 
 ### PART TWO - LESSONS LEARNED
 
