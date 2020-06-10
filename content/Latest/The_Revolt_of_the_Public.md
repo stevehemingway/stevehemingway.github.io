@@ -1,6 +1,8 @@
 title: Martin Gurri on the Revolt of the Public
 date: 2020-05-28
 slug: peoples_revolt
+category: politics
+tags: podcasts
 
 I love long-form interviews, especially when driving or otherwise unable to read. 
 I listened to The Econtalk Episode in which Russ Roberts talks to Martin Gurri about his 2014 book, "The Revolt of the Public". 

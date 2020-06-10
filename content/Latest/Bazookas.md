@@ -1,6 +1,8 @@
 title: So why not load the bazooka with the kitchen sink and go nuclear?
 date: 2020-05-12 09:28
 slug: nuclear-sink
+category: trading
+tags: blogs, news, politics
 
 
 # The Fed goes where other CBs fear to tread

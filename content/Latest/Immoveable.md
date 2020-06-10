@@ -1,4 +1,6 @@
 title: Immoveable objects
+category: trading
+tags: blogs
 
 
 # Bull and Bear, Immovable Object meets Irresistible Force. Which will win out?
