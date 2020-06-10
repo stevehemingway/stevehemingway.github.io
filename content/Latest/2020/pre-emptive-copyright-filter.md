@@ -1,7 +1,8 @@
 title: Pre-emptive copyright filter
 date: 2018-09-12
 modified: 2020-05-09
-lang: EN-gb
+category: tech
+tags: privacy
 
 The European Parliament voted to burden every blog like this with an obligation to anticipate any possible copyright breach, even to the point of using the title of a title elsewhere.
 To my mind politicians do not understand the Internet and instinctively do the wrong thing. 

@@ -1,6 +1,8 @@
+title: What is the correct relationship between science, scientists, policy and politicians?
+date: 2020-5-10
+category: politics
+tags: science, tech
 
-
-# What is the correct relationship between science, scientists, policy and politicians?
 
 Given that almost no active national-level polician has any meaningful training in science 
 (even at an undergraduate level, but certaintly not as a research scientist),

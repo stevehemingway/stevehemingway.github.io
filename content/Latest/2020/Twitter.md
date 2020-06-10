@@ -1,10 +1,9 @@
 title: Is Twitter the key Social Media Platform?
-lang: EN-gb
-Summary: Is using Twitter worth it?
+category: tech
 date: 2017-02-05T10:13:50
 modified: 2020-5-9 12:55
 
-# My experience of the Twittersphere
+## Summary: Is using Twitter worth it?
 
 I've been on Twitter for a long time. Since 2007. From a time before Stephen Fry discovered the medium, and many years before Donald Trump did so. I've mainly used it passively. I kept my account private, and followed only those authors whose work interested me. A lot of libertarian comment and analysis, some humour, especially the dark side. I have a number of followers, but get virtually no engagement with them. They are either people I follow, and feel that it is only good manners to follow back, or people who somehow have the email address linked to the account in the address book they have handed over to Twitter Inc.
 
