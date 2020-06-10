@@ -20,7 +20,7 @@ AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
 SITESUBTITLE = 'politics, economics, maths, markets, Knebworth ...'
 # SITEURL = 'https://stevehemingway.github.io'
-# SITEURL = 'https://www.stevehemingway.com'
+SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
 #SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 SLUGIFY_SOURCE = 'title'
@@ -39,14 +39,12 @@ USE_FOLDER_AS_CATEGORY = False
 
 
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
-#CACHE_CONTENT = False
-#LOAD_CONTENT_CACHE = False
-
+CACHE_CONTENT = False
+LOAD_CONTENT_CACHE = False
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
-
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -61,7 +59,7 @@ LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
           ('Wall Street on Parade', 'https://wallstreetonparade.com'),
           ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
 	('Market Crumbs', 'https://www.marketcrumbs.com/'),
-	('KoyFin', 'https://www.marketcrumbs.com://www.koyfin.com/home'),
+	('KoyFin', 'https://www.koyfin.com/home'),
 	('The Market Ear', 'https://themarketear.com/'),)
 
 
@@ -74,14 +72,15 @@ SOCIAL = (('email', 'steve@stevehemingway.com'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # typographical improvements!
 
 TYPOGRIFY = True
-# Where your plug-ins reside
+
+# sitemap - may work only on wymondley
 PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
 PLUGINS=["sitemap",]
 
