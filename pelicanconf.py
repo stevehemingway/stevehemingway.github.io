@@ -18,7 +18,7 @@ EXTRA_PATH_METADATA = {
 
 AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
-SITESUBTITLE = 'investing, economics, maths, Knebworth, politics ...'
+SITESUBTITLE = 'politics, economics, maths, markets, Knebworth ...'
 # SITEURL = 'https://stevehemingway.github.io'
 # SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -59,12 +59,16 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
           ('The Felder Report', 'https://thefelderreport.com/'),
           ('Wall Street on Parade', 'https://wallstreetonparade.com'),
-          ('Credit Writedowns Newsletter', 'https://pro.creditwritedowns.com/'),
-	('Market Crumbs Newsletter', 'https://www.marketcrumbs.com/'),)
+          ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
+	('Market Crumbs', 'https://www.marketcrumbs.com/'),
+	('KoyFin', 'https://www.marketcrumbs.com://www.koyfin.com/home'),
+	('The Market Ear', 'https://themarketear.com/'),)
+
 
 # Social widget
 SOCIAL = (('email', 'steve@stevehemingway.com'),
-           ('twitter', 'https://twitter.com/steveknebworth'))
+	('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
+           ('twitter', 'https://twitter.com/steveknebworth'),)
 
 
 DEFAULT_PAGINATION = 10
@@ -72,7 +76,25 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # typographical improvements!
 
 TYPOGRIFY = True
+# Where your plug-ins reside
+PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+PLUGINS=["sitemap",]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
