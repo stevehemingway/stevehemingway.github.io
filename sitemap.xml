@@ -5,36 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2020-06-16T11:46:24-00:00</lastmod>
+<lastmod>2020-06-17T19:50:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2020-06-16T11:46:24-00:00</lastmod>
+<lastmod>2020-06-17T19:50:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/categories.html</loc>
-<lastmod>2020-06-16T11:46:24-00:00</lastmod>
+<lastmod>2020-06-17T19:50:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/authors.html</loc>
-<lastmod>2020-06-16T11:46:24-00:00</lastmod>
+<lastmod>2020-06-17T19:50:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2020-06-16T11:46:24-00:00</lastmod>
+<lastmod>2020-06-17T19:50:21-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/market-notes-17th-june-2020.html</loc>
+<lastmod>2020-06-17T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -1090,14 +1097,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/trading.html</loc>
-<lastmod>2020-06-16T00:00:00-00:01</lastmod>
+<lastmod>2020-06-17T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/journal.html</loc>
-<lastmod>2020-06-16T00:00:00-00:01</lastmod>
+<lastmod>2020-06-17T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1195,7 +1202,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/me.html</loc>
-<lastmod>2020-06-16T00:00:00-00:01</lastmod>
+<lastmod>2020-06-17T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
