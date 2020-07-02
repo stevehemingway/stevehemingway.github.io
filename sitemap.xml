@@ -5,36 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2020-07-01T21:45:23-00:00</lastmod>
+<lastmod>2020-07-02T21:00:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2020-07-01T21:45:23-00:00</lastmod>
+<lastmod>2020-07-02T21:00:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2020-07-01T21:45:23-00:00</lastmod>
+<lastmod>2020-07-02T21:00:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2020-07-01T21:45:23-00:00</lastmod>
+<lastmod>2020-07-02T21:00:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2020-07-01T21:45:23-00:00</lastmod>
+<lastmod>2020-07-02T21:00:02-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-2nd-july-2020.html</loc>
+<lastmod>2020-07-02T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -1195,7 +1202,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/trading.html</loc>
-<lastmod>2020-07-01T00:00:00-00:01</lastmod>
+<lastmod>2020-07-02T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1209,7 +1216,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tag/journal.html</loc>
-<lastmod>2020-07-01T00:00:00-00:01</lastmod>
+<lastmod>2020-07-02T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1314,7 +1321,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2020-07-01T00:00:00-00:01</lastmod>
+<lastmod>2020-07-02T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
