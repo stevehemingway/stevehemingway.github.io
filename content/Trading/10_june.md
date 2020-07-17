@@ -1,4 +1,4 @@
-title: market notes, 10 June 2020
+title: Market Notes, 10 June 2020
 date: 2020-6-10
 category: trading
 tags: journal

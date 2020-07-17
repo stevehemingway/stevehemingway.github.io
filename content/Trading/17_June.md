@@ -1,4 +1,4 @@
-title: market notes, 17th June 2020
+title: Market Notes, 17th June 2020
 date: 2020-6-17
 category: trading
 tags: journal

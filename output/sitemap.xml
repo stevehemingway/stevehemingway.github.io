@@ -4,1170 +4,1401 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>/</loc>
-<lastmod>2020-06-10T18:14:15-00:00</lastmod>
+<loc>https://www.stevehemingway.com/</loc>
+<lastmod>2020-07-17T16:08:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tags.html</loc>
-<lastmod>2020-06-10T18:14:15-00:00</lastmod>
+<loc>https://www.stevehemingway.com/tags.html</loc>
+<lastmod>2020-07-17T16:08:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/categories.html</loc>
-<lastmod>2020-06-10T18:14:15-00:00</lastmod>
+<loc>https://www.stevehemingway.com/categories.html</loc>
+<lastmod>2020-07-17T16:08:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/authors.html</loc>
-<lastmod>2020-06-10T18:14:15-00:00</lastmod>
+<loc>https://www.stevehemingway.com/authors.html</loc>
+<lastmod>2020-07-17T16:08:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/archives.html</loc>
-<lastmod>2020-06-10T18:14:15-00:00</lastmod>
+<loc>https://www.stevehemingway.com/archives.html</loc>
+<lastmod>2020-07-17T16:08:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/unicorns.html</loc>
+<loc>https://www.stevehemingway.com/market-notes-17th-july-2020.html</loc>
+<lastmod>2020-07-17T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-14th-july-2020.html</loc>
+<lastmod>2020-07-14T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-13th-july-2020.html</loc>
+<lastmod>2020-07-13T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/weekly-wrap-11th-july-2020.html</loc>
+<lastmod>2020-07-11T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-10th-july-2020.html</loc>
+<lastmod>2020-07-10T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-9th-july-2020.html</loc>
+<lastmod>2020-07-09T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-8th-july-2020.html</loc>
+<lastmod>2020-07-08T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-7th-july-2020.html</loc>
+<lastmod>2020-07-07T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-6th-july-2020.html</loc>
+<lastmod>2020-07-06T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-4-5th-july-2020.html</loc>
+<lastmod>2020-07-05T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-3rd-july-2020.html</loc>
+<lastmod>2020-07-03T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-2nd-july-2020.html</loc>
+<lastmod>2020-07-02T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-1st-july-2020.html</loc>
+<lastmod>2020-07-01T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-and-a-bit-of-science-30th-june-2020.html</loc>
+<lastmod>2020-06-30T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/comments-on-goves-ditchley-lecture-29th-june-2020.html</loc>
+<lastmod>2020-06-29T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-29th-june-2020.html</loc>
+<lastmod>2020-06-29T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-27-28th-june-2020.html</loc>
+<lastmod>2020-06-28T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-26th-june-2020.html</loc>
+<lastmod>2020-06-26T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-25th-june-2020.html</loc>
+<lastmod>2020-06-25T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-24th-june-2020.html</loc>
+<lastmod>2020-06-24T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-23rd-june-2020.html</loc>
+<lastmod>2020-06-23T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-23rd-june-2020-part-ii.html</loc>
+<lastmod>2020-06-23T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-22nd-june-2020.html</loc>
+<lastmod>2020-06-22T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-20th-june-2020.html</loc>
+<lastmod>2020-06-20T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-19th-june-2020.html</loc>
+<lastmod>2020-06-19T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-18th-june-2020.html</loc>
+<lastmod>2020-06-18T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-17th-june-2020.html</loc>
+<lastmod>2020-06-17T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-16th-june-2020.html</loc>
+<lastmod>2020-06-16T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-15th-june-2020.html</loc>
+<lastmod>2020-06-15T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-12-june-2020.html</loc>
+<lastmod>2020-06-12T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-11-june-2020.html</loc>
+<lastmod>2020-06-11T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/unicorns.html</loc>
 <lastmod>2020-06-10T13:48:20+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/immoveable-objects.html</loc>
+<loc>https://www.stevehemingway.com/immoveable-objects.html</loc>
 <lastmod>2020-06-10T13:46:25+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/15-may-2020.html</loc>
+<loc>https://www.stevehemingway.com/15-may-2020.html</loc>
 <lastmod>2020-06-10T13:45:27+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/market-notes-10-june-2020.html</loc>
+<loc>https://www.stevehemingway.com/market-notes-10-june-2020.html</loc>
 <lastmod>2020-06-10T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/commentary-9-june-2020.html</loc>
+<loc>https://www.stevehemingway.com/commentary-9-june-2020.html</loc>
 <lastmod>2020-06-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-challenge-of-speculation.html</loc>
+<loc>https://www.stevehemingway.com/the-challenge-of-speculation.html</loc>
 <lastmod>2020-06-08T16:51:46+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/follow-the-leaders.html</loc>
+<loc>https://www.stevehemingway.com/follow-the-leaders.html</loc>
 <lastmod>2020-06-07T15:37:36+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-million-dollar-blunder.html</loc>
+<loc>https://www.stevehemingway.com/the-million-dollar-blunder.html</loc>
 <lastmod>2020-06-07T15:34:38+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/money-in-the-hand.html</loc>
+<loc>https://www.stevehemingway.com/money-in-the-hand.html</loc>
 <lastmod>2020-06-07T15:33:32+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/preface.html</loc>
+<loc>https://www.stevehemingway.com/preface.html</loc>
 <lastmod>2020-06-07T15:31:10+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/when-does-a-stock-act-right.html</loc>
+<loc>https://www.stevehemingway.com/when-does-a-stock-act-right.html</loc>
 <lastmod>2020-06-07T15:26:47+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the_government_will_pay.html</loc>
+<loc>https://www.stevehemingway.com/the_government_will_pay.html</loc>
 <lastmod>2020-06-07T15:25:48+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/stop-losses.html</loc>
+<loc>https://www.stevehemingway.com/stop-losses.html</loc>
 <lastmod>2020-06-07T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/wrap-for-week-ending-7-june-2020.html</loc>
+<loc>https://www.stevehemingway.com/wrap-for-week-ending-7-june-2020.html</loc>
 <lastmod>2020-06-07T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/how_to_trade_in_stocks_livermore.html</loc>
+<loc>https://www.stevehemingway.com/how_to_trade_in_stocks_livermore.html</loc>
 <lastmod>2020-06-06T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/explanatory-rules.html</loc>
+<loc>https://www.stevehemingway.com/explanatory-rules.html</loc>
 <lastmod>2020-06-05T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-livermore-market-key.html</loc>
+<loc>https://www.stevehemingway.com/the-livermore-market-key.html</loc>
 <lastmod>2020-06-05T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-three-million-dollar-profit.html</loc>
+<loc>https://www.stevehemingway.com/the-three-million-dollar-profit.html</loc>
 <lastmod>2020-06-05T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/stonks.html</loc>
+<loc>https://www.stevehemingway.com/stonks.html</loc>
 <lastmod>2020-06-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-pivotal-point.html</loc>
+<loc>https://www.stevehemingway.com/the-pivotal-point.html</loc>
 <lastmod>2020-06-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/may-wrapup.html</loc>
+<loc>https://www.stevehemingway.com/may-wrapup.html</loc>
 <lastmod>2020-05-31T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/late-may-update.html</loc>
+<loc>https://www.stevehemingway.com/late-may-update.html</loc>
 <lastmod>2020-05-29T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/peoples_revolt.html</loc>
+<loc>https://www.stevehemingway.com/peoples_revolt.html</loc>
 <lastmod>2020-05-28T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/kellys_criterion.html</loc>
+<loc>https://www.stevehemingway.com/kellys_criterion.html</loc>
 <lastmod>2020-05-26T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/reits.html</loc>
+<loc>https://www.stevehemingway.com/reits.html</loc>
 <lastmod>2020-05-26T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/trading-log-22-may-2020.html</loc>
+<loc>https://www.stevehemingway.com/trading-log-22-may-2020.html</loc>
 <lastmod>2020-05-22T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/its-different-this-time-were-getting-inflation.html</loc>
+<loc>https://www.stevehemingway.com/its-different-this-time-were-getting-inflation.html</loc>
 <lastmod>2020-05-20T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/bond-garden.html</loc>
+<loc>https://www.stevehemingway.com/bond-garden.html</loc>
 <lastmod>2020-05-13T10:53:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/nuclear-sink.html</loc>
+<loc>https://www.stevehemingway.com/nuclear-sink.html</loc>
 <lastmod>2020-05-12T09:28:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/books.html</loc>
+<loc>https://www.stevehemingway.com/books.html</loc>
 <lastmod>2020-05-11T11:48:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pelican_notes.html</loc>
+<loc>https://www.stevehemingway.com/pelican_notes.html</loc>
 <lastmod>2020-05-11T10:22:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/million.html</loc>
+<loc>https://www.stevehemingway.com/million.html</loc>
 <lastmod>2020-05-10T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/what-is-the-correct-relationship-between-science-scientists-policy-and-politicians.html</loc>
+<loc>https://www.stevehemingway.com/what-is-the-correct-relationship-between-science-scientists-policy-and-politicians.html</loc>
 <lastmod>2020-05-10T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/im-back-sort-of.html</loc>
+<loc>https://www.stevehemingway.com/im-back-sort-of.html</loc>
 <lastmod>2020-05-04T15:58:44+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/15th-april-2020.html</loc>
+<loc>https://www.stevehemingway.com/15th-april-2020.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/17th-april-2020.html</loc>
+<loc>https://www.stevehemingway.com/17th-april-2020.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/1st-april-2020.html</loc>
+<loc>https://www.stevehemingway.com/1st-april-2020.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2020_april_20th.html</loc>
+<loc>https://www.stevehemingway.com/2020_april_20th.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2nd-april-2020-jerrys-birthday.html</loc>
+<loc>https://www.stevehemingway.com/2nd-april-2020-jerrys-birthday.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/6th-apr-2020.html</loc>
+<loc>https://www.stevehemingway.com/6th-apr-2020.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/april-wrapup.html</loc>
+<loc>https://www.stevehemingway.com/april-wrapup.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/friday-3rd-april-2020.html</loc>
+<loc>https://www.stevehemingway.com/friday-3rd-april-2020.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/incredible-hulks.html</loc>
+<loc>https://www.stevehemingway.com/incredible-hulks.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/link-post.html</loc>
+<loc>https://www.stevehemingway.com/link-post.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/markets-fluctuate.html</loc>
+<loc>https://www.stevehemingway.com/markets-fluctuate.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/oil-goes-to-negative-price.html</loc>
+<loc>https://www.stevehemingway.com/oil-goes-to-negative-price.html</loc>
 <lastmod>2020-04-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2020-04-24.html</loc>
+<loc>https://www.stevehemingway.com/2020-04-24.html</loc>
 <lastmod>2020-04-24T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/12th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/12th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/13th-march-2020-friday-the-thirteenth-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/13th-march-2020-friday-the-thirteenth-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/14th-march-2020-saturday-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/14th-march-2020-saturday-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/16th-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/16th-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/17th-march-2020-tuesday-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/17th-march-2020-tuesday-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/20th-march-2020-friday-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/20th-march-2020-friday-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/23rd-march-2020-monday-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/23rd-march-2020-monday-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/30-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/30-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/monday-11th-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/monday-11th-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/monday-9th-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/monday-9th-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/thurs-19th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/thurs-19th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/thursday-26th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/thursday-26th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tuesday-10th-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/tuesday-10th-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tuesday-24th-march-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/tuesday-24th-march-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tuesday-31st-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/tuesday-31st-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/we-21-22-mar-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/we-21-22-mar-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/wed-18th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/wed-18th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/wed-25th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/wed-25th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/weekend-of-the-15th-16th-march-2020-march-2020.html</loc>
+<loc>https://www.stevehemingway.com/weekend-of-the-15th-16th-march-2020-march-2020.html</loc>
 <lastmod>2020-03-30T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/toast.html</loc>
+<loc>https://www.stevehemingway.com/toast.html</loc>
 <lastmod>2020-03-15T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-last-post.html</loc>
+<loc>https://www.stevehemingway.com/the-last-post.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/extended-consultation.html</loc>
+<loc>https://www.stevehemingway.com/extended-consultation.html</loc>
 <lastmod>2019-02-28T13:06:59+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/kcc-christmas-concert.html</loc>
+<loc>https://www.stevehemingway.com/kcc-christmas-concert.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/more-nhdc-grants-awarded.html</loc>
+<loc>https://www.stevehemingway.com/more-nhdc-grants-awarded.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/main-modifications-of-local-plan.html</loc>
+<loc>https://www.stevehemingway.com/main-modifications-of-local-plan.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pre-emptive-copyright-filter.html</loc>
+<loc>https://www.stevehemingway.com/pre-emptive-copyright-filter.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/update-on-the-station-pub.html</loc>
+<loc>https://www.stevehemingway.com/update-on-the-station-pub.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/a-voice-from-the-past.html</loc>
+<loc>https://www.stevehemingway.com/a-voice-from-the-past.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/hurray-we-finally-have-a-working-pub-in-knebworth-and-what-a-pub.html</loc>
+<loc>https://www.stevehemingway.com/hurray-we-finally-have-a-working-pub-in-knebworth-and-what-a-pub.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/district-council-elections.html</loc>
+<loc>https://www.stevehemingway.com/district-council-elections.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/no-i-did-not-vote-to-develop-sites-around-knebworth.html</loc>
+<loc>https://www.stevehemingway.com/no-i-did-not-vote-to-develop-sites-around-knebworth.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/hcc-is-consulting-on-the-proposed-additional-dyls-in-knebworth.html</loc>
+<loc>https://www.stevehemingway.com/hcc-is-consulting-on-the-proposed-additional-dyls-in-knebworth.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/community-facilities-capital-grant-fund.html</loc>
+<loc>https://www.stevehemingway.com/community-facilities-capital-grant-fund.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/eip-local-plan-examination-end-of-public-hearings.html</loc>
+<loc>https://www.stevehemingway.com/eip-local-plan-examination-end-of-public-hearings.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/new-southern-rural-grant-funding-available-for-201819.html</loc>
+<loc>https://www.stevehemingway.com/new-southern-rural-grant-funding-available-for-201819.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/who-is-responsible-for-controlling-verge-parking.html</loc>
+<loc>https://www.stevehemingway.com/who-is-responsible-for-controlling-verge-parking.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/knebworth-jmi-environmental-area.html</loc>
+<loc>https://www.stevehemingway.com/knebworth-jmi-environmental-area.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/self-build-and-custom-build-register.html</loc>
+<loc>https://www.stevehemingway.com/self-build-and-custom-build-register.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/aggregates-yard-planning-application.html</loc>
+<loc>https://www.stevehemingway.com/aggregates-yard-planning-application.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/consultation-unauthorized-developments-and-encampments.html</loc>
+<loc>https://www.stevehemingway.com/consultation-unauthorized-developments-and-encampments.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/north-hertfordshire-district-council-march-update.html</loc>
+<loc>https://www.stevehemingway.com/north-hertfordshire-district-council-march-update.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/who-do-i-call-when-i-want-to-call-the-council.html</loc>
+<loc>https://www.stevehemingway.com/who-do-i-call-when-i-want-to-call-the-council.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/press-release-from-nhdc-re-churchgatetitle-churchgate.html</loc>
+<loc>https://www.stevehemingway.com/press-release-from-nhdc-re-churchgatetitle-churchgate.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-station-pub-planning-application-decision-time.html</loc>
+<loc>https://www.stevehemingway.com/the-station-pub-planning-application-decision-time.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/january-parish-news-article.html</loc>
+<loc>https://www.stevehemingway.com/january-parish-news-article.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/local-plan-brown-bins-dec-newsletter.html</loc>
+<loc>https://www.stevehemingway.com/local-plan-brown-bins-dec-newsletter.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/herfordshire-year-of-physical-activity.html</loc>
+<loc>https://www.stevehemingway.com/herfordshire-year-of-physical-activity.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/travellers-site-at-pottersheath-codicote.html</loc>
+<loc>https://www.stevehemingway.com/travellers-site-at-pottersheath-codicote.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/october-parish-news-article.html</loc>
+<loc>https://www.stevehemingway.com/october-parish-news-article.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/byelaws-planning-portal-software-chas-lowe-site.html</loc>
+<loc>https://www.stevehemingway.com/byelaws-planning-portal-software-chas-lowe-site.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/august-newsletter-knebworth-parish-news.html</loc>
+<loc>https://www.stevehemingway.com/august-newsletter-knebworth-parish-news.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/july-newsletter-published-first-in-knebworth-parish-news.html</loc>
+<loc>https://www.stevehemingway.com/july-newsletter-published-first-in-knebworth-parish-news.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/local-plan-submission.html</loc>
+<loc>https://www.stevehemingway.com/local-plan-submission.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/caa-consultation.html</loc>
+<loc>https://www.stevehemingway.com/caa-consultation.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/june-2017-update.html</loc>
+<loc>https://www.stevehemingway.com/june-2017-update.html</loc>
 <lastmod>2017-05-16T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/county-election-results-4-may-2017.html</loc>
+<loc>https://www.stevehemingway.com/county-election-results-4-may-2017.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/my-may-2017-newsletter-for-the-knebworth-parish-news.html</loc>
+<loc>https://www.stevehemingway.com/my-may-2017-newsletter-for-the-knebworth-parish-news.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/toeing-the-party-line.html</loc>
+<loc>https://www.stevehemingway.com/toeing-the-party-line.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/april-newsletter.html</loc>
+<loc>https://www.stevehemingway.com/april-newsletter.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/a-vision-for-knebworth.html</loc>
+<loc>https://www.stevehemingway.com/a-vision-for-knebworth.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/redevelopment-of-chas-lowe-site.html</loc>
+<loc>https://www.stevehemingway.com/redevelopment-of-chas-lowe-site.html</loc>
 <lastmod>2017-03-09T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/the-role-of-local-government.html</loc>
+<loc>https://www.stevehemingway.com/the-role-of-local-government.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/march-newsletterdescription-parish-news-copy-for-march.html</loc>
+<loc>https://www.stevehemingway.com/march-newsletterdescription-parish-news-copy-for-march.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/station-pub.html</loc>
+<loc>https://www.stevehemingway.com/station-pub.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/community-engagement-using-facebook.html</loc>
+<loc>https://www.stevehemingway.com/community-engagement-using-facebook.html</loc>
 <lastmod>2017-02-10T15:28:49+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/is-twitter-the-key-social-media-platform.html</loc>
+<loc>https://www.stevehemingway.com/is-twitter-the-key-social-media-platform.html</loc>
 <lastmod>2020-05-09T12:55:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/more-about-the-station-pub.html</loc>
+<loc>https://www.stevehemingway.com/more-about-the-station-pub.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/december-update.html</loc>
+<loc>https://www.stevehemingway.com/december-update.html</loc>
 <lastmod>2016-12-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/november-update.html</loc>
+<loc>https://www.stevehemingway.com/november-update.html</loc>
 <lastmod>2016-11-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/october-update.html</loc>
+<loc>https://www.stevehemingway.com/october-update.html</loc>
 <lastmod>2016-10-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/september-update.html</loc>
+<loc>https://www.stevehemingway.com/september-update.html</loc>
 <lastmod>2016-09-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/august-update.html</loc>
+<loc>https://www.stevehemingway.com/august-update.html</loc>
 <lastmod>2016-08-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/july-update.html</loc>
+<loc>https://www.stevehemingway.com/july-update.html</loc>
 <lastmod>2016-07-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/june-update.html</loc>
+<loc>https://www.stevehemingway.com/june-update.html</loc>
 <lastmod>2016-06-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/may-update.html</loc>
+<loc>https://www.stevehemingway.com/may-update.html</loc>
 <lastmod>2016-05-01T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/march-update.html</loc>
+<loc>https://www.stevehemingway.com/march-update.html</loc>
 <lastmod>2016-03-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/february-update.html</loc>
+<loc>https://www.stevehemingway.com/february-update.html</loc>
 <lastmod>2016-02-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/january-2016.html</loc>
+<loc>https://www.stevehemingway.com/january-2016.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/november.html</loc>
+<loc>https://www.stevehemingway.com/november.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/sept.html</loc>
+<loc>https://www.stevehemingway.com/sept.html</loc>
 <lastmod>2015-09-01T15:26:52+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/august.html</loc>
+<loc>https://www.stevehemingway.com/august.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/july.html</loc>
+<loc>https://www.stevehemingway.com/july.html</loc>
 <lastmod>2015-07-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/june-2015.html</loc>
+<loc>https://www.stevehemingway.com/june-2015.html</loc>
 <lastmod>2015-06-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/may.html</loc>
+<loc>https://www.stevehemingway.com/may.html</loc>
 <lastmod>2015-05-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/april.html</loc>
+<loc>https://www.stevehemingway.com/april.html</loc>
 <lastmod>2015-04-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/march.html</loc>
+<loc>https://www.stevehemingway.com/march.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/feb.html</loc>
+<loc>https://www.stevehemingway.com/feb.html</loc>
 <lastmod>2015-02-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/january.html</loc>
+<loc>https://www.stevehemingway.com/january.html</loc>
 <lastmod>2015-01-01T15:26:52+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/december-article.html</loc>
+<loc>https://www.stevehemingway.com/december-article.html</loc>
 <lastmod>2014-12-01T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/november-article.html</loc>
+<loc>https://www.stevehemingway.com/november-article.html</loc>
 <lastmod>2014-11-01T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/october-article.html</loc>
+<loc>https://www.stevehemingway.com/october-article.html</loc>
 <lastmod>2014-10-01T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/knebworth-parish-news-sept-2014.html</loc>
+<loc>https://www.stevehemingway.com/knebworth-parish-news-sept-2014.html</loc>
 <lastmod>2020-05-09T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/august-newsletter.html</loc>
+<loc>https://www.stevehemingway.com/august-newsletter.html</loc>
 <lastmod>2014-08-01T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/books.html</loc>
+<loc>https://www.stevehemingway.com/category/books.html</loc>
 <lastmod>2020-05-11T11:48:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/knebworth.html</loc>
+<loc>https://www.stevehemingway.com/category/knebworth.html</loc>
 <lastmod>2020-05-09T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/misc.html</loc>
+<loc>https://www.stevehemingway.com/category/misc.html</loc>
 <lastmod>2020-05-11T10:22:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/politics.html</loc>
-<lastmod>2020-06-07T15:25:48-00:01</lastmod>
+<loc>https://www.stevehemingway.com/category/politics.html</loc>
+<lastmod>2020-06-29T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/science.html</loc>
+<loc>https://www.stevehemingway.com/category/science.html</loc>
 <lastmod>2020-03-15T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/tech.html</loc>
+<loc>https://www.stevehemingway.com/category/tech.html</loc>
 <lastmod>2020-05-09T12:55:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/category/trading.html</loc>
+<loc>https://www.stevehemingway.com/category/trading.html</loc>
+<lastmod>2020-07-17T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/journal.html</loc>
+<lastmod>2020-07-17T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/politics.html</loc>
+<lastmod>2020-07-07T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/grumpiness.html</loc>
+<lastmod>2020-07-06T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/science.html</loc>
+<lastmod>2020-06-30T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/us.html</loc>
+<lastmod>2020-06-29T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/blogs.html</loc>
 <lastmod>2020-06-10T13:48:20-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/blogs.html</loc>
-<lastmod>2020-06-10T13:48:20-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/politics.html</loc>
-<lastmod>2020-06-10T13:48:20-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/journal.html</loc>
-<lastmod>2020-06-10T13:45:27-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/books.html</loc>
+<loc>https://www.stevehemingway.com/tag/books.html</loc>
 <lastmod>2020-06-08T16:51:46-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/livermore.html</loc>
+<loc>https://www.stevehemingway.com/tag/livermore.html</loc>
 <lastmod>2020-06-08T16:51:46-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/principles.html</loc>
+<loc>https://www.stevehemingway.com/tag/principles.html</loc>
 <lastmod>2020-06-07T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/podcasts.html</loc>
+<loc>https://www.stevehemingway.com/tag/podcasts.html</loc>
 <lastmod>2020-05-28T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/maths.html</loc>
+<loc>https://www.stevehemingway.com/tag/maths.html</loc>
 <lastmod>2020-05-26T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/news.html</loc>
+<loc>https://www.stevehemingway.com/tag/news.html</loc>
 <lastmod>2020-05-12T09:28:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/science.html</loc>
+<loc>https://www.stevehemingway.com/tag/tech.html</loc>
 <lastmod>2020-05-10T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/tech.html</loc>
-<lastmod>2020-05-10T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/software.html</loc>
+<loc>https://www.stevehemingway.com/tag/software.html</loc>
 <lastmod>2020-05-04T15:58:44-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/nhdc.html</loc>
+<loc>https://www.stevehemingway.com/tag/nhdc.html</loc>
 <lastmod>2020-05-09T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/tag/privacy.html</loc>
+<loc>https://www.stevehemingway.com/tag/privacy.html</loc>
 <lastmod>2020-05-09T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/author/me.html</loc>
-<lastmod>2020-06-10T13:48:20-00:01</lastmod>
+<loc>https://www.stevehemingway.com/author/me.html</loc>
+<lastmod>2020-07-17T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

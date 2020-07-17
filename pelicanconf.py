@@ -60,6 +60,14 @@ LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
           ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
 	('Market Crumbs', 'https://www.marketcrumbs.com/'),
 	('KoyFin', 'https://www.koyfin.com/home'),
+	('The Market Huddle', 'https://markethuddle.com/'),
+	('Matt Taibbi', 'https://taibbi.substack.com/'),
+	('Beyond Overton', 'https://beyondoverton.com'), 
+	('Wolf Richer', 'https://wolfstreet.com'), 
+	('CalculatedRISK', 'https://www.calculatedriskblog.com/'), 
+	('Adventures in Capitalism', 'https://adventuresincapitalism.com/'), 
+	('Billion Prices Project', 'http://www.thebillionpricesproject.com/'), 
+	('Shadow Stats', 'http://www.shadowstats.com/'), 
 	('The Market Ear', 'https://themarketear.com/'),)
 
 
