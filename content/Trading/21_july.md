@@ -1,4 +1,4 @@
-title: Market Notes, 21th July 2020
+title: Market Notes, 21nd July 2020
 date: 2020-7-21
 category: trading
 tags: journal
@@ -39,7 +39,7 @@ Call me a neophile, but I'm reasonable confident that Comex will not rip me off.
 ## Housing
 
 I can't bring myself to believe that Covid-19 is bullish for housing. 
-[This pos](https://wolfstreet.com/2020/07/17/pent-up-supply-floods-san-francisco-housing-market-most-since-housing-bust/) from Wolf Richer suggests that it's not going to be in San Francisco. 
+[This post](https://wolfstreet.com/2020/07/17/pent-up-supply-floods-san-francisco-housing-market-most-since-housing-bust/) from Wolf Richer suggests that it's not going to be in San Francisco. 
 [Kevin Erdmann](https://www.idiosyncraticwhisk.com/) has always said that cities like SF drive demand elsewhere, because the supply in them is absolutely constrained, so the demand for close-enough-subsitutes goes up.
 The economics of housing are difficult: a house is as unlike an apple or a widget as its possible to be while still being, in some sense, an economic good which can be bought and sold.
 I think Erdmann prefers to think in terms of "housing services" (with rent as a price, not the capitalized price),
