@@ -26,7 +26,7 @@ It's certainly more sensible than shorting equities, [as Kuppy explains](https:/
 
 
 [This longish piece from Nordea](https://e-markets.nordea.com/#!/article/58693/fx-weekly-kanye-vs-trump-vs-biden) argues that Biden will be bullish for the dollar, and bearish for risk assets, and this might start soon.
-He also points out (as did Druckenmiller a month or so ago) that the US Treasury is about to drain $1.65 trillion dollars from banks through UST issuance, with $0.483 trillion drained in June alone.
+He also points out (as did Druckenmiller a month or so ago) that the US Treasury is about to drain a massive amount of liquidity  from banks through UST issuance. The article quantifies this: $1.65 trillion UST issuance, with $0.483 trillion in June alone. A trillion here, a trillion there and pretty soon you're talking real money, as Reagan almost said.
 Nordea argues that this has to flatten the yield curve. 
 I haven't had a chance to read the article in detail, but I think that  Andreas Steno Larsen and Joachim Bernhardsen make some well-argued and compelling arguments. 
 How risk assets have held up so well is a mystery to me.
