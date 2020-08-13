@@ -1,9 +1,9 @@
 Summary: "New Southern Rural grant funding available for 2018/19"
-category: politics
+category: knebworth
 title: New Southern Rural grant funding available for 2018/19
 date: 2018-04-15
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 As a result of the decision not to cease Area Committee Grants in the February Council Meeting when the Revenue Budget was agreed, residents of North Herts once again have the opportunity to apply for grants from Area Committees.
 If you are a local charity, voluntary group or not for profit organisation you are eligible for a share of its almost &pound;90,000 grant funding pot in 2018-19.

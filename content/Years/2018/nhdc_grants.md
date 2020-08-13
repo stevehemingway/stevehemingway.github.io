@@ -1,8 +1,8 @@
 title: More NHDC grants awarded
-category: politics
+category: knebworth
 date: 2018-12-09T13:08:14Z
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 Summary: "NHDC awards grants to Royston Bowls Club"
 Royston Bowls Club received £1,000 towards the purchase of a machine to de-thatch the green in order to help reduce disease and improve the playing surface.
 The club’s Steve Kilford said: “Royston Bowls Club would like to thank the council for awarding us a grant of £1,000, this will go some way towards the purchase of a de-thatching machine.”

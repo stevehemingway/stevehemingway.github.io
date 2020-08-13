@@ -1,9 +1,9 @@
 title: My May 2017 Newsletter for the Knebworth Parish News
-category: politics
+category: knebworth
 date: 2017-04-20
 modified: 2020-05-09
 Summary: "My May 2017 Newsletter for the Knebworth Parish News" 
-lang: EN-gb
+tags: NHDC, politics
 
 
 

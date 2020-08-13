@@ -1,8 +1,8 @@
 date: 2014-11-01T15:36:40Z
-category: politics
+category: knebworth
 title: November Article
 Summary: "Surgery, Solar Farm, Cricket Club, Bulwer Lytton"
-lang: EN-gb
+tags: NHDC, politics
 # Application to redevelop the GP Surgery at 1 Stevenage Road
 The future of Knebworth and Marymead GP Practice at 1 London Road has
 been uncertain for a considerable time. Various proposals for it moving

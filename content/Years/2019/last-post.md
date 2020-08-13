@@ -1,7 +1,7 @@
 title: The Last Post
 date: 2019-11-06 
 draft: false
-lang: EN-gb
+tags: NHDC, politics
 modified: 2020-5-9
 
 # The Last Post

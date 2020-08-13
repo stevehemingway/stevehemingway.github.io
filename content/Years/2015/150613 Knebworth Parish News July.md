@@ -1,7 +1,7 @@
 title: Julydate: 2015-07-01T15:26:52Z
-category: politics
+category: knebworth
 Summary: "July Newsletter 2015"modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 ## NHDC - New Council Appointment

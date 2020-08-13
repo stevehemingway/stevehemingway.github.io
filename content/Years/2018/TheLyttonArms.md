@@ -1,9 +1,9 @@
 title: Hurray, we finally have a working pub in Knebworth - and what a pub!
-category: politics
+category: knebworth
 summary: "The Lytton Arms Re-opens triumphantly"
 date: 2018-05-20
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 We've had to wait a long time for [The Lytton Arms](http://www.thelyttonarms.co.uk/) to re-open, but on Thursday the 17th May the day we've all been waiting for arrived. The Lytton Arms was once again open for business.
 

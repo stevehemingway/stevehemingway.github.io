@@ -1,8 +1,8 @@
 title:  Consultation: unauthorized developments and encampments
-category: politics
+category: knebworth
 date: 2018-03-01
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 As you may know, the Government have recently issued a consultation on powers for dealing with unauthorised developments and encampments. The consultation document can be found [here]( https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/697354/Consultation_-_unauthorised_encampments.pdf).
 Questions include:
 1.      What evidence is there of unauthorised development and encampments in your community, and what issues does this raise for the local community?

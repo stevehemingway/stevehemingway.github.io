@@ -1,8 +1,8 @@
 title: HCC is consulting on the proposed additional DYLs in Knebworth.
-category: politics
+category: knebworth
 date: 2018-04-17T17:42:37Z
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 Herts County Council is consulting on the proposed additional double yellow lines in Gun Lane and Park Lane.
 Objections to the proposals should be made in writing to Terry Curtis, Postal Point (CH0242) First Floor, East Link Corridor, County Hall, Pegs Lane, Hertford SG13 8DN or tro.team@hertfordshire.gov.uk by 26 April 2018.

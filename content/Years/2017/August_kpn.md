@@ -1,9 +1,9 @@
 Summary: "August Newsletter - Knebworth Parish News"
-category: politics
+category: knebworth
 title: August Newsletter - Knebworth Parish News
 date: 2017-07-17
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 

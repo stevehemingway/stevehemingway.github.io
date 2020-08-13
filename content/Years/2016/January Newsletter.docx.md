@@ -1,9 +1,9 @@
 title: January 2016
-category: politics
+category: knebworth
 date: 2016-01-01T15:26:52Z
 Summary: "January Newsletter 2016"
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # Application to redevelop the GP Surgery at 1 Stevenage Road
 Negotiations are continuing to find a better building for the Knebworth and Marymead Medical Practice. I have had meetings with Stephen McPartland and Richard Thake to establish how to move forward on this problem. The owner of the existing surgery had submitted a planning application to redevelop the site, although this has now been withdrawn. The site currently occupied by Knebworth Library in St Martins Road is currently the preferred location. Plans have been produced to redevelop this site to become a building which can house both the library and the surgery. 

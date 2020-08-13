@@ -1,8 +1,8 @@
 date: 2017-03-28T12:31:34+01:00
-category: politics
+category: knebworth
 title: April Newsletter
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 This article  appeared in the April edition of the Knebworth Parish News.

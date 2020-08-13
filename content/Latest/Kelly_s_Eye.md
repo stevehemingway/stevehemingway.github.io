@@ -1,6 +1,8 @@
 title: Kelly's Criterion
 slug: kellys_criterion
 date: 2020-05-26
+category: trading
+tags: maths
 
 Kelly was a smart guy who worked with the legendary Claude Shannon at Bell Labs. He worked out an optimal betting strategy for games of chance.
 This can be applied to investment, where an investment decision has a payoff probability distribution where a holding (e.g. of stock) 

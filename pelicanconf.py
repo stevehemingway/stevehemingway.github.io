@@ -18,9 +18,9 @@ EXTRA_PATH_METADATA = {
 
 AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
-SITESUBTITLE = 'investing, economics, maths, Knebworth, politics ...'
+SITESUBTITLE = 'politics, economics, maths, markets, Knebworth ...'
 # SITEURL = 'https://stevehemingway.github.io'
-# SITEURL = 'https://www.stevehemingway.com'
+SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
 #SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 SLUGIFY_SOURCE = 'title'
@@ -39,14 +39,12 @@ USE_FOLDER_AS_CATEGORY = False
 
 
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
-#CACHE_CONTENT = False
-#LOAD_CONTENT_CACHE = False
-
+CACHE_CONTENT = False
+LOAD_CONTENT_CACHE = False
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/London'
-
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -56,22 +54,57 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#          ('Python.org', 'http://python.org/'),
-#          ('Jinja2', 'http://jinja.pocoo.org/'),
-#          ('You can modify those links in your config file', '#'),)
+LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
+          ('The Felder Report', 'https://thefelderreport.com/'),
+          ('Wall Street on Parade', 'https://wallstreetonparade.com'),
+          ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
+	('Market Crumbs', 'https://www.marketcrumbs.com/'),
+	('KoyFin', 'https://www.koyfin.com/home'),
+	('The Market Huddle', 'https://markethuddle.com/'),
+	('Matt Taibbi', 'https://taibbi.substack.com/'),
+	('Beyond Overton', 'https://beyondoverton.com'), 
+	('Wolf Richer', 'https://wolfstreet.com'), 
+	('CalculatedRISK', 'https://www.calculatedriskblog.com/'), 
+	('Adventures in Capitalism', 'https://adventuresincapitalism.com/'), 
+	('Billion Prices Project', 'http://www.thebillionpricesproject.com/'), 
+	('Shadow Stats', 'http://www.shadowstats.com/'), 
+	('The Convexity Maven', 'https://www.convexitymaven.com/'), 
+	('The Market Ear', 'https://themarketear.com/'),
+        ('The Daily Shot (free edition)', 'https://dailyshotbrief.com'),
+    )
+
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+SOCIAL = (('email', 'steve@stevehemingway.com'),
+	('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
+           ('twitter', 'https://twitter.com/steveknebworth'),)
 
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
+FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # typographical improvements!
 
 TYPOGRIFY = True
+
+# sitemap - may work only on wymondley
+PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+PLUGINS=["sitemap",]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}

@@ -1,8 +1,8 @@
 title: Update on the Station Pub
-category: politics
+category: knebworth
 date: 2018-09-10
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # The Saga Continues
 The next meeting of the Planning Control Committee is due to meet on Thursday 20th Sept to review the reasons for refusal of the applicationto redevelop the station pub (ref. 17/01622/1).

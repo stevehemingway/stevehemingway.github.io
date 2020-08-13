@@ -1,8 +1,8 @@
 title: District Council Elections
-category: politics
+category: knebworth
 date: 2018-05-09
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 ## Update on election from 3 May
 Knebworth Ward has fallen to the Lib Dems in spite of all the hard work put in by my supporters and me. A very intensive campaign from the Lib Dems paid off with a victory for first time candidate Lisa Nash. The full results were as follows:

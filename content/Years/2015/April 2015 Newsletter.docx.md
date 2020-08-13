@@ -1,7 +1,7 @@
 title: Aprildate: 2015-04-01T15:26:52Z
-category: politics
+category: knebworth
 Summary: "April Newsletter 2015"modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # April 2015 Newsletter
 I attended a meeting on 11 March with representatives of NHDC and

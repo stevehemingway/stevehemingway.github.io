@@ -1,9 +1,9 @@
 title: KCC Christmas Concert
-category: politics
+category: knebworth
 date: 2018-12-09T15:33:55Z
 Summary: "My Latest Post"
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 Everyone enjoyed himself at the wonderful concert laid on by Knebworth Community Chorus this Saturday. The Village Hall was full to bursting, and many mince pies were consumed. A fair volume of mulled wine was drunk too.

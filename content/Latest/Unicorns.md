@@ -1,5 +1,8 @@
 title: Is this really going to continue indefinitely, and is it truly deflationary?
 slug: unicorns
+category: trading
+tags: blogs, politics
+
 
 Today, I read 
 [this article](https://wolfstreet.com/2020/05/19/what-unicorn-money-sinkholes-actually-disrupt/), from Wolf Richer's blog. 

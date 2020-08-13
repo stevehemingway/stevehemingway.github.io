@@ -1,8 +1,8 @@
 title: "A voice from the past"
-category: politics
+category: knebworth
 date: 2018-09-06
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 Hello There!
 Sorry I haven't been posting much. I don't go to NHDC meetings any longer - yay! - and it's been the holiday season.

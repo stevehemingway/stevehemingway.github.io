@@ -1,9 +1,9 @@
 Summary: "July Newsletter"
-category: politics
+category: knebworth
 title: July Newsletter, published first in Knebworth Parish News
 date: 2017-07-04T20:49:10
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 

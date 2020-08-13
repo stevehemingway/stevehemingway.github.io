@@ -1,8 +1,8 @@
 title: EiP - Local Plan Examination. End of Public Hearings
-category: politics
+category: knebworth
 date: 2018-04-15
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 At the end of the hearing sessions on 27 March the Inspector set out the next steps in the EiP of the Local Plan. A note has now been prepared and this can be viewed in the examination documents ED130.
 

@@ -1,9 +1,9 @@
 Summary: "Lessons that can be drawn from a local planning application"
-category: politics
+category: knebworth
 title: Travellers site at Pottersheath, Codicote
 date: 2017-11-01T11:43:51
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 
 

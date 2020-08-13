@@ -1,8 +1,8 @@
 title: Knebworth JMI Environmental Area
-category: politics
+category: knebworth
 date: 2018-03-31T17:42:37Z
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # The Environmental Area, AKA the Wildlife Haven
 It was fascinating to see the Knebworth Primary School Environmental Area when I visited the school on Friday, 31st March for the official opening, with Stephen McPartland MP. I have never really ventured very far beyond the dining room in the school (where Knebworth Village Trust meetings are held).

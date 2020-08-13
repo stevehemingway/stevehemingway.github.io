@@ -1,7 +1,7 @@
 title: AugustSummary: "August Newsletter 2015"date: 2015-08-01T15:26:52Z
-category: politics
+category: knebworth
 modified: 2020-05-09
-lang: EN-gb
+tags: NHDC, politics
 
 # **AUGUST UPDATE**
 ## NHDC – Council Business Update
