@@ -68,7 +68,10 @@ LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
 	('Adventures in Capitalism', 'https://adventuresincapitalism.com/'), 
 	('Billion Prices Project', 'http://www.thebillionpricesproject.com/'), 
 	('Shadow Stats', 'http://www.shadowstats.com/'), 
-	('The Market Ear', 'https://themarketear.com/'),)
+	('The Convexity Maven', 'https://www.convexitymaven.com/'), 
+	('The Market Ear', 'https://themarketear.com/'),
+        ('The Daily Shot (free edition)', 'https://dailyshotbrief.com'),
+    )
 
 
 # Social widget

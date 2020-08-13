@@ -6,7 +6,7 @@ tags: journal
 
 ## Inflation: the bear case
 
-Although everyone and his pet monkey is writing about inflation is around the corner,
+Although everyone and his pet monkey is writing about how inflation is around the corner,
 we haven't seen it yet, and most of them have been saying that for years anyway.
 [This article](https://www.ft.com/content/42e1a1f6-90cb-4246-b0a7-4e4827879cbd), 
 by Michael Strobaek, global chief investment officer at Credit Suisse,
