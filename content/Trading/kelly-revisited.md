@@ -31,6 +31,7 @@ This, not some sigma value of VaR measure seems to be what should be minimized; 
 which Frank Knight argued was the the sort of risk that will be rewarded with profit.
 Let's hope he was right.
 
+
 ## Interesting links
 
 [Kelly and Real Estate Investing (really))](http://www.mathestate.com/Entropy-Final.pdf)

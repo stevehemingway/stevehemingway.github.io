@@ -1,4 +1,4 @@
-title: Market Notes, 21nd July 2020
+title: Market Notes, 21st July 2020
 date: 2020-7-21
 category: trading
 tags: journal
