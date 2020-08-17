@@ -29,13 +29,13 @@ It has some great analysis. This is an extract, but you should really read the w
 
 <blockquote>
 I don’t know the answers to these questions, and I am going to refrain from participating in the very popular trend of becoming an armchair epidemiologist or virologist, but I do know that these questions and many others exist. I am also certainly not in the business of trying to second-guess how the future will unfold, but I do know that anyone claiming certainty of foresight is likely to be sorely disappointed. And yet, Mr. Market appears to be doing exactly that.
-<br>
+<p>
 Howard Marks of Oaktree Capital often talks about there being two kinds of investors. The two groups can be broadly distinguished by their attitudes toward the future. The first camp is best described as “I know” investors. They think that knowledge of the future course of events such as growth and interest rates is vital to investing. They are confident that such knowledge is attainable, and they “know” they can forecast accurately. They are very comfortable investing on the basis of their views. They freely admit that others will be trying to do the same thing, but their insight is better: it is their edge. Such investors are very popular at dinner parties because they will chatter on about pretty much any subject.
-<br>
+<p>
 In contrast, the second group of investors studied at the “I don’t know” school. They hold some very different beliefs about the way you should approach investing. They believe you can’t know the future, and, in fact, you don’t need to know the future in order to invest. Driven by this explicit embrace of uncertainty, they insist on a margin of safety when investing: valuation is front and foremost in their approach. This group is not particularly popular at dinner parties (or maybe it’s just me) as the frequent refrain of “I don’t know” in response to questions is not amazingly stimulating on the conversation front.
-<br>
+<p>
 As should be obvious, I firmly identify with the “I don’t know” school, having already stated that I don’t know several times in response to some very important questions raised earlier in this missive. Naturally, when Mr. Market acts with what looks to me like extreme certainty, I get nervous. Even if my caution is completely misplaced, it does not change my view that the U.S. market has priced in all the good news it possibly can, suggesting very little upside from a fundamental point of view.
-<br>
+<p>
 Now, of course many will argue that focusing on the fundamentals is a quaint, old-fashioned idea just as they had done during all the great bubbles we have witnessed and studied. They will argue that this is all about the Fed and then blather on about “liquidity creation,” usually in the vaguest of hand-waving fashion. 
 </blockquote>
 
@@ -43,3 +43,16 @@ I freely confess that I don't know what is going to happen.
 It probably makes my blog more boring, and I am sure it means that I say contradictory things all the time,
 but I feel sure that it makes me a better investor than the investor I'd be if I didn't have this humility.
 Of course, I have a lot to be humble about, and I certainly don't claim to be in the same league as anyone from GMO, but even I should be able to benefit from knowing my limits.
+
+## Closing Bell
+
+Equities up, bonds down, gold down. 
+Some more marginal companies filing for bankruptcy, but no really big names.
+[GS is bearish on Latin America](https://www.cnbc.com/2020/08/13/argentina-mexico-and-peru-likely-to-see-double-digit-contractions-goldman.html). I have been mildly bullish on Latin America, because its economies are so commodities-based.
+I feel that the currencies will fall, but this will boost their exports and their stockmarkets.
+I know that populations are not terribly healthy, and many are obese, which augers badly for Covid,
+but fundamentally they have relatively young populations and governments which are notionally democratic, while being very supportive of the rich, and therefore "business friendly" (i.e. captured by big business). 
+I would much prefer that they were more truly democratic, but I am trying to understand what is the case, not what it should be in a perfect world.
+
+[30-year treasury auction has yield 2 bps above market expectations](https://www.ft.com/content/15602bcc-fb86-4d32-b59a-694b30fd836a). 
+Could this be the end of a forty-year bull market in bonds?
