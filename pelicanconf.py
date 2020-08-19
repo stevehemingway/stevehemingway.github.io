@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import platform
+
+
 STATIC_PATHS = [
     'images',
     'extra',  # this
@@ -93,8 +96,14 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 TYPOGRIFY = True
 
-# sitemap - may work only on wymondley
-PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+# sitemap plugin. Needs to work on different OSes
+
+if (platform.system() == 'Linux'):
+	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
+else:
+	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+
+	
 PLUGINS=["sitemap",]
 
 SITEMAP = {

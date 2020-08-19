@@ -15,6 +15,10 @@ CACHEDIR=$(BASEDIR)/__pycache__
 GITHUB_PAGES_BRANCH=master
 GITHUB_SOURCE_BRANCH=content
 
+ifeq ($(OS), Linux)
+	plugin...
+endif
+
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
