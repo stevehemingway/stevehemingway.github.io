@@ -37,8 +37,10 @@ Everything went into reverse today.
 Turkish Lira rallied, against the odds,
 commodities rallies, apart from precious metals,
 the dollar index went up by 0.5%.
-Equities were generally up, with the exception of China and China-related (e.g. HK).
+Equities were generally up, with the exception of China and China-related (e.g. HK & Singapore).
 Volumes probably thin, but I didn't bother to check. 
 A time when market manipulators can have a big impact.
+
+FOMC minutes released today. Chatter about yield curve control, somehow supposed to explain drop in precious metals. I will read the FT tomorrow to try to understand the logic.
 
 
