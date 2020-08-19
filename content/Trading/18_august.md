@@ -47,7 +47,7 @@ To me this is dot com bubble all over again, but like back then, plenty of peopl
 The dollar is not falling against everything. 
 NZD is an interesting exception.
 
-<img src="https://pbs.twimg.com/media/EftMDucWoAEKbvt?format=jpg&name=large">
+<img src="https://pbs.twimg.com/media/EftMDucWoAEKbvt?format=jpg&name=large" width=800 >
 
 ## Inflation
 
@@ -55,4 +55,10 @@ US CPI was out last Friday.
 Even when demand collapsed, it still went up, quite steeply.
 It's hard to read a lot into a single number, and of course supply was in deep shock, but everyone (well, the gold bugs, anyway) see this as a sign that inflation is about to take off. That and the fact that the Fed seems set on average inflation targeting, which means that they'll let it run hot for a good long time before trying to take away the punchbowl (to mix two dead metaphors).
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=ulIg&width=670&height=475" scrolling="no" frameborder="0"style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=ulIg&width=800&height=500" scrolling="no" frameborder="0"style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+
+## SPX hits all-time high
+
+Twitter (at least my timeline) greeted this with a groan.
+Lots saying they'll short it.
+At some point it must surely crash heavily, but for the moment it seems a safer bet to short money against something 'real'. *Not investment advice.*

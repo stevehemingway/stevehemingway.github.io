@@ -27,9 +27,12 @@ There will be a price to pay, but not today and almost certainly not tomorrow.
 Gold was up 2.25%. VIX futures were down 5.4%. 
 
 [This](https://themarketear.com/posts/c3mlgLAUTG) looks important, but I don't really understand it. Gamma is always highest for ATM options, so I don't really get the significance of this.
-There is a post [here](https://www.zerohedge.com/markets/nomura-heres-what-fridays-gamma-unclenching-means-nasdaq) which is about it, but I'm too tired now to read it carefully.
+There is a post [here](https://www.zerohedge.com/markets/nomura-heres-what-fridays-gamma-unclenching-means-nasdaq) which explains what gamma clenching is.
 
-Sweet dreams!
+My tentative understanding is that gamma tends to drag money into the index (the Nasdaq in this case). For a 'normal' position in the index, via futures or passive funds, there is no need for whoever manages the QQQ ETF to actually execute any trades: the existing cash hedge is all that is needed. With a positive gamma position, this is not the case. To keep hedged, someone somewhere has to buy more in the cash market. But this cannot be the passive funds: they transact only in response to retail buying or selling. It has to be the active managers, who are an endangered species and have probably sold all their crazily over-valued Nasdaq stocks anyway. So the market goes 
+
+As money flows into the index, passive funds have no option other than to buy immediately (or get equivalent exposure via futures, but this will just force whoever is selling the futures to buy in the cash market to hedge *their* position). A positive gamma means that overall exposure
+
 
 
 
