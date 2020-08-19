@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import platform
+
+
 STATIC_PATHS = [
     'images',
     'extra',  # this
@@ -54,10 +57,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
-          ('The Felder Report', 'https://thefelderreport.com/'),
-          ('Wall Street on Parade', 'https://wallstreetonparade.com'),
-          ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
+LINKS = (
+	('Epsilon Theory', 'https://www.epsilontheory.com'),
+	('The Felder Report', 'https://thefelderreport.com/'),
+	('Wall Street on Parade', 'https://wallstreetonparade.com'),
+	('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
 	('Market Crumbs', 'https://www.marketcrumbs.com/'),
 	('KoyFin', 'https://www.koyfin.com/home'),
 	('The Market Huddle', 'https://markethuddle.com/'),
@@ -70,7 +74,7 @@ LINKS = (('Epsilon Theory', 'https://www.epsilontheory.com'),
 	('Shadow Stats', 'http://www.shadowstats.com/'), 
 	('The Convexity Maven', 'https://www.convexitymaven.com/'), 
 	('The Market Ear', 'https://themarketear.com/'),
-        ('The Daily Shot (free edition)', 'https://dailyshotbrief.com'),
+	('The Daily Shot (free edition)', 'https://dailyshotbrief.com'),
     )
 
 
@@ -91,8 +95,14 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 TYPOGRIFY = True
 
-# sitemap - may work only on wymondley
-PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+# sitemap plugin. Needs to work on different OSes
+
+if (platform.system() == 'Linux'):
+	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
+else:
+	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+
+	
 PLUGINS=["sitemap",]
 
 SITEMAP = {
