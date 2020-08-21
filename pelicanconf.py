@@ -58,10 +58,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-	('Epsilon Theory', 'https://www.epsilontheory.com'),
-	('The Felder Report', 'https://thefelderreport.com/'),
-	('Wall Street on Parade', 'https://wallstreetonparade.com'),
-	('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
+    ('Epsilon Theory', 'https://www.epsilontheory.com'),
+    ('The Felder Report', 'https://thefelderreport.com/'),
+    ('Wall Street on Parade', 'https://wallstreetonparade.com'),
+    ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
 	('Market Crumbs', 'https://www.marketcrumbs.com/'),
 	('KoyFin', 'https://www.koyfin.com/home'),
 	('The Market Huddle', 'https://markethuddle.com/'),
@@ -74,7 +74,8 @@ LINKS = (
 	('Shadow Stats', 'http://www.shadowstats.com/'), 
 	('The Convexity Maven', 'https://www.convexitymaven.com/'), 
 	('The Market Ear', 'https://themarketear.com/'),
-	('The Daily Shot (free edition)', 'https://dailyshotbrief.com'),
+    ('The Daily Shot', 'https://dailyshotbrief.com'),
+    ('The Burning Platform Blog', 'https://www.theburningplatform.com'),
     )
 
 
