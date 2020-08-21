@@ -30,6 +30,10 @@ The QTR podcast series is rather uneven in quality, providing a platform for som
 My view is that we should be grown up enough to make up our own minds.
 Please do so for the episode above.
 
+[Wolf Richer](https://wolfstreet.com/2020/08/19/the-fed-made-sure-the-rich-got-richer-during-the-pandemic-why-thats-bad-for-the-economy/) says that most of us didn't actually get richer, from the Fed's actions. 
+The divergence is not so extreme in Europe, but I can't believe that the BoE really reduced inequality by its actions.
+[There is generational inequality too, for sure](https://alkhaleejtoday.co/business/5033088/The-road-to-inflation-in-post-COVID-times.html).
+
 
 ## Close 
 
