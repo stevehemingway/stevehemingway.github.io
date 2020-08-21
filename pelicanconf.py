@@ -101,7 +101,6 @@ if (platform.system() == 'Linux'):
 	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
 else:
 	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
-
 	
 PLUGINS=["sitemap",]
 
