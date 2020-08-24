@@ -15,10 +15,6 @@ CACHEDIR=$(BASEDIR)/__pycache__
 GITHUB_PAGES_BRANCH=master
 GITHUB_SOURCE_BRANCH=content
 
-ifeq ($(OS), Linux)
-	plugin...
-endif
-
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -45,6 +41,7 @@ help:
 	@echo '   make rsync_upload                   upload the web site via rsync+ssh  ';
 	@echo '   make github                         upload the web site via gh-pages   ';
 	@echo '   make upload                         do a git push to github ';
+	@echo '   make repo			      commit your recent content changes' ;
 	@echo '                                                                          ';
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   ';
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    ';
@@ -59,6 +56,10 @@ clean:
 
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+
+repo: 
+	git add $(INPUTDIR) 
+	git commit -m 'new content'
 
 serve:
 ifdef PORT
