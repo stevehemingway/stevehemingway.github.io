@@ -6,7 +6,7 @@ The [Credit Bubble Bulletin](http://creditbubblebulletin.blogspot.com/2020/08/we
 
 See [this thread](https://twitter.com/iv_technicals/status/1297110841586835456).
 
-<img src="https://pbs.twimg.com/media/EgBDVYwXgAAHNuB?format=png&name=900x900">
+<img src="https://pbs.twimg.com/media/EgBDVYwXgAAHNuB?format=png&name=900x900" width=800>
 
 The big question is ... *why*?
 Supplementary questions are:
@@ -36,3 +36,17 @@ The thesis that NG was a byproduct of oil, and so when oil demand collapsed beca
 Anyway, I keep an eye on NG, as I think it has potential as a fuel beyond the next decade,
 but I've probably been too skeptical on green energy for a while, and the price may never recover.
 I have no position in NG, nor am I ever likely to take one at this rate.
+
+## Chasing Macro: Fiscal Edition
+
+[Episode 93](https://www.youtube.com/watch?v=4MzxZu-KTrc) of [The Macro Huddle](https://markethuddle.com/) was all about macro.
+I listened to it in fragments, but my takeaways were:
+
+* we've run out of road on monetary policy, and fiscal is coming down the road,
+* politics matters, and until the elections are over, there may be a pause in fiscal,
+* yield curve control is coming, and with it inflation,
+* the dollar is going down (or up, or flat: one of the above),
+* Natural Gas is probably going up: it's hard to see anything taking its place: Biden promises a lot but probably won't deliver, just like everyone thought that the new administration four years ago was going to do something about big pharma's outrageous profits.
+
+There is a lot of other stuff. Chase seems a cool guy. [His newsletters](https://www.pineconemacro.com/white-mountain-letter.html) seem a good read and can't be beaten on value for money (they are free!).
+
