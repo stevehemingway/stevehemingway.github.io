@@ -1,4 +1,9 @@
+title: Weekend thoughts
+date: 2020-8-24
+category: trading
+tags: money, nat-gas, politics-matters
 
+## Helicopter Ben still to blame
 
 The [Credit Bubble Bulletin](http://creditbubblebulletin.blogspot.com/2020/08/weekly-commentary-moral-hazard-quagmire.html?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+blogspot%2FvOLVyH+%28++Credit+Bubble+Bulletin%29) is a 
 
