@@ -4,6 +4,7 @@
         <meta charset="utf-8" />
         <title>Monologue Blog - equities</title>
         <link rel="stylesheet" href="https://www.stevehemingway.com/theme/css/main.css" />
+		<link rel="stylesheet" href="https://www.stevehemingway.com/theme/tipuesearch/tipuesearch.css">
         <link href="https://www.stevehemingway.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Monologue Blog RSS Feed" />
 </head>
 
@@ -60,6 +61,9 @@ The index considered is not the <span class="caps">FAANGMAN</span>, though, so t
 The problem with Big Tech is that a lot of it is not really tech: Microsoft writes software, for sure, but I would bet that a few percent of it&#8217;s employees are actually involved in writing new code, probably less than many non-tech companies. I don&#8217;t really know, but it seems to me that Google <span class="amp">&amp;</span> Facebook should really be classified as advertising stocks, Amazon as a retailer (with a lucrative sideline in cloud services), Microsoft a tech support company, and Netflix a media company, and Apple a phone manufacturer. <span class="caps">AMD</span> and Nvidia probably do qualify as tech, admittedly, but they are the little brothers of the&nbsp;others.</p>                </article>
             </aside><!-- /#featured -->
         <section id="extras" class="body">
+		<form id="searchform" action="/search" onsubmit="return (this.elements['q'].value.length > 0)">
+			<input id="searchbox" type="text" name="q" size="12" placeholder="Search">
+		</form>
                 <div class="blogroll">
                         <h2>links</h2>
                         <ul>
@@ -81,6 +85,7 @@ The problem with Big Tech is that a lot of it is not really tech: Microsoft writ
                             <li><a href="https://themarketear.com/">The Market Ear</a></li>
                             <li><a href="https://dailyshotbrief.com">The Daily Shot</a></li>
                             <li><a href="https://www.theburningplatform.com">The Burning Platform Blog</a></li>
+                            <li><a href="https://cse.google.com/cse?cx=ce104668e88a754c6">Search This Blog</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">
@@ -102,6 +107,7 @@ The problem with Big Tech is that a lot of it is not really tech: Microsoft writ
 
                 <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
+
 
 </body>
 </html>
