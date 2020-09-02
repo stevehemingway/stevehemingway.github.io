@@ -1,6 +1,6 @@
 title: Market Notes, 24th July 2020
 date: 2020-7-24
-category: trading
+category: markets
 tags: journal
 
 ## We have a problem, Houston

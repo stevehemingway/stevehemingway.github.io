@@ -1,6 +1,6 @@
 title: 6th Apr 2020
 date: 2020-04-30
-category: trading
+category: markets
 
 # 6th Apr 2020 
 

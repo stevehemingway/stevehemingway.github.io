@@ -1,6 +1,6 @@
 title: Friday 3rd April 2020
 date: 2020-04-30
-category: trading
+category: markets
 
 # Friday 3rd April 2020
 

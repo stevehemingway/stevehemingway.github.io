@@ -1,6 +1,6 @@
 title: Market Notes, 5th August 2020
 date: 2020-8-5
-category: trading
+category: markets
 tags: journal
 
 ## Don't Fight the Fed

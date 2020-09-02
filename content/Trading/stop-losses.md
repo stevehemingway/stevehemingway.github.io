@@ -1,6 +1,6 @@
 title: Don't worry about making money
 date: 2020-6-7
-category: trading
+category: markets
 tags: principles
 slug: stop-losses
 

@@ -1,6 +1,6 @@
 title: Kelly Criterion Revisited
 date: 2020-7-25
-category: investing
+category: markets
 tags: journal, maths, economics
 
 ## Recap

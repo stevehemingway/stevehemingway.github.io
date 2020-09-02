@@ -1,6 +1,6 @@
 title: Market Notes and a bit of science, 30th June 2020
 date: 2020-6-30
-category: trading
+category: markets
 tags: journal, science
 
 ## Trader Vic

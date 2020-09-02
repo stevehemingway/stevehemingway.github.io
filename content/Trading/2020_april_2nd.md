@@ -1,6 +1,6 @@
 title: 2nd April 2020 \(Jerry's birthday\)
 date: 2020-04-30
-category: trading
+category: markets
 
 # 2nd April 2020 \(Jerry's birthday\)
 

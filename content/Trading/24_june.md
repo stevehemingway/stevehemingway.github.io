@@ -1,6 +1,6 @@
 title: Market Notes, 24th June 2020
 date: 2020-6-24
-category: trading
+category: markets
 tags: journal
 
 ## Stuff

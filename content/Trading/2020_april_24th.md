@@ -1,5 +1,5 @@
 title: Markets grind up in spite of virus
-category: trading
+category: markets
 date: 2020-04-24
 slug: 2020-04-24
 

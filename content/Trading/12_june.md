@@ -1,6 +1,6 @@
 title: Market Notes, 12 June 2020
 date: 2020-6-12
-category: trading
+category: markets
 tags: journal
 
 As expected, markets recovered, quite a lot to start, but then sagged a bit.

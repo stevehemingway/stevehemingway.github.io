@@ -1,6 +1,6 @@
 title: Market Notes, 23rd June 2020
 date: 2020-6-23
-category: trading
+category: markets
 tags: journal
  
 ## QE 

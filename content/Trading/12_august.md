@@ -1,6 +1,6 @@
 title: Market Notes, 12th August 2020
 date: 2020-8-12
-category: trading
+category: markets
 tags: journal
 
 ## Morning Call

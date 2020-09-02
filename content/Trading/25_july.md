@@ -1,6 +1,6 @@
 title: Market Notes, 25th July 2020
 date: 2020-7-25
-category: trading
+category: markets
 tags: journal
 
 ## I am not on holiday, but I wanted a weekend off.

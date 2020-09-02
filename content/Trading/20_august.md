@@ -1,6 +1,6 @@
 title: Market Notes, 20th August 2020
 date: 2020-8-20
-category: trading
+category: markets
 tags: journal 
 
 ## Wrap

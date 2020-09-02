@@ -1,6 +1,6 @@
 title: Market Notes, 1st July 2020
 date: 2020-7-1
-category: trading
+category: markets
 tags: journal
 
 ## Morning call

@@ -1,6 +1,6 @@
 title: Market Notes, 22nd July 2020
 date: 2020-7-22
-category: trading
+category: markets
 tags: journal
 
 ## Opening buzz

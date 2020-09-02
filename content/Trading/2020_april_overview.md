@@ -1,6 +1,6 @@
 title: April Wrapup
 date: 2020-04-30
-category: trading
+category: markets
 
 # April Overview
 

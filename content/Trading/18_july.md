@@ -1,6 +1,6 @@
 title: Weekly Wrap 18th July 2020
 date: 2020-7-18
-category: trading
+category: markets
 tags: journal
 
 ## Economic news

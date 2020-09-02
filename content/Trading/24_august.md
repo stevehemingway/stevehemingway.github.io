@@ -1,6 +1,6 @@
 title: Another episode in the tale of the ancient blogger
 date: 2020-8-24
-category: trading
+category: markets
 tags: booze
 
 ## This market is enough to drive traders to drink
@@ -24,4 +24,17 @@ Mike Green of Logica Advisors has identified having a low-float and being part o
 At some point, maybe a long time from now, when the last discretionary fund has shuttered, passive funds will become net sellers. Once this happens, we will see this whole thing go into reverse. 
 [There is a similar service in the UK](https://shorttracker.co.uk/).
 
+## Close
+
+There is a meme on Twitter that if it's a Monday then the Nasdaq will be green.
+It seems to have worked for a bit, but I never took it seriously.
+Well, it happened again tonight, just before the close.
+It doesn't seem possible that a single agency could manipulate such a liquid index, 
+but I cannot see any other explanation.
+
+One thing a few people on Twitter noted was that VXN (the Nasdaq equivalent of the VIX) was up 4.75% vs the VIX being down 3.58%. Obviously, these are derived from expectations of future volatility, implied by option prices. 
+It may be nothing. 
+Certainly, the bears seem to be scraping the bottom of the barrel now, but it's hard to see that there are any shorts left to squeeze.
+
+Bonds are very slightly down (yields up), as you'd expect from a risk on day. DX was flat.
 

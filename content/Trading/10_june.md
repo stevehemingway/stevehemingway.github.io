@@ -1,6 +1,6 @@
 title: Market Notes, 10 June 2020
 date: 2020-6-10
-category: trading
+category: markets
 tags: journal
 
 Hard to say what today will bring. 

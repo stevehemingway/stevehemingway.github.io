@@ -1,6 +1,6 @@
 title: Market Notes, 27-28th June 2020
 date: 2020-6-28
-category: trading
+category: markets
 tags: journal
 
 ## Bubblicious

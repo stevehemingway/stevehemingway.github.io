@@ -1,6 +1,6 @@
 title: Market Notes, 28th July 2020
 date: 2020-7-28
-category: trading
+category: markets
 tags: journal
 
 

@@ -1,6 +1,6 @@
 title: Market Notes, 10th July 2020
 date: 2020-7-10
-category: trading
+category: markets
 tags: journal
 
 

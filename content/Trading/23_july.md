@@ -1,6 +1,6 @@
 title: Market Notes, 23rd July 2020
 date: 2020-7-23
-category: trading
+category: markets
 tags: journal
 
 ## Morning

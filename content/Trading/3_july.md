@@ -1,6 +1,6 @@
 title: Market Notes, 3rd July 2020
 date: 2020-7-3
-category: trading
+category: markets
 tags: journal
 
 ## Steepeners and flatteners

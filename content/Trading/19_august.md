@@ -1,6 +1,6 @@
 title: Market Notes, 19th August 2020
 date: 2020-8-19
-category: trading
+category: markets
 tags: journal 
 
 ## Morning in Europe

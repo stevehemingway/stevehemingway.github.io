@@ -1,6 +1,6 @@
 title: Market Notes, 8th August 2020
 date: 2020-8-8
-category: trading
+category: markets
 tags: journal
 
 ## All day

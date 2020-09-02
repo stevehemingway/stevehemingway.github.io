@@ -1,6 +1,6 @@
 title: Weekly Wrap, 11th July 2020
 date: 2020-7-11
-category: trading
+category: markets
 tags: journal
 
 ## That was the week that was

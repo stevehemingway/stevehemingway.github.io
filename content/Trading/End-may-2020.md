@@ -1,6 +1,6 @@
 title: May Wrapup
 date: 2020-05-31
-category: trading
+category: markets
 
 
 Risk On/Risk Off behaviour still seems to dominate. 

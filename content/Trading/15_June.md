@@ -1,6 +1,6 @@
 title: Market Notes, 15th June 2020
 date: 2020-6-15
-category: trading
+category: markets
 tags: journal
 
 Brazil - stockmarket vs BRE. Review arguments made by Dahlia Capital on this week's Market Huddle!

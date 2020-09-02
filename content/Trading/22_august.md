@@ -1,6 +1,6 @@
 title: Weekend thoughts
 date: 2020-8-24
-category: trading
+category: markets
 tags: money, nat-gas, politics-matters
 
 ## Helicopter Ben still to blame

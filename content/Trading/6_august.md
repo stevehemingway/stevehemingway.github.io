@@ -1,6 +1,6 @@
 title: Market Notes, 6th August 2020
 date: 2020-8-6
-category: trading
+category: markets
 tags: journal
 
 ## Market notes
@@ -55,3 +55,14 @@ because these huge passive funds that charge essentially zero management fees **
 Green made some interesting points about option trading and pricing, and the relationship between option pricing and the Efficient Market Hypothesis. 
 He also had some interesting comments on Jim Simon's biggest problem running the Medallion Fund,
 but you have to listen to the whole thing because it's packed with revelations.
+
+I really think this idea is important. Maybe not quite as much as Mike Green does, 
+but I think that the monotonic price behaviour of the SPX is a consequence of lock-step buying of all stocks as
+investors' money moves from active to passive (as boomers cash out and millenials save more). 
+The relative price behaviour of stocks is a function of the shape of the supply schedule for stock.
+The low free float of stocks like $TSLA and $AMZN must steepen this curve.
+The other factor, of course, is stock buybacks.
+With $AAPL, one of the most cash-generative companies on the planet, endlessly issuing debt to fund buybacks,
+(to neutralize the dilution that stock awards to insiders would otherwise cause), it's hardly surprising that the stock price never goes down.
+It really doesn't make any difference what it's P/E ratio is.
+

@@ -1,6 +1,6 @@
 title: Market Notes, 26th June 2020
 date: 2020-6-26
-category: trading
+category: markets
 tags: journal
 
 ## It's too hot

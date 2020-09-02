@@ -1,6 +1,6 @@
 title: Market Notes, 20th July 2020
 date: 2020-7-20
-category: trading
+category: markets
 tags: journal
 
 ## All day

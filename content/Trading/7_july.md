@@ -1,6 +1,6 @@
 title: Market Notes, 7th July 2020
 date: 2020-7-7
-category: trading
+category: markets
 tags: journal, politics
 
 ## Morning

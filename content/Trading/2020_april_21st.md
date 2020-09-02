@@ -1,6 +1,6 @@
 ---
 date: 2020-04-30
-category: trading
+category: markets
 title: Oil goes to negative price!
 ---
 

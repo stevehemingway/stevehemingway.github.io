@@ -1,6 +1,6 @@
 title: Market Notes, 31st July 2020
 date: 2020-7-31
-category: trading
+category: markets
 tags: journal
 
 ## Morning thoughts

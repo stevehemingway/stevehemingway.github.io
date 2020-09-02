@@ -1,5 +1,5 @@
 title: Late May update
-category: trading
+category: markets
 date: 2020-05-29
 
 Trying to keep delta neutral wrt SPX.

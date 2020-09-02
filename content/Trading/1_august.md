@@ -1,6 +1,6 @@
 title: Market Notes, 1st August 2020
 date: 2020-8-1
-category: trading
+category: markets
 tags: journal
 
 I can't come close to Doug Noland's CBB depth of coverage of markets. 

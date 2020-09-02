@@ -1,6 +1,6 @@
 title: Market Notes, 4-5th July 2020
 date: 2020-7-5
-category: trading
+category: markets
 tags: journal, politics, grumpiness
 
 

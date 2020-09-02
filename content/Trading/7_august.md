@@ -1,6 +1,6 @@
 title: Market Notes, 7th August 2020
 date: 2020-8-7
-category: trading
+category: markets
 tags: journal
 
 ## Morning call

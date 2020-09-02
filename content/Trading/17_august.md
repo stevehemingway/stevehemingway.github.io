@@ -1,6 +1,6 @@
 title: Market Notes, 17th August 2020
 date: 2020-8-17
-category: trading
+category: markets
 tags: journal
 
 ## Market action

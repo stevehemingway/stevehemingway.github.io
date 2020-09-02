@@ -1,6 +1,6 @@
 title: Market Notes, 8th July 2020
 date: 2020-7-8
-category: trading
+category: markets
 tags: journal
 
 ## Morning

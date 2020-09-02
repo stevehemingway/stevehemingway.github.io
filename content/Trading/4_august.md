@@ -1,6 +1,6 @@
 title: Market Notes, 4th August 2020
 date: 2020-8-4
-category: trading
+category: markets
 tags: journal
 
 ## Markets today

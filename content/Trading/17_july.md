@@ -1,6 +1,6 @@
 title: Market Notes, 17th July 2020
 date: 2020-7-17
-category: trading
+category: markets
 tags: journal
 
 ## Markets since Wed

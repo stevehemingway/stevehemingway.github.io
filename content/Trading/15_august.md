@@ -1,6 +1,6 @@
 title: Market Notes, 15th August 2020
 date: 2020-8-15
-category: trading
+category: markets
 tags: journal
 
 ## Krushner and Kodak

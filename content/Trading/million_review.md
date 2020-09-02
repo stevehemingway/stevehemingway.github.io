@@ -3,7 +3,7 @@ status: published
 date: 2020-5-10
 slug: million
 tags: books
-category: trading
+category: markets
 
 I pinched all this from 
 [Max Nova's Review](http://books.max-nova.com/losing-a-million-dollars/). 

@@ -1,6 +1,6 @@
 title: Market Notes, 19th June 2020
 date: 2020-6-19
-category: trading
+category: markets
 tags: journal
 
 ## Market Notes

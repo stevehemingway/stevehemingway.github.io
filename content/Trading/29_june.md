@@ -1,6 +1,6 @@
 title: Market Notes, 29th June 2020
 date: 2020-6-29
-category: trading
+category: markets
 tags: journal
 
 ## ETF Buying

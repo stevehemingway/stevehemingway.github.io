@@ -1,6 +1,6 @@
 title: Markets fluctuate
 date: 2020-04-30
-category: trading
+category: markets
 
 # 22nd April
 

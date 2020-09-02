@@ -1,6 +1,6 @@
 title: commentary 9 June 2020
 date: 2020-6-9
-category: trading
+category: markets
 tags: journal
 
 After a week or two of relentless risk on behaviour, culminating in the NASDAQ hitting and all-time high, there is a faint hint of risk-off behaviour today. 

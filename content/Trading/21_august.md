@@ -1,6 +1,6 @@
 title: Market Notes, 21th August 2020
 date: 2020-8-21
-category: trading
+category: markets
 tags: journal 
 
 ## Morning
