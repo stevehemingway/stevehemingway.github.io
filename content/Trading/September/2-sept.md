@@ -55,5 +55,6 @@ I can't improve on [Zerohedge today](https://www.zerohedge.com/markets/sp-reache
 (I can't believe that Twitter disabled ZH's account: it has some excellent content, such as [this](https://www.zerohedge.com/economics/cbo-projects-us-debt-will-hit-record-107-gdp-2023-and-then-explode).
 Both articles are worth reading in detail. The second one concludes that debt at 180% of GDP by 2050 will result in a war is not convincing: I believe that Japanese debt is around 270% of GDP and that's an exceptionally peaceful place. We might get "fiscal dominance" (which, as I understand it, is the state of the nation when the central bank no longer even pretends it's independent from the treasury).
 
+In summary, equity markets all went up, but you knew that, because the market was open.
 
 
