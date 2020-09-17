@@ -18,3 +18,6 @@ I took a look a longer chart for gold. It is supernaturally flat: down 7bp in th
 [The CME is launching micro contracts in DJI, Nasdaq, Russell 2000 and SPX](https://www.cmegroup.com/education/courses/micro-e-mini-futures/micro-e-mini-futures-products-overview.html).
 This is to fight back against RobinHood, presumably, which must be draining some commission income from the exchange.
 
+# Alibaba cloud computer
+
+[This](https://asia.nikkei.com/Business/China-tech/Alibaba-targets-cloud-market-with-China-s-answer-to-Chromebook) sounds interesting, but the article is devoid of any practical details of the device.
