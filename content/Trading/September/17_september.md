@@ -13,4 +13,8 @@ The article implied that the driver was increased equity vol, but that's not obv
 I guess the third division companies that issue convertibles might have experienced some high vol. lately.
 I took a look a longer chart for gold. It is supernaturally flat: down 7bp in the last month, with very little intervening volatility. It is as if it's tracking interest rates...
 
+# Micro futures
+
+[The CME is launching micro contracts in DJI, Nasdaq, Russell 2000 and SPX](https://www.cmegroup.com/education/courses/micro-e-mini-futures/micro-e-mini-futures-products-overview.html).
+This is to fight back against RobinHood, presumably, which must be draining some commission income from the exchange.
 
