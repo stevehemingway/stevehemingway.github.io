@@ -40,3 +40,12 @@ This indicates a lack of both buyers and sellers of the future.
 Maybe they've moved to the micro version, or they just can't tolerate the volatility and lack of direction.
 Liquidity is an odd concept: it's the confidence that one can have that there are willing buyers and sellers for an asset *under the full range of future states of the market*. It is not simply that *now* there are lots of buyers and sellers. As someone once said, it's hard to define but you'll know what it is when you haven't got it.
 
+# Commodities 
+
+My old thinking about inflation was that the way to profit from unanticipated price escalation was to short long-dated government bonds.
+The problem with this strategy is that this is a rigged market: the counterparty is a central bank somewhere that can keep buying longer than you can remain solvent.
+It may be possible to buy inflation linked bonds, but these are already extremely expensive.
+It occurred to me that commodities may be an alternative route.
+Of course, commodities can be very volatile for short-term 'technical' factors, e.g. arising from supply holdups, bad weather etc.
+But cheap exposure can be obtained via futures (don't do this at home!) or ETFs. 
+As always, this is a recommendation to do some research, not to trade. But looking into this seems worthwhile at the moment.
