@@ -13,6 +13,12 @@ The article implied that the driver was increased equity vol, but that's not obv
 I guess the third division companies that issue convertibles might have experienced some high vol. lately.
 I took a look a longer chart for gold. It is supernaturally flat: down 7bp in the last month, with very little intervening volatility. It is as if it's tracking interest rates...
 
+I am not a subscriber to Shadow Government Stats, but [it's latest report](http://www.shadowstats.com/article/csbf1449) strongly suggests that the policy announced at the FOMC meeting will result in an inflation spike. 
+MMT does not believe that government spending can be financed by money printing without limit. 
+Practitioners have always stated that *once the spending has started bring the economy near to its production frontier then it's appropriate to drain demand via tax rises to control inflation*. 
+I don't think that we've quite reached "Mainstream MMT" but we're getting damn close to it with the latest announcement, and it's hard to see Biden moving swiftly to raise taxes, especially three years into his term.
+OK, maybe I meant Kamala doing something that would stop her becoming the first elected (black) woman POTUS.
+
 There is a (UK) Monetary Policy Committee meeting today.
 The Economist expects no change of policy, which sets the Bank of England alongside virtually every central bank on the planet.
 *At some point* rates will have to rise but it doesn't seem that it's going to happen any time soon.
