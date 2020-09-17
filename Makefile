@@ -42,10 +42,14 @@ help:
 	@echo '   make github                         upload the web site via gh-pages   ';
 	@echo '   make upload                         do a git push to github ';
 	@echo '   make repo			      commit your recent content changes' ;
+	@echo '   make whole			      combo of repo, upload and github' ;
 	@echo '                                                                          ';
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   ';
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    ';
 	@echo '                                                                          ';
+
+whole: repo upload github
+	date;
 
 html:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
@@ -87,11 +91,11 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
 
-github: publish upload
+github: publish upload 
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
-upload: 
+upload: repo
 	git push origin $(GITHUB_SOURCE_BRANCH)
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github
+.PHONY: html help clean regenerate serve serve-global devserver publish github repo upload
