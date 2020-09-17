@@ -43,9 +43,23 @@ Liquidity is an odd concept: it's the confidence that one can have that there ar
 # Commodities 
 
 My old thinking about inflation was that the way to profit from unanticipated price escalation was to short long-dated government bonds.
-The problem with this strategy is that this is a rigged market: the counterparty is a central bank somewhere that can keep buying longer than you can remain solvent.
+The problem with this strategy is that this is a rigged market: the counterparty is a central bank someone that can keep buying longer than you can remain solvent.
 It may be possible to buy inflation linked bonds, but these are already extremely expensive.
 It occurred to me that commodities may be an alternative route.
 Of course, commodities can be very volatile for short-term 'technical' factors, e.g. arising from supply holdups, bad weather etc.
 But cheap exposure can be obtained via futures (don't do this at home!) or ETFs. 
 As always, this is a recommendation to do some research, not to trade. But looking into this seems worthwhile at the moment.
+I follow [Andrew Hecht](https://seekingalpha.com/author/andrew-hecht). He is almost a perma-bull, but he writes interesting stuff.
+
+# The End Game
+
+I listened to (most) of [Episode 7](https://ttmygh.podbean.com/e/teg_0007/) of this podcast.
+The amazing thing about this is that all the guests agree that the current financialization of everything is going to end in tears, but none really have a clear idea of what the end will look like.
+One thing that everyone seems to agree about is that as financial assets grow without any limit,
+no CB can ever let interest rates go up.
+The big question is whether they will stay at zero or will go downwards forever.
+My bet is that they are pushed down into deep negative territory, 
+but this will have a big impact on the value of movable assets (such as collectable coins).
+
+
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=vSSF&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
