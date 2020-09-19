@@ -28,4 +28,11 @@ Europe sectors for the week: winners were retail, health and mining. Losers were
 US sectors for the week: winners were  energy, industrials, materials and health care; losers were the rest, especially consumer discretionary and communications services. Oddly, real estate was about flat.
 Energy has had an *annus horribilis*: the GSCI Energy Index is down 55%.
 
-The 
+# Commodities and inflation
+
+I think commodities are cheap relative to GBP. [So does John Authers](https://www.bloomberg.com/opinion/articles/2020-09-15/fed-wants-inflation-japan-points-to-easy-money-limits?sref=uN6cur8D). 
+I'm a bit worried about this: whenever Authers says something I agree with, the market takes the opposing view.
+It is particularly interesting to see UK inflation looking as though it's about to take off.
+The traditional method of profiting from this would be to sell gilts, but maybe buying a commodity index (future) and selling GBP.USD to hedge the dollar exposure would be more reliable given that the Bank of England is likely to be rigging the gilts market for some decades to come.
+
+<img src="https://www.bloomberg.com/opinion/articles/2020-09-15/fed-wants-inflation-japan-points-to-easy-money-limits?sref=uN6cur8D" width=750px>
