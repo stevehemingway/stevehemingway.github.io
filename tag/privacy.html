@@ -4,12 +4,13 @@
         <meta charset="utf-8" />
         <title>Monologue Blog - privacy</title>
         <link rel="stylesheet" href="https://www.stevehemingway.com/theme/css/main.css" />
+		<link rel="stylesheet" href="https://www.stevehemingway.com/theme/tipuesearch/tipuesearch.css">
         <link href="https://www.stevehemingway.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Monologue Blog RSS Feed" />
 </head>
 
 <body id="index" class="home">
         <header id="banner" class="body">
-                <h1><a href="https://www.stevehemingway.com/">Monologue Blog <strong>politics, economics, maths, markets, Knebworth ...</strong></a></h1>
+                <h1><a href="https://www.stevehemingway.com/">Monologue Blog <strong>Mainly markets but a smattering of other stuff</strong></a></h1>
                 <nav><ul>
                     <li><a href="https://www.stevehemingway.com/category/books.html">books</a></li>
                     <li><a href="https://www.stevehemingway.com/category/knebworth.html">knebworth</a></li>
@@ -52,6 +53,9 @@ To my mind politicians do not understand the Internet and instinctively do the w
 <p>The <span class="caps">UK</span> government has produced a pig of an app to do Covid-19 tracking (full details <a href="https://privacyinternational.org/long-read/3752/coronavirus-tracking-uk-what-we-know-so-far">here</a>). Not only does it collect data in a way that is dangerous, it can easily be cloned by developers who will pass off their worse apps as the official one. Worst of all (but not from a privacy point of view) is that it needs to run in foreground. Why, oh why, did our government not chose the <a href="https://www.cnet.com/news/apple-google-announce-new-privacy-features-for-coronavirus-tracking-tech/">one jointly developed between Apple <span class="amp">&amp;</span> Google</a>?</p>                </article>
             </aside><!-- /#featured -->
         <section id="extras" class="body">
+		<form id="searchform" action="/search" onsubmit="return (this.elements['q'].value.length > 0)">
+			<input id="searchbox" type="text" name="q" size="12" placeholder="Search">
+		</form>
                 <div class="blogroll">
                         <h2>links</h2>
                         <ul>
@@ -73,6 +77,7 @@ To my mind politicians do not understand the Internet and instinctively do the w
                             <li><a href="https://themarketear.com/">The Market Ear</a></li>
                             <li><a href="https://dailyshotbrief.com">The Daily Shot</a></li>
                             <li><a href="https://www.theburningplatform.com">The Burning Platform Blog</a></li>
+                            <li><a href="https://cse.google.com/cse?cx=ce104668e88a754c6">Search This Blog</a></li>
                         </ul>
                 </div><!-- /.blogroll -->
                 <div class="social">
@@ -94,6 +99,7 @@ To my mind politicians do not understand the Internet and instinctively do the w
 
                 <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
+
 
 </body>
 </html>
