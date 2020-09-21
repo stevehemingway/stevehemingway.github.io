@@ -1,7 +1,7 @@
 title: Daily Note
 category: markets
 tags:
-status: draft
+status: published
 date: 21 Sept 2020
 
 # Morning Report
