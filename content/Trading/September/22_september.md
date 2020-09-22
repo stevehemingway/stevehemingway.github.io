@@ -1,11 +1,11 @@
-title: It *was* the RobinHooders what done it
+title: It was the RobinHooders what done it
 category: markets
 tags: 
 date: 22 Sept 2020
 
 # Gamma Squeeze
 
-[The Market Huddle interviewed Brent Kochuba about gamma and how it interacted with the spot market last month](https://www.youtube.com/watch?v=VZwCUaEav18&feature=youtu.be). I listened to this while doing something which required more concentration than was compatible with understanding every nuance of what Brent and Kevin were discussing, but the takeaway I ended up with was that it's quite possible that Softbank was just hedging some of its existing positions in the mega cap tech stocks.
+[The Market Huddle interviewed Brent Kochuba about gamma and how it interacted with the cash market last month](https://www.youtube.com/watch?v=VZwCUaEav18&feature=youtu.be). I listened to this while doing something which required more concentration than was compatible with understanding every nuance of what Brent and Kevin were discussing, but the takeaway I ended up with was that it's quite possible that Softbank was just hedging some of its existing positions in the mega cap tech stocks. The logical conclusion was that if it wasn't Softbank, it must have been the armies of RobinHood traders.
 
 There are so many players, now, trading in individual stock options and index options, and there is such a range of possibilities of interactions between these markets and the underlyings that it's very hard to attribute market moves to option buying and selling. It's interesting to speculate, though, and I'd bet that the increased use of derivatives by 'amateur' traders is likely to create extra volatility, ultimately.
 
@@ -21,6 +21,6 @@ Gold is well off its lows (1886) but still far from its high of 2080 in early Au
 
 The so called "FinCEN files" leak has indicated that the usual suspects have been involved in money laundering.
 HSBC, Barclays, JPM, Deutsche, StanChart all are fingered. 
-It doesn't seem to have made any difference to their share prices: I don't suppose anybody was surprised, or cares very much. Stanchart share price went up 1.3% today, at 11:47 as I write this.
+It doesn't seem to have made any difference to their share prices: I don't suppose anybody was surprised, or cares very much. Stanchart share price was up 1.3% today, as of 11:47 as I write this.
 
 
