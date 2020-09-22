@@ -11,16 +11,29 @@ There are so many players, now, trading in individual stock options and index op
 
 It was very interesting to listen to the Huddle's discussion of what the option market makers have to do to hedge their risk after writing big option positions with (e.g.) Softbank as the counterparty, especially about the limits to delta hedging which is OK in a textbook but does rely on some heroic and unrealistic assumptions.
 
-# Opening position
+# Opening notes
 
 Generally, the markets bounced back, a bit, from their extremes of yesterday.
 There is still a lingering smell of risk-off, and bitcoin is down a bit, and T-bonds flat.
 Gold is well off its lows (1886) but still far from its high of 2080 in early August.
+The dollar is still strong: even now it is a safe haven from volatile securities markets.
 
 # News
 
 The so called "FinCEN files" leak has indicated that the usual suspects have been involved in money laundering.
 HSBC, Barclays, JPM, Deutsche, StanChart all are fingered. 
 It doesn't seem to have made any difference to their share prices: I don't suppose anybody was surprised, or cares very much. Stanchart share price was up 1.3% today, as of 11:47 as I write this.
+For the group that did the work, take a look [here](https://www.icij.org/investigations/fincen-files/mining-sars-data/).
 
+# Wrap
 
+Equities regained some of their lost ground, lead by the NASDAQ (of course).
+Commodities were practically flat, as were govt. bonds.
+Bitcoin & the Euro were down, Yen up. 
+All the sectors were up apart from healthcare (slightly), financials and energy.
+Silver and silver miners were up, a bit.
+TSLA seems to have failed to get a bounce from battery day, although I don't know why.
+The FT ran a rather gushing piece on how Tesla has revolutionized car manufacturing by being vertically integrated,
+as though this wasn't something that Henry Ford wasn't doing well over a hundred years ago.
+Supposedly, software works better if all the drivetrain is manufactured in house.
+I am not, unsurprisingly, convinced.
