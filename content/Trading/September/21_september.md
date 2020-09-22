@@ -1,6 +1,6 @@
 title: Daily Note
 category: markets
-tags:
+tags: monetary policy, 
 status: published
 date: 21 Sept 2020
 
@@ -28,7 +28,8 @@ The Bulletin is nothing if not consistent, but has a lot of good factual content
 Whitney Webb, who is a bit mad, is convinced that the DNC fixed it for Kamala Harris to become president, in spite of not doing very well in the primaries, by putting Biden in as a shield for her, until he stands down immediately after the election. If it all seems a bit far fetched, it is. But I think we should be allowed to make our own minds up, so I commend to you [this episode](https://quoththeraven.podbean.com/e/quoth-the-raven-222-whitney-webb-talks-2020-election-chaos/) of the QTR podcast, to hear from the lady herself.
 She does not *sound* like a mad conspiracy theorist, but that may say more about my assumptions than objective reality.
 
-It does not seem very radical to suggest that this presidential election is exceptionally polarizing, or that Biden is not obviously the most electable of the main candidates in the Democrat primaries. 
+It does not seem very radical to suggest that this presidential election is exceptionally polarizing, or that Biden is not obviously the most electable of the main candidates in the Democrat primaries. The increased risk shows up in the term structure of the VIX.
+
 
 
 # Wrap
