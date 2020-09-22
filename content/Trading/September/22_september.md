@@ -37,3 +37,12 @@ The FT ran a rather gushing piece on how Tesla has revolutionized car manufactur
 as though this wasn't something that Henry Ford wasn't doing well over a hundred years ago.
 Supposedly, software works better if all the drivetrain is manufactured in house.
 I am not, unsurprisingly, convinced.
+
+# Latex
+
+Tex is an amazing piece of software.
+I have recently been using xelatex (and pdflatex & lualatex), driven via pandoc, to convert markdown to pdf.
+The whole thing is controlled from a makefile.
+It's probably not going to knock MS Word off its perch, but it's really very easy to use, once you have got a basic
+grasp of some of the tools.
+The command line is a wonderful thing, still.
