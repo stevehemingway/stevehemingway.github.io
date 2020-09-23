@@ -1,6 +1,6 @@
 title: It was the RobinHooders what done it
 category: markets
-tags: 
+tags: options, fincen, tech
 date: 22 Sept 2020
 
 # Gamma Squeeze
