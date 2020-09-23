@@ -5,43 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/search.html</loc>
-<lastmod>2020-09-22T21:32:58-00:00</lastmod>
+<lastmod>2020-09-23T21:50:22-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/market-notes-23-sept-2020.html</loc>
+<lastmod>2020-09-23T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -1699,7 +1706,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2020-09-22T00:00:00-00:01</lastmod>
+<lastmod>2020-09-23T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1754,6 +1761,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/tag/journal.html</loc>
+<lastmod>2020-09-23T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/options.html</loc>
+<lastmod>2020-09-22T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/fincen.html</loc>
+<lastmod>2020-09-22T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/tech.html</loc>
+<lastmod>2020-09-22T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/tag/markets.html</loc>
 <lastmod>2020-09-21T21:21:28-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -1763,13 +1798,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/tag/monetary-policy.html</loc>
 <lastmod>2020-09-21T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/journal.html</loc>
-<lastmod>2020-09-19T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2083,13 +2111,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/tech.html</loc>
-<lastmod>2020-05-10T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/tag/software.html</loc>
 <lastmod>2020-05-04T15:58:44-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -2112,7 +2133,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2020-09-22T00:00:00-00:01</lastmod>
+<lastmod>2020-09-23T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
