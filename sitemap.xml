@@ -5,43 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/search.html</loc>
-<lastmod>2020-09-24T21:47:36-00:00</lastmod>
+<lastmod>2020-09-28T21:03:21-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/world-astonished-to-discover-that-donald-trump-pays-no-federal-income-tax.html</loc>
+<lastmod>2020-09-28T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/friday-thoughts.html</loc>
+<lastmod>2020-09-25T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -1713,7 +1727,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2020-09-24T00:00:00-00:01</lastmod>
+<lastmod>2020-09-28T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1768,14 +1782,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/environment.html</loc>
-<lastmod>2020-09-24T00:00:00-00:01</lastmod>
+<loc>https://www.stevehemingway.com/tag/politics.html</loc>
+<lastmod>2020-09-28T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tag/journal.html</loc>
+<lastmod>2020-09-28T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/gold.html</loc>
+<lastmod>2020-09-25T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/inflation.html</loc>
+<lastmod>2020-09-25T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/environment.html</loc>
 <lastmod>2020-09-24T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1825,13 +1860,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tag/debt.html</loc>
-<lastmod>2020-09-16T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/inflation.html</loc>
 <lastmod>2020-09-16T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1950,13 +1978,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/gold.html</loc>
-<lastmod>2020-08-26T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/tag/aapl.html</loc>
 <lastmod>2020-08-26T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -2055,13 +2076,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/politics.html</loc>
-<lastmod>2020-07-07T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/tag/grumpiness.html</loc>
 <lastmod>2020-07-06T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -2147,7 +2161,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2020-09-24T00:00:00-00:01</lastmod>
+<lastmod>2020-09-28T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
