@@ -4,6 +4,7 @@
         <meta charset="utf-8" />
         <title>Buy when protestors are running in the streets</title>
         <link rel="stylesheet" href="https://www.stevehemingway.com/theme/css/main.css" />
+		<link rel="stylesheet" href="https://www.stevehemingway.com/theme/tipuesearch/tipuesearch.css">
         <link href="https://www.stevehemingway.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Monologue Blog RSS Feed" />
 </head>
 
@@ -58,6 +59,9 @@ Both have lacked much direction recently, especially the&nbsp;former.</p>
   </article>
 </section>
         <section id="extras" class="body">
+		<form id="searchform" action="/search" onsubmit="return (this.elements['q'].value.length > 0)">
+			<input id="searchbox" type="text" name="q" size="12" placeholder="Search">
+		</form>
                 <div class="social">
                         <h2>social</h2>
                         <ul>
@@ -77,6 +81,7 @@ Both have lacked much direction recently, especially the&nbsp;former.</p>
 
                 <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
+
 
 </body>
 </html>

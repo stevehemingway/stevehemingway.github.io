@@ -4,6 +4,7 @@
         <meta charset="utf-8" />
         <title>Monologue Blog - Categories</title>
         <link rel="stylesheet" href="https://www.stevehemingway.com/theme/css/main.css" />
+		<link rel="stylesheet" href="https://www.stevehemingway.com/theme/tipuesearch/tipuesearch.css">
         <link href="https://www.stevehemingway.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Monologue Blog RSS Feed" />
 </head>
 
@@ -28,7 +29,7 @@
     <ul>
         <li><a href="https://www.stevehemingway.com/category/books.html">books</a> (1)</li>
         <li><a href="https://www.stevehemingway.com/category/knebworth.html">knebworth</a> (69)</li>
-        <li><a href="https://www.stevehemingway.com/category/markets.html">markets</a> (114)</li>
+        <li><a href="https://www.stevehemingway.com/category/markets.html">markets</a> (115)</li>
         <li><a href="https://www.stevehemingway.com/category/markets-tech.html">markets, tech</a> (1)</li>
         <li><a href="https://www.stevehemingway.com/category/misc.html">misc</a> (4)</li>
         <li><a href="https://www.stevehemingway.com/category/politics.html">politics</a> (4)</li>
@@ -39,6 +40,9 @@
         <li><a href="https://www.stevehemingway.com/category/trading.html">trading</a> (42)</li>
     </ul>
         <section id="extras" class="body">
+		<form id="searchform" action="/search" onsubmit="return (this.elements['q'].value.length > 0)">
+			<input id="searchbox" type="text" name="q" size="12" placeholder="Search">
+		</form>
                 <div class="social">
                         <h2>social</h2>
                         <ul>
@@ -58,6 +62,7 @@
 
                 <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
         </footer><!-- /#contentinfo -->
+
 
 </body>
 </html>
