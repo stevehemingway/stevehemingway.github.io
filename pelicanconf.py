@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 import platform
 
-
 STATIC_PATHS = [
     'images',
     'extra',  # this
@@ -21,7 +20,7 @@ EXTRA_PATH_METADATA = {
 
 AUTHOR = 'me'
 SITENAME = 'Monologue Blog'
-SITESUBTITLE = 'politics, economics, maths, markets, Knebworth ...'
+SITESUBTITLE = 'Mainly markets but a smattering of other stuff'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -40,7 +39,6 @@ USE_FOLDER_AS_CATEGORY = False
 # PLUGINS = ['tipue_search.tipue_search']
 # this doesn't work: you have to use a theme that supports this type of search
 
-
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
 CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = False
@@ -57,7 +55,11 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (
+
+# reduce link leakage
+LINKS = ()
+
+Old_LINKS = (
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
     ('The Felder Report', 'https://thefelderreport.com/'),
     ('Wall Street on Parade', 'https://wallstreetonparade.com'),
@@ -76,6 +78,7 @@ LINKS = (
 	('The Market Ear', 'https://themarketear.com/'),
     ('The Daily Shot', 'https://dailyshotbrief.com'),
     ('The Burning Platform Blog', 'https://www.theburningplatform.com'),
+    ('Search This Blog', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
     )
 
 
@@ -95,6 +98,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 # typographical improvements!
 
 TYPOGRIFY = True
+SEARCH_BOX = True
 
 # sitemap plugin. Needs to work on different OSes
 
@@ -103,7 +107,9 @@ if (platform.system() == 'Linux'):
 else:
 	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
 	
-PLUGINS=["sitemap", "readtime"]
+PLUGINS=["sitemap", 'tipue_search', "readtime"]
+
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
 
 SITEMAP = {
     "format": "xml",
