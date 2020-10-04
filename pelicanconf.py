@@ -103,7 +103,7 @@ if (platform.system() == 'Linux'):
 else:
 	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
 	
-PLUGINS=["sitemap",]
+PLUGINS=["sitemap", "readtime"]
 
 SITEMAP = {
     "format": "xml",
