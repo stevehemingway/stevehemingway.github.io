@@ -107,9 +107,9 @@ if (platform.system() == 'Linux'):
 else:
 	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
 	
-PLUGINS=["sitemap", 'tipue_search',]
+PLUGINS=["sitemap",  "readtime"]
 
-DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', 'search']
+DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
 
 SITEMAP = {
     "format": "xml",

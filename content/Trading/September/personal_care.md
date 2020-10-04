@@ -4,7 +4,10 @@ date: 19 Sept 2020
 tags: politics
 status: draft
 
-# State and family
+# 
+
+
+State and family
 
 We voluntarily give up a lot of our income to the state. 
 Public spending is now 55% of GDP, which means that, on average, more than half of the income of the population is spent by the state, 
@@ -19,3 +22,9 @@ The UK government tries to make a clear distinction between medical care and per
 But this is an arbitrary distinction, which makes those  that fall on the wrong (expensive) side of it very unhappy.
 Insurance seems the obvious solution, as it will allow us to  pool the risk, but  when society cannot bear the pain of 
 an uninsured person suff
+
+insurance.
+politics
+suffering
+incentives
+postcode lottery.
