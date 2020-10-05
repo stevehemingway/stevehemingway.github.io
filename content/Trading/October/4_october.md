@@ -1,7 +1,7 @@
 title: Trump neither better nor worse
 category: markets
 tags: journal
-date: 5 October 2020
+date: 4 October 2020
 
 # Covid and Trump and the US Presidential Election
 
