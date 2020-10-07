@@ -1,13 +1,13 @@
 title: K-shaped recovery
 date: 6 October 2020
 category: markets
-tags: economics
+tags: economics, politics
 
 # K-shaped?
 
 When the Covid recession started, people started wondering what the recovery would look like.
 The recovery from the Global Financial Crisis in 2008 was horribly drawn out, and in fact GDP took longer to recover than it did in the Great Depression of the 1930s. How Bernanke, Yellen & Co. can be so self-congratulatory for killing productivity growth so comprehensively has always baffled me, and probably always will.
-The different scenarios were given a letter, so a V-shaped recovery was one where there was a single, steep leg down, followed by an equally steep leg up. An L-shaped one was one where the recovery was almost imperceptible (like the last one). Then I started seeing references to a K-shaped recovery. There are a number of interpretations, but ![this](https://i.redd.it/rzdwd5ec37q51.jpg) is representative. 
+The different scenarios were given a letter, so a V-shaped recovery was one where there was a single, steep leg down, followed by an equally steep leg up. An L-shaped one was one where the recovery was almost imperceptible (like the last one). Then I started seeing references to a K-shaped recovery. There are a number of interpretations, but this <img src="https://i.redd.it/rzdwd5ec37q51.jpg" width=750>  is representative. 
 
 More detail can be read in
 [this note](https://thereformedbroker.com/2020/10/05/whatever-comes-after-trump-and-biden-will-be-worse/).
@@ -28,7 +28,7 @@ The corresponding chart for vanilla M2 is as follows. It does look rather alarmi
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=wmzz&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
 
-# Coal: where there's much there's brass
+# Coal: where there's muck there's brass
 
 Coal is such a hated asset now that $BTU is yielding over 13%. This means that if the company can keep paying out at that rate for seven or eight years,  even if it ends up with absolutely value as an operating entity,  it will have paid back the investment.
 
