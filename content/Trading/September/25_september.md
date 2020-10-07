@@ -42,3 +42,20 @@ Narenda Modi seems to be turning into a sub-continental Trump.
 This can't be good for the Indian economy, or stock market.
 It's not a big market, but I feel bearish about it.
 No charts or hard data, just a few crumbs of sentiment I've picked up.
+
+
+# Wrap
+
+Equities finished the weak on an upbeat note, although only NDX was ahead of where it started. 
+All sectors were up, except energy, tech being strongest, consumer staples weakest (apart from energy).
+Bonds were basically flat, apart from converts, which are really equity.
+Currencies flat (bitcoin up 1% vs USD).
+Emerging markets mixed, India up 2.1%, China down 1%. 
+Evergrande looking hammered, after bonds stopped trading. 
+It's expected that the PBoC will bail them out, or the government. 
+A developer that big has to be run by CCP cadres. 
+Evergrande may not be a household name here, but it is the world's biggest real estate company!
+China has been incredibly strong, supposedly because it got to grips with Covid well,
+all it's numerous demographic and governance troubles conveniently ignored.
+
+
