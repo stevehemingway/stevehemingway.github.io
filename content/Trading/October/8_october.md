@@ -29,7 +29,7 @@ Some absolute crap has seen strong growth lately, e.g. $BYND, up 150% YTD.
 The problem with shorting this stuff is that there's probably a tiny free float and it will always go parabolic as soon as you sell. 
 $IRM -- Iron Mountain, a firm which makes money by collecting boxes of documents from big offices and storing it in big warehouses is up 3.6% today. Makes complete sense when nobody is working from home and all documents are sent and stored electronically for the last decade or so. 
 
-China Evergrande Group (a big China real estate group, which makes electric vehicles as a sideline, which is almost certainly going bankrupt, went up 17% today, on news that it had managed to get some deal with one of its creditors. It's probably not shortable, which is a great relief.
+China Evergrande Group, $EGRNY (a big China real estate group, which makes electric vehicles as a sideline, which is almost certainly going bankrupt, went up 17% today, on news that it had managed to get some deal with one of its creditors. It's probably not shortable, which is a great relief. 
 
 The options will have volatilities well north of 60%.
 As Fleck says, you can't short individual stocks in a rising market.

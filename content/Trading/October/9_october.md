@@ -27,6 +27,16 @@ I always seem to say something about inflation. Here is the chart for today.
 As Fleck pointed out in his daily newsletter, Yamana Gold ($AUY) gained 6.5% on results, which might be a foretaste of what is to come with the bigger gold miners like Barrick ($GOLD). 
 I am coming to prefer miners to the actual commodity, as they have a positive carry (admittedly $GOLD yields only 0.73%, but on a LTM basis it's P/E is nearly 11, which is pretty good for barbarous relic).
 
+# Fed needs to spend moooar 
+
+John Dizard [in the FT](https://www.ft.com/content/ef1a7c4e-eb22-4cab-b699-929e520d3c8c) argues that the Fed will have to start injecting large sums in to local governments in the USA. I think he's probably right. 
+The Fed will be hard pressed to refuse, for reasons he lists. 
+
+As Dr Marc Faber explains in [this podcast](https://ttmygh.podbean.com/e/teg_0008/), once the Fed started QE1 there was no going back. 
+The long term consequences will be bad (the least bad outcome is stagnating GDP, i.e. Japanification). 
+The US, with it's massive trade deficit, it's hard to see it being as painless as that.
+The whole podcast is worth a listen (as is every one hosted by Grant Williams that I've ever listened to).
+
 # Wrap 
 
 Pretty much everything green except oil and Treasuries. Even nat. gas was up. 
