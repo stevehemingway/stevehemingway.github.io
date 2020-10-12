@@ -1,7 +1,7 @@
 title: Weekend Scrapbook
 category: trading
 date:9 October 2020
-tags: journal, 
+tags: journal, economics
 
 
 # Interesting links
