@@ -19,3 +19,27 @@ My view is that as the cleanest standby fuel it's very complementary to wind and
 As a sector, energy has practically disappeared in terms of its weighting in the SPX.
 At some point I think it must come back, but the march of technology now seems unstoppable.
 Just as it did in 1999.
+
+I added a few 'interesting' energy stocks into [a portfolio on unhedged](https://www.unhedged.com/portfolio/5f857d11c370150010da7554/). I've only just started using unhedged, but it looks as though it has a lot of handy data.
+I like Koyfin, but it does not seem to offer any ability to keep notes or see financials in a sensible layout.
+I'm sure both services have their value. The charting on Koyfin is amazing.
+
+# Sam Brittan
+
+I was very sorry to read that Sam Brittan had passed away.
+He became the first economics correspondent of the FT in 1960.
+You can see an article about him [here](https://www.ft.com/content/b763bf06-3fc2-4e95-9fe6-a17acf3d8f3b).
+I read a great deal by him, and it stimulated my subsequent interest in the subject.
+He was a liberal, in the classical sense, as most people with an economics training tend to be. 
+He sensibly wanted to avoid going into politics. I am sure he had a more benevolent effect on the UK than his younger brother, who did go into politics and ended up in Mrs Thatcher's cabinet.
+
+It seems to me that whatever the label people choose to attach to their political beliefs,
+if they have any sort of exposure to economics as an academic subject they tend to agree with each other 
+more than they disagree. 
+I have always wondered why economics has never been a mainstream school subject, unlike music, art, geography or woodwork for example.
+
+I didn't realize that he was quite so shambolic in his dress and behaviour. 
+He would not have made it today, where there is so much emphasis on looking good on screen.
+
+
+
