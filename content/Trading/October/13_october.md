@@ -8,7 +8,7 @@ tags: journal
 The NDX is going parabolic again. 
 It's hard to know why, but a big factor must be $AAPL's reveal of its 5G phones.
 Apple is an extraordinary company.
-It is an object lesson in how good investor relations and marketing generally, and massive share buybacks, can totally nullify any ability to maintain a technological lead.
+It is an object lesson in how good investor relations and marketing generally, and massive share buybacks, can totally neutralize Apple's failure to innovate technologically for the last thirteen years.
 
 # Today
 
@@ -20,7 +20,15 @@ As a sector, energy has practically disappeared in terms of its weighting in the
 At some point I think it must come back, but the march of technology now seems unstoppable.
 Just as it did in 1999.
 
-I added a few 'interesting' energy stocks into [a portfolio on unhedged](https://www.unhedged.com/portfolio/5f857d11c370150010da7554/). I've only just started using unhedged, but it looks as though it has a lot of handy data.
+The FT seems to think that the risk-off tone of the markets was triggered by the nearness of the earnings season.
+The only US equity market to be up is NDX (what else?). Oil was up, but most everything else down in the commodity space. Global equity markets generally down. 
+10 year govt. yields were *up* globally, with the exception of Germany, which is quite odd on a risk off day, but consistent with a looming inflation risk scenario.
+
+
+
+
+I added a few 'interesting' energy stocks into [a portfolio on unhedged](https://www.unhedged.com/portfolio/5f857d11c370150010da7554/). I've only just started using unhedged, but it looks as though it has a lot of handy data. It seems to be good on 8-Ks and 10-Ks. I am not sure it has much macro content.
+
 I like Koyfin, but it does not seem to offer any ability to keep notes or see financials in a sensible layout.
 I'm sure both services have their value. The charting on Koyfin is amazing.
 
@@ -41,5 +49,11 @@ I have always wondered why economics has never been a mainstream school subject,
 I didn't realize that he was quite so shambolic in his dress and behaviour. 
 He would not have made it today, where there is so much emphasis on looking good on screen.
 
+# Macro Corner
 
+Lyn Alden does some interesting historical trend analysis.
+
+![this](https://twitter.com/LynAldenContact/status/1299409793598337024/photo/1) is worth a look.
+
+The chart seems to show that 
 
