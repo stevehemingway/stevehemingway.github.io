@@ -17,5 +17,10 @@ This has not had any clear trend since the beginning of the official western rea
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=wIIz&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
 
+# Unhedged
+
+I am getting more into [unhedged.com](https://www.unhedged.com/). It does seem a very nice website.
+How so much info can be assembled for no cost is beyond me, but I guess advertising to punters is worthwhile
+I have a lot of anti-advertising tech in my browser, so maybe I'm just not seeing what others see.
 
 [My fraud portfolio on unhedged.com](https://www.unhedged.com/portfolio/5f86c257457d8b00109ceb0d/?l=5f87562928e2ad001056d068)
