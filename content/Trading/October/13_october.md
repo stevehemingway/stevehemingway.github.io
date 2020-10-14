@@ -55,5 +55,15 @@ Lyn Alden does some interesting historical trend analysis.
 
 ![this](https://twitter.com/LynAldenContact/status/1299409793598337024/photo/1) is worth a look.
 
-The chart seems to show that 
+The chart seems to show that the money multiplier: the ratio of broad money to narrow money, but generally a measure of real money creation (by private banks) is spiking up, as it did in 1940. The result then was a rapid rise in prices (which had, in any case, been artificially repressed by rationing and price controls during the war years).
+There was something of a spike, although much less pronounced in the 1970s.
+The takeaway, as far as I can discern, is that inflation will finally take off.
+However, the authorities talk up inflation, but the political realities of having higher inflation,
+and therefore higher nominal interest rates, could be utterly catastrophic for government spending.
+It is for this reason that I am not yet convinced that inflation will take off.
+It's one thing to create (false) expectations of higher inflation.
+It's quite another, as the US Treasury, to cope with the financing consequences of such a thing.
+Of course, over the longer run, a purging dose of inflation is precisely what a government wants to avoid paying the real cost of its borrowing. High nominal interest rates are often accompanied by negative real ones.
+This has consequences for precious metals and the dollar, obviously.
+
 
