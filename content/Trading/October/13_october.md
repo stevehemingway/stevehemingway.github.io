@@ -53,7 +53,8 @@ He would not have made it today, where there is so much emphasis on looking good
 
 Lyn Alden does some interesting historical trend analysis.
 
-![this](https://twitter.com/LynAldenContact/status/1299409793598337024/photo/1) is worth a look.
+
+See [this tweet](https://twitter.com/LynAldenContact/status/1299409793598337024/photo/1) for the background (sorry, Twitter makes it too difficult to hotlink images).
 
 The chart seems to show that the money multiplier: the ratio of broad money to narrow money, but generally a measure of real money creation (by private banks) is spiking up, as it did in 1940. The result then was a rapid rise in prices (which had, in any case, been artificially repressed by rationing and price controls during the war years).
 There was something of a spike, although much less pronounced in the 1970s.
@@ -65,5 +66,17 @@ It's one thing to create (false) expectations of higher inflation.
 It's quite another, as the US Treasury, to cope with the financing consequences of such a thing.
 Of course, over the longer run, a purging dose of inflation is precisely what a government wants to avoid paying the real cost of its borrowing. High nominal interest rates are often accompanied by negative real ones.
 This has consequences for precious metals and the dollar, obviously.
+
+In the caption to the chart, Lyn Alden states that when the long term debt cycle has 'reached an apex' (which, presumably, we have reached now, although there seems to be no pause in issuance), fiscal policy has to take over.
+Central bankers around the globe have been calling for this for several years.
+Presumably, the unstated implication is that the CBs are standing ready to monetize the spend. 
+This, surely, is what will trigger inflation, not simply allowing private banks to swap long-dated Treasurys for reserves (which they refuse to lend out).
+
+The problem is that an exploding monetary base does not translate into inflation.
+[This blog post](https://fredblog.stlouisfed.org/2019/08/switzerlands-mountainous-monetary-base/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog) demonstrates that Switzerland has been growing the money base constantly and the last time I looked Switzerland didn't have a problem with inflation.
+In fact, they are constantly buying US assets to try to keep their currency down to avoid it going through the roof, something that certainly would kill inflation stone dead.
+
+
+
 
 
