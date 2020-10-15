@@ -21,6 +21,6 @@ This has not had any clear trend since the beginning of the official western rea
 
 I am getting more into [unhedged.com](https://www.unhedged.com/). It does seem a very nice website.
 How so much info can be assembled for no cost is beyond me, but I guess advertising to punters is worthwhile
-I have a lot of anti-advertising tech in my browser, so maybe I'm just not seeing what others see.
+I have a lot of anti-advertising tech in my browser, so maybe I'm just not seeing what others see. I hope it doesn't turn into another seeking alpha (or motley fool).
 
-[My fraud portfolio on unhedged.com](https://www.unhedged.com/portfolio/5f86c257457d8b00109ceb0d/?l=5f87562928e2ad001056d068)
+[My fraud portfolio on unhedged.com](https://www.unhedged.com/portfolio/5f86c257457d8b00109ceb0d/?l=5f87562928e2ad001056d068).
