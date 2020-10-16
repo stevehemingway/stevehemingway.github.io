@@ -1,6 +1,6 @@
-title: 
+title: Markets return to their former upward trajectory
 category: markets
-tags: websites, journal
+tags: websites, journal, factor-investing
 date: 16 October 2020
 
 # Summary
