@@ -1,7 +1,7 @@
 title: Unhedged, but not unhinged
 category: markets
-tags: websites, journal
 date: 14 October 2020
+tags: websites, journal
 
 # Today
 
