@@ -10,3 +10,30 @@ Richard Koo says that recessions can be caused by too much saving. This is what 
 Unfortunately, it looks like the US is itself turning Japanese, with consequences which will not be pleasant, for equities at least.
 
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=wPl8&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
+
+
+# Declining marginal revenue product of debt
+
+John Maudlin has recycled Lacy Hunt's thesis [here](https://goldseek.com/article/caught-debt-trap). 
+It's probably better to read the original Hoisington report [here](https://hoisingtonmgt.com/economic_overview.html).
+The webpage alone is worth a look to understand why Lacy Hunt is not one to waste money on fripperies.
+
+# Peak Bubble
+
+I urge you to sign up to the Credit Bubble Bulletin. It's free, and has a good summary of what's going on in the markets.
+
+It has a weekly rant about how terrible everything is, but the awful thing is that it's right. 
+Eventually, all this will go down in flames. 
+I, like everyone else, is hoping that the reset will not happen in my lifetime (which, to be fair, is quite likely):
+
+http://creditbubblebulletin.blogspot.com/2020/10/weekly-commentary-moral-hazard-pinnacle.html
+
+# Charity Hedge Fund
+
+This is [Nick Givanovic](https://twitter.com/NickGiva). I heard him on The Market Huddle. It's interesting to compare his tone on the programme and on Twitter.
+
+# [Great Barrington Declaration](https://gbdeclaration.org/)
+
+This seems pretty innocuous, but is supposed to be supressed by Twitter. 
+Not very effectively, in that case, as I found a link to it tweeted on Twitter.
+It does show up on a Google search, but not at the top.
