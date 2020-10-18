@@ -30,7 +30,8 @@ http://creditbubblebulletin.blogspot.com/2020/10/weekly-commentary-moral-hazard-
 
 # Charity Hedge Fund
 
-This is [Nick Givanovic](https://twitter.com/NickGiva). I heard him on The Market Huddle. It's interesting to compare his tone on the programme and on Twitter.
+This is [Nick Givanovic](https://twitter.com/NickGiva). I heard him on The Market Huddle. It's interesting to compare his tone on the programme and on Twitter. Costs money ($250?) to follow him on Twitter, but to be fair, you can download his historical tweets to see if he has been right historically. Can't be 100% sure he didn't delete his dud trades.
+
 
 # [Great Barrington Declaration](https://gbdeclaration.org/)
 
