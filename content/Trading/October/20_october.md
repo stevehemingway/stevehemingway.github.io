@@ -24,6 +24,8 @@ Hunt states:
 
 You can access the reports [here](https://hoisingtonmgt.com/economic_overview.html).
 
+You can understand why the FED is thinking about this. Base money creation, which is in the power of the FED, is simply not provoking an increase in spendable money balances (M2). This chart of the money multiplier (i.e M2/base money) shows that we're likely to lapse back into deflation if the US govt doesn't start spending money soon, or the digital helicopter drop method is not attempted.
+
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=wT9q&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
 # Miller and Mogdiliani falsely fingered
@@ -35,3 +37,11 @@ This is equivalent to people blaming Ronald Coase for the disaster which was the
 But his point was that transaction costs frequently dominate, so the last thing you should do is privatize willy nilly.
 In fact, he made a great argument for nationalizing a lot of industries that have been privatized in the UK. 
 He must be spinning in his grave.
+
+# Nick Clegg: Facebook Shill
+
+Nick Clegg is now engaged in [special pleading for his employer, Facebook](https://www.ft.com/content/98cf847c-96f9-4558-9a30-7d72ea4e79c2).
+I am not sure he's exactly a shill, because his affiliation is printed at the start of his article.
+But the idea that if the EU enforces higher standards of transparency and responsibility on Facebook et al. we'll all soon be without videoconferencing, Internet shopping and "social media" (presumably equated to Facebook) is nonsense.
+I presume that Nick is on the phone every day lobbying his former colleagues in government, pushing the same message.
+What I can't understand is what is going through the mind of someone like that, and how the marginal benefit of getting more money on top of what is already a good income can offset the pain of the cognitive dissonance.
