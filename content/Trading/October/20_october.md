@@ -33,7 +33,7 @@ You can understand why the FED is thinking about this. Base money creation, whic
 Robin Wigglesworth in the FT [blames](https://www.ft.com/content/87efe5a9-4cb6-493b-a31a-f9efd5ddd242) Miller and Modigliani for the stock market bubbles we've seen in recent decades.
 In my view this is total nonsense. They proved that funding costs would not be reduced by replacing equity with debt *in the absence of distorting taxes favouring debt.* Of course, politicians, egged on by greedy CEOs did precisely that.
 The consequence was a rush of companies looking to gear up to the hilt, with predictable consequences as far as resilience in the face of an economic downturn was concerned.
-This is equivalent to people blaming Ronald Coase for the disaster which was the privatization of Russian nationalized industries. He said that in the absence of transaction costs assets find their most economically favourable owner. 
+This is equivalent to people blaming Ronald Coase for the disaster which was the privatization of Russian nationalized industries. He said that in the absence of transaction costs, assets find their most economically favourable owner. 
 But his point was that transaction costs frequently dominate, so the last thing you should do is privatize willy nilly.
 In fact, he made a great argument for nationalizing a lot of industries that have been privatized in the UK. 
 He must be spinning in his grave.
@@ -44,4 +44,16 @@ Nick Clegg is now engaged in [special pleading for his employer, Facebook](https
 I am not sure he's exactly a shill, because his affiliation is printed at the start of his article.
 But the idea that if the EU enforces higher standards of transparency and responsibility on Facebook et al. we'll all soon be without videoconferencing, Internet shopping and "social media" (presumably equated to Facebook) is nonsense.
 I presume that Nick is on the phone every day lobbying his former colleagues in government, pushing the same message.
-What I can't understand is what is going through the mind of someone like that, and how the marginal benefit of getting more money on top of what is already a good income can offset the pain of the cognitive dissonance.
+What I can't understand is what is going through the mind of someone like that, and how the marginal benefit of getting more money on top of what is already a good income can offset the pain of the cognitive dissonance he must be experiencing, unless he is very, very stupid indeed.
+
+And yes, I know that a shill is someone who conceals his links to the cause he's promoting, but I just liked the sound of the phrase.
+
+# Wrap
+
+There will be more stimulus: Mnuchin and Pelosi have finished the political theatre.
+All equities up. Energy particularly.
+All govt. yields up (except Germany: the market thinks that the EU is going to crash?).
+Commodities very strong. Even copper is up. Nat Gas up and seems to be less volatile. 
+There seems to be a slight swing towards growth and away from value, except for the megacaps.
+Bitcoin seems to be catching a bid.
+Overall, risk on. Until tomorrow.
