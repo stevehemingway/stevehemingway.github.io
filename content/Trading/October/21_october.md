@@ -26,3 +26,18 @@ It's clear to me that they are abusing their position in search, especially on m
 * [Land Securities is ready to throw in the towel on retail](https://wolfstreet.com/2020/10/19/amid-eviction-moratorium-wiggle-room-tightens-for-retail-landlords-tenants-in-the-uk/).
 
 * [The future of office work: WFH is not going away any time soon](https://wolfstreet.com/2020/10/20/consumer-finance-giant-synchrony-disclosed-radical-permanent-work-from-home-plan/).
+
+# Is anybody there?
+
+I'm (sort of) thinking of setting up some sort of regular (but not daily) email based on the content of these posts.
+If you think you might possibly subscribe, drop me a line. 
+I might just link my posts to social media somehow, instead.
+Does anyone have a view?
+In a related matter, I was half thinking of moving to Jekyll from Pelican,
+because of the superior github integration. Views?
+
+# Wrap
+
+Equities: pretty flat.
+Bonds: long yields definitely creeping up.
+Commodities: Crude down, nat. gas up, gold up, agriculturals mixed (beans and corn up).
