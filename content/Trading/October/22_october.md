@@ -19,4 +19,4 @@ The usual suspects. No real resolution.
 I was busy with personal stuff today. Normal service to be resumed tomorrow, hopefully.
 Something to ponder:
 
-![stock market and economy never been less correlated]({attach}stock_market_correlation.jpg)
+![stock market and economy never been less correlated]({attach}stock_market_correlation.png)
