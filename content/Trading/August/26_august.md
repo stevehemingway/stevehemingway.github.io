@@ -1,8 +1,7 @@
 title: Stormy Weather, calm markets
 category: markets
-tags: ndx, gold, aapl, trade-deal, UK
+tags: journal, gurus
 date: 2020-8-26
-
 
 ## Morning comment
 

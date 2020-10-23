@@ -1,7 +1,7 @@
 title: Market Notes, 18th August 2020
 date: 2020-8-18
 category: markets
-tags: journal, Einhorn, Druckenmiller
+tags: journal, gurus
 
 ## Leverage
 

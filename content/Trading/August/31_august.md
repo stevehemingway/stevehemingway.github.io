@@ -1,7 +1,7 @@
 title: Something ain't right with the market
 date: 31-aug-2020
 category: markets
-tags: stocks, markets
+tags: inflation
 
 # Inflation expectation out of line with nominal yields
 

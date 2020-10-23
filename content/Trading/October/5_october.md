@@ -1,7 +1,7 @@
 title: King Kuppy, and the plight of the common man.
 date: 5 October 2020
 category: markets
-tags: small-cap, energy, macro, blogs, unemployment, commodities
+tags: sectoral, energy, macro, blogs, economics
 
 # Kuppy and the Incredible Hulks
 

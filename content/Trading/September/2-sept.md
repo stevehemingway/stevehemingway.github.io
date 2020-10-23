@@ -1,7 +1,7 @@
 title: Are we finally seeing monetary conditions ease?
 date: 2-sept-2020
 category: markets
-tags: inflation, economics, rents, wraps
+tags: inflation, economics, rents
 
 # Real rates are dropping fast
 

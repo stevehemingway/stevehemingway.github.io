@@ -1,7 +1,7 @@
 title: Last Day of Sept 2020
 date: 30 Sept 2020
-category: markets, tech
-tags: EVs, energy
+category: markets
+tags: EVs, energy, tech
 
 # Utilities need EVs to make their business model work
 
