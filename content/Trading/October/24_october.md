@@ -1,4 +1,4 @@
-title: Weekend thoughts
+title: Weekend thoughts, winners and losers from Covid
 category: markets
 tags: factor investing
 date: 24 october 2020
