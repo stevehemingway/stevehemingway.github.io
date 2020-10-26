@@ -1,4 +1,4 @@
-title: ESG and other investing myths
+title: Weekend thoughts
 category: markets
 tags: factor investing
 date: 24 october 2020
