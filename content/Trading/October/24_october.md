@@ -41,3 +41,10 @@ My feeling is that we must be close when the consensus is that the dollar is ove
 We're not there yet, and there seems to be a lot of slack in most economies, but my feeling is that it will be hard to put the spare capacity to work to produce stuff that people want to consume.
 I don't know, but that's my view today.
 If you don't like it, don't worry, I'll have a different one tomorrow. Maybe.
+
+
+# Miners
+
+I think that precious metals miners might be interesting, if things get rough with the FAANGs. 
+You can see a selection [here on unhedged](https://www.unhedged.com/portfolio/5f969f2fb021d70010768a56/).
+Enjoy, but this is not in any sense a recommendation.
