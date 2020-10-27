@@ -1,4 +1,4 @@
-title: Election Fever
+title: Growth factor looks unassailable, for now
 date: 27 October 2020
 category: markets
 tags: 
@@ -27,10 +27,16 @@ Of course, this time might be different.
 
 ![this](https://koyfin.com/s/Fto7fL21G5)
 
-
 # Wrap
 
 I'm writing this before the US markets close, but it doesn't look as though today will be very exciting.
 Generally, it's risk all over the place, with the mega caps doing better than the rest, with the NQ yet again green with the Dow and SPX red. $NFLX was down a bit. It seems to be running out of new customers.
 
+The SAP share price crashed yesterday by 20% on a forecast cut in revenues. This market is fragile.
+Every newspaper is full of "Green" political initiatives. This will be a huge cost for future generations, 
+incurred without any credible cost benefit case.
+
+St James's Place has been targetted by an activist investor.
+The Hut Group share price has zoomed up 45% since the IPO. I remain a sceptic.
+The Turkish Lira is sagging again.
 
