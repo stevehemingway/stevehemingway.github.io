@@ -1,7 +1,7 @@
 title: Growth factor looks unassailable, for now
 date: 27 October 2020
 category: markets
-tags: 
+tags: famous last words, factor investing
 
 # ACB Confirmed
 
