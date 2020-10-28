@@ -32,3 +32,10 @@ Because the services are often free at the point of consumption (actually paid f
 
 There are various proposals for fixing this problem, notably by [Posner and Weyl](https://journals.openedition.org/oeconomia/6984?lang=en). Unfortunately, our idiot politicians are unlikely to understand the problem, let alone the solution. And will certainly not be willing to campaign on a platform of implementing the solution (especially given the power of these companies in determining the outcome of elections).
 
+# Biden good for oil?
+
+[This article](https://www.forexlive.com/news/!/joe-biden-could-be-the-most-bullish-us-president-for-oil-in-history-20201028) suggests that, ultimately, Biden will be good for oil prices.
+
+Certainly, regulation is nearly always good for producers, and there is such a total consensus that oil producers are going the way of linotype machine manufacturers.
+
+
