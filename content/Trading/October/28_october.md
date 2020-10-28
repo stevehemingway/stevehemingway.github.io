@@ -1,4 +1,4 @@
-title: Markets wobble on things being a bit shit
+title: Markets wobble on the world economy going down the tubes
 date: 28 October 2020
 category: markets
 tags: journal
