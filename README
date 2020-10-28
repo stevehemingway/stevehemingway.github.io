@@ -1,5 +1,6 @@
 title: README
 
+<<<<<<< HEAD
 This is a pelican blog. Checkout the actual github pages website for more info. 
 
 
@@ -11,3 +12,6 @@ I have written some posts about how this all works, but if you google the keywor
 Note that I do not use the Jekyll generator, even though it does a similar job to Pelican,
 because the latter is written in Python and I have a somewhat better chance of fixing it if it doesn't do what I need.
 
+=======
+blah blah blah
+>>>>>>> 3a340b1106717b74d9a9826724de025f88a936b4
