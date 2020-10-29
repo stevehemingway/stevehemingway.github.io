@@ -19,7 +19,7 @@ EXTRA_PATH_METADATA = {
 }
 
 AUTHOR = 'me'
-SITENAME = 'Monologue Blog'
+SITENAME = 'Monolog Blog'
 SITESUBTITLE = 'Mainly markets but a smattering of other stuff'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
