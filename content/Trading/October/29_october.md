@@ -1,5 +1,7 @@
 date: 29 October 2020
 category: markets
+title: Stimulus, vaccine, earnings all create risk-on day
+tags: journal, gold
 
 # Companies House
 
@@ -30,6 +32,8 @@ The bull case is that the dollar may look like a shitty currency, but wait until
 
 Anyway, it's too hard to call, but somehow I think eventually we're going to see the dollar (DX futures) heading south.
 
+# Precious metals plug
+	
 Some gold and silver miners catching a bid today: $AGI up nearly 13% on results, $AEM (a much bigger operation) up 3.4%. 
 There is talk about China offering a gold-backed digital currency.
 The central banks have been looking into digital currency issuance for a long time, as they are running out of ammunition, even having used "unconventional" monetary policy.
@@ -47,3 +51,5 @@ It also appears that gold has been classified as a Tier 1 asset for banks to hol
 Gold has performed remarkably well as an asset, over many years. 
 
 <div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=xavE&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
+
+Some gold miners pay a decent dividend
