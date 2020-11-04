@@ -29,3 +29,8 @@ Risk on. Not sure what this is discounting.
 
 $TD was up about 10%!
 
+# Chart for the day
+
+Nobody (in these days of floating exchange rates) worries about the current account (or 'balance of payments'). That certainly doesn't mean that the USA is exporting more than it imports.
+
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=wTXo&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
