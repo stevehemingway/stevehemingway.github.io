@@ -14,6 +14,8 @@ and comfortably outspent Trump.
 But it seems that US voters are not so easily persuaded by TV advertising. 
 Good for them.
 
+It looks as though the Senate will remain R and Congress D, which will mean that radical bills from either side will be harder to pass.
+
 As of when I finished, the race was still undecided. Of course, a race between a pair of geriatrics was never going to be that fast.
 
 # Wrap
@@ -28,6 +30,9 @@ Risk on. Not sure what this is discounting.
 * crude oil about flat.
 
 $TD was up about 10%!
+$LYFT and $UBER leapt on CA passing "proposition 22" which allows Uber drivers to be classified as contractors, not employees.
+ADP estimated an indicative jobs number of 365K  for October. This is half of September's, but is still good compared to equilibrium.
+
 
 # Chart for the day
 
