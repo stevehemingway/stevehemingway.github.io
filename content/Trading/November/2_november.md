@@ -2,7 +2,6 @@ title: A new months begins
 date: 2 November 2020
 category: markets
 tags: politics
-status: draft 
 
 # Markets today
 
