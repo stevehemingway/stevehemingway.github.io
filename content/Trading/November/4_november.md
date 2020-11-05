@@ -21,6 +21,7 @@ As of when I finished, the race was still undecided. Of course, a race between a
 # Wrap
 
 Risk on. Not sure what this is discounting. 
+
 * miners down,
 * bubble stocks ($AMZN etc) up,
 * credit up,
