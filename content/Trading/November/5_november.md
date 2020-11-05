@@ -59,4 +59,9 @@ Quite an exciting day. Very risk on.
 J Powell gave a presser where he didn't really say anything new, but somehow calmed the markets. 
 
 
+# Chart for the day
+
+Hourly wages, deflated by the gold price.  I would  have liked to see a longer series.
+
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=xrp5&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
