@@ -54,7 +54,9 @@ Quite an exciting day. Very risk on.
 * Bubble stocks up almost across the board, except $SNAP and $TWLO,
 * Frauds up generally, with a few egregious frauds down,
 * Commodities up a lot,
-* Dollar heavily down ($DX down 0.82%).
+* Dollar heavily down ($DX down 0.82%),
+* bonds pretty flat (spookily so, given what happened to the dollar),
+* gold up a lot, oil down.
 
 J Powell gave a presser where he didn't really say anything new, but somehow calmed the markets. 
 
