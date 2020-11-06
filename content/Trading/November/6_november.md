@@ -52,3 +52,9 @@ Of course, it's hard to know how many people would have died, but at 0.3% mortal
 Given that the median age of death is around 80, maybe in terms of QALYs it's only 2-5 times the threshold.
 Whatever it is, it's a big spend, but probably would be supported by most voters.
 
+# Chart for the day
+
+Something happened in 2007 which killed productivity growth. That's not everything, but in the long run it's nearly everything. 
+The future is bleak if this does not change.
+
+<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=unitedkinpro&v=202011062100V20200908&d1=19201201&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/united-kingdom/productivity'>tradingeconomics.com</a>
