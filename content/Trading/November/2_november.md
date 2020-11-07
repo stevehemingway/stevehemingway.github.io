@@ -1,4 +1,4 @@
-title: A new months begins
+title: Markets Update 2nd Nov
 date: 2 November 2020
 category: markets
 tags: politics
