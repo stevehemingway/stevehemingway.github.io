@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2020-11-10T21:06:17-00:00</lastmod>
+<lastmod>2020-11-10T21:12:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2020-11-10T21:06:17-00:00</lastmod>
+<lastmod>2020-11-10T21:12:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2020-11-10T21:06:17-00:00</lastmod>
+<lastmod>2020-11-10T21:12:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2020-11-10T21:06:17-00:00</lastmod>
+<lastmod>2020-11-10T21:12:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2020-11-10T21:06:17-00:00</lastmod>
+<lastmod>2020-11-10T21:12:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -362,6 +362,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/19-sept-weekend-wrap.html</loc>
+<lastmod>2020-09-19T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/growing-old-with-dignity.html</loc>
 <lastmod>2020-09-19T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -1974,6 +1981,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/august-newsletter.html</loc>
 <lastmod>2014-08-01T15:36:40+00:00</lastmod>
 <changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/category/blog.html</loc>
+<lastmod>2020-09-19T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
