@@ -1,8 +1,9 @@
+---
 title: Biden and Trump slug it out
 date: 4 November 2020
 category: markets
 tags: politics
-
+---
 
 # Who will be the next POTUS?
 

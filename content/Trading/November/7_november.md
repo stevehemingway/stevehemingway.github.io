@@ -1,9 +1,9 @@
 ---
-title: Election result called by media
+title: Election result called by media. 
 category: markets
+date: 7 November 2020
 tags: USA
 ---
-
 
 # Biden has made it across the line and what it means for markets
 

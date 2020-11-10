@@ -1,6 +1,6 @@
 ---
 date: 6 November 2020
-title: Still no Presidential Election Result
+title: 6 Nov and still no Presidential Election Result
 category: markets
 tags: politics
 ---

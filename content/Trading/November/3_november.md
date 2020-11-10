@@ -1,7 +1,9 @@
+---
 title: Election Day in the USA at last
 date: 3 November 2020
 category: markets
-tags:
+tags: wrap
+---
 
 # Markets today
 
