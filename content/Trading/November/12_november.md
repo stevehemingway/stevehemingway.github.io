@@ -20,9 +20,9 @@ DX is down 10bp, at roughly 93.
 Precious metals are up, other commodities are down, oil by 1.2%.
 Aluminium is an exception. 
 Yields are basically flat.
-Nearly all stockmarkets are down.
+Nearly all stock markets are down.
 
 # Chart for the day
 
-<iframe width="560" height="315" src="https://koyfin.com/share/1D2XwCn3qg/simple" frameBorder="0"></iframe>
+<iframe width="800" height="450" src="https://koyfin.com/share/1D2XwCn3qg/simple" frameBorder="0"></iframe>
 
