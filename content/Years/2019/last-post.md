@@ -1,8 +1,10 @@
+---
 title: The Last Post
 date: 2019-11-06 
 draft: false
 tags: NHDC, politics
 modified: 2020-5-9
+---
 
 # The Last Post
 I have closed down my server, and have stopped hosting this blog on stevehemingway.com.

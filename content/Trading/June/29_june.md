@@ -3,13 +3,17 @@ date: 2020-6-29
 category: markets
 tags: journal
 
+
 ## ETF Buying
+
 
 The Fed is doing it, but not in huge size. Various issuers are being identified on Twitter etc.
 as though their appearance on the list would be a buy signal.
 Similarly, a list of the ETFs, headed by $LQD, as you'd probably expect.
 
+
 ## China
+
 
 Things look a bit ugly in China.
 It is a big problem, and HK is just symbolic, but important.
@@ -17,11 +21,15 @@ I cannot see how this will end,
 but I imagine that it will end peaceably, because both sides have so much to lose.
 I wish I believed that more completely.
 
+
 ## Wisdom of George Soros
+
 
 [This page](https://www.tradersprofitcompass.com/timeless-trading-wisdom-from-george-soros/) tells how good old George liked to play truant from work but still make money. George was clearly a genius trader, but his books are total rubbish, as far as I'm concerned.
 
+
 ## Wrap
+
 
 We're near the end of the month. 
 Indexes struggling to rally, but really haven't moved all month.
