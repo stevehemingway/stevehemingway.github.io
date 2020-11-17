@@ -1,7 +1,8 @@
+---
 title: 1st April 2020
 date: 2020-04-30
 category: markets
-
+---
 # 1st April 2020
 
 ## Trades
