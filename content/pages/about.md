@@ -1,9 +1,15 @@
+---
 title: About
 date: 8 may 2020
-status: draft
+status: published
+---
 
-I am Steve Hemingway.
+# About this blog
 
-This is my stuff, which I have sort-of converted from Jekyll to Pelican.
+I am Steve Hemingway. Thanks for taking the time to find me.
 
-(this directory is supposed to hold static stuff)
+I decided to make a few notes to myself, to keep track of what is going on in the markets mainly, but about anything else that comes into my head.
+
+
+
+
