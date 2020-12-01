@@ -33,6 +33,9 @@ I am frequently required to sign contracts, and (for me) the perfect way is to p
 It really is very slick, and works&amp;nbsp;flawlessly. &lt;/p&gt;
 &lt;p&gt;(In practice I tend to use &lt;a href="https://www.concordnow.com/"&gt;concord&lt;/a&gt;, which is a bit over the top, but is free, and easy to use for&amp;nbsp;non-techies.)&lt;/p&gt;
 &lt;p&gt;I should also give an honourable mention to &lt;a href="https://www.zettlr.com/"&gt;Zettlr&lt;/a&gt;. I have been writing all my posts in it for a month or so, and it goes from good to&amp;nbsp;better.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;d also like to put in a mention of the full node self-hosted wallet for bitcoin: Bitcoin Core.
+Once this thing syncs, it uses up negligible &lt;span class="caps"&gt;CPU&lt;/span&gt;.  Seriously, you can&amp;#8217;t find it in the process list.
+I&amp;#8217;d recommend it. It&amp;#8217;s really very easy to install. (I did try to install the equivalent for &lt;span class="caps"&gt;XMR&lt;/span&gt; but gave&amp;nbsp;up.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="c1"&gt;-----BEGIN PGP PUBLIC KEY BLOCK-----&lt;/span&gt;
 
