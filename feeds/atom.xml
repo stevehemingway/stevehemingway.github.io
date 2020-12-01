@@ -1,5 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-11-30T00:00:00+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>November hits the dust, BTC hits the stratosphere</title><link href="https://www.stevehemingway.com/november-hits-the-dust-btc-hits-the-stratosphere.html" rel="alternate"></link><published>2020-11-30T00:00:00+00:00</published><updated>2020-11-30T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-11-30:/november-hits-the-dust-btc-hits-the-stratosphere.html</id><summary type="html">&lt;h1&gt;Wrap&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-01T00:00:00+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Steepener takes off</title><link href="https://www.stevehemingway.com/steepener-takes-off.html" rel="alternate"></link><published>2020-12-01T00:00:00+00:00</published><updated>2020-12-01T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-01:/steepener-takes-off.html</id><summary type="html">&lt;h1&gt;Wrap&lt;/h1&gt;
+&lt;p&gt;The steepener trade caught a bid. 
+The ostensible reason is that J Powell made a statement that the Fed would not raise the short end of the curve until they see real evidence of inflation.
+All too often the Fed has not waited until it saw the whites of …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Wrap&lt;/h1&gt;
+&lt;p&gt;The steepener trade caught a bid. 
+The ostensible reason is that J Powell made a statement that the Fed would not raise the short end of the curve until they see real evidence of inflation.
+All too often the Fed has not waited until it saw the whites of the eyes of its deadly enemy, inflation, and tightened too soon.
+The result is that since the &lt;span class="caps"&gt;GFC&lt;/span&gt; of 2008 most economies have had monetary policies which have been too tight.
+A few voices in the wilderness have been saying this since the beginning (notably Scott Sumner), but most people seem mesmerized by the idea that if nominal rates are below one percent monetary conditions must be loose. 
+This totally fails to recognize that real rates have an inflation component (what Lacy Hunt calls the &amp;#8216;Fisher Equation&amp;#8217; but most other economists just seem to think is so obvious as to not warrant a special&amp;nbsp;name).&lt;/p&gt;
+&lt;p&gt;Well, with Powell being dovish, and (presumably) deciding that the only way he&amp;#8217;ll get to do a second term is to persuade Harris/Biden that he&amp;#8217;ll run a hotter economy than the rest I think the market is waking up to the reality that the long end is going to rip.
+Of course, I might just be talking my book.
+Or, I might as well say that we&amp;#8217;re all Modern Monetary Theorists now: certainly large sections of the Democratic Party are, including influential ones, like one lead by &lt;span class="caps"&gt;AOC&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;I leave you with evidence. Note that this is from &lt;a href="https://app.koyfin.com/"&gt; Koyfin&lt;/a&gt;, which has had a makeover and now covers &amp;#8220;international&amp;#8221;  equities and generally is a whole lot better.  Websites like Koyfin, and &lt;a href="https://tradingeconomics.com/"&gt;Trading Economics&lt;/a&gt; really provide a wealth of market and economic&amp;nbsp;data. &lt;/p&gt;
+&lt;iframe width="600" height="420" src="https://app.koyfin.com/share/c61ea7750d/simple" frameBorder="0"&gt;&lt;/iframe&gt;
+
+&lt;h1&gt;Bitcoin&lt;/h1&gt;
+&lt;p&gt;I was cold called by a boiler room operation today. 
+A guy was trying to sell me an investment opportunity buying bitcoins.
+This is not interesting in itself, except to the extent to which the guys that runs these scams have antennae which are finely tuned into what the unsophisticated investor wants to buy. 
+The pitch was along the lines of &amp;#8220;this thing has gone up so much lately, you have to buy, because otherwise you&amp;#8217;re missing out.&amp;#8221; I didn&amp;#8217;t really give the caller a chance to expand the pitch, as there was no way I was going to buy, and I felt it was wasting his time to make him recite it.
+But, this surely is a indication that $&lt;span class="caps"&gt;BTC&lt;/span&gt; is at a&amp;nbsp;top.&lt;/p&gt;
+&lt;h1&gt;Tesla&lt;/h1&gt;
+&lt;p&gt;Elon Musk is saying that he&amp;#8217;s open to offers from other companies. He is also saying that he&amp;#8217;s trying to cram down costs.
+The stock has reached (&lt;span class="caps"&gt;IMHO&lt;/span&gt;) unsustainable levels, way beyond what even he thinks is warranted, but at the fag end of a bull market stocks can still go up violently as the last bear capitulates. At some point, there are no more buyers and the short squeeze reverses, but this can take an agonizing time. 
+Ben Graham&amp;#8217;s &amp;#8220;Mr Market&amp;#8221; does not predictably swing from irrational buying to irrational selling.
+He keeps buying for years longer than anyone things is&amp;nbsp;sane. &lt;/p&gt;
+&lt;h1&gt;&lt;span class="caps"&gt;PC&lt;/span&gt;&amp;nbsp;software&lt;/h1&gt;
+&lt;p&gt;I downloaded a new release of Thunderbird today. If you want a multi-platform classic email client (&lt;span class="caps"&gt;MUA&lt;/span&gt; in the jargon), it&amp;#8217;s damn hard to beat. It has built in support for gnupg (equivalently openpgp), which is great.
+It seems odd that with Bitcoin proving the security of public key encryption, more people aren&amp;#8217;t turning to it for security and signing. 
+I am frequently required to sign contracts, and (for me) the perfect way is to publish my public key (added at the bottom of this post) and then sign using &lt;a href="https://gnupg.org/download/"&gt;gpg&lt;/a&gt;, which is available on all platforms,  but somehow people don&amp;#8217;t use much in practice. 
+It really is very slick, and works&amp;nbsp;flawlessly. &lt;/p&gt;
+&lt;p&gt;(In practice I tend to use &lt;a href="https://www.concordnow.com/"&gt;concord&lt;/a&gt;, which is a bit over the top, but is free, and easy to use for&amp;nbsp;non-techies.)&lt;/p&gt;
+&lt;p&gt;I should also give an honourable mention to &lt;a href="https://www.zettlr.com/"&gt;Zettlr&lt;/a&gt;. I have been writing all my posts in it for a month or so, and it goes from good to&amp;nbsp;better.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&amp;#8212;&amp;#8212;-&lt;span class="caps"&gt;BEGIN&lt;/span&gt; &lt;span class="caps"&gt;PGP&lt;/span&gt; &lt;span class="caps"&gt;PUBLIC&lt;/span&gt; &lt;span class="caps"&gt;KEY&lt;/span&gt; &lt;span class="caps"&gt;BLOCK&lt;/span&gt;&amp;#8212;&amp;#8212;-&lt;/p&gt;
+&lt;p&gt;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
+spw=
+=b3Ah
+&amp;#8212;&amp;#8212;-&lt;span class="caps"&gt;END&lt;/span&gt; &lt;span class="caps"&gt;PGP&lt;/span&gt; &lt;span class="caps"&gt;PUBLIC&lt;/span&gt; &lt;span class="caps"&gt;KEY&lt;/span&gt; &lt;span class="caps"&gt;BLOCK&lt;/span&gt;&amp;#8212;&amp;#8212;-&lt;/p&gt;</content><category term="markets"></category><category term="journal"></category></entry><entry><title>November hits the dust, BTC hits the stratosphere</title><link href="https://www.stevehemingway.com/november-hits-the-dust-btc-hits-the-stratosphere.html" rel="alternate"></link><published>2020-11-30T00:00:00+00:00</published><updated>2020-11-30T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-11-30:/november-hits-the-dust-btc-hits-the-stratosphere.html</id><summary type="html">&lt;h1&gt;Wrap&lt;/h1&gt;
 &lt;p&gt;Severely risk-off day, except for a few assets that have retraced from violent movements last&amp;nbsp;week.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;span class="caps"&gt;DX&lt;/span&gt; up again, most other currencies&amp;nbsp;down,&lt;/li&gt;
