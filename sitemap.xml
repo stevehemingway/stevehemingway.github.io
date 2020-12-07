@@ -5,48 +5,62 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2020-12-04T22:05:38-00:00</lastmod>
+<lastmod>2020-12-07T21:43:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2020-12-04T22:05:38-00:00</lastmod>
+<lastmod>2020-12-07T21:43:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2020-12-04T22:05:38-00:00</lastmod>
+<lastmod>2020-12-07T21:43:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2020-12-04T22:05:38-00:00</lastmod>
+<lastmod>2020-12-07T21:43:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2020-12-04T22:05:38-00:00</lastmod>
+<lastmod>2020-12-07T21:43:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/jobs-jobs-jobs.html</loc>
+<loc>https://www.stevehemingway.com/another-week-begins.html</loc>
+<lastmod>2020-12-07T00:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/leisure-not-jobs-rising-yields-not-rising-employment.html</loc>
+<lastmod>2020-12-06T00:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/more-kleptopia.html</loc>
 <lastmod>2020-12-04T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/untitled.html</loc>
+<loc>https://www.stevehemingway.com/londonstan-announces-trade-deal-with-kleptopia-3-dec.html</loc>
 <lastmod>2020-12-03T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -60,7 +74,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/steepener-takes-off.html</loc>
+<loc>https://www.stevehemingway.com/steepener-trade-on-the-runway.html</loc>
 <lastmod>2020-12-01T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -1215,13 +1229,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/the_government_will_pay.html</loc>
-<lastmod>2020-06-07T15:25:48+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/stop-losses.html</loc>
 <lastmod>2020-06-07T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -1329,6 +1336,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/its-different-this-time-were-getting-inflation.html</loc>
 <lastmod>2020-05-20T00:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/the_government_will_pay.html</loc>
+<lastmod>2020-05-18T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2146,6 +2160,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/category/economics.html</loc>
+<lastmod>2020-12-04T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/category/knebworth.html</loc>
 <lastmod>2020-05-09T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
@@ -2154,14 +2175,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2020-12-03T00:00:00-00:01</lastmod>
+<lastmod>2020-12-07T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2020-12-04T00:00:00-00:01</lastmod>
+<lastmod>2020-11-22T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2209,15 +2230,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/journal.html</loc>
-<lastmod>2020-12-01T00:00:00-00:01</lastmod>
+<loc>https://www.stevehemingway.com/tag/economics.html</loc>
+<lastmod>2020-12-06T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/economics.html</loc>
-<lastmod>2020-11-30T00:00:00-00:01</lastmod>
+<loc>https://www.stevehemingway.com/tag/corruption.html</loc>
+<lastmod>2020-12-03T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/journal.html</loc>
+<lastmod>2020-12-01T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2644,7 +2672,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2020-12-04T00:00:00-00:01</lastmod>
+<lastmod>2020-12-07T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
