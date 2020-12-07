@@ -33,3 +33,4 @@ Using github involves working on two branches, *master*, which is the hard-coded
 'source' for the website. The generated stuff in master still clutters the root directory, and you can't get rid of it because git won't let you push until you've pulled (fnarr fnarr). 
 
 That's quite enough tech stuff for today!
+

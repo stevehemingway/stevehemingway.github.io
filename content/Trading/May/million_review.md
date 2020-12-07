@@ -1,9 +1,13 @@
+---
 title: Stolen from Max Nova's Review of Jim Paul's Book
 status: published
 date: 2020-5-10
 slug: million
 tags: books
 category: markets
+---
+
+# Disclaimer
 
 I pinched all this from 
 [Max Nova's Review](http://books.max-nova.com/losing-a-million-dollars/). 

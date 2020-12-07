@@ -4,6 +4,8 @@ category: tech
 tags: software
 
 
+# Background to this blog
+
 I had a pile of markdown stuff from my time as a councillor, which was turned into a website
 using the hpstr template for jekyll. TBH, I never really understood Jekyll, and I found hugo 
 pretty difficult to use. I've been getting into Python more recently, and I wondered if
@@ -20,6 +22,13 @@ mainly because it seems to be so widely supported.
 Pelican is very neat, because it automates (via a makefile) the uploading of the file to github pages. It's probably me, but whenever I try to use git to do anything which isn't totally 
 bog standard I feel like an idiot. Fortunately, the makefile hides all that, and works fine
 in Windows powershell.
+
+
+## Update 7 Dec 2020
+
+Well, I've used Pelican for six months. 
+I have hit a few little niggles, and I haven't moved to a different template, even though this was one of the reasons I'd wanted to move to it for.
+It has been better since I started using Zettlr (although I'm actually editing this in Vim, a workalike of the classic unix editor *vi*).
 
 
 

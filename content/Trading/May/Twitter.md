@@ -12,6 +12,14 @@ Although I have never tweeted anything very incendiary, and do not follow anyone
 Anyway, for reasons quite beyond me, my follower numbers seem to be accelerating. The threat to close the Station Pub seems a catalyst. Maybe it's just that my odd retweet is enough to create a sustaining wave. I confess to paying a magnificent &pound;10 to promote one tweet, but I don't think I'll be doing that again in a hurry, as there seems to be no way to localize the audience, in contrast to FB.
 
 
-
-
 My twitter handle is @steveknebworth. 
+
+## Update, 7 Dec.
+
+Well, I'm still on Twitter, although I hate it as much as ever.
+
+I don't understand why $TWTR is not more valuable: a product that is as difficult to stop buying as this should be worth bazillions.
+Of course, I'm not buying it: I'm just (supposedly) helping a machine learning algorithm work out what is valuable to advertisers and what is not. 
+
+I am probably too old to be of any interest to them.
+
