@@ -1,5 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-15T00:00:00+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Bassman Speaks</title><link href="https://www.stevehemingway.com/bassman-speaks.html" rel="alternate"></link><published>2020-12-15T00:00:00+00:00</published><updated>2020-12-15T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-15:/bassman-speaks.html</id><summary type="html">&lt;h1&gt;Convexity Maven&amp;#8217;s&amp;nbsp;Picks&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-16T18:43:03+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>temp</title><link href="https://www.stevehemingway.com/temp.html" rel="alternate"></link><published>2020-12-16T18:43:03+00:00</published><updated>2020-12-16T18:43:03+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/temp.html</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;What is the nature of this company, from a trade point of view? And the future plans for the company?&lt;ul&gt;
+&lt;li&gt;it was a publishing company. It will be &lt;span class="caps"&gt;SIC&lt;/span&gt; code &amp;#8220;letting of own (residential) property&amp;#8221; and possibly property development in due course. There are some carried forward losses, but I …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
+&lt;li&gt;What is the nature of this company, from a trade point of view? And the future plans for the company?&lt;ul&gt;
+&lt;li&gt;it was a publishing company. It will be &lt;span class="caps"&gt;SIC&lt;/span&gt; code &amp;#8220;letting of own (residential) property&amp;#8221; and possibly property development in due course. There are some carried forward losses, but I recognize that I can&amp;#8217;t offset those against future&amp;nbsp;profits,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Is the company currently &lt;span class="caps"&gt;VAT&lt;/span&gt; and &lt;span class="caps"&gt;PAYE&lt;/span&gt; registered?&lt;ul&gt;
+&lt;li&gt;Neither: the company is dormant, and has been for ~16&amp;nbsp;years,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;How are the records of the company currently kept, from a bookkeeping point of view?&lt;ul&gt;
+&lt;li&gt;There is a trial balance maintained by Base 52, but no P&amp;amp;L because no transactions: no bank&amp;nbsp;account.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>notes_for_gavin</title><link href="https://www.stevehemingway.com/notes_for_gavin.html" rel="alternate"></link><published>2020-12-16T18:07:03+00:00</published><updated>2020-12-16T18:07:03+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/notes_for_gavin.html</id><summary type="html">&lt;p&gt;Hi&amp;nbsp;Gavin,&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ve been reviewing the internals of the plans. 
+In summary, we think that you&amp;#8217;ve come up with something that is close to replicating the functions of our current place,
+given the constraints of the narrower&amp;nbsp;plot. &lt;/p&gt;
+&lt;p&gt;The idea of extending out on the ground floor was …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi&amp;nbsp;Gavin,&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;ve been reviewing the internals of the plans. 
+In summary, we think that you&amp;#8217;ve come up with something that is close to replicating the functions of our current place,
+given the constraints of the narrower&amp;nbsp;plot. &lt;/p&gt;
+&lt;p&gt;The idea of extending out on the ground floor was to get a bit more space on that level, vs the first floor, which benefits from not 
+having an integral garage. I&amp;#8217;ve never really been a fan of these, but we don&amp;#8217;t want to lose it so the compromise is&amp;nbsp;unavoidable.&lt;/p&gt;
+&lt;p&gt;In&amp;nbsp;detail, &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;looking at your drawing 113 (i.e. ground floor):&lt;ul&gt;
+&lt;li&gt;the overall layout we&amp;#8217;re happy with,&amp;nbsp;still!&lt;/li&gt;
+&lt;li&gt;we&amp;#8217;d like to know all the implications of losing the pillar in the middle of the kitchen. Obviously, this will create a long span, but we like the idea of a wide area with no constraints. If it&amp;#8217;s not too painful, in terms of cost and construction difficulty, we&amp;#8217;d definitely like to lose&amp;nbsp;it,&lt;/li&gt;
+&lt;li&gt;we&amp;#8217;d like to add the option of putting an additional bath/shower room (with &lt;span class="caps"&gt;WC&lt;/span&gt;) on the east side. The layout would be much as you&amp;#8217;ve drawn it in plan 40. This is just an insurance policy, should we ever decide we need to take back the space occupied by the ground floor bathroom where it is now (adjacent to utility&amp;nbsp;room),&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;looking at your drawing 114 (i.e. first floor):&lt;ul&gt;
+&lt;li&gt;remove the &lt;em&gt;en-suite&lt;/em&gt; bathroom on the east side altogether (but leave water &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; waste pipes, as per comment&amp;nbsp;above),&lt;/li&gt;
+&lt;li&gt;change the door position of the &lt;em&gt;en-suite&lt;/em&gt; on the west side so that it becomes a family&amp;nbsp;bathroom. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hope this makes sense. We&amp;#8217;ve explored quite a few alternative configurations, but we can&amp;#8217;t improve on what you&amp;#8217;ve done. If we&amp;#8217;d been allowed to extend back a bit, we would probably have moved the utility room to an external wall, but I agree that we don&amp;#8217;t want to derail the project now. I would say that there is no point in asking for the opinion of an officer whether such an extension is possible before we hear the result of the&amp;nbsp;appeal. &lt;/p&gt;
+&lt;p&gt;I will send a reply to your email about heating technologies, etc. separately, but probably&amp;nbsp;tomorrow.&lt;/p&gt;
+&lt;p&gt;Steve.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>year is running out</title><link href="https://www.stevehemingway.com/year-is-running-out.html" rel="alternate"></link><published>2020-12-16T00:00:00+00:00</published><updated>2020-12-16T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/year-is-running-out.html</id><summary type="html">&lt;h1&gt;Flakey&amp;nbsp;stocks&lt;/h1&gt;
+&lt;p&gt;$&lt;span class="caps"&gt;SNOW&lt;/span&gt;, Snowflake, is looking shakey after a meteoric &lt;span class="caps"&gt;IPO&lt;/span&gt;.
+$&lt;span class="caps"&gt;FDX&lt;/span&gt; has had a terrific run, but looks over extended too.
+$&lt;span class="caps"&gt;SPCE&lt;/span&gt; took a dive, like its faulty rocket test the other day. My guess is that it has further to&amp;nbsp;go. &lt;/p&gt;
+&lt;h1&gt;Nordea&amp;nbsp;Nuggets&lt;/h1&gt;
+&lt;p&gt;There are some great ideas …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Flakey&amp;nbsp;stocks&lt;/h1&gt;
+&lt;p&gt;$&lt;span class="caps"&gt;SNOW&lt;/span&gt;, Snowflake, is looking shakey after a meteoric &lt;span class="caps"&gt;IPO&lt;/span&gt;.
+$&lt;span class="caps"&gt;FDX&lt;/span&gt; has had a terrific run, but looks over extended too.
+$&lt;span class="caps"&gt;SPCE&lt;/span&gt; took a dive, like its faulty rocket test the other day. My guess is that it has further to&amp;nbsp;go. &lt;/p&gt;
+&lt;h1&gt;Nordea&amp;nbsp;Nuggets&lt;/h1&gt;
+&lt;p&gt;There are some great ideas from Andreas Steno-Larsen, &lt;a href="https://corporate.nordea.com/article/62057/multi-asset-10-1-tail-trades-of-2021"&gt;here&lt;/a&gt;.
+The list is well worth reading, but the themes&amp;nbsp;are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;the Fed may lose its nerve and tighten. Options on this are practically&amp;nbsp;free,&lt;/li&gt;
+&lt;li&gt;Salmon prices might explode, can be exploited via &lt;span class="caps"&gt;CAD&lt;/span&gt;/&lt;span class="caps"&gt;NOK&lt;/span&gt; option spread (&amp;#8216;the fishiest trade of&amp;nbsp;all&amp;#8217;),&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;ECB&lt;/span&gt; curve spreads are going to be compressed by Lagarde: buy &lt;span class="caps"&gt;BTP&lt;/span&gt;, sell&amp;nbsp;Bunds,&lt;/li&gt;
+&lt;li&gt;The consensus on gold might be wrong: real rates may go&amp;nbsp;higher,&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;SEK&lt;/span&gt; might go up. Suggested trade is via an &lt;span class="caps"&gt;FRA&lt;/span&gt;. Possible Riksbank rate&amp;nbsp;hike,&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;RMB&lt;/span&gt; (aka &lt;span class="caps"&gt;CNH&lt;/span&gt;) takes a dive: Biden turns out to be not such a China dove after all. I&amp;#8217;ve never got very far with the &lt;span class="caps"&gt;RMB&lt;/span&gt; myself: it&amp;#8217;s barely convertible, but this is an attractive&amp;nbsp;idea,&lt;/li&gt;
+&lt;li&gt;Buy Green: Barclays Euro Green Bond index against Barclays Corp. Bond index. Certainly, govts are throwing money at anything faintly tinged&amp;nbsp;green,&lt;/li&gt;
+&lt;li&gt;Curve steepner: Steno-Larsen recommends 2s10s steepeners for &lt;span class="caps"&gt;USD&lt;/span&gt; and 10s30s for &lt;span class="caps"&gt;EUR&lt;/span&gt;. In general, steepeners are conviction trades for&amp;nbsp;me,&lt;/li&gt;
+&lt;li&gt;Boom or bust trade. Currently, the stock market is discounting a boom, but the bond market a bust. They can&amp;#8217;t both be right, but maybe a staddle type trade can be crafted to profit whichever comes to pass. S-L recommends a swaption trade, not accessible to mere&amp;nbsp;mortals,&lt;/li&gt;
+&lt;li&gt;Similar idea re &lt;span class="caps"&gt;EUR&lt;/span&gt;/&lt;span class="caps"&gt;USD&lt;/span&gt;: go for a&amp;nbsp;strangle.&lt;/li&gt;
+&lt;li&gt;(another trade involving a knock-in &lt;span class="caps"&gt;FX&lt;/span&gt; option, which exploits a particular Brexit sequence. Probably brilliant, but definitely reserved for the institutional&amp;nbsp;investor.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;AAPL&lt;/span&gt; shot up on a report, not by the company itself, that they&amp;#8217;d sell a lot more phones. Smells like $&lt;span class="caps"&gt;TSLA&lt;/span&gt; stock pumping, but worked fine. Stock up 5%. Call volumes for $&lt;span class="caps"&gt;AAPL&lt;/span&gt; have collapsed, so they need all the stock pumping they can&amp;nbsp;get.&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;PEN&lt;/span&gt; makes catheters that kill people. It might be a&amp;nbsp;sell.&lt;/li&gt;
+&lt;li&gt;Vaccine play - $&lt;span class="caps"&gt;VXRT&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Virus cure play - $&lt;span class="caps"&gt;CYDY&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Telehealth play - $&lt;span class="caps"&gt;DOCRF&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Solar play - $&lt;span class="caps"&gt;FSLR&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Solar / &lt;span class="caps"&gt;EV&lt;/span&gt; play - $&lt;span class="caps"&gt;VVPR&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Marijuana play - $&lt;span class="caps"&gt;CBDD&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;5G play - $&lt;span class="caps"&gt;INSG&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;AI&lt;/span&gt; play - $&lt;span class="caps"&gt;AITX&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Augmented reality play - $&lt;span class="caps"&gt;NEXCF&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Consumer play - $&lt;span class="caps"&gt;CWH&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Cyber play - $&lt;span class="caps"&gt;VISM&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;Rare Earths play - $&lt;span class="caps"&gt;MP&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Wrap&lt;/h1&gt;
+&lt;p&gt;It was the Fed Press Conference today.
+Lots of Fed haters had their normal reactions. 
+The basic moan is that the Fed creates inequality.
+I think that&amp;#8217;s basically right, but maybe it&amp;#8217;s an unwanted side effect of monetary policy, which is forced on the Fed as a result of gridlock in Congress &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; the Senate. 
+For the opposite view, checkout &lt;a href="https://twitter.com/RudyHavenstein"&gt;Rudy Havenstein, art blogger&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;His favourite chart is&amp;nbsp;this:&lt;/p&gt;
+&lt;div class="embed-container"&gt;&lt;iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=yNTf&amp;width=670&amp;height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"&gt;&lt;/iframe&gt;&lt;/div&gt;
+
+&lt;script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"&gt;&lt;/script&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;As expected, Powell was extremely dovish, which resulted in a risk on reaction from&amp;nbsp;markets:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class="caps"&gt;SPX&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;span class="caps"&gt;NDX&lt;/span&gt;&amp;nbsp;up,&lt;/li&gt;
+&lt;li&gt;nearly all global equities&amp;nbsp;up,&lt;/li&gt;
+&lt;li&gt;Euro up vs &lt;span class="caps"&gt;USD&lt;/span&gt;,&lt;/li&gt;
+&lt;li&gt;govvie slightly yields up (except&amp;nbsp;Germany),&lt;/li&gt;
+&lt;li&gt;gold, silver &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; miners&amp;nbsp;up,&lt;/li&gt;
+&lt;li&gt;energy commodities, foods&amp;nbsp;up.&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><category term="trading"></category></entry><entry><title>Bassman Speaks</title><link href="https://www.stevehemingway.com/bassman-speaks.html" rel="alternate"></link><published>2020-12-15T00:00:00+00:00</published><updated>2020-12-15T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-15:/bassman-speaks.html</id><summary type="html">&lt;h1&gt;Convexity Maven&amp;#8217;s&amp;nbsp;Picks&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://convexitymaven.com/images/Convexity_Maven_-_2021_Model_Portfolio.pdf"&gt;Harvey Bassman&amp;#8217;s picks&lt;/a&gt; are available for all.
 What I like about Harvey is that he sends out an email when he has something to say, 
 unlike some folk who feel that they have to say something every day even when nothing has changed and they …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Convexity Maven&amp;#8217;s&amp;nbsp;Picks&lt;/h1&gt;
