@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-17T12:36:54+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Electrical</title><link href="https://www.stevehemingway.com/electrical.html" rel="alternate"></link><published>2020-12-17T12:36:54+00:00</published><updated>2020-12-17T12:36:54+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-17:/electrical.html</id><content type="html">&lt;h1&gt;Elec&lt;/h1&gt;</content><category term="misc"></category></entry><entry><title>tbc</title><link href="https://www.stevehemingway.com/tbc.html" rel="alternate"></link><published>2020-12-17T00:00:00+00:00</published><updated>2020-12-17T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-17:/tbc.html</id><summary type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-18T00:00:00+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>tbc</title><link href="https://www.stevehemingway.com/tbc.html" rel="alternate"></link><published>2020-12-18T00:00:00+00:00</published><updated>2020-12-18T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-18:/tbc.html</id><summary type="html">&lt;h1&gt;Models, backtesting and risk&amp;nbsp;management&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://threadreaderapp.com/thread/1339415934901964801.html"&gt;This unrolled thread&lt;/a&gt; was very interesting to me.
+It&amp;#8217;s about having a model, and backtesting it, to make your trading better.
+It&amp;#8217;s by &lt;a href="https://twitter.com/EffMktHype"&gt;@EffMktHype&lt;/a&gt;. His very twitter handle shows that he&amp;#8217;s skeptical of the Efficient Market Hypothesis (&lt;span class="caps"&gt;EMH&lt;/span&gt;). 
+I&amp;#8217;m a huge …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Models, backtesting and risk&amp;nbsp;management&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://threadreaderapp.com/thread/1339415934901964801.html"&gt;This unrolled thread&lt;/a&gt; was very interesting to me.
+It&amp;#8217;s about having a model, and backtesting it, to make your trading better.
+It&amp;#8217;s by &lt;a href="https://twitter.com/EffMktHype"&gt;@EffMktHype&lt;/a&gt;. His very twitter handle shows that he&amp;#8217;s skeptical of the Efficient Market Hypothesis (&lt;span class="caps"&gt;EMH&lt;/span&gt;). 
+I&amp;#8217;m a huge believer in the &lt;span class="caps"&gt;EMH&lt;/span&gt;.
+It&amp;#8217;s not the &amp;#8216;evidence&amp;#8217; that nearly all asset managers fail to beat the market.
+It&amp;#8217;s that if someone had a consistently winning strategy they&amp;#8217;d end up owning the market, and it would stop working.
+So, all the talk about models and back testing left me cold. 
+It was like reading about the alchemists searching for the technique to turn base metal into gold.
+Physics shows this is not possible (except in a nuclear reactor).
+But, I can believe that a systematic way to close positions before losses get out of hand would be beneficial.
+Predictions are all very well. 
+We all know that at some point the &lt;span class="caps"&gt;US&lt;/span&gt; dollar is going to cease being the world&amp;#8217;s reserve currency of choice.
+This knowledge does not confer an edge, because the timing is so uncertain, as is the market reaction to this outcome becoming more imminent.
+Anyway, we need to keep an open mind, and this thread points out how one person understands what &amp;#8216;having a system&amp;#8217; actually involves. 
+I&amp;#8217;d like to see some examples, but typically enthusiasts for systems won&amp;#8217;t share them, even the ones that have been back tested to&amp;nbsp;destruction.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>The Fed, inequality and inflation</title><link href="https://www.stevehemingway.com/the-fed-inequality-and-inflation.html" rel="alternate"></link><published>2020-12-17T00:00:00+00:00</published><updated>2020-12-17T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-17:/the-fed-inequality-and-inflation.html</id><summary type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;Investment grade debt ($&lt;span class="caps"&gt;LQD&lt;/span&gt;) suffering outflows. (Daily&amp;nbsp;Shot), &lt;/li&gt;
 &lt;li&gt;every major currency has appreciated against the dollar this year. Since the nadir of Covid, the &lt;span class="caps"&gt;AUD&lt;/span&gt; has done best: a proxy for &lt;span class="caps"&gt;CNH&lt;/span&gt;, no doubt. Worst has been &lt;span class="caps"&gt;JPY&lt;/span&gt;. The &lt;span class="caps"&gt;NOK&lt;/span&gt;, &lt;span class="caps"&gt;SEK&lt;/span&gt;, &lt;span class="caps"&gt;NZD&lt;/span&gt;, &lt;span class="caps"&gt;MXP&lt;/span&gt; &lt;span class="caps"&gt;SKW&lt;/span&gt; and &lt;span class="caps"&gt;SAR&lt;/span&gt; have done pretty …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
@@ -22,55 +41,14 @@ This is the key passage, where he quotes Richard Fisher, himself the Dallas Fed&
 &lt;p&gt;Taps Coogan points out the idiocy of basing monetary policy on targeting a statistic (&lt;span class="caps"&gt;CPI&lt;/span&gt;  inflation) which is experienced so differently by different sections of society (as separated by wealth and income). He&amp;#8217;s always worth reading, but &lt;a href="https://thesoundingline.com/why-inflation-targeting-is-a-bad-idea-and-so-many-feel-that-inflation-is-higher-than-cpi/?utm_source=mailpoet&amp;amp;utm_medium=email&amp;amp;utm_campaign=new-post-why-inflation-targeting-is-a-bad-idea-and-so-many-feel-that-inflation-is-higher-than-cpi_568"&gt;this post&lt;/a&gt; is particularly&amp;nbsp;good.&lt;/p&gt;
 &lt;p&gt;Coogan points out that the point of choosing 2% as a target is that it makes the Fed&amp;#8217;s job easier. But in fact, it can&amp;#8217;t hit the target (because China is manipulating its currency and suppressing global wage rates) and so it&amp;#8217;s stuck in a vicious circle of fiscal&amp;nbsp;repression. &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;To be fair to the Fed, it is a common misnomer [misunderstaning?] that the Fed even argues that 2% inflation is optimal for the economy. Instead, they argue that having inflation in the ballpark of 2% gives them the space to provide negative real rates without having negative nominal interest rates (and likely wage deflation) during recessions. While that is true by definition, to make achieving 2% inflation the objective of monetary policy because 2% inflation makes monetary policy easier creates a self-referential loop. It leads to targeting nonsensical statistical artifacts with limited real-world relevance. It is to confuse inputs with outputs. It is to co-opt the most important price signals and capital allocation mechanisms in a free market towards these&amp;nbsp;ends.&lt;/p&gt;
+&lt;p&gt;To be fair to the Fed, it is a common misnomer [misapprehension?] that the Fed even argues that 2% inflation is optimal for the economy. Instead, they argue that having inflation in the ballpark of 2% gives them the space to provide negative real rates without having negative nominal interest rates (and likely wage deflation) during recessions. While that is true by definition, to make achieving 2% inflation the objective of monetary policy because 2% inflation makes monetary policy easier creates a self-referential loop. It leads to targeting nonsensical statistical artifacts with limited real-world relevance. It is to confuse inputs with outputs. It is to co-opt the most important price signals and capital allocation mechanisms in a free market towards these&amp;nbsp;ends.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;There has been a huge boost in govt. spending lately: this might, at last fix the system. To be fair to the Fed (and the &lt;span class="caps"&gt;ECB&lt;/span&gt; etc.) the failure of governments to create fiscal stimulus makes them as culpable as the central&amp;nbsp;banks.&lt;/p&gt;
 &lt;h1&gt;Wrap&lt;/h1&gt;
 &lt;p&gt;Initial jobless claims hit 885K today, which you might have thought would result in this being a risk-off day.
 In fact it wasa practically risk neutral. The single most important number in markets, the &lt;span class="caps"&gt;US&lt;/span&gt; T-note yield, went up slightly (by 1.5bp!) so you might even say that today was risk-on.
 The dollar slumped to 89.85 (&lt;span class="caps"&gt;DX&lt;/span&gt;), and &lt;span class="caps"&gt;BTC&lt;/span&gt; rocketed by 6.2% to $22.7K. 
-If the dollar continues like this, &lt;span class="caps"&gt;US&lt;/span&gt; yields must start to go&amp;nbsp;up.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>temp</title><link href="https://www.stevehemingway.com/temp.html" rel="alternate"></link><published>2020-12-16T18:43:03+00:00</published><updated>2020-12-16T18:43:03+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/temp.html</id><summary type="html">&lt;ul&gt;
-&lt;li&gt;What is the nature of this company, from a trade point of view? And the future plans for the company?&lt;ul&gt;
-&lt;li&gt;it was a publishing company. It will be &lt;span class="caps"&gt;SIC&lt;/span&gt; code &amp;#8220;letting of own (residential) property&amp;#8221; and possibly property development in due course. There are some carried forward losses, but I …&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
-&lt;li&gt;What is the nature of this company, from a trade point of view? And the future plans for the company?&lt;ul&gt;
-&lt;li&gt;it was a publishing company. It will be &lt;span class="caps"&gt;SIC&lt;/span&gt; code &amp;#8220;letting of own (residential) property&amp;#8221; and possibly property development in due course. There are some carried forward losses, but I recognize that I can&amp;#8217;t offset those against future&amp;nbsp;profits,&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Is the company currently &lt;span class="caps"&gt;VAT&lt;/span&gt; and &lt;span class="caps"&gt;PAYE&lt;/span&gt; registered?&lt;ul&gt;
-&lt;li&gt;Neither: the company is dormant, and has been for ~16&amp;nbsp;years,&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;How are the records of the company currently kept, from a bookkeeping point of view?&lt;ul&gt;
-&lt;li&gt;There is a trial balance maintained by Base 52, but no P&amp;amp;L because no transactions: no bank&amp;nbsp;account.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content><category term="misc"></category></entry><entry><title>notes_for_gavin</title><link href="https://www.stevehemingway.com/notes_for_gavin.html" rel="alternate"></link><published>2020-12-16T18:07:03+00:00</published><updated>2020-12-16T18:07:03+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/notes_for_gavin.html</id><summary type="html">&lt;p&gt;Hi&amp;nbsp;Gavin,&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;ve been reviewing the internals of the plans. 
-In summary, we think that you&amp;#8217;ve come up with something that is close to replicating the functions of our current place,
-given the constraints of the narrower&amp;nbsp;plot. &lt;/p&gt;
-&lt;p&gt;The idea of extending out on the ground floor was …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Hi&amp;nbsp;Gavin,&lt;/p&gt;
-&lt;p&gt;We&amp;#8217;ve been reviewing the internals of the plans. 
-In summary, we think that you&amp;#8217;ve come up with something that is close to replicating the functions of our current place,
-given the constraints of the narrower&amp;nbsp;plot. &lt;/p&gt;
-&lt;p&gt;The idea of extending out on the ground floor was to get a bit more space on that level, vs the first floor, which benefits from not 
-having an integral garage. I&amp;#8217;ve never really been a fan of these, but we don&amp;#8217;t want to lose it so the compromise is&amp;nbsp;unavoidable.&lt;/p&gt;
-&lt;p&gt;In&amp;nbsp;detail, &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;looking at your drawing 113 (i.e. ground floor):&lt;ul&gt;
-&lt;li&gt;the overall layout we&amp;#8217;re happy with,&amp;nbsp;still!&lt;/li&gt;
-&lt;li&gt;we&amp;#8217;d like to know all the implications of losing the pillar in the middle of the kitchen. Obviously, this will create a long span, but we like the idea of a wide area with no constraints. If it&amp;#8217;s not too painful, in terms of cost and construction difficulty, we&amp;#8217;d definitely like to lose&amp;nbsp;it,&lt;/li&gt;
-&lt;li&gt;we&amp;#8217;d like to add the option of putting an additional bath/shower room (with &lt;span class="caps"&gt;WC&lt;/span&gt;) on the east side. The layout would be much as you&amp;#8217;ve drawn it in plan 40. This is just an insurance policy, should we ever decide we need to take back the space occupied by the ground floor bathroom where it is now (adjacent to utility&amp;nbsp;room),&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;looking at your drawing 114 (i.e. first floor):&lt;ul&gt;
-&lt;li&gt;remove the &lt;em&gt;en-suite&lt;/em&gt; bathroom on the east side altogether (but leave water &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; waste pipes, as per comment&amp;nbsp;above),&lt;/li&gt;
-&lt;li&gt;change the door position of the &lt;em&gt;en-suite&lt;/em&gt; on the west side so that it becomes a family&amp;nbsp;bathroom. &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hope this makes sense. We&amp;#8217;ve explored quite a few alternative configurations, but we can&amp;#8217;t improve on what you&amp;#8217;ve done. If we&amp;#8217;d been allowed to extend back a bit, we would probably have moved the utility room to an external wall, but I agree that we don&amp;#8217;t want to derail the project now. I would say that there is no point in asking for the opinion of an officer whether such an extension is possible before we hear the result of the&amp;nbsp;appeal. &lt;/p&gt;
-&lt;p&gt;I will send a reply to your email about heating technologies, etc. separately, but probably&amp;nbsp;tomorrow.&lt;/p&gt;
-&lt;p&gt;Steve.&lt;/p&gt;</content><category term="misc"></category></entry><entry><title>year is running out</title><link href="https://www.stevehemingway.com/year-is-running-out.html" rel="alternate"></link><published>2020-12-16T00:00:00+00:00</published><updated>2020-12-16T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/year-is-running-out.html</id><summary type="html">&lt;h1&gt;Flakey&amp;nbsp;stocks&lt;/h1&gt;
+If the dollar continues like this, &lt;span class="caps"&gt;US&lt;/span&gt; yields must start to go&amp;nbsp;up.&lt;/p&gt;</content><category term="markets"></category><category term="politics"></category><category term="economics"></category></entry><entry><title>year is running out</title><link href="https://www.stevehemingway.com/year-is-running-out.html" rel="alternate"></link><published>2020-12-16T00:00:00+00:00</published><updated>2020-12-16T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-16:/year-is-running-out.html</id><summary type="html">&lt;h1&gt;Flakey&amp;nbsp;stocks&lt;/h1&gt;
 &lt;p&gt;$&lt;span class="caps"&gt;SNOW&lt;/span&gt;, Snowflake, is looking shakey after a meteoric &lt;span class="caps"&gt;IPO&lt;/span&gt;.
 $&lt;span class="caps"&gt;FDX&lt;/span&gt; has had a terrific run, but looks over extended too.
 $&lt;span class="caps"&gt;SPCE&lt;/span&gt; took a dive, like its faulty rocket test the other day. My guess is that it has further to&amp;nbsp;go. &lt;/p&gt;
