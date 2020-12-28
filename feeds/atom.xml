@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-23T17:38:31+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>windows</title><link href="https://www.stevehemingway.com/windows.html" rel="alternate"></link><published>2020-12-23T17:38:31+00:00</published><updated>2020-12-23T17:38:31+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-23:/windows.html</id><content type="html">&lt;p&gt;Ideas for&amp;nbsp;windows:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Monolog Blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2020-12-28T00:00:00+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>More Steeping</title><link href="https://www.stevehemingway.com/more-steeping.html" rel="alternate"></link><published>2020-12-28T00:00:00+00:00</published><updated>2020-12-28T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-28:/more-steeping.html</id><summary type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Seems like risk on. Commodities up, dollar down a&amp;nbsp;bit.&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;EM&lt;/span&gt; equity markets are dominated by tech and discretionary (e.g. automotive). Not&amp;nbsp;commods!&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;But, but stonks never go&amp;nbsp;down!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img alt="Nasdaq" src="https://tme1.fra1.digitaloceanspaces.com/images/25c348416dc86110311876d49494344d"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2000/01/13/business/conservative-fidelity-fund-manager-resigns.html?searchResultPosition=2"&gt;Great&amp;nbsp;timing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;iframe src="https://ourworldindata.org/grapher/global-energy-substitution?time=earliest..latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"&gt;&lt;/iframe&gt;&lt;/li&gt;
+&lt;li&gt;(Worthington Industries) $&lt;span class="caps"&gt;WOR&lt;/span&gt; is a steel play. It&amp;#8217;s a big purchaser of steel and fabricator of …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Seems like risk on. Commodities up, dollar down a&amp;nbsp;bit.&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;EM&lt;/span&gt; equity markets are dominated by tech and discretionary (e.g. automotive). Not&amp;nbsp;commods!&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;But, but stonks never go&amp;nbsp;down!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;img alt="Nasdaq" src="https://tme1.fra1.digitaloceanspaces.com/images/25c348416dc86110311876d49494344d"&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/2000/01/13/business/conservative-fidelity-fund-manager-resigns.html?searchResultPosition=2"&gt;Great&amp;nbsp;timing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;iframe src="https://ourworldindata.org/grapher/global-energy-substitution?time=earliest..latest" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"&gt;&lt;/iframe&gt;&lt;/li&gt;
+&lt;li&gt;(Worthington Industries) $&lt;span class="caps"&gt;WOR&lt;/span&gt; is a steel play. It&amp;#8217;s a big purchaser of steel and fabricator of materials for construction. &lt;a href="https://seekingalpha.com/article/4396425-worthington-industries-another-company-stands-to-benefit-from-infrastructure-package-and"&gt;Seeking Alpha&amp;nbsp;Report&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.nytimes.com/interactive/2020/04/10/opinion/coronavirus-us-economy-inequality.html"&gt;inequality really has zoomed up since 1980&lt;/a&gt;. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Steepening&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="img" src="https://www.chartpoint.com/wp-content/uploads/2020/12/GT2_GT10-long-term.gif"&gt;&lt;/p&gt;
+&lt;p&gt;This wonderful chart, from &lt;a href="https://www.chartpoint.com/curve-4th-turn/"&gt;Alex Manzara&lt;/a&gt; got me thinking&amp;nbsp;today.&lt;/p&gt;
+&lt;p&gt;There seems a clear trend of steepening established around 27 Aug 2019. In a chart as compressed as the one above, it&amp;#8217;s not clear how much daily noise there is in this trend.
+But it seems clear. 
+As Manzara points out, normally the steepening comes from a suppression of short term rates (&lt;span class="caps"&gt;FF&lt;/span&gt; or &amp;#8216;Federal Funds&amp;#8217; as he refers to it).
+The problem this time is that we are already at what used to be thought of as the lower bound for interest rates.
+It might be the case that the Fed can force rates negative,
+but Powell has spoken out against this, and truthfully nobody thinks it is a good idea.
+So the only way for steepening to continue is for inflation to get ignited, which, again as Manzara points out, means that &lt;span class="caps"&gt;DX&lt;/span&gt; goes&amp;nbsp;down.&lt;/p&gt;
+&lt;p&gt;Manzara worries that the suppressed Nashville bombing, targetting infrastructure, as well as the Global Winds hack, the Huawei hack, and more and more information coming out about Chinese investment in voting machines manufacturers will trigger things.
+The previous cycles got going with the S&amp;amp;L crisis &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Gulf War, the &lt;span class="caps"&gt;Y2K&lt;/span&gt; fiasco &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Dot Com bust, the &lt;span class="caps"&gt;GFC&lt;/span&gt; and now &amp;#8230; maybe a constitutional crisis as Trump throws a temper tantrum. Covid is still with us, and the unwinding of massive fiscal stimulus to survive it might still crash the&amp;nbsp;economy.&lt;/p&gt;
+&lt;p&gt;Who knows, but it&amp;#8217;s interesting to speculate. Certainly, the dollar has looked flakey of&amp;nbsp;late. &lt;/p&gt;</content><category term="markets"></category></entry><entry><title>The night before Christmas</title><link href="https://www.stevehemingway.com/the-night-before-christmas.html" rel="alternate"></link><published>2020-12-24T00:00:00+00:00</published><updated>2020-12-24T00:00:00+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-24:/the-night-before-christmas.html</id><content type="html">&lt;h1&gt;Opening&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Russell 2000 shows incredible momentum: it seems nobody knows. Retail&amp;nbsp;punting?&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;ETSY&lt;/span&gt; tripled this year, and $&lt;span class="caps"&gt;SHOP&lt;/span&gt; quadrupled. They don&amp;#8217;t have anything so old-fashioned as&amp;nbsp;earnings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Closing&lt;/h1&gt;</content><category term="markets"></category></entry><entry><title>windows</title><link href="https://www.stevehemingway.com/windows.html" rel="alternate"></link><published>2020-12-23T17:38:31+00:00</published><updated>2020-12-23T17:38:31+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2020-12-23:/windows.html</id><content type="html">&lt;p&gt;Ideas for&amp;nbsp;windows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.greenbuildingstore.co.uk/products/mock-sliding-sash/"&gt;Mock Sliding Sash&lt;/a&gt; - for&amp;nbsp;front,&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.greenbuildingstore.co.uk/alu-clad/#prettyPhoto"&gt;Alu-clad&lt;/a&gt; - for&amp;nbsp;back,&lt;/li&gt;
