@@ -58,4 +58,19 @@ Markets toyed with all time highs (in the case of the $DJIA it made it).
 - Bitcoin continued to rocket higher.
 
 
+# Overall
 
+Commodities did better, but still did not shine as much as they might have.
+Equity markets are more overbought than they have ever been. ![img](https://thefelderreport.com/wp-content/uploads/2020/09/Screen-Shot-2020-11-02-at-10.40.44-AM-1024x741.png)
+There is more margin debt than there has ever been ![img](https://thefelderreport.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-04-at-8.10.48-AM-1024x739.png).
+
+And the stockmarket is at its all-time high as a percentage of GDP ![img](https://thefelderreport.com/wp-content/uploads/2020/09/Screen-Shot-2020-11-02-at-10.02.54-AM-1024x741.png) 
+
+(and yes, I know that the stockmarket is very unrepresentative of the economy, but that's a whole different issue).
+
+All these charts shamefully stolen from [The Felder Report](https://thefelderreport.com/2020/11/04/this-is-the-textbook-definition-of-late-cycle-in-the-stock-market/).
+
+![img](https://pbs.twimg.com/media/EZv-Lw2U8AgX7dj?format=png&name=medium)
+
+
+![img](https://pbs.twimg.com/media/EqkZHhZXMAAbgrf?format=jpg&name=medium)
