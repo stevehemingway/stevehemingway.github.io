@@ -1,7 +1,7 @@
 ---
 title: Linda Bradford Raschke's rules of stock trading
 date: 14 Dec 2020
-category: trading
+category: markets
 ---
 
 I'm not sure who this lady is, but her rules are in line with other similar lists. 

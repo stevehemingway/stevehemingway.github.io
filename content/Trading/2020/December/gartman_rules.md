@@ -1,7 +1,7 @@
 ---
 title: Dennis Gartman's Rules of Trading
 date: 13 Dec 2020
-category: trading
+category: markets
 ---
 
 This was copied from [The Tischendorf Letter website](http://www.tischendorf.com/2009/06/28/dennis-gartmans-trading-rules-list/). The rules were compiled by Dennis Gartman, but as the generously admits, he didn't come up with them.

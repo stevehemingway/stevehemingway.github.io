@@ -1,7 +1,7 @@
 ---
 title: Tyler Bollhorn's rules of trading.
 date: 14 Dec 2020
-category: trading
+category: markets
 
 ---
 
