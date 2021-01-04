@@ -5,48 +5,41 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-01-04T11:06:16-00:00</lastmod>
+<lastmod>2021-01-04T21:31:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2021-01-04T11:06:16-00:00</lastmod>
+<lastmod>2021-01-04T21:31:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-01-04T11:06:16-00:00</lastmod>
+<lastmod>2021-01-04T21:31:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-01-04T11:06:16-00:00</lastmod>
+<lastmod>2021-01-04T21:31:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-01-04T11:06:16-00:00</lastmod>
+<lastmod>2021-01-04T21:31:37-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/2020-12-06.html</loc>
-<lastmod>2021-01-04T10:10:35+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/.html</loc>
+<loc>https://www.stevehemingway.com/the-markets-open.html</loc>
 <lastmod>2021-01-04T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -60,7 +53,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tbc.html</loc>
+<loc>https://www.stevehemingway.com/where-should-power-be-held.html</loc>
 <lastmod>2021-01-03T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -223,6 +216,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/another-week-begins.html</loc>
 <lastmod>2020-12-07T00:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/leisure-not-jobs-rising-yields-not-rising-employment.html</loc>
+<lastmod>2020-12-06T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2350,7 +2350,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2021-01-04T10:10:35-00:01</lastmod>
+<lastmod>2021-01-03T21:10:18-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2840,7 +2840,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-01-04T10:10:35-00:01</lastmod>
+<lastmod>2021-01-04T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
