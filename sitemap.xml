@@ -5,36 +5,50 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-01-04T21:31:37-00:00</lastmod>
+<lastmod>2021-01-05T21:37:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2021-01-04T21:31:37-00:00</lastmod>
+<lastmod>2021-01-05T21:37:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-01-04T21:31:37-00:00</lastmod>
+<lastmod>2021-01-05T21:37:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-01-04T21:31:37-00:00</lastmod>
+<lastmod>2021-01-05T21:37:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-01-04T21:31:37-00:00</lastmod>
+<lastmod>2021-01-05T21:37:04-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/2021-01-06.html</loc>
+<lastmod>2021-01-05T14:54:14+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/georgia-on-my-mind.html</loc>
+<lastmod>2021-01-05T00:00:00+00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2336,7 +2350,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-01-04T00:00:00-00:01</lastmod>
+<lastmod>2021-01-05T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2350,7 +2364,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2021-01-03T21:10:18-00:01</lastmod>
+<lastmod>2021-01-05T14:54:14-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2398,8 +2412,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/tag/inflation.html</loc>
+<lastmod>2021-01-05T00:00:00-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/tag/politics.html</loc>
-<lastmod>2020-12-17T00:00:00-00:01</lastmod>
+<lastmod>2021-01-05T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2540,13 +2561,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/tag/weekly.html</loc>
 <lastmod>2020-09-26T00:00:00-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/inflation.html</loc>
-<lastmod>2020-09-25T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2840,7 +2854,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-01-04T00:00:00-00:01</lastmod>
+<lastmod>2021-01-05T14:54:14-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
