@@ -2,7 +2,7 @@
 date: 27 Dec 2020
 title: The year in review
 category: markets
-status: draft
+status: published
 ---
 
 # What a crazy year!

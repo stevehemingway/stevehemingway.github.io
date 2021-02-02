@@ -1,6 +1,6 @@
 ---
 title: Vaccine Mania
-date: 10 November
+date: 10 November 2020
 category: markets
 tags: update
 ---
