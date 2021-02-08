@@ -5,42 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-02-07T20:55:58-00:00</lastmod>
+<lastmod>2021-02-08T21:15:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2021-02-07T20:55:58-00:00</lastmod>
+<lastmod>2021-02-08T21:15:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-02-07T20:55:58-00:00</lastmod>
+<lastmod>2021-02-08T21:15:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-02-07T20:55:58-00:00</lastmod>
+<lastmod>2021-02-08T21:15:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-02-07T20:55:58-00:00</lastmod>
+<lastmod>2021-02-08T21:15:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/take-advantage-of-the-green-new-deal-buy-coal-plants.html</loc>
-<lastmod>2021-02-06T00:00:00+00:00</lastmod>
+<loc>https://www.stevehemingway.com/energy-not-dead-yet.html</loc>
+<lastmod>2021-02-08T00:00:00+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2560,7 +2560,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-02-06T00:00:00-00:01</lastmod>
+<lastmod>2021-02-08T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3064,7 +3064,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-02-06T00:00:00-00:01</lastmod>
+<lastmod>2021-02-08T00:00:00-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
