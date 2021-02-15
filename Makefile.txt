@@ -62,8 +62,7 @@ regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 repo: 
-	git add $(INPUTDIR) 
-	git commit -m 'new content'
+	git add $(INPUTDIR)  && git commit -m 'new content'
 
 serve:
 ifdef PORT

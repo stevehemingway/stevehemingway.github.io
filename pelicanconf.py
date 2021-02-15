@@ -4,10 +4,32 @@ from __future__ import unicode_literals
 
 import platform
 
+PATH = 'content'
+
+# limit of article summary (words)
+SUMMARY_MAX_LENGTH = 50
+SUMMARY_END_SUFFIX = '…'
+
+# this will force articles with future dates to be set to draft
+WITH_FUTURE_DATES = False
+
+# set this to False if problems rebuilding. Should speed up rebuild
+CACHE_CONTENT = True
+CACHE_PATH = 'cache'
+
+# if false, do not load unmodified content from caches (i.e. don't use cache?)
+LOAD_CONTENT_CACHE = True
+
+# don't change this (see docs)
+RELATIVE_URLS = False
+
 STATIC_PATHS = [
     'images',
     'extra',  # this
+    'static'
 ]
+
+STATIC_CREATE_LINKS = True
 
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'custom.css'},
@@ -35,6 +57,7 @@ FILENAME_METADATA = '(?P<title>.*)'
 DEFAULT_DATE = 'fs'
 USE_FOLDER_AS_CATEGORY = False
 
+
 # add search (see https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
 # PLUGINS = ['tipue_search.tipue_search']
 # this doesn't work: you have to use a theme that supports this type of search
@@ -43,13 +66,14 @@ USE_FOLDER_AS_CATEGORY = False
 CACHE_CONTENT = False
 LOAD_CONTENT_CACHE = False
 
-PATH = 'content'
 
 TIMEZONE = 'Europe/London'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
+
+FEED_ATOM = 'feeds/atom.xml'
+FEED_ALL_ATOM = 'feeds/all.atom.xml' # i.e. generate a feed for all languages
+CATEGORY_FEED_ATOM = None # i.e. don't create an atom feed for categories.
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
@@ -99,6 +123,7 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 TYPOGRIFY = True
 SEARCH_BOX = True
+TYPOGRIFY_DASHES = 'default'
 
 # sitemap plugin. Needs to work on different OSes
 
@@ -121,6 +146,6 @@ SITEMAP = {
     "changefreqs": {
         "articles": "monthly",
         "indexes": "daily",
-        "pages": "monthly"
+        "pages": "daily"
     }
 }
