@@ -1,7 +1,7 @@
 title: This is the taste of toast
 date: 15 march 2020
 slug: toast
-category: science
+category: misc
 tags: books
 
 

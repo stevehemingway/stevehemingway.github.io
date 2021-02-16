@@ -1,5 +1,5 @@
 title: New Week	
-category: trading
+category: markets
 date: 12 October 2020
 tags: journal, economics
 

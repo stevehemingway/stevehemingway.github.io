@@ -1,7 +1,7 @@
 title: Kelly's Criterion
 slug: kellys_criterion
 date: 2020-05-26
-category: trading
+category: markets
 tags: maths
 
 Kelly was a smart guy who worked with the legendary Claude Shannon at Bell Labs. He worked out an optimal betting strategy for games of chance.

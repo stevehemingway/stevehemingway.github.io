@@ -1,5 +1,5 @@
 title:  Tuesday 10th March 2020
-category: trading
+category: markets
 date: 2020-03-30
 
 ## First Thing

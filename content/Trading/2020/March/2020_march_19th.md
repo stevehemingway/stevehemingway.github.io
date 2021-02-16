@@ -1,5 +1,5 @@
 title:  Thurs 19th March 2020 March 2020
-category: trading
+category: markets
 date: 2020-03-30
 
 ## End of day stops

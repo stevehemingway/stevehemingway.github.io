@@ -1,6 +1,6 @@
 title: It's different this time (we're getting inflation)
 date: 2020-05-20
-category: trading
+category: markets
 tags: podcasts
 
 # Another serious commentator sees inflation clouds on the horizon

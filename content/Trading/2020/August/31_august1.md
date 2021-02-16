@@ -1,6 +1,6 @@
 title: Late Summer Bank Holiday 2020 Edition
 date: 31 August 2020
-category: trading
+category: markets
 tags: real-estate
 
 # Honk Kong not so fragrant real estate market

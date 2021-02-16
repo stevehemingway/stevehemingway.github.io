@@ -1,5 +1,5 @@
 title: 15 May 2020
-category: trading
+category: markets
 tags: journal
 
 # Some people when confronted with a problem think "I know, I'll use options." Now they have two problems.

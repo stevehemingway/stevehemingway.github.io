@@ -1,6 +1,6 @@
 title: Wrap for week-ending 7 June 2020
 date: 2020-06-07
-category: trading
+category: markets
 tags: journal
 
 ## Summary

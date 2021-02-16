@@ -1,7 +1,9 @@
+---
 title: A crack in the edifice of the scientific publishing business model
 date: 29-aug-2020
-category: science
-tags: publishing
+category: misc
+tags: 
+---
 
 # Is Alexandra Elbakyan the Dell Glover of the science publishing industry?
 

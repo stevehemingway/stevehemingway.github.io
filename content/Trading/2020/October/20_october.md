@@ -1,8 +1,9 @@
+---
 title: A FED-issued digital currency is a big deal
 category: markets
 tags: economics, journal
 date: 20 October 2020
-
+---
 
 # The FED is toying with the idea of injecting money directly into consumers' wallets
 

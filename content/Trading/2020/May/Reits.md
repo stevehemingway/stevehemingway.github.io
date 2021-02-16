@@ -1,7 +1,7 @@
 title: Reits are Wrongs
 date: 2020-05-26
 slug:reits
-category: trading
+category: markets
 
 
 I've been very bearish about 'purpose built student accommodation' for a long time. The UK has been following the US in tertiary education, just as it always follows it in primary and secondary education. 

@@ -1,6 +1,6 @@
 title: Market Notes, 2020-08-22 12:17
 date: 2020-8-21
-category: trading
+category: markets
 tags: journal 
 
 ## It's Saturday!

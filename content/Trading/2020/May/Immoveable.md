@@ -1,5 +1,5 @@
 title: Immoveable objects
-category: trading
+category: markets
 tags: blogs
 
 

@@ -1,6 +1,6 @@
 title: blog for 17th July 2020
-category: trading
-tags: markets
+category: markets
+tags: 
 
 ## Morning
 

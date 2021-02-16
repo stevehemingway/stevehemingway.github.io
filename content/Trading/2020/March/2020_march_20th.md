@@ -1,5 +1,5 @@
 title:  20th March 2020 \(Friday\) March 2020
-category: trading
+category: markets
 date: 2020-03-30
 
 Note that I didn't make any contemporaneous digital record. I did make some notes on paper with a pen though, and that's what I'll use as the basis of this note.

@@ -1,5 +1,5 @@
 title: Weekend Scrapbook
-category: trading
+category: markets
 date:9 October 2020
 tags: journal, economics
 

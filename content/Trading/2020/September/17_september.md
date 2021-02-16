@@ -1,4 +1,4 @@
-category: trading
+category: markets
 tags: journal
 title: Hurricanes in the Gulf of Mexico fail to disturb markets
 date: 17 sept 2020

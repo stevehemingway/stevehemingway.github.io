@@ -1,5 +1,5 @@
 title:  Monday 11th March 2020
-category: trading
+category: markets
 date: 2020-03-30
 
 ## First Thing
