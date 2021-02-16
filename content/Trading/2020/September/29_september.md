@@ -1,7 +1,9 @@
+---
 title: Trump vs Biden
 category: markets
 tags: journal
-dates: 29 sept 2020
+date: 29 sept 2020
+---
 
 # Wrap
 

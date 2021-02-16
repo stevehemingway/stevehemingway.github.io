@@ -1,6 +1,6 @@
 title: google cloud shell
 date: 2020-08-23
-category: tech
+category: misc
 tags: 
 
 

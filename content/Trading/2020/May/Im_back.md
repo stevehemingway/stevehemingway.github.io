@@ -1,7 +1,7 @@
 title: I'm back, sort of
 date: 2020-05-04T15:58:44+01:00
-category: tech
-tags: software
+category: misc
+tags: 
 
 
 # Background to this blog

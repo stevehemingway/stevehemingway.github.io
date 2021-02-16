@@ -1,6 +1,6 @@
 title: Text templating using Mustache on Windows
 date: 2020-8-17
-category: tech
+category: misc
 tags: 
 
 # The problem

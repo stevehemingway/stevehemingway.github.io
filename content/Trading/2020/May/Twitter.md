@@ -1,7 +1,8 @@
+---
 title: Is Twitter the key Social Media Platform?
-category: tech
+category: misc
 date: 2017-02-05T10:13:50
-modified: 2020-5-9 12:55
+---
 
 ## Summary: Is using Twitter worth it?
 
@@ -22,4 +23,4 @@ I don't understand why $TWTR is not more valuable: a product that is as difficul
 Of course, I'm not buying it: I'm just (supposedly) helping a machine learning algorithm work out what is valuable to advertisers and what is not. 
 
 I am probably too old to be of any interest to them.
-
+
