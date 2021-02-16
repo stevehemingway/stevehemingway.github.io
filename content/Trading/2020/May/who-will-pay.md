@@ -1,6 +1,6 @@
 ---
 title: But who will pay all these wages?
-category: politics
+category: misc
 slug: the_government_will_pay
 Date: 2020-5-18
 ---

@@ -1,7 +1,7 @@
 title: google cloud shell
 date: 2020-08-23
-category: technology
-tags: linux, command-line
+category: tech
+tags: 
 
 
 ## Google Cloud Computing

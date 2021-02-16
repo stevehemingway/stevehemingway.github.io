@@ -1,7 +1,7 @@
 title: Comments on Gove's Ditchley Lecture, 29th June 2020
 date: 2020-6-29
-category: politics
-tags: US
+category: misc
+tags: 
 
 
 ## FDR:
