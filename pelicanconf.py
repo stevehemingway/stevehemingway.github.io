@@ -40,8 +40,9 @@ EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
 }
 
+THEME = 'notmyidea'
 AUTHOR = 'me'
-SITENAME = 'Monolog Blog'
+SITENAME = 'It\'s different this time'
 SITESUBTITLE = 'Mainly markets but a smattering of other stuff'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
@@ -58,9 +59,6 @@ DEFAULT_DATE = 'fs'
 USE_FOLDER_AS_CATEGORY = False
 
 
-# add search (see https://snipcart.com/blog/pelican-blog-tutorial-search-comments)
-# PLUGINS = ['tipue_search.tipue_search']
-# this doesn't work: you have to use a theme that supports this type of search
 
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
 CACHE_CONTENT = False
@@ -130,7 +128,7 @@ TYPOGRIFY_DASHES = 'default'
 if (platform.system() == 'Linux'):
 	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
 else:
-	PLUGIN_PATHS = ["C:/users/steve/pelican-plugins/",]
+	PLUGIN_PATHS = ["m:/pelican-plugins/",]
 	
 PLUGINS=["sitemap",  "readtime"]
 
