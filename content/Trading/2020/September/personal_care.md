@@ -1,7 +1,7 @@
 title: Growing old with dignity
-category: blog
+category: misc
 date: 19 Sept 2020
-tags: politics
+tags: 
 status: published
 
 # State and family
