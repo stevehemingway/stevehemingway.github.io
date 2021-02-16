@@ -5,36 +5,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-02-16T17:25:55-00:00</lastmod>
+<lastmod>2021-02-16T18:09:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tags.html</loc>
-<lastmod>2021-02-16T17:25:55-00:00</lastmod>
+<lastmod>2021-02-16T18:09:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-02-16T17:25:55-00:00</lastmod>
+<lastmod>2021-02-16T18:09:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-02-16T17:25:55-00:00</lastmod>
+<lastmod>2021-02-16T18:09:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-02-16T17:25:55-00:00</lastmod>
+<lastmod>2021-02-16T18:09:06-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/immoveable-objects.html</loc>
+<lastmod>2021-02-16T17:32:50+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/15-may-2020.html</loc>
+<lastmod>2021-02-16T17:32:20+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/blog-for-17th-july-2020.html</loc>
+<lastmod>2021-02-16T17:31:08+00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -81,56 +102,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/2021-01-21.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/20_october.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/unicorns.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/immoveable-objects.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/15-may-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/blog-for-17th-july-2020.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/windows.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/2020-12-22.html</loc>
 <lastmod>2021-02-16T17:14:11+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
@@ -173,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/are-we-close-to-the-production-frontier-yet.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T18:05:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -272,6 +244,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/ccs-carbon-capture-stupidity.html</loc>
 <lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/realistic-returns.html</loc>
+<lastmod>2021-02-16T18:00:41+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -390,7 +369,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/where-should-power-be-held.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:38:03+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -446,7 +425,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/big-ed-is-too-greedy.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
+<lastmod>2021-02-16T18:06:21+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -481,7 +460,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/year-is-running-out.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -649,7 +628,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/a-most-mysterious-market.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T18:07:51+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -838,7 +817,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/a-fed-issued-digital-currency-is-a-big-deal.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:49:01+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -887,7 +866,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/new-week.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -901,7 +880,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/weekend-scrapbook.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1034,7 +1013,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/hurricanes-in-the-gulf-of-mexico-fail-to-disturb-markets.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1132,7 +1111,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/late-summer-bank-holiday-2020-edition.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1146,7 +1125,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/a-crack-in-the-edifice-of-the-scientific-publishing-business-model.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
+<lastmod>2021-02-16T17:28:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1209,7 +1188,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/market-notes-2020-08-22-1217.html</loc>
-<lastmod>2021-02-16T17:14:11+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1678,7 +1657,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/wrap-for-week-ending-7-june-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1713,7 +1692,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/stonks.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1748,14 +1727,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/kellys_criterion.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/reits.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1776,7 +1755,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/its-different-this-time-were-getting-inflation.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/unicorns.html</loc>
+<lastmod>2021-02-16T17:34:22+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1937,140 +1923,140 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/12th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/13th-march-2020-friday-the-thirteenth-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/14th-march-2020-saturday-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/16th-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/17th-march-2020-tuesday-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/20th-march-2020-friday-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/23rd-march-2020-monday-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/30-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/monday-11th-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/monday-9th-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/thurs-19th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/thursday-26th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tuesday-10th-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tuesday-24th-march-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tuesday-31st-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/we-21-22-mar-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/wed-18th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/wed-25th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:47+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/weekend-of-the-15th-16th-march-2020-march-2020.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:42:46+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/toast.html</loc>
-<lastmod>2021-02-16T17:14:12+00:00</lastmod>
+<lastmod>2021-02-16T17:28:09+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2602,21 +2588,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-02-16T17:24:35-00:01</lastmod>
+<lastmod>2021-02-16T18:07:51-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2021-02-16T17:19:27-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/category/science.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
+<lastmod>2021-02-16T17:28:46-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2629,8 +2608,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/tag/blogs.html</loc>
+<lastmod>2021-02-16T17:34:22-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/journal.html</loc>
+<lastmod>2021-02-16T17:49:01-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/tag/books.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
+<lastmod>2021-02-16T17:28:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2643,36 +2636,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tag/blogs.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/politics.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/journal.html</loc>
-<lastmod>2021-02-16T17:24:35-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/markets.html</loc>
-<lastmod>2021-02-16T17:14:11-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/tag/economics.html</loc>
-<lastmod>2021-02-16T17:23:45-00:01</lastmod>
+<lastmod>2021-02-16T17:49:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2680,6 +2645,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/tag/inflation.html</loc>
 <lastmod>2021-02-16T17:14:12-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/politics.html</loc>
+<lastmod>2021-02-16T17:34:22-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2924,20 +2896,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tag/real-estate.html</loc>
-<lastmod>2021-02-16T17:14:11-00:01</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/tag/publishing.html</loc>
-<lastmod>2021-02-16T17:14:11-00:01</lastmod>
+<lastmod>2021-02-16T17:42:46-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/tag/stocks.html</loc>
+<lastmod>2021-02-16T17:14:11-00:01</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/tag/markets.html</loc>
 <lastmod>2021-02-16T17:14:11-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -2987,7 +2959,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tag/maths.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
+<lastmod>2021-02-16T17:42:47-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3015,7 +2987,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tag/podcasts.html</loc>
-<lastmod>2021-02-16T17:14:12-00:01</lastmod>
+<lastmod>2021-02-16T17:42:47-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3036,7 +3008,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-02-16T17:24:35-00:01</lastmod>
+<lastmod>2021-02-16T18:07:51-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
