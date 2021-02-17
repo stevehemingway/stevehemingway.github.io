@@ -1,8 +1,10 @@
+---
 title: How to trade in Stocks
 tags: books, Livermore
-date: 2020-06-06
+date: 1940-01-01 2020-06-06
 category: trading
 slug: how_to_trade_in_stocks_livermore
+---
 
 > This is the text of Livermore's book "How to trade in Stocks." I found a very badly OCR'd version on the Interweb, and spend a few hours reading and correcting the text. It probably still has the odd typo, but it's in a lot better shape now. Email me with comments.
 

@@ -1,8 +1,9 @@
+---
 title: Explanatory Rules 
 tags: books, Livermore
-date: 2020-06-05
+date: 1940-01-01 2020-06-05
 category: trading
-
+---
 
 ## EXPLANATORY RULES
 

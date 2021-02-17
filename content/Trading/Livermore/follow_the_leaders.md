@@ -1,6 +1,8 @@
+---
 title: Follow the Leaders
 tags: books, Livermore
 category: trading
+---
 
 ## FOLLOW THE LEADERS
 

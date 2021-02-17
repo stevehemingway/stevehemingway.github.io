@@ -1,7 +1,9 @@
+---
 title: The Pivotal Point
 tags: books, Livermore
 category: trading
-date: 2020-6-1
+date: 1940-01-01 2020-6-1
+---
 
 ## THE PIVOTAL POINT
 

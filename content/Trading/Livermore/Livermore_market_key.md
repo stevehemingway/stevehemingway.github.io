@@ -1,7 +1,10 @@
+---
 title: The Livermore Market Key
 tags: books, Livermore
-date: 2020-06-05
+date: 1940-01-01 2020-06-05
 category: trading
+---
+
 
 
 ## THE LIVERMORE MARKET KEY

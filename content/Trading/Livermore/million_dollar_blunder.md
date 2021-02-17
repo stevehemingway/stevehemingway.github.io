@@ -1,6 +1,9 @@
+---
 title: The Million Dollar Blunder
 tags: books, Livermore
 category: trading
+date: 1940-1-1
+---
 
 
 
