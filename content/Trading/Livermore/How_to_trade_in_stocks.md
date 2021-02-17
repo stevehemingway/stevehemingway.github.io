@@ -1,7 +1,7 @@
 ---
 title: How to trade in Stocks
 tags: books, Livermore
-date: 1940-01-01 2020-06-06
+date: 1940-01-01
 category: trading
 slug: how_to_trade_in_stocks_livermore
 ---
