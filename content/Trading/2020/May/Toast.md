@@ -1,9 +1,10 @@
+---
 title: This is the taste of toast
 date: 15 march 2020
 slug: toast
 category: misc
 tags: books
-
+---
 
 # Is this molecule the taste of toast?
 

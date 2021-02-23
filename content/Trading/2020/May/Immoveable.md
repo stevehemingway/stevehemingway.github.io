@@ -1,7 +1,8 @@
+---
 title: Immoveable objects
 category: markets
-tags: blogs
-
+date: 15 May 2020
+---
 
 # Bull and Bear, Immovable Object meets Irresistible Force. Which will win out?
 
