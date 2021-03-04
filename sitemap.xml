@@ -5,29 +5,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-03-03T20:59:33-00:00</lastmod>
+<lastmod>2021-03-04T20:46:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-03-03T20:59:33-00:00</lastmod>
+<lastmod>2021-03-04T20:46:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-03-03T20:59:33-00:00</lastmod>
+<lastmod>2021-03-04T20:46:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-03-03T20:59:33-00:00</lastmod>
+<lastmod>2021-03-04T20:46:51-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/powell-speaks-the-world-listens.html</loc>
+<lastmod>2021-03-04T20:46:37+00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/you-are-more-likely-to-be-killed-by-your-own-furniture-than-you-are-to-be-killed-by-a-terrorist.html</loc>
-<lastmod>2021-03-02T18:05:01+00:00</lastmod>
+<lastmod>2021-03-04T17:49:44+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2665,7 +2672,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-03-03T20:59:05-00:01</lastmod>
+<lastmod>2021-03-04T20:46:37-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3085,7 +3092,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-03-03T20:59:05-00:01</lastmod>
+<lastmod>2021-03-04T20:46:37-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
