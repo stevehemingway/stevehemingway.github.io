@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-03-04T20:46:37+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Powell speaks. The world listens.</title><link href="https://www.stevehemingway.com/powell-speaks-the-world-listens.html" rel="alternate"></link><published>2021-03-04T00:00:00+00:00</published><updated>2021-03-04T20:46:37+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-03-04:/powell-speaks-the-world-listens.html</id><summary type="html">&lt;h1&gt;Calum Thomas&amp;#8217;&amp;nbsp;Thesis&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-03-05T10:14:23+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Powell speaks. Bonds puke.</title><link href="https://www.stevehemingway.com/powell-speaks-bonds-puke.html" rel="alternate"></link><published>2021-03-04T00:00:00+00:00</published><updated>2021-03-05T10:14:23+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-03-04:/powell-speaks-bonds-puke.html</id><summary type="html">&lt;h1&gt;Calum Thomas&amp;#8217;&amp;nbsp;Thesis&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://www.linkedin.com/pulse/macro-market-mega-theme-callum-thomas/"&gt;Calum Thomas combines his top charts ideas into one&lt;/a&gt;. His ideas are:
     1. global equities should outperform &lt;span class="caps"&gt;US&lt;/span&gt; ones,
     2. emerging markets (&lt;span class="caps"&gt;EM&lt;/span&gt;) should outperform developed ones (demographics, deficits, trade),
@@ -27,7 +27,9 @@ Govt.s could do it, but the short term spike in nominal rates might kill&amp;nbs
 The cause of this is small blocks, and one currency, &lt;span class="caps"&gt;BSV&lt;/span&gt;, tries to fix that with … big blocks!
 The result will be a less distributed ledger, but much quicker confirmation times, and throughput of transactions.
 The currency that delivers this is &lt;span class="caps"&gt;BSV&lt;/span&gt;. 
-It&amp;#8217;s hard&amp;nbsp;to &lt;/p&gt;
+It&amp;#8217;s hard to have a huge (and endlessly growing) blocksize and at the same time let everyone run a full node on his &lt;span class="caps"&gt;PC&lt;/span&gt;.
+The &lt;span class="caps"&gt;BSV&lt;/span&gt; tradeoff is to have fewer and more centralized servers, which means that &lt;span class="caps"&gt;BSV&lt;/span&gt; is not so good for money laundering or buying drugs, but if it is ever going to be usable in the way that was originally envisaged, I can&amp;#8217;t see any alternative.
+Buying &lt;span class="caps"&gt;BSV&lt;/span&gt; seems tricky: Coinbase doesn&amp;#8217;t seem to support it. I have done the most cursory of&amp;nbsp;checks.&lt;/p&gt;
 &lt;h1&gt;Unionization&lt;/h1&gt;
 &lt;p&gt;Paul Krugman wrote a newsletter commenting on how Joe Biden had implicitly encouraged workers at Amazon to unionize.
 He reviewed why it was that union membership in the &lt;span class="caps"&gt;US&lt;/span&gt; private had cratered, in a way that was not replicated in Denmark (or Canada).
