@@ -5,29 +5,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-03-16T21:14:18-00:00</lastmod>
+<lastmod>2021-03-17T21:20:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-03-16T21:14:18-00:00</lastmod>
+<lastmod>2021-03-17T21:20:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-03-16T21:14:18-00:00</lastmod>
+<lastmod>2021-03-17T21:20:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-03-16T21:14:18-00:00</lastmod>
+<lastmod>2021-03-17T21:20:07-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/fed-press-conference-boosts-confidence.html</loc>
+<lastmod>2021-03-17T21:19:42+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/americas-banks-have-too-much-cash-abundant-liquidity-is-meant-to-help-markets-it-might-soon-cause-trouble.html</loc>
+<lastmod>2021-03-17T10:05:31+00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -2749,7 +2763,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-03-16T21:12:07-00:01</lastmod>
+<lastmod>2021-03-17T21:19:42-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3169,7 +3183,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-03-16T21:12:07-00:01</lastmod>
+<lastmod>2021-03-17T21:19:42-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
