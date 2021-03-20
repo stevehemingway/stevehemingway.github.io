@@ -5,35 +5,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-03-18T21:16:46-00:00</lastmod>
+<lastmod>2021-03-20T21:23:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-03-18T21:16:46-00:00</lastmod>
+<lastmod>2021-03-20T21:23:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-03-18T21:16:46-00:00</lastmod>
+<lastmod>2021-03-20T21:23:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-03-18T21:16:46-00:00</lastmod>
+<lastmod>2021-03-20T21:23:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tbc.html</loc>
-<lastmod>2021-03-18T21:16:30+00:00</lastmod>
+<loc>https://www.stevehemingway.com/us-treasury-is-spending-big.html</loc>
+<lastmod>2021-03-20T21:22:50+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/oil-headed-higher-in-long-run.html</loc>
+<lastmod>2021-03-19T21:15:21+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/the-general-semantics-of-cryptocurrencies.html</loc>
+<lastmod>2021-03-20T11:44:38+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,13 +55,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/fed-press-conference-boosts-confidence.html</loc>
 <lastmod>2021-03-17T21:29:54+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/americas-banks-have-too-much-cash-abundant-liquidity-is-meant-to-help-markets-it-might-soon-cause-trouble.html</loc>
-<lastmod>2021-03-17T10:05:31+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,6 +88,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/what-if-ai-was-naturally-stupid.html</loc>
+<lastmod>2021-03-20T12:16:01+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/harley-bassman-wants-to-prove-history-wrong-with-a-new-cds-fund.html</loc>
 <lastmod>2021-03-12T12:38:48+00:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -89,7 +103,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/what-central-banks-dread-most-a-tight-labour-market.html</loc>
-<lastmod>2021-03-11T20:46:27+00:00</lastmod>
+<lastmod>2021-03-20T12:01:51+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -110,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/stimulus-bill-through-at-last-but-will-europe-follow.html</loc>
-<lastmod>2021-03-08T21:24:54+00:00</lastmod>
+<lastmod>2021-03-20T12:02:03+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -131,7 +145,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/powell-speaks-bonds-puke.html</loc>
-<lastmod>2021-03-05T10:14:23+00:00</lastmod>
+<lastmod>2021-03-20T11:51:20+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2770,7 +2784,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-03-18T21:16:30-00:01</lastmod>
+<lastmod>2021-03-20T21:22:50-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3190,7 +3204,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-03-18T21:16:30-00:01</lastmod>
+<lastmod>2021-03-20T21:22:50-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
