@@ -1,5 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-03-22T21:24:33+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Drumbeat of inflation warnings get louder</title><link href="https://www.stevehemingway.com/drumbeat-of-inflation-warnings-get-louder.html" rel="alternate"></link><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T21:24:33+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-03-22:/drumbeat-of-inflation-warnings-get-louder.html</id><summary type="html">&lt;h1&gt;Chart: 5Y Breakeven&amp;nbsp;rate&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-03-23T21:25:23+00:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Greenwashing and Greensill Capital</title><link href="https://www.stevehemingway.com/greenwashing-and-greensill-capital.html" rel="alternate"></link><published>2021-03-23T00:00:00+00:00</published><updated>2021-03-23T21:25:23+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-03-23:/greenwashing-and-greensill-capital.html</id><summary type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;p&gt;&lt;span class="caps"&gt;FT&lt;/span&gt; Companies section was good&amp;nbsp;today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;low vol factor was original inspiration for index fund, but has underperformed almost ever&amp;nbsp;since,&lt;/li&gt;
+&lt;li&gt;Greensill really looks like a tar pit for Cameron. How can the guy argue he has good&amp;nbsp;judgement?&lt;/li&gt;
+&lt;li&gt;Wall Street changes its tune on &lt;span class="caps"&gt;BTC&lt;/span&gt; now it&amp;#8217;s …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;p&gt;&lt;span class="caps"&gt;FT&lt;/span&gt; Companies section was good&amp;nbsp;today:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;low vol factor was original inspiration for index fund, but has underperformed almost ever&amp;nbsp;since,&lt;/li&gt;
+&lt;li&gt;Greensill really looks like a tar pit for Cameron. How can the guy argue he has good&amp;nbsp;judgement?&lt;/li&gt;
+&lt;li&gt;Wall Street changes its tune on &lt;span class="caps"&gt;BTC&lt;/span&gt; now it&amp;#8217;s a big enough &amp;#8216;asset class&amp;#8217; to attract investor interest and the fees that come with that&amp;nbsp;interest,&lt;/li&gt;
+&lt;li&gt;BlackRock should be renamed WhiteRock, because ethnic minorities are hired purely to meet diversity&amp;nbsp;quotas,&lt;/li&gt;
+&lt;li&gt;Steel is not worth saving, but probably will be, but nothing will be done to change the corporate and economic environment in the &lt;span class="caps"&gt;UK&lt;/span&gt; that makes steelmaking uneconomic (not least energy&amp;nbsp;prices),&lt;/li&gt;
+&lt;li&gt;The &lt;span class="caps"&gt;LSE&lt;/span&gt; has a huge market cap, £40bln, now it owns Refinitiv, which will supposedly provide a stable stream of income, relative to trading (&amp;amp; settlement)&amp;nbsp;fees,&lt;/li&gt;
+&lt;li&gt;Turkish Lira implodes, understandably. &lt;span class="caps"&gt;ZAR&lt;/span&gt; and &lt;span class="caps"&gt;BRE&lt;/span&gt; to be&amp;nbsp;next?&lt;/li&gt;
+&lt;li&gt;Oil sector issues a lot of junk debt because … it&amp;nbsp;can!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Elsewhere:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;dollar strength seems to be clear, even in the face of so much debt issuance by public and private borrowers. The dollar remains a risk-off asset, and the Turkish Lira has presumably affected the risk perception in &lt;span class="caps"&gt;EM&lt;/span&gt;&amp;nbsp;markets,&lt;/li&gt;
+&lt;li&gt;Beeple (Mike Winklemann) agrees that NFTs are in a bubble. He recently sold a digital image for $69M. Probably explains why he didn&amp;#8217;t express this opinion publicly&amp;nbsp;earlier.&lt;/li&gt;
+&lt;li&gt;this is a bumper year for stock fraud. &lt;a href="https://thebearcave.substack.com/p/the-root-insurance-scam-root-bear"&gt;The latest issue of the Bear Cave newletter lists a ton&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Where to&amp;nbsp;blog&lt;/h1&gt;
+&lt;p&gt;I have been thinking of moving off a static blogging platform, mainly to have an email newsletter. 
+I was kinda thinking of substack, mainly because Kevin Muir moved to it. But &lt;a href="https://louiebacaj.com/where-to-blog-medium-substack-wordpress-ghost-or-roll-your-own/"&gt;this post&lt;/a&gt; put me off. 
+If what it says can be taken at face value, the extra control you have with Ghost makes it the top choice. 
+Medium is worse (although if they feature you, they can drive subscribers up) and substack is intermediate, but are still annoyingly restrictive. Ghost seems to score, because 100% of their revenue comes from the author, and so they make their product to please him. With the others, the readers are also their customers, so they are not 100% focussed on the blog&amp;nbsp;author. &lt;/p&gt;
+&lt;p&gt;I might just organize a mailchimp list and cut and paste my content. Less than ideal, but good enough for my needs, I&amp;nbsp;think.&lt;/p&gt;
+&lt;p&gt;I do like Pelican, because I can just write in Markdown, in vi if I like, and just run make, like the programmer I was, and a new post is published.
+I can&amp;#8217;t see it getting easier than this. 
+I can be entirely offline while creating&amp;nbsp;content.&lt;/p&gt;
+&lt;h1&gt;Wrap&lt;/h1&gt;
+&lt;p&gt;The disaster of the vaccine rollout in Europe seems to be infecting global markets, leading to a risk off but deflationary&amp;nbsp;day:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;energy commodities severely impacted: gasoline futures down&amp;nbsp;4.3%,&lt;/li&gt;
+&lt;li&gt;most equity markets down: practically every global market. &lt;span class="caps"&gt;VIX&lt;/span&gt; now up to 21,&amp;nbsp;nearly,&lt;/li&gt;
+&lt;li&gt;curves flattening: 10-2s down to about 1.52% from a high of 1.65% last&amp;nbsp;week,&lt;/li&gt;
+&lt;li&gt;even &lt;span class="caps"&gt;BTC&lt;/span&gt; down a bit&amp;nbsp;$54.5K,&lt;/li&gt;
+&lt;li&gt;currencies mainly flat, &lt;span class="caps"&gt;NZD&lt;/span&gt; falling a bit more, but from a high point (like the &lt;span class="caps"&gt;AUD&lt;/span&gt;),&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;USD&lt;/span&gt; rising against &lt;span class="caps"&gt;EM&lt;/span&gt; currencies: up against the &lt;span class="caps"&gt;TRY&lt;/span&gt; by 6%, but this is highly&amp;nbsp;volatile.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Thoughts&lt;/h1&gt;
+&lt;p&gt;I was wondering why the radical left, and right are so terrible at winning elections, when their policies seem generally very popular. 
+Part of this is the Median Voter Theorem, which says that in a two party system you can afford to ignore the political wishes of your fringe (and activist) supporters, because there is no where for them to go. 
+This theorem makes a lot of heroic assumptions, and &lt;span class="caps"&gt;UKIP&lt;/span&gt; and the Lib Dems very existence invalidates it as a reliable guide in the &lt;span class="caps"&gt;UK&lt;/span&gt;. 
+I think that partly its because parties end up getting run by people who are  interested in getting elected and getting re-elected. People who feel passionate about something, whether freedom, fighting inequality or protecting our cultural heritage are useful as supporters, but I feel they never really rise to positions of great influence in political parties.
+It may be that a few individuals test that hypothesis:  Clem Atlee, Margaret Thatcher are the two that come to mind, but even they are seen as anomalies by their&amp;nbsp;parties. &lt;/p&gt;
+&lt;h1&gt;Chart&lt;/h1&gt;
+&lt;p&gt;What will crude do&amp;nbsp;next?&lt;/p&gt;
+&lt;iframe width="600" height="420" src="https://app.koyfin.com/share/7fef6a0be8/simple" frameBorder="0"&gt;&lt;/iframe&gt;</content><category term="markets"></category></entry><entry><title>Drumbeat of inflation warnings get louder</title><link href="https://www.stevehemingway.com/drumbeat-of-inflation-warnings-get-louder.html" rel="alternate"></link><published>2021-03-22T00:00:00+00:00</published><updated>2021-03-22T21:24:33+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-03-22:/drumbeat-of-inflation-warnings-get-louder.html</id><summary type="html">&lt;h1&gt;Chart: 5Y Breakeven&amp;nbsp;rate&lt;/h1&gt;
 &lt;p&gt;The market (various measures) seems convinced that inflation is going up.
 I&amp;#8217;d spend all day writing this if I linked to everything I see that says this.
 But still, in bond prices, the evidence is far from&amp;nbsp;overwhelming&lt;/p&gt;
