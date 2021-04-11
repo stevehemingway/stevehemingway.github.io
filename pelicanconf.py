@@ -56,14 +56,13 @@ YEAR_ARCHIVE_URL = ''
 # GITHUB_URL = 'https://github.com/stevehemingway/stevehemingway.github.io'
 FILENAME_METADATA = '(?P<title>.*)'
 DEFAULT_DATE = 'fs'
+DEFAULT_CATEGORY = 'markets'
 USE_FOLDER_AS_CATEGORY = False
 
 
-
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
-CACHE_CONTENT = False
+CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = False
-
 
 TIMEZONE = 'Europe/London'
 
@@ -105,10 +104,9 @@ Old_LINKS = (
 
 
 # Social widget
-SOCIAL = (('email', 'steve@stevehemingway.com'),
-	('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
-           ('twitter', 'https://twitter.com/steveknebworth'),)
-
+# SOCIAL = (('email', 'steve@stevehemingway.com'),
+# ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
+#  ('twitter', 'https://twitter.com/steveknebworth'),)
 
 DEFAULT_PAGINATION = 10
 
@@ -118,9 +116,10 @@ RELATIVE_URLS = True
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # typographical improvements!
+# you need to install typogrify as a python library (via pip) if you use this.
 
-TYPOGRIFY = True
-SEARCH_BOX = True
+TYPOGRIFY = False
+SEARCH_BOX = False
 TYPOGRIFY_DASHES = 'default'
 
 # sitemap plugin. Needs to work on different OSes
@@ -132,7 +131,9 @@ else:
 	
 PLUGINS=["sitemap",  "readtime"]
 
-DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
+# get rid of tags, because you're too lazy to use them.
+#DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
+DIRECT_TEMPLATES = ['index',  'categories', 'authors', 'archives', ]
 
 SITEMAP = {
     "format": "xml",
