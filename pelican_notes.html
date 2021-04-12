@@ -3,11 +3,11 @@
 <head>
         <meta charset="utf-8" />
         <meta name="generator" content="Pelican" />
-        <title>How I set up this site</title>
+        <title>How I set up this site</title>
         <link rel="stylesheet" href="https://www.stevehemingway.com/theme/css/main.css" />
         <link href="https://www.stevehemingway.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="It's different this time Atom Feed" />
         <link href="https://www.stevehemingway.com/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="It's different this time RSS Feed" />
-        <meta name="description" content="This is a note for me, to remember how to create a new entry. I had to fiddle a bit with Pelican to make it work OK on Windows and to allow me to..." />
+        <meta name="description" content="This is a note for me, to remember how to create a new entry. I had to fiddle a bit with Pelican to make it work OK on Windows and to allow me to..." />
 </head>
 
 <body id="index" class="home">
@@ -25,7 +25,7 @@
     <header>
       <h1 class="entry-title">
         <a href="https://www.stevehemingway.com/pelican_notes.html" rel="bookmark"
-           title="Permalink to How I set up this site">How I set up this site</a></h1>
+           title="Permalink to How I set up this site">How I set up this&nbsp;site</a></h1>
     </header>
 
     <div class="entry-content">
@@ -43,36 +43,36 @@
         </address>
 <p>In <a href="https://www.stevehemingway.com/category/markets.html">markets</a>.</p>
 
-</footer><!-- /.post-info -->      <p>This is a note for me, to remember how to create a new entry.</p>
-<p>I had to fiddle a bit with Pelican to make it work OK on Windows and
+</footer><!-- /.post-info -->      <p>This is a note for me, to remember how to create a new&nbsp;entry.</p>
+<p>I had to fiddle a bit with Pelican to make it work <span class="caps">OK</span> on Windows and
 to allow me to use a custom domain on github. 
-You can see the full gory details at https://github.com/stevehemingway/stevehemingway.github.io.</p>
-<p>The things that kept tripping me up were as follows:</p>
+You can see the full gory details at&nbsp;https://github.com/stevehemingway/stevehemingway.github.io.</p>
+<p>The things that kept tripping me up were as&nbsp;follows:</p>
 <ul>
 <li>
 <p>@echo in a makefile in Windows fails. Everything else is fine, but echo fails, 
-because it's not a proper command. This is all explained <a href="https://stackoverflow.com/questions/20712307/echo-fails-in-make-on-windows">here</a>.
-The solution, as suggested, is to stick a ';' at the end of each echo line,
+because it&#8217;s not a proper command. This is all explained <a href="https://stackoverflow.com/questions/20712307/echo-fails-in-make-on-windows">here</a>.
+The solution, as suggested, is to stick a &#8216;;&#8217; at the end of each echo line,
 forcing it to be treated like a command. 
-I actually use Pelican both on Windows and Linux systems, so I didn't want
-to break portability (although I would gladly have done so if there wasn't an easy workaround).</p>
+I actually use Pelican both on Windows and Linux systems, so I didn&#8217;t want
+to break portability (although I would gladly have done so if there wasn&#8217;t an easy&nbsp;workaround).</p>
 </li>
 <li>
-<p>It's not sufficient to tell github, via the settings, that you want to use a custom domain.
-You have to have a file called CNAME in the root of the project with the custom domain name.
+<p>It&#8217;s not sufficient to tell github, via the settings, that you want to use a custom domain.
+You have to have a file called <span class="caps">CNAME</span> in the root of the project with the custom domain name.
 You can read about this <a href="https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain">here</a>.
-The key sentence is 'If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the CNAME file to your local repository. For more information, see "Troubleshooting custom domains and GitHub Pages."' 
-The problem is that Pelican just trashes all the files and removes the CNAME file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:
-publish:</p>
+The key sentence is &#8216;If you use a static site generator to build your site locally and push the generated files to GitHub, pull the commit that added the <span class="caps">CNAME</span> file to your local repository. For more information, see &#8220;Troubleshooting custom domains and GitHub Pages.&#8221;&#8217; 
+The problem is that Pelican just trashes all the files and removes the <span class="caps">CNAME</span> file every time the site is generated. It took me a painfully long time to work out what was going wrong. The fix was to insert an extra line into the makefile:&nbsp;publish:</p>
 </li>
 </ul>
-<div class="highlight"><pre><span></span><code><span class="k">$(</span><span class="nv">PELICAN</span><span class="k">)</span> <span class="k">$(</span><span class="nv">INPUTDIR</span><span class="k">)</span> <span class="err">-o</span> <span class="k">$(</span><span class="nv">OUTPUTDIR</span><span class="k">)</span> <span class="err">-s</span> <span class="k">$(</span><span class="nv">PUBLISHCONF</span><span class="k">)</span> <span class="k">$(</span><span class="nv">PELICANOPTS</span><span class="k">)</span>
-<span class="err">echo</span> <span class="k">$(</span><span class="nv">CUSTOM_DOMAIN_NAME</span><span class="k">)</span> <span class="err">&gt;</span> <span class="k">$(</span><span class="nv">OUTPUTDIR</span><span class="k">)</span><span class="err">/CNAME</span>
+<div class="highlight"><pre><span></span><code><span class="err">$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)</span>
+<span class="err">echo $(CUSTOM_DOMAIN_NAME) &gt; $(OUTPUTDIR)/CNAME</span>
 </code></pre></div>
 
+
 <p>Using github involves working on two branches, <em>master</em>, which is the hard-coded branch name that github pages will always serve the site from, and another one, which I have called <em>content</em> (but is configurable in <em>pythonconf.py</em>) which has the actual 
-'source' for the website. The generated stuff in master still clutters the root directory, and you can't get rid of it because git won't let you push until you've pulled (fnarr fnarr). </p>
-<p>That's quite enough tech stuff for today!</p>
+&#8216;source&#8217; for the website. The generated stuff in master still clutters the root directory, and you can&#8217;t get rid of it because git won&#8217;t let you push until you&#8217;ve pulled (fnarr&nbsp;fnarr). </p>
+<p>That&#8217;s quite enough tech stuff for&nbsp;today!</p>
     </div><!-- /.entry-content -->
 
   </article>
