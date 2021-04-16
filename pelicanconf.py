@@ -24,10 +24,11 @@ LOAD_CONTENT_CACHE = True
 RELATIVE_URLS = False
 
 STATIC_PATHS = [
-    'images',
+#    'images',
     'extra',  # this
     'static'
 ]
+
 
 STATIC_CREATE_LINKS = True
 
@@ -78,6 +79,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 # reduce link leakage
+# LINKS = ('My Mailing List', 'tbc')
 LINKS = ()
 
 Old_LINKS = (
@@ -117,8 +119,9 @@ FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 # typographical improvements!
 # you need to install typogrify as a python library (via pip) if you use this.
+# you installed pelican via pipx (i.e. in virt. env.) but you can't seem to install typogrify inside it.
 
-TYPOGRIFY = False
+TYPOGRIFY = True
 SEARCH_BOX = False
 TYPOGRIFY_DASHES = 'default'
 
@@ -129,6 +132,7 @@ if (platform.system() == 'Linux'):
 else:
 	PLUGIN_PATHS = ["m:/pelican-plugins/",]
 	
+# PLUGINS=["sitemap",  "readtime", "neighbors"]
 PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
