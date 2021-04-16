@@ -5,56 +5,70 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-04-14T21:03:05-00:00</lastmod>
+<lastmod>2021-04-16T10:36:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-04-14T21:03:05-00:00</lastmod>
+<lastmod>2021-04-16T10:36:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-04-14T21:03:05-00:00</lastmod>
+<lastmod>2021-04-16T10:36:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-04-14T21:03:05-00:00</lastmod>
+<lastmod>2021-04-16T10:36:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/2021-04-16.html</loc>
+<lastmod>2021-04-16T10:28:32+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/rip-bernie-madoff.html</loc>
+<lastmod>2021-04-15T21:16:50+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/back-to-the-seventies-demand-for-flared-trousers-is-increasing.html</loc>
-<lastmod>2021-04-14T21:02:44+01:00</lastmod>
+<lastmod>2021-04-15T21:16:14+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/corporatism-and-oligopolistic-competition-or-lack-of-it-are-our-biggest-problems.html</loc>
-<lastmod>2021-04-13T21:09:43+01:00</lastmod>
+<lastmod>2021-04-15T14:13:58+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/heres-a-radical-proposal-tax-economic-rents.html</loc>
-<lastmod>2021-04-13T08:29:24+01:00</lastmod>
+<lastmod>2021-04-15T14:13:19+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/will-the-last-bear-to-go-into-hibernation-turn-out-the-lights.html</loc>
-<lastmod>2021-04-12T10:45:45+01:00</lastmod>
+<lastmod>2021-04-15T14:12:49+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -68,14 +82,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/cant-get-the-staff-any-more.html</loc>
-<lastmod>2021-04-10T11:09:37+01:00</lastmod>
+<lastmod>2021-04-15T14:14:38+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archegos-archiwent.html</loc>
-<lastmod>2021-04-10T11:09:37+01:00</lastmod>
+<lastmod>2021-04-15T13:43:51+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2931,7 +2945,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-04-14T21:02:44-00:01</lastmod>
+<lastmod>2021-04-16T10:28:32-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3351,7 +3365,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-04-14T21:02:44-00:01</lastmod>
+<lastmod>2021-04-16T10:28:32-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
