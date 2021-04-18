@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-04-16T10:36:34-00:00</lastmod>
+<lastmod>2021-04-18T21:14:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-04-16T10:36:34-00:00</lastmod>
+<lastmod>2021-04-18T21:14:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-04-16T10:36:34-00:00</lastmod>
+<lastmod>2021-04-18T21:14:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-04-16T10:36:34-00:00</lastmod>
+<lastmod>2021-04-18T21:14:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/2021-04-16.html</loc>
-<lastmod>2021-04-16T10:28:32+01:00</lastmod>
+<loc>https://www.stevehemingway.com/weekend-comment.html</loc>
+<lastmod>2021-04-18T21:13:56+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/another-ev-spac-turns-out-to-be-a-fraud.html</loc>
+<lastmod>2021-04-18T20:50:44+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2945,7 +2952,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-04-16T10:28:32-00:01</lastmod>
+<lastmod>2021-04-18T21:13:56-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3365,7 +3372,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-04-16T10:28:32-00:01</lastmod>
+<lastmod>2021-04-18T21:13:56-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

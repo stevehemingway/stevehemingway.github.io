@@ -1,5 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-16T10:28:32+01:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>2021-04-16</title><link href="https://www.stevehemingway.com/2021-04-16.html" rel="alternate"></link><published>2021-04-16T10:28:32+01:00</published><updated>2021-04-16T10:28:32+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-16:/2021-04-16.html</id><content type="html"></content><category term="markets"></category></entry><entry><title>RIP, Bernie Madoff</title><link href="https://www.stevehemingway.com/rip-bernie-madoff.html" rel="alternate"></link><published>2021-04-15T00:00:00+01:00</published><updated>2021-04-15T21:16:50+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-15:/rip-bernie-madoff.html</id><summary type="html">&lt;h1&gt;Journal&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>It's different this time</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-18T21:13:56+01:00</updated><subtitle>Mainly markets but a smattering of other stuff</subtitle><entry><title>Weekend comment</title><link href="https://www.stevehemingway.com/weekend-comment.html" rel="alternate"></link><published>2021-04-18T00:00:00+01:00</published><updated>2021-04-18T21:13:56+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-18:/weekend-comment.html</id><summary type="html">&lt;h1&gt;Weekend&amp;nbsp;wrap&lt;/h1&gt;
+&lt;p&gt;Kuppy&amp;#8217;s &lt;span class="caps"&gt;KEDM&lt;/span&gt; has been&amp;nbsp;released.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spinoffs: &lt;span class="caps"&gt;EVR&lt;/span&gt; in London is spinning off its coal assets, &lt;span class="caps"&gt;TPK&lt;/span&gt; (private equity) is spinning off Wickes (the top for &lt;span class="caps"&gt;DIY&lt;/span&gt;&amp;nbsp;suppliers?), &lt;/li&gt;
+&lt;li&gt;Loeb has started to buy into $&lt;span class="caps"&gt;INTC&lt;/span&gt;. Intel used to be the &lt;span class="caps"&gt;IBM&lt;/span&gt; of semiconductors. Can it do a $&lt;span class="caps"&gt;MSFT …&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Weekend&amp;nbsp;wrap&lt;/h1&gt;
+&lt;p&gt;Kuppy&amp;#8217;s &lt;span class="caps"&gt;KEDM&lt;/span&gt; has been&amp;nbsp;released.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spinoffs: &lt;span class="caps"&gt;EVR&lt;/span&gt; in London is spinning off its coal assets, &lt;span class="caps"&gt;TPK&lt;/span&gt; (private equity) is spinning off Wickes (the top for &lt;span class="caps"&gt;DIY&lt;/span&gt;&amp;nbsp;suppliers?), &lt;/li&gt;
+&lt;li&gt;Loeb has started to buy into $&lt;span class="caps"&gt;INTC&lt;/span&gt;. Intel used to be the &lt;span class="caps"&gt;IBM&lt;/span&gt; of semiconductors. Can it do a $&lt;span class="caps"&gt;MSFT&lt;/span&gt;?&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;SNOW&lt;/span&gt; is falling as unlocks&amp;nbsp;continue. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;Supply and&amp;nbsp;demand&lt;/h1&gt;
+&lt;p&gt;There is an old saying in economics: &amp;#8220;never reason from a price change.&amp;#8221; I think this means that price changes can result from changes in the supply schedule or the demand schedule (or both): you can observe the price of transactions but you don&amp;#8217;t see which side of the pair of curves has moved.
+We can observe changes in the accounting return on a stock, and tend to assume that the demand is controlled entirely by changes in expected return: it&amp;#8217;s the secondary market, right: the number of shares in issue is fixed, right? 
+Well, wrong on several counts. The supply changes because companies are constantly issuing new shares for management share awards. 
+But managers don&amp;#8217;t want to risk dragging down the share price as a result, so they tend to have the companies buy back the shares to sterilize the dilution that would otherwise occur.
+But, more importantly, demand is a fashion thing. 
+Everyone wants to get hold of cryptocurrencies, not because their return has changed, but because more people have heard about them.
+This goes for stocks too.
+Asset allocators gotta allocate. They shift demand from bonds to equities to venture capital to private equity to real estate and then to crypto.
+And then to any new &amp;#8216;asset&amp;#8217; that can be fabricated: maybe a hedge&amp;nbsp;fund.&lt;/p&gt;
+&lt;p&gt;People in the markets love to analyze the return characteristics of stocks, and measures of comparative demand, for example discount curves and vol surfaces.
+But fashion is a powerful thing. 
+It may be more rewarding to spend hours reading posts on reddit.com/r/wallstreetbets than to spend an equivalent time reading The&amp;nbsp;Economist.&lt;/p&gt;
+&lt;h1&gt;Twttr&lt;/h1&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Listening to bears is as important as listening to bulls. The old saw is &amp;#8220;bears are often right, but always early&amp;#8221;. Being bullish is jumping on the trend. Being bearish is knowing when to get&amp;nbsp;off.&lt;/p&gt;&amp;mdash; Jamie Mcullough (@JamieMcullough) &lt;a href="https://twitter.com/JamieMcullough/status/1383815077694828550?ref_src=twsrc%5Etfw"&gt;April 18, 2021&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; &lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Another EV SPAC turns out to be a fraud</title><link href="https://www.stevehemingway.com/another-ev-spac-turns-out-to-be-a-fraud.html" rel="alternate"></link><published>2021-04-16T00:00:00+01:00</published><updated>2021-04-18T20:50:44+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-16:/another-ev-spac-turns-out-to-be-a-fraud.html</id><summary type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;h2&gt;Quantumscape: escape now, while you&amp;nbsp;can!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.reddit.com/r/wallstreetbetsOGs/comments/mrf9yf/quantumscape_qs_a_pump_and_dump_spac_scam_by/"&gt;Read more on&amp;nbsp;Reddit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From The Market&amp;nbsp;Ear:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This latest melt up in &lt;span class="caps"&gt;SPX&lt;/span&gt; has created several &amp;#8220;extreme&amp;#8221; readings worth&amp;nbsp;considering;&lt;/p&gt;
+&lt;p&gt;1, &lt;span class="caps"&gt;SPX&lt;/span&gt; is now some 15% above the 200 day moving&amp;nbsp;average&lt;/p&gt;
+&lt;p&gt;2, &lt;span class="caps"&gt;RSI&lt;/span&gt; is printing +72 as of&amp;nbsp;writing&lt;/p&gt;
+&lt;p&gt;3, The …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;h1&gt;Crumbs&lt;/h1&gt;
+&lt;h2&gt;Quantumscape: escape now, while you&amp;nbsp;can!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.reddit.com/r/wallstreetbetsOGs/comments/mrf9yf/quantumscape_qs_a_pump_and_dump_spac_scam_by/"&gt;Read more on&amp;nbsp;Reddit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;From The Market&amp;nbsp;Ear:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This latest melt up in &lt;span class="caps"&gt;SPX&lt;/span&gt; has created several &amp;#8220;extreme&amp;#8221; readings worth&amp;nbsp;considering;&lt;/p&gt;
+&lt;p&gt;1, &lt;span class="caps"&gt;SPX&lt;/span&gt; is now some 15% above the 200 day moving&amp;nbsp;average&lt;/p&gt;
+&lt;p&gt;2, &lt;span class="caps"&gt;RSI&lt;/span&gt; is printing +72 as of&amp;nbsp;writing&lt;/p&gt;
+&lt;p&gt;3, The last melt up has seen declining volumes&amp;#8230;maybe stuff is so hot nobody wants to sell&amp;nbsp;this?&lt;/p&gt;
+&lt;p&gt;4, over 93% of the components trade above their respective 200 day moving average, a huge figure which eventually has led to &lt;span class="caps"&gt;SPX&lt;/span&gt;&amp;nbsp;correcting&lt;/p&gt;
+&lt;p&gt;As we all know, overbought and extreme markets can go on for longer than most think. Given the volatility reset we find good opportunities in using relatively low vols to plan hedges via put spreads or replace longs with upside call spreads and other net long premium&amp;nbsp;strategies. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We seem to have been here for about a year, constantly breaking ATHs, but less and less&amp;nbsp;convincingly.&lt;/p&gt;
+&lt;h2&gt;Yields getting&amp;nbsp;pummeled&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.chartpoint.com/rope-a-dope/"&gt;Alex Manzara captures the recent bond market action&amp;nbsp;perfectly.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Basically, all real assets moving ahead. Bonds slightly up, but not matching oil etc.
+European and &lt;span class="caps"&gt;US&lt;/span&gt; equities have been strong this week.
+The &lt;span class="caps"&gt;US&lt;/span&gt; dollar trended down this week. The strong dollar of a week or so ago seems a thing of the past.
+There is a drumbeat of inflation fears, but nothing very concrete. 
+The decision of the Fed to announce &amp;#8220;average inflation targetting&amp;#8221; without defining the nature of the averaging (the time over which the average is targeted etc.) has started to worry some&amp;nbsp;commentators.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>RIP, Bernie Madoff</title><link href="https://www.stevehemingway.com/rip-bernie-madoff.html" rel="alternate"></link><published>2021-04-15T00:00:00+01:00</published><updated>2021-04-15T21:16:50+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-15:/rip-bernie-madoff.html</id><summary type="html">&lt;h1&gt;Journal&lt;/h1&gt;
 &lt;h2&gt;Chamath would have made Bernie&amp;nbsp;proud&lt;/h2&gt;
 &lt;p&gt;I read today that Bernie Madoff, the operator of what was supposedly the biggest Ponzi scheme in history, has died in prison.
 I think the papers should have qualified that by recognizing that the they were restricting the comparison to those schemes that …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Journal&lt;/h1&gt;
