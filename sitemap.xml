@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-04-20T21:08:54-00:00</lastmod>
+<lastmod>2021-04-21T21:08:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-04-20T21:08:54-00:00</lastmod>
+<lastmod>2021-04-21T21:08:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-04-20T21:08:54-00:00</lastmod>
+<lastmod>2021-04-21T21:08:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-04-20T21:08:54-00:00</lastmod>
+<lastmod>2021-04-21T21:08:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/comforting-lies-win-over-uncomfortable-truths-every-time.html</loc>
+<lastmod>2021-04-21T21:07:43+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/long-real-assets-short-ponzi.html</loc>
 <lastmod>2021-04-20T21:08:49+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -54,7 +61,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/the-clock-ticks-markets-fluctuate.html</loc>
-<lastmod>2021-04-19T21:36:39+01:00</lastmod>
+<lastmod>2021-04-21T17:03:12+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/rip-bernie-madoff.html</loc>
-<lastmod>2021-04-15T21:16:50+01:00</lastmod>
+<lastmod>2021-04-21T16:49:53+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2973,7 +2980,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-04-20T21:08:49-00:01</lastmod>
+<lastmod>2021-04-21T21:07:43-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3393,7 +3400,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-04-20T21:08:49-00:01</lastmod>
+<lastmod>2021-04-21T21:07:43-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
