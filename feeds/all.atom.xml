@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-23T21:42:06+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>‘Coinbase: Digital Shovels’</title><link href="https://www.stevehemingway.com/coinbase-digital-shovels.html" rel="alternate"></link><published>2021-04-23T00:00:00+01:00</published><updated>2021-04-23T21:42:06+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-23:/coinbase-digital-shovels.html</id><summary type="html">&lt;h1&gt;Today as it&amp;nbsp;happens&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-23T21:49:21+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>‘Coinbase: Digital Shovels’</title><link href="https://www.stevehemingway.com/coinbase-digital-shovels.html" rel="alternate"></link><published>2021-04-23T00:00:00+01:00</published><updated>2021-04-23T21:49:21+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-23:/coinbase-digital-shovels.html</id><summary type="html">&lt;h1&gt;Today as it&amp;nbsp;happens&lt;/h1&gt;
 &lt;h2&gt;Digital&amp;nbsp;shovels&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://twitter.com/PlugInFUD"&gt;Elmer Spud&lt;/a&gt;, probably not his real name, is worth following. He&amp;#8217;s written 
 &lt;a href="https://elmerspud.substack.com/p/buy-coinbase-but-not-yet"&gt;this interesting piece&lt;/a&gt; arguing that although crypto is a digital Ponzi scheme, it might be worth investing in the exchange on which the worthless tokens are traded. 
@@ -76,7 +76,18 @@ However, to the degree one made considerably more than the average income, Hudso
 &lt;li&gt;10Y steady at&amp;nbsp;1.57%,&lt;/li&gt;
 &lt;li&gt;&lt;span class="caps"&gt;BTC&lt;/span&gt; is down to&amp;nbsp;51.3K. &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Canada is starting to reverse loose monetary policy, like New Zealand. The pace of economic recovery suggests that rates will have to rise soon,&amp;nbsp;globally.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Trade talks</title><link href="https://www.stevehemingway.com/trade-talks.html" rel="alternate"></link><published>2021-04-22T00:00:00+01:00</published><updated>2021-04-22T20:59:17+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-22:/trade-talks.html</id><summary type="html">&lt;h1&gt;The day in&amp;nbsp;question&lt;/h1&gt;
+&lt;p&gt;Canada is starting to reverse loose monetary policy, like New Zealand. The pace of economic recovery suggests that rates will have to rise soon,&amp;nbsp;globally.&lt;/p&gt;
+&lt;h2&gt;Techie&amp;nbsp;stuff&lt;/h2&gt;
+&lt;p&gt;It seems that it is now possible to make windows use &lt;span class="caps"&gt;UTF&lt;/span&gt;-8 as a default encoding. 
+&lt;a href="[How to support UTF-8 encoding in Eclipse - Stack Overflow](https://stackoverflow.com/questions/9180981/how-to-support-utf-8-encoding-in-eclipse#:~:text=%208%20Answers8%20%201%20Window%20%3E%20Preferences,file%20encoding%20to%20Other%20%3A%20UTF-8%20More%20)"&gt;This is the link.&lt;/a&gt;
+I have done this, and it appears to work. 
+For me, I expect it to make powershell work much better with pipes etc. &amp;#8216;Better&amp;#8217; in this context is &amp;#8216;more&amp;nbsp;unix-like.&amp;#8217;&lt;/p&gt;
+&lt;h2&gt;Dominic&amp;nbsp;Cummings&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://dominiccummings.com/2021/04/23/statement-regarding-no10-claims-today/"&gt;This&lt;/a&gt; is quite a forceful statement from Cummings accusing Boris of scapegoating him.
+Cummings clearly doesn&amp;#8217;t play by the rules of Whitehall and is clearly the anti-Cameron.
+Maybe it&amp;#8217;s just me, but I would infinitely prefer to have a pint in a pub with Cummings than with Cameron.
+I instinctively feel that he&amp;#8217;s telling the truth in this post (but have no objective basis for this feeling).
+If I&amp;#8217;m right, it will damage&amp;nbsp;Boris. &lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Trade talks</title><link href="https://www.stevehemingway.com/trade-talks.html" rel="alternate"></link><published>2021-04-22T00:00:00+01:00</published><updated>2021-04-22T20:59:17+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-22:/trade-talks.html</id><summary type="html">&lt;h1&gt;The day in&amp;nbsp;question&lt;/h1&gt;
 &lt;h2&gt;Post-Brexit trade with the &lt;span class="caps"&gt;EU&lt;/span&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="79beecf8da51bafa53af268c07a6420f.png" src="https://www.stevehemingway.com/79beecf8da51bafa53af268c07a6420f.png"&gt;&lt;/p&gt;
 &lt;p&gt;It looks as though trade is flowing more freely. 

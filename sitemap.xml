@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-04-23T21:42:28-00:00</lastmod>
+<lastmod>2021-04-23T21:49:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-04-23T21:42:28-00:00</lastmod>
+<lastmod>2021-04-23T21:49:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-04-23T21:42:28-00:00</lastmod>
+<lastmod>2021-04-23T21:49:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-04-23T21:42:28-00:00</lastmod>
+<lastmod>2021-04-23T21:49:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/coinbase-digital-shovels.html</loc>
-<lastmod>2021-04-23T21:42:06+01:00</lastmod>
+<lastmod>2021-04-23T21:49:21+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2994,7 +2994,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-04-23T21:42:06-00:01</lastmod>
+<lastmod>2021-04-23T21:49:21-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3414,7 +3414,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-04-23T21:42:06-00:01</lastmod>
+<lastmod>2021-04-23T21:49:21-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
