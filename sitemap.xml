@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-04-27T08:43:57-00:00</lastmod>
+<lastmod>2021-04-28T22:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-04-27T08:43:57-00:00</lastmod>
+<lastmod>2021-04-28T22:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-04-27T08:43:57-00:00</lastmod>
+<lastmod>2021-04-28T22:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-04-27T08:43:57-00:00</lastmod>
+<lastmod>2021-04-28T22:01:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -42,6 +42,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/about.html</loc>
 <lastmod>2021-02-16T17:14:12+00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/will-the-faang-ever-be-pushed-off-the-podium.html</loc>
+<lastmod>2021-04-28T22:00:55+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/short-stories.html</loc>
+<lastmod>2021-04-27T22:12:36+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -3008,7 +3022,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-04-27T08:43:47-00:01</lastmod>
+<lastmod>2021-04-28T22:00:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3428,7 +3442,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-04-27T08:43:47-00:01</lastmod>
+<lastmod>2021-04-28T22:00:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

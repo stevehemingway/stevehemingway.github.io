@@ -1,5 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-27T08:43:47+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>‘Intel: chicken or egg?’</title><link href="https://www.stevehemingway.com/intel-chicken-or-egg.html" rel="alternate"></link><published>2021-04-26T00:00:00+01:00</published><updated>2021-04-27T08:43:47+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-26:/intel-chicken-or-egg.html</id><summary type="html">&lt;h1&gt;The day in&amp;nbsp;review&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-28T22:00:55+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Will the FAANG ever be pushed off the podium?</title><link href="https://www.stevehemingway.com/will-the-faang-ever-be-pushed-off-the-podium.html" rel="alternate"></link><published>2021-04-28T00:00:00+01:00</published><updated>2021-04-28T22:00:55+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-28:/will-the-faang-ever-be-pushed-off-the-podium.html</id><summary type="html">&lt;h1&gt;Thoughts for&amp;nbsp;today&lt;/h1&gt;
+&lt;h2&gt;The old order changeth … when&amp;nbsp;exactly?&lt;/h2&gt;
+&lt;p&gt;Packy McCormick writes a cracking blog. &lt;a href="https://www.notboring.co/p/who-disrupts-the-disrupters"&gt;His latest post&lt;/a&gt; is about trying to imagine what will push Facebook, Google, Amazon et al. off their place at the top of the pyramid.
+He points out that the economics of their services are …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Thoughts for&amp;nbsp;today&lt;/h1&gt;
+&lt;h2&gt;The old order changeth … when&amp;nbsp;exactly?&lt;/h2&gt;
+&lt;p&gt;Packy McCormick writes a cracking blog. &lt;a href="https://www.notboring.co/p/who-disrupts-the-disrupters"&gt;His latest post&lt;/a&gt; is about trying to imagine what will push Facebook, Google, Amazon et al. off their place at the top of the pyramid.
+He points out that the economics of their services are different. 
+Not only are they natural monopolies in the sense that their marginal costs do not start to go up before they satisfy all demand, but that their marginal cost is simply zero at all scales. This makes the traditional strategy for a disruptor, where they pick off a small segment and establish a bridgehead, unviable.
+He goes on to make the point that they control the ultimate scarce resource: access to the teeming mass of original content providers.
+Think of Spotify: to buy all the albums you have access to with a subscription would cost $&lt;span class="caps"&gt;100MM&lt;/span&gt;. It&amp;#8217;s yours for $10 a month. 
+Spotify controls that toll bridge, and can charge a modest fee for something valuable but unobtaintable&amp;nbsp;otherwise.&lt;/p&gt;
+&lt;p&gt;He asks us to think what the disruptors will look like, to imagine ourselves as a local newspaper owner in 1995 wondering about Craig&amp;#8217;s List.
+Well, his prediction is that Web3, blockchain, and disintermediation will do the trick.
+For what it&amp;#8217;s worth, I think that I&amp;#8217;ve read too many predictions of the end of intermediation over the years to be wholly convinced.
+I think there is golden opportunity for someone to set up a micropayments system to allow consumers of content to transact directly with producers.
+But as Ronald Coase explained, the sort of combinatorial explosion of contracts would be extremely costly. Hence the existence of &lt;span class="caps"&gt;FB&lt;/span&gt; as a sort of clearing house for&amp;nbsp;advertising. &lt;/p&gt;
+&lt;p&gt;The likes of &lt;span class="caps"&gt;FB&lt;/span&gt; grow in value very rapidly with numbers of members, typically as the square as the membership size, which relates to the number of pairs.
+Payments systems are tricky to run.
+Blockchain has failed in bring down transaction costs (relative to Western Union, let alone Visa).  It seems to me that the price of decentralizing the recording of transactions is too high. I don&amp;#8217;t know what the answer is: maybe central bank digital currencies will come to the&amp;nbsp;rescue. &lt;/p&gt;
+&lt;p&gt;I think there is clearly a need to escape the transaction toll bridges erected by eBay, Spotify, Facebook, Google etc. I think that these monopolies are very unhealthy for society, both economically and politically, but I can&amp;#8217;t believe that blockchain will be the key to the&amp;nbsp;breakup.&lt;/p&gt;
+&lt;h1&gt;Buffett indicator hits &lt;span class="caps"&gt;ATH&lt;/span&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://email.mail.themarketear.com/c/eJxdTs1qwzAYe5r4Ugi288U_Bx_alN5yGXsBz_nWhMR2sb8urz-z40BIIISkxWkByDYnuRQcpG4sYehFr4wQIK_DaMfpNt2nDnj029HTitGXHQl96UOObHUyfHG1aAUcuB7BLOi_LSjlhUErDLDorLLcsMOtRK_aDddOPhr-dzXrlSvVpuG56nOeh0_FiquEP9gO-LBXH_9WyX1k8rTl1EldL6UF0hMvISfa0htrCyQ864FEWH4BjxJHsg" title="$51.3tn ÷ $21.9tn = 234%"&gt;$51.3tn ÷ $21.9tn =&amp;nbsp;234%&lt;/a&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Yes, that is the Buffet indicator. Currently it is trading 88% higher than the long term trend line according to currenmarketvaluation.com.
+This is definitely nothing for the short term trader to watch, and this time is &amp;#8220;different&amp;#8221; as rates remain at historically low levels, but it is still worth having the chart in the back of your head as Fed continues &amp;#8220;forcing&amp;#8221; everyone into long&amp;nbsp;equities. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="83160fbdaff29ab6bed7495c3b25f1d1.png" src="https://www.stevehemingway.com/83160fbdaff29ab6bed7495c3b25f1d1.png"&gt;&lt;/p&gt;
+&lt;h1&gt;European&amp;nbsp;Energy&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://email.mail.themarketear.com/c/eJxdTstqxDAQ-5r4shDs8Ss5-LBNH9De-gezzrQJG9uLPe1Cv76mx4KQQAhJa_DKkNgDSFDSgO8MRo9qdJNSBs7aznZ5WB6XwciE-zHyRgnrlZiwjrEksQUL1uIHgpm1lZrgEp2PkydQK1wcoEhhdrOcxBE25lsb9HmA547_Xd26lcata3yCl_XHvd1fRQ2N6Zv6AYzXhulvlcN7YeS95AF8O9UeyJ90iiXznr-o9UCmezuImeovtf9IBw" title="If oil is a commodity...some energy stuff offers interesting risk/reward here"&gt;If oil is a commodity&amp;#8230;some energy stuff offers interesting risk/reward&amp;nbsp;here&lt;/a&gt; &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We have seen commodity index, &lt;span class="caps"&gt;BCOM&lt;/span&gt;, continue the latest&amp;nbsp;surge.&lt;/p&gt;
+&lt;p&gt;Oil has lagged this move and the gap vs commodities is wide here. Momentum chasers continue chasing momentum, but we would not be surprised if people started chasing some laggards soon, think&amp;nbsp;oil.&lt;/p&gt;
+&lt;p&gt;One of the biggest energy laggards is the &lt;span class="caps"&gt;EU&lt;/span&gt; energy sector. So, we have oil under performing &lt;span class="caps"&gt;BCOM&lt;/span&gt; and &lt;span class="caps"&gt;EU&lt;/span&gt; energy under performing oil big&amp;nbsp;time.&lt;/p&gt;
+&lt;p&gt;According to &lt;span class="caps"&gt;GS&lt;/span&gt; the &lt;span class="caps"&gt;EU&lt;/span&gt; energy sector trades at a historical discount to the&amp;nbsp;market.&lt;/p&gt;
+&lt;p&gt;At the same time upside in &lt;span class="caps"&gt;SXEP&lt;/span&gt; is very well bid. The 1 month 25 delta call skew trades at elevated&amp;nbsp;levels.&lt;/p&gt;
+&lt;p&gt;What does this&amp;nbsp;mean?&lt;/p&gt;
+&lt;p&gt;People are basically paying up big time for upside call options in &lt;span class="caps"&gt;SXEP&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;The case for &lt;span class="caps"&gt;EU&lt;/span&gt; energy offers interesting risk/reward from a &amp;#8220;catch up&amp;#8221;/value play, and given the steep upside skew pricing of options, you could play the upside&amp;nbsp;with;&lt;/p&gt;
+&lt;p&gt;1, simple upside call spreads where you end up selling the relatively more expensive upside in terms of&amp;nbsp;vol&lt;/p&gt;
+&lt;p&gt;2, covered calls, where you sell the elevated vol in the upside call logic, but obviously this one has you &amp;#8220;naked&amp;#8221; (long stock) to the downside as you have practically sold a&amp;nbsp;put.&lt;/p&gt;
+&lt;p&gt;(The above logic is valid for the &lt;span class="caps"&gt;XLE&lt;/span&gt; as well, although the &lt;span class="caps"&gt;XLE&lt;/span&gt; has performed better relative to the &lt;span class="caps"&gt;SXEP&lt;/span&gt;).&amp;nbsp;|&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;(From The Market&amp;nbsp;Ear)&lt;/p&gt;
+&lt;h2&gt;&lt;span class="caps"&gt;GSX&lt;/span&gt;&amp;nbsp;Fraud&lt;/h2&gt;
+&lt;p&gt;Everyone knew that $&lt;span class="caps"&gt;GSX&lt;/span&gt; was a fraud, but it made sense to hold&amp;nbsp;it.&lt;/p&gt;
+&lt;p&gt;https://wallstreetonparade.com/2021/04/mega-banks-on-wall-street-held-3-billion-in-archegos-related-gsx-techedu-months-after-numerous-short-sellers-wrote-that-it-was-a-fraud/&lt;/p&gt;
+&lt;h2&gt;Financial&amp;nbsp;Conditions&lt;/h2&gt;
+&lt;p&gt;By all measures, financial conditions are as easy as they have ever been.
+Most asset prices are hitting all time highs. Real assets, and highly speculative digital and virtual ones. Ponzi stocks are on a tear. Where will it end? Nobody knows, but there has to be a small chance that it will end spectacularly&amp;nbsp;badly.&lt;/p&gt;
+&lt;iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=nfci%3afred&amp;lbl=0&amp;v=202104300000V20200908&amp;d1=19210523&amp;h=300&amp;w=600' height='300' width='600'  frameborder='0' scrolling='no'&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;br /&gt;source: &lt;a href='https://tradingeconomics.com/united-states/chicago-fed-national-financial-conditions-index-fed-data.html'&gt;tradingeconomics.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Wrap&lt;/h1&gt;
+&lt;p&gt;The Fed, via J Powell, the chairman, stated that it will leave the target for Fed funds unchanged, and it will continue to buy $120B of &lt;span class="caps"&gt;US&lt;/span&gt; Treasuries per month. So, no change in policy. In response equity and bond markets remained&amp;nbsp;calm:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;equities flat: &lt;span class="caps"&gt;SPX&lt;/span&gt; up&amp;nbsp;16bp,&lt;/li&gt;
+&lt;li&gt;commodities, especially energy, up again, &lt;span class="caps"&gt;WTI&lt;/span&gt; up 1.13% to&amp;nbsp;$63.65,&lt;/li&gt;
+&lt;li&gt;&lt;span class="caps"&gt;UST&lt;/span&gt; 10Y, yield stuck at&amp;nbsp;1.61%,&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;HLF&lt;/span&gt;, Herbal Life, down 2.4%. This pyramid marketing scheme may be reaching its expiry&amp;nbsp;date.&lt;/li&gt;
+&lt;/ul&gt;</content><category term="markets"></category></entry><entry><title>Short Stories</title><link href="https://www.stevehemingway.com/short-stories.html" rel="alternate"></link><published>2021-04-27T00:00:00+01:00</published><updated>2021-04-27T22:12:36+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-27:/short-stories.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The reflation narrative seems to be taking&amp;nbsp;off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class="caps"&gt;DXY&lt;/span&gt; down, to&amp;nbsp;90.87,&lt;/li&gt;
+&lt;li&gt;10Y Treasury up to&amp;nbsp;1.63%,&lt;/li&gt;
+&lt;li&gt;virtually all commodities up: &lt;span class="caps"&gt;GSCI&lt;/span&gt; up 0.75% today, 20% &lt;span class="caps"&gt;YTD&lt;/span&gt;. Except gold, stuck on&amp;nbsp;$1776/oz,&lt;/li&gt;
+&lt;li&gt;equities generally flat. Blowout numbers from &lt;span class="caps"&gt;GOOG&lt;/span&gt;, up 3.6%, could …&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The reflation narrative seems to be taking&amp;nbsp;off:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class="caps"&gt;DXY&lt;/span&gt; down, to&amp;nbsp;90.87,&lt;/li&gt;
+&lt;li&gt;10Y Treasury up to&amp;nbsp;1.63%,&lt;/li&gt;
+&lt;li&gt;virtually all commodities up: &lt;span class="caps"&gt;GSCI&lt;/span&gt; up 0.75% today, 20% &lt;span class="caps"&gt;YTD&lt;/span&gt;. Except gold, stuck on&amp;nbsp;$1776/oz,&lt;/li&gt;
+&lt;li&gt;equities generally flat. Blowout numbers from &lt;span class="caps"&gt;GOOG&lt;/span&gt;, up 3.6%, could not support the rest of the&amp;nbsp;market. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Tweets&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="und" dir="ltr"&gt;&lt;a href="https://t.co/TmJAqnAPM5"&gt;pic.twitter.com/TmJAqnAPM5&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cold War Steve (@Coldwar_Steve) &lt;a href="https://twitter.com/Coldwar_Steve/status/1387127632505053189?ref_src=twsrc%5Etfw"&gt;April 27, 2021&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; &lt;/p&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;this &lt;a href="https://t.co/Y1SWreftd9"&gt;https://t.co/Y1SWreftd9&lt;/a&gt;&lt;/p&gt;&amp;mdash; ForexLive (@ForexLive) &lt;a href="https://twitter.com/ForexLive/status/1386838522355609601?ref_src=twsrc%5Etfw"&gt;April 27, 2021&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt; &lt;/p&gt;
+&lt;h2&gt;Deluard&lt;/h2&gt;
+&lt;p&gt;Vincent Deluard of Stonex is always worth listening to on The Market Huddle.
+He was on last week arguing&amp;nbsp;that:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;China and satellites suppressed their currencies in the 90&amp;#8217;s to keep their large young populations&amp;nbsp;employed,&lt;/li&gt;
+&lt;li&gt;China imposed capital controls to prevent the sort of situation which occured in Japan in the 80s, which resulted in decades of&amp;nbsp;pain,&lt;/li&gt;
+&lt;li&gt;these trends will reverse in the coming decade, resulting in Chinese assets, and currency appreciating, to allow the retirees to spend in their&amp;nbsp;dotage,&lt;/li&gt;
+&lt;li&gt;this is essentially the &amp;#8216;Great Moderation&amp;#8217; run in reverse, with 1bn productive young workers taken out of the global labour&amp;nbsp;force,&lt;/li&gt;
+&lt;li&gt;the loss cheap productive capacity will result in&amp;nbsp;inflation,&lt;/li&gt;
+&lt;li&gt;East Asian assets, of all sorts will go up (but watch out for equities, and China&amp;nbsp;repression),&lt;/li&gt;
+&lt;li&gt;this inflation will spread to the&amp;nbsp;West,&lt;/li&gt;
+&lt;li&gt;some &lt;span class="caps"&gt;LTAM&lt;/span&gt; assets will be worth looking at as they are long real and short dollar exposure: e.g. &lt;span class="caps"&gt;BRL&lt;/span&gt;, &lt;span class="caps"&gt;CLP&lt;/span&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Worth thinking&amp;nbsp;about.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>‘Intel: chicken or egg?’</title><link href="https://www.stevehemingway.com/intel-chicken-or-egg.html" rel="alternate"></link><published>2021-04-26T00:00:00+01:00</published><updated>2021-04-27T08:43:47+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-26:/intel-chicken-or-egg.html</id><summary type="html">&lt;h1&gt;The day in&amp;nbsp;review&lt;/h1&gt;
 &lt;h2&gt;Wrap&lt;/h2&gt;
 &lt;p&gt;Today was pretty neutral.
 Equities were up slightly, but not enough to matter.
