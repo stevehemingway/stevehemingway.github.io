@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-04-30T21:14:57+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>‘Seriously, a jigsaw puzzle monopoly?’</title><link href="https://www.stevehemingway.com/seriously-a-jigsaw-puzzle-monopoly.html" rel="alternate"></link><published>2021-04-30T00:00:00+01:00</published><updated>2021-04-30T21:14:57+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-30:/seriously-a-jigsaw-puzzle-monopoly.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-05-02T21:11:19+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Marginal rates and Pareto distributions</title><link href="https://www.stevehemingway.com/marginal-rates-and-pareto-distributions.html" rel="alternate"></link><published>2021-05-02T00:00:00+01:00</published><updated>2021-05-02T21:11:19+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-02:/marginal-rates-and-pareto-distributions.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;weekend&lt;/h1&gt;
+&lt;h2&gt;Taxing the&amp;nbsp;rich&lt;/h2&gt;
+&lt;p&gt;Krugman has a post on &lt;a href="https://www.nytimes.com/2021/04/30/opinion/tax-cuts-rich.html"&gt;taxing the rich&lt;/a&gt;.
+It makes the point that it&amp;#8217;s very unlikely that a tax increase for the very rich will make them work less.
+I has a great chart of income against cumulative distribution. It&amp;#8217;s almost a perfectly …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;The&amp;nbsp;weekend&lt;/h1&gt;
+&lt;h2&gt;Taxing the&amp;nbsp;rich&lt;/h2&gt;
+&lt;p&gt;Krugman has a post on &lt;a href="https://www.nytimes.com/2021/04/30/opinion/tax-cuts-rich.html"&gt;taxing the rich&lt;/a&gt;.
+It makes the point that it&amp;#8217;s very unlikely that a tax increase for the very rich will make them work less.
+I has a great chart of income against cumulative distribution. It&amp;#8217;s almost a perfectly straight line, when plotted as a log-log graph.
+A vast number of relationships in physics have a log-log relationship, but few things in social sciences are so&amp;nbsp;quantitative.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="5ba9c628ccfe3f559dd11cf4a4b00292.png" src="5ba9c628ccfe3f559dd11cf4a4b00292.png"&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;ve been vaguely aware that a Pareto distribution arises from an exponential growth rate of wealth in a population with a distribution of investment horizons. 
+&lt;a href="https://www.aeaweb.org/articles?id=10.1257/jep.29.1.29"&gt;This paper&lt;/a&gt; gives some details, and some pointers to a more rigorous explanation of how the distribution&amp;nbsp;arises.&lt;/p&gt;
+&lt;p&gt;Krugman&amp;#8217;s post is designed to stiffen the spine of Biden in his announced policy of increasing taxation of capital.
+I have been very surprised at the speed and efficience of Biden in getting bills through parliament. 
+I read today that &lt;a href="https://en.wikipedia.org/wiki/Ron_Klain"&gt;Ron Klain&lt;/a&gt; is the power behind the throne. 
+The article is in the Sunday Times, and behind a paywall. It asserts that Biden wants to leave a legacy so he is remembered alongside &lt;span class="caps"&gt;FDR&lt;/span&gt;. 
+Probably alongside Reagan too, but maybe he didn&amp;#8217;t want to say the name.
+Anyway, he seems to be going about the job in an effective way.
+I suspect that all the presidents who are remembered fondly actually did much more harm than good, but big programmes like the New Deal and the Great Society always get a pass, because the harm they did often comes later, or is never connected closely to the programme. 
+An impairment of potential growth of 0.5% doesn&amp;#8217;t sound much, but over decades produces a big cumulative shortfall of &lt;span class="caps"&gt;GDP&lt;/span&gt;. &lt;/p&gt;
+&lt;h2&gt;Bison&amp;nbsp;Recommendations&lt;/h2&gt;
+&lt;p&gt;Bison Interests (formerly Bison Energy) is a great firm with a free montly newsletter. Sign up &lt;a href="https://bisoninterests.com"&gt;here&lt;/a&gt;.
+They are bullish on oil, and recommending $&lt;span class="caps"&gt;TSX&lt;/span&gt;:&lt;span class="caps"&gt;BTE&lt;/span&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Baytex Energy (&lt;a href="https://seekingalpha.com/symbol/BTEGF?source=content_type%3Areact%7Csection%3Amain_content%7Cbutton%3Abody_link" title="Baytex Energy Corp."&gt;&lt;span class="caps"&gt;OTCPK&lt;/span&gt;:&lt;span class="caps"&gt;BTEGF&lt;/span&gt;&lt;/a&gt;) is a cheap, levered oil stock, with assets in the Eagle Ford and heavy and light unconventional Canadian oil resource plays. The stock has upside to $2.50 from here, almost a double, just from trading up in line with comps at $60 oil. As oil rises, Baytex&amp;#8217;s financial leverage and large development inventory provides substantial upside &amp;#8220;torque&amp;#8221;. And Baytex just discovered oil, in a discovery that may be worth 15-50% of its current market cap and has not yet been press released. There is upside to $10-15 per share, from recent levels of $1.30-1.40. All numbers in Canadian&amp;nbsp;dollars.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am sure they made sure their own buy orders were filled before sending this out, but the thesis looks worth further investigation. The stock does not seem to have moved yet.
+Micro cap companies are notorious for price manipulation and misleading filings, so take professional advice before investing a dime etc.&amp;nbsp;etc.&lt;/p&gt;
+&lt;h2&gt;Fertilizer&lt;/h2&gt;
+&lt;p&gt;There is a huge spike in the price of food commodities, which may or may not be down to the very active fiscal policies being pursued by the &lt;span class="caps"&gt;US&lt;/span&gt; Treasury and elsewhere.
+The impact may already be in the price of soybeans, but I think there may be upside in fertilizer companies.
+Three interesting plays are Yara ($&lt;span class="caps"&gt;OSE&lt;/span&gt;:&lt;span class="caps"&gt;YAR&lt;/span&gt;), Mosiac ($&lt;span class="caps"&gt;NYSE&lt;/span&gt;:&lt;span class="caps"&gt;MOS&lt;/span&gt;) and Nutrien ($&lt;span class="caps"&gt;TSX&lt;/span&gt;:&lt;span class="caps"&gt;NTR&lt;/span&gt;). 
+Yara is the most conservatively managed, but might be the safest bet.
+There is a good, recent review of the sector &lt;a href="https://finance.yahoo.com/news/global-150-billion-chemical-fertilizers-084300330.html"&gt;here&lt;/a&gt; from &lt;a href="https://www.researchandmarkets.com/reports/5240331/chemical-fertilizers-global-market-report-2021"&gt;Research and Markets&lt;/a&gt;. The stocks I mentioned were discussed by John Dizard in this weekend&amp;#8217;s &lt;span class="caps"&gt;FT&lt;/span&gt;.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>‘Seriously, a jigsaw puzzle monopoly?’</title><link href="https://www.stevehemingway.com/seriously-a-jigsaw-puzzle-monopoly.html" rel="alternate"></link><published>2021-04-30T00:00:00+01:00</published><updated>2021-04-30T21:14:57+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-04-30:/seriously-a-jigsaw-puzzle-monopoly.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
 &lt;h2&gt;Weird&amp;nbsp;monopolies&lt;/h2&gt;
 &lt;p&gt;Cheap funding creates monopolies. 
 The robber barons of the &lt;span class="caps"&gt;US&lt;/span&gt; at the end of the 19th century understood this, and the private equity guys do today.
