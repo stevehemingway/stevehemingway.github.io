@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-05-10T21:30:13+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Just the wrap</title><link href="https://www.stevehemingway.com/just-the-wrap.html" rel="alternate"></link><published>2021-05-10T00:00:00+01:00</published><updated>2021-05-10T21:30:13+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-10:/just-the-wrap.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-05-11T21:28:21+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Baffling Bill Hwang</title><link href="https://www.stevehemingway.com/baffling-bill-hwang.html" rel="alternate"></link><published>2021-05-11T00:00:00+01:00</published><updated>2021-05-11T21:28:21+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-11:/baffling-bill-hwang.html</id><summary type="html">&lt;h1&gt;The day in the rear view&amp;nbsp;mirror&lt;/h1&gt;
+&lt;h2&gt;Hwang&amp;#8217;s extraordinary&amp;nbsp;returns&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/AlderLaneeggs/status/1391123768081215489?s=20"&gt;&lt;em&gt;The Unbelievable Archegos&amp;nbsp;Story&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bill Hwang reportedly grew assets in his family office from $200 million in 2013 to $20 billion in 2021. That’s 100x in eight years or a 78% annualized return after tax.&amp;nbsp;How?&lt;/p&gt;
+&lt;p&gt;Netflix, one …&lt;/p&gt;&lt;/blockquote&gt;</summary><content type="html">&lt;h1&gt;The day in the rear view&amp;nbsp;mirror&lt;/h1&gt;
+&lt;h2&gt;Hwang&amp;#8217;s extraordinary&amp;nbsp;returns&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/AlderLaneeggs/status/1391123768081215489?s=20"&gt;&lt;em&gt;The Unbelievable Archegos&amp;nbsp;Story&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bill Hwang reportedly grew assets in his family office from $200 million in 2013 to $20 billion in 2021. That’s 100x in eight years or a 78% annualized return after tax.&amp;nbsp;How?&lt;/p&gt;
+&lt;p&gt;Netflix, one of Hwang’s best performing reported holdings, increased 35x from 2013 to 2021. Amazon increased 12x over the same time period. But those fall well short of Hwang’s reported returns. Hwang’s past returns at Tiger Asia don’t seem to fit the bill either. Tiger Asia reportedly annualized 16% around from its 2001 inception to its 2012 closing and reportedly annualized 40% during the bullish years of 2001 to&amp;nbsp;2007.&lt;/p&gt;
+&lt;p&gt;Yet, after pleading guilty to illegal trading, losing access to some Asian markets, and losing access to some prime brokers, Hwang supposedly trounced his past performance and amassed a fortune greater than Steve Cohen and Julian Robertson combined, all without a whisper of&amp;nbsp;publicity.&lt;/p&gt;
+&lt;p&gt;Maybe the starting figure of $200 million is wrong, maybe Hwang successfully used serious leverage throughout all eight years, or maybe the ending $20 billion was not all Hwang’s own capital as some on Twitter have&amp;nbsp;theorized.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Hedging against interest rate&amp;nbsp;risk&lt;/h2&gt;
+&lt;p&gt;www.convexitymaven.com/images/Convexity_Maven_-_The_Helicopter_Defense.pdf&lt;/p&gt;
+&lt;p&gt;this is a way to access interest rate hedging at a low&amp;nbsp;cost.  &lt;/p&gt;
+&lt;p&gt;There are a lot of ways of hedging against this risk, including eurodollar futures options, but this is probably cheaper and better.
+Currently, it doesn&amp;#8217;t seem to be a problem, something that will continue until it&amp;nbsp;is.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;There is a lot of anxiety surfacing about the 266K jobs report from last Friday.
+The statistic is difficult to interpret because of various programmes which exist to support those who are not in employment. But with such a disappointing number, when there are still 16 M people unemployed makes people wonder how strong the recovery&amp;nbsp;is.&lt;/p&gt;
+&lt;p&gt;Equities have been choppy for a couple of days. The markets are not synchronized, and the &lt;span class="caps"&gt;NDX&lt;/span&gt; did well today (about flat) because, presumably, investors reasoned that with a  weak jobs recovery, rates will stay lower for &amp;#8230; ever, thereby making growth stocks infinitely valuable. (Maybe.) This is borne out by the performance of gold, which was flat, consistent with no growth. Crude was up modestly (0.5%), but food was up quite a lot: &lt;span class="caps"&gt;SB&lt;/span&gt; futures (&amp;#8216;Sugar No. 11&amp;#8217;) was up&amp;nbsp;3.6%.&lt;/p&gt;
+&lt;p&gt;Bonds were in line: 10Y flat, and currencies ($&lt;span class="caps"&gt;DX&lt;/span&gt;) the&amp;nbsp;same. &lt;/p&gt;
+&lt;p&gt;For some reason, quoted land exposure ($&lt;span class="caps"&gt;LAND&lt;/span&gt; and $&lt;span class="caps"&gt;FPI&lt;/span&gt;) were down heavily. These are not really a proxy for land, they are rather niche farm leasing companies.
+A better exposure is probably achieved via a fertilizer stock, like $&lt;span class="caps"&gt;YAR&lt;/span&gt; or $&lt;span class="caps"&gt;MOS&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;$&lt;span class="caps"&gt;ARKK&lt;/span&gt; and loss making tech stocks are struggling generally, although $&lt;span class="caps"&gt;ARKK&lt;/span&gt; was up 2% today, presumably bounce after the steep declines of&amp;nbsp;yesterday.&lt;/p&gt;
+&lt;h3&gt;Info Tech is just a very long-duration fixed rate&amp;nbsp;bond&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="Well, that's what it looks like!" src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F78c01a12-8325-4313-aa93-74209a29ab52_500x283.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Personal&amp;nbsp;Note&lt;/h2&gt;
+&lt;p&gt;I am still catching up after being away. I will post something more original, I hope,&amp;nbsp;tomorrow.&lt;/p&gt;
+&lt;p&gt;Don&amp;#8217;t to forget to &lt;a href="https://adept-originator-3889.ck.page/f39ac1a146"&gt;sign up to my newsletter&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Steve.&lt;/p&gt;
+&lt;hr&gt;</content><category term="markets"></category></entry><entry><title>Just the wrap</title><link href="https://www.stevehemingway.com/just-the-wrap.html" rel="alternate"></link><published>2021-05-10T00:00:00+01:00</published><updated>2021-05-10T21:31:04+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-10:/just-the-wrap.html</id><summary type="html">&lt;h1&gt;The&amp;nbsp;day&lt;/h1&gt;
 &lt;p&gt;Today I was travelling. I took a quick look at the markets before turning in. 
 Normal service will be resumed&amp;nbsp;tomorrow.&lt;/p&gt;
 &lt;h2&gt;Wrap&lt;/h2&gt;
@@ -27,7 +60,8 @@ and that we will see some inflation before&amp;nbsp;long.&lt;/p&gt;
 Coal is still responsible for 70% of all electricity generation throughout the world. 
 A coal or natural gas power plant has huge advantages over renewable power, in terms of capital costs and speed of build and flexibility.
 In the West, we may be able to afford windfarms, but in the developing world, they just don&amp;#8217;t have the time or the money.
-I know this is an unpopular view, but making money in the markets is about understanding what is going to happen, not what should&amp;nbsp;happen.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Money and inflation</title><link href="https://www.stevehemingway.com/money-and-inflation.html" rel="alternate"></link><published>2021-05-07T00:00:00+01:00</published><updated>2021-05-07T21:20:04+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-07:/money-and-inflation.html</id><summary type="html">&lt;h1&gt;Thought for the&amp;nbsp;day&lt;/h1&gt;
+I know this is an unpopular view, but making money in the markets is about understanding what is going to happen, not what should&amp;nbsp;happen.&lt;/p&gt;
+&lt;hr&gt;</content><category term="markets"></category></entry><entry><title>Money and inflation</title><link href="https://www.stevehemingway.com/money-and-inflation.html" rel="alternate"></link><published>2021-05-07T00:00:00+01:00</published><updated>2021-05-07T21:20:04+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-07:/money-and-inflation.html</id><summary type="html">&lt;h1&gt;Thought for the&amp;nbsp;day&lt;/h1&gt;
 &lt;h2&gt;Inflation and money&amp;nbsp;supply&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="ISM manufacturing and services index points to 5% cpi inflation." src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F00d2622b-9470-4abc-b250-ebec5dce3017_501x282.png"&gt;&lt;/p&gt;
 &lt;p&gt;There is mounting evidence that inflation is being seen in &lt;em&gt;actual prices&lt;/em&gt;. This chart is for intermediate goods and services, but it&amp;#8217;s hard to see why this doesn&amp;#8217;t bleed through to retail prices soon. The &lt;span class="caps"&gt;ISM&lt;/span&gt; figures are lagged by …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Thought for the&amp;nbsp;day&lt;/h1&gt;
