@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-01T21:54:26+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>2021-06-01</title><link href="https://www.stevehemingway.com/2021-06-01.html" rel="alternate"></link><published>2021-06-01T21:36:15+01:00</published><updated>2021-06-01T21:36:15+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-01:/2021-06-01.html</id><content type="html"></content><category term="markets"></category></entry><entry><title>Reflation trade starts to move, possibly</title><link href="https://www.stevehemingway.com/reflation-trade-starts-to-move-possibly.html" rel="alternate"></link><published>2021-06-01T00:00:00+01:00</published><updated>2021-06-01T21:54:26+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-01:/reflation-trade-starts-to-move-possibly.html</id><summary type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-02T22:45:23+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Another quiet day (for those who avoid AMC)</title><link href="https://www.stevehemingway.com/another-quiet-day-for-those-who-avoid-amc.html" rel="alternate"></link><published>2021-06-02T00:00:00+01:00</published><updated>2021-06-02T22:45:23+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-02:/another-quiet-day-for-those-who-avoid-amc.html</id><summary type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Markets were pretty dead: &lt;span class="caps"&gt;SPX&lt;/span&gt;, 10Y yield, &lt;span class="caps"&gt;DXY&lt;/span&gt;, even gold were pretty flat.
+Oil was up 1.5%, as were some energy stocks.
+The only excitement was $&lt;span class="caps"&gt;AMC&lt;/span&gt; going up 95%, through manipulation by the Reddit &lt;span class="caps"&gt;WSB&lt;/span&gt; crowd.
+European stocks were&amp;nbsp;up.&lt;/p&gt;
+&lt;p&gt;There was not much news: everyone is …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Markets were pretty dead: &lt;span class="caps"&gt;SPX&lt;/span&gt;, 10Y yield, &lt;span class="caps"&gt;DXY&lt;/span&gt;, even gold were pretty flat.
+Oil was up 1.5%, as were some energy stocks.
+The only excitement was $&lt;span class="caps"&gt;AMC&lt;/span&gt; going up 95%, through manipulation by the Reddit &lt;span class="caps"&gt;WSB&lt;/span&gt; crowd.
+European stocks were&amp;nbsp;up.&lt;/p&gt;
+&lt;p&gt;There was not much news: everyone is waiting for the payrolls report, due&amp;nbsp;Friday.&lt;/p&gt;
+&lt;h2&gt;Insurance&lt;/h2&gt;
+&lt;p&gt;The principal agency problem is a big one. 
+Economics works best when principals transact directly: when the farmer sells his produce to the housewife.
+Of course, the modern economy is increasingly characterized by long chains of intermediaries, not least when it comes to insurable risks.
+Akerlof (husband of Janet Yellen) got a Nobel Prize for writing about the market for lemons, i.e. cars which sellers know have faults, where those faults are undetectable by buyers.
+This asymmetry of information leads to a failure of the market to clear at a price which maximizes utility.
+It seems to me that all purchases of insurance are of this sort: if I insure my house against fire, or earthquake, the underwriter is enormously better informed about the real risks that I am running than I am. 
+Moreover, even if I could estimate the risk accurately, and knew the cost (e.g. of rebuilding) I would probably willingly overpay for insurance, &amp;#8220;just to be on the safe side.&amp;#8221;
+I think this problem is behind the out-of-control level of prices for medical care in the &lt;span class="caps"&gt;USA&lt;/span&gt;.
+I don&amp;#8217;t think it was a surprise that both Ben Graham and Warren Buffett decided to base their investing around an insurance underwriter (&lt;span class="caps"&gt;GEICO&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;The great thing about being an underwriter is that if you are big enough, the government will bail you out even if you misprice risk and would otherwise be bankrupted by claims (exhibit A: &lt;span class="caps"&gt;AIG&lt;/span&gt; in&amp;nbsp;2009).&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>2021-06-01</title><link href="https://www.stevehemingway.com/2021-06-01.html" rel="alternate"></link><published>2021-06-01T21:36:15+01:00</published><updated>2021-06-01T21:36:15+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-01:/2021-06-01.html</id><content type="html"></content><category term="markets"></category></entry><entry><title>Reflation trade starts to move, possibly</title><link href="https://www.stevehemingway.com/reflation-trade-starts-to-move-possibly.html" rel="alternate"></link><published>2021-06-01T00:00:00+01:00</published><updated>2021-06-01T21:55:22+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-01:/reflation-trade-starts-to-move-possibly.html</id><summary type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The fifth month of the year has started, and evidence of life in markets seems to be flowing back.
 Most commodities were up, especially ones that respond to inflation. 
 Copper and gold benefited, as did oil.
-Even natural gas joined in with the party (up&amp;nbsp;3.6%).&lt;/p&gt;
-&lt;p&gt;Equities were …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
+Even natural gas joined in with the party (up 3.6%).
+Unsurprisingly, the …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The fifth month of the year has started, and evidence of life in markets seems to be flowing back.
 Most commodities were up, especially ones that respond to inflation. 
 Copper and gold benefited, as did oil.
-Even natural gas joined in with the party (up&amp;nbsp;3.6%).&lt;/p&gt;
+Even natural gas joined in with the party (up 3.6%).
+Unsurprisingly, the dollar weakened slightly against most currencies, but especially against the Brazilian&amp;nbsp;Real.&lt;/p&gt;
 &lt;p&gt;Equities were pretty flat, as were bonds. 
 There seems to be some backwardation creeping in, at least for long-dated euro equity options.
 This may just be a stray&amp;nbsp;tick.&lt;/p&gt;
@@ -16,10 +38,12 @@ This may just be a stray&amp;nbsp;tick.&lt;/p&gt;
 This is quite a big percentage jump (although, conceivably, the &lt;span class="caps"&gt;VIX&lt;/span&gt; could drop to zero, in which case we&amp;#8217;d see much bigger percentage jumps).
 It seems odd that &lt;span class="caps"&gt;SPX&lt;/span&gt; didn&amp;#8217;t move but the &lt;span class="caps"&gt;VIX&lt;/span&gt; jumped.
 I&amp;#8217;m sure the Convexity Maven or Spot Gamma would have an&amp;nbsp;answer.&lt;/p&gt;
+&lt;p&gt;It the future&amp;nbsp;trend&lt;/p&gt;
 &lt;h2&gt;Renaissance&amp;nbsp;Technologies&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href="https://wallstreetonparade.com/2021/06/the-best-hedge-fund-performance-in-history-now-clients-cant-get-access-to-their-money/"&gt;The Best Hedge Fund Performance in History; Now Clients Can’t Get Access to their&amp;nbsp;Money&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This is a fascinating article. I am sure that Jim Simons is a brilliant guy, but there is something very odd about the fund(s).
-I read a book about the guy, but I can&amp;#8217;t say that I was any the wiser after reading it than before, other than that he and his team used some mathy technical analysis in a way that nobody could replicate (which, as I write it, seems highly unlikely, at least over a timescale of several&amp;nbsp;decades).&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Memorial Day</title><link href="https://www.stevehemingway.com/memorial-day.html" rel="alternate"></link><published>2021-05-31T00:00:00+01:00</published><updated>2021-05-31T21:24:56+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-31:/memorial-day.html</id><summary type="html">&lt;h2&gt;&lt;span class="caps"&gt;HS2&lt;/span&gt; will damage the home&amp;nbsp;counties&lt;/h2&gt;
+I read a book about the guy, but I can&amp;#8217;t say that I was any the wiser after reading it than before, other than that he and his team used some mathy technical analysis in a way that nobody could replicate (which, as I write it, seems highly unlikely, at least over a timescale of several&amp;nbsp;decades).&lt;/p&gt;
+&lt;p&gt;—&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Memorial Day</title><link href="https://www.stevehemingway.com/memorial-day.html" rel="alternate"></link><published>2021-05-31T00:00:00+01:00</published><updated>2021-05-31T21:24:56+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-31:/memorial-day.html</id><summary type="html">&lt;h2&gt;&lt;span class="caps"&gt;HS2&lt;/span&gt; will damage the home&amp;nbsp;counties&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://voxeu.org/article/high-speed-rail-may-hurt-intermediate-places"&gt;High-speed rail may hurt intermediate places: The role of long-haul&amp;nbsp;economies.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;This is a long-term study of the impact of the &lt;em&gt;Shinkansen&lt;/em&gt; trains in&amp;nbsp;Japan.&lt;/p&gt;
 &lt;h2&gt;DeFi, or how to start your own crypto-currency&amp;nbsp;bank&lt;/h2&gt;
