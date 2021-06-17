@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-15T20:55:02+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Cheddarvision</title><link href="https://www.stevehemingway.com/cheddarvision.html" rel="alternate"></link><published>2021-06-15T00:00:00+01:00</published><updated>2021-06-15T20:55:02+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-15:/cheddarvision.html</id><summary type="html">&lt;h2&gt;Shameless&amp;nbsp;plug&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-17T10:50:40+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>2021-06-17</title><link href="https://www.stevehemingway.com/2021-06-17.html" rel="alternate"></link><published>2021-06-17T10:50:40+01:00</published><updated>2021-06-17T10:50:40+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-17:/2021-06-17.html</id><content type="html"></content><category term="markets"></category></entry><entry><title>Two little hikes, by the end of 2023, and it’s done</title><link href="https://www.stevehemingway.com/two-little-hikes-by-the-end-of-2023-and-its-done.html" rel="alternate"></link><published>2021-06-16T00:00:00+01:00</published><updated>2021-06-16T21:53:59+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-16:/two-little-hikes-by-the-end-of-2023-and-its-done.html</id><summary type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Finally, things started moving.
+The Fed signalled that it is going to start hiking. 
+And, implicitly (one assumes), tapering.
+This cause spike in the dollar index, &lt;span class="caps"&gt;DX&lt;/span&gt;, up by 1%.
+All commodities fell, in sympathy, with the exception of &lt;span class="caps"&gt;NG&lt;/span&gt;.
+Equities dropped by ~0.7% (&lt;span class="caps"&gt;SPX&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;span class="caps"&gt;ACWI&lt;/span&gt;).
+Bonds, though …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Finally, things started moving.
+The Fed signalled that it is going to start hiking. 
+And, implicitly (one assumes), tapering.
+This cause spike in the dollar index, &lt;span class="caps"&gt;DX&lt;/span&gt;, up by 1%.
+All commodities fell, in sympathy, with the exception of &lt;span class="caps"&gt;NG&lt;/span&gt;.
+Equities dropped by ~0.7% (&lt;span class="caps"&gt;SPX&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;span class="caps"&gt;ACWI&lt;/span&gt;).
+Bonds, though, didn&amp;#8217;t think this would be enough: the 10Y yield went back up to 1.57, up&amp;nbsp;7bp.&lt;/p&gt;
+&lt;p&gt;Overall, a tiny bit of excitement on a hot summer evening. 
+European indexes were up, but I think the markets may have closed by the time of the rate hike intentions had been&amp;nbsp;released.&lt;/p&gt;
+&lt;p&gt;In other economic news, housing starts were strong: 3.6% MoM. I think that the disaster that was housing in the &lt;span class="caps"&gt;US&lt;/span&gt; in 2009 may finally be healing.
+$&lt;span class="caps"&gt;EQR&lt;/span&gt; might be a way of playing&amp;nbsp;this.&lt;/p&gt;
+&lt;h2&gt;Crumbs&lt;/h2&gt;
+&lt;p&gt;&lt;span class="caps"&gt;CBOE&lt;/span&gt; will extend &lt;span class="caps"&gt;VIX&lt;/span&gt; &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; &lt;span class="caps"&gt;SPX&lt;/span&gt; options trading to virtually 24 hrs from 21 Nov this&amp;nbsp;year.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/canadaman0051/status/1404993774464479234?s=20"&gt;$&lt;span class="caps"&gt;RIDE&lt;/span&gt; has made an interesting choice for its new &lt;span class="caps"&gt;CEO&lt;/span&gt;.&lt;/a&gt;&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Cheddarvision</title><link href="https://www.stevehemingway.com/cheddarvision.html" rel="alternate"></link><published>2021-06-15T00:00:00+01:00</published><updated>2021-06-16T09:26:51+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-15:/cheddarvision.html</id><summary type="html">&lt;h2&gt;Shameless&amp;nbsp;plug&lt;/h2&gt;
 &lt;p&gt;If you enjoy this content, don&amp;#8217;t forget to sign up for my newsletter &lt;a href="https://adept-originator-3889.ck.page/f39ac1a146"&gt;here&lt;/a&gt;.&amp;nbsp;Thanks!&lt;/p&gt;
 &lt;h2&gt;Wrap&lt;/h2&gt;
 &lt;p&gt;Markets have been marking time for a month or so.
@@ -22,6 +43,8 @@ This is steadily moving up, as demand picks up, but supply is taken out because 
 &lt;li&gt;Greek bonds are paying negative interest rates. People are &lt;em&gt;paying money&lt;/em&gt; in order to lend money to serial defaulter Greece, where not paying your taxes is a patriotic&amp;nbsp;duty!&lt;/li&gt;
 &lt;li&gt;this &lt;span class="caps"&gt;FOMC&lt;/span&gt; is the most important ever. We might see tapering, or at least evidence that Powell is thinking about thinking about&amp;nbsp;tapering.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;The Paul Tudor Jones interview is &lt;a href="https://www.cnbc.com/2021/06/14/paul-tudor-jones-says-bet-heavily-on-every-inflation-trade-if-fed-keeps-ignoring-higher-prices.html"&gt;here&lt;/a&gt;, complete with helpful transcript. 
+My reading (of the transcript) is that he wants to keep some inflation hedges in his portfolio, even if the currently neutral or deflationary environment endures and the Fed&amp;#8217;s rhetoric about &amp;#8216;transitory&amp;#8217; inflation is believed or turns out to be&amp;nbsp;true.&lt;/p&gt;
 &lt;h2&gt;&lt;span class="caps"&gt;UK&lt;/span&gt; rental costs vary by a factor of&amp;nbsp;two&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://blog.spareroom.co.uk/where-can-you-afford-to-live/"&gt;This post&lt;/a&gt; shows that if you wish to live in central London, you&amp;#8217;ll be paying double the rent in some of the less fashionable parts of the&amp;nbsp;country.&lt;/p&gt;
 &lt;p&gt;These are &lt;em&gt;room&lt;/em&gt; rents. To pay £900 pcm for a room needs a salary of at least £30K.  This is miles above min&amp;nbsp;wage.&lt;/p&gt;
