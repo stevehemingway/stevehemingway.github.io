@@ -1,5 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-17T10:50:40+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>2021-06-17</title><link href="https://www.stevehemingway.com/2021-06-17.html" rel="alternate"></link><published>2021-06-17T10:50:40+01:00</published><updated>2021-06-17T10:50:40+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-17:/2021-06-17.html</id><content type="html"></content><category term="markets"></category></entry><entry><title>Two little hikes, by the end of 2023, and it’s done</title><link href="https://www.stevehemingway.com/two-little-hikes-by-the-end-of-2023-and-its-done.html" rel="alternate"></link><published>2021-06-16T00:00:00+01:00</published><updated>2021-06-16T21:53:59+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-16:/two-little-hikes-by-the-end-of-2023-and-its-done.html</id><summary type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-06-21T21:39:52+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>The longest day</title><link href="https://www.stevehemingway.com/the-longest-day.html" rel="alternate"></link><published>2021-06-21T00:00:00+01:00</published><updated>2021-06-21T21:39:52+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-21:/the-longest-day.html</id><summary type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;At the end of last week, markets were spooked by the Fed saying that they might need to raise rates a tad by the end of 2023. 
+Given we had an inflation print of 5% a few weeks ago, this seems like stating the obvious.
+James Bullard, president of …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;At the end of last week, markets were spooked by the Fed saying that they might need to raise rates a tad by the end of 2023. 
+Given we had an inflation print of 5% a few weeks ago, this seems like stating the obvious.
+James Bullard, president of the Reserve Bank of St Louis made some anodyne remarks, such as that the Fed might stop buying mortgage backed securities (&lt;span class="caps"&gt;MBS&lt;/span&gt;).
+The market reaction was to swoon, with the major indexes dropping by several&amp;nbsp;percent.&lt;/p&gt;
+&lt;p&gt;I did not write a Wrap on Thursday or Friday, because I didn&amp;#8217;t really understand what was going on.
+It didn&amp;#8217;t seem possible that such innocuous statements from the Fed could explain the market reaction.
+Sure enough, today everything went into reverse. Commodities, stocks … all risk assets&amp;nbsp;climbed.&lt;/p&gt;
+&lt;p&gt;In detail: &lt;span class="caps"&gt;DX&lt;/span&gt; lost 0.4%, oil gained 2.6%, gold gained 0.8%, the &lt;span class="caps"&gt;SPX&lt;/span&gt; gained 1.5%.
+However, bitcoin lost 7.7%.  $&lt;span class="caps"&gt;MSTR&lt;/span&gt; (Microstrategy), which seems to have turned itself into an &lt;span class="caps"&gt;SPV&lt;/span&gt; for owning bitcoin, fell nearly&amp;nbsp;10%.&lt;/p&gt;
+&lt;h2&gt;Lightning&amp;nbsp;Network&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/DocumentingBTC/status/1407030518483410951?s=20"&gt;The Lightning Network&lt;/a&gt; seems to be a layer built on top of bitcoin which fixes the problem of slow transactions and vast power consumption needs.
+I don&amp;#8217;t really know how it works, but I did install a wallet which allows me to use the network. It&amp;#8217;s called Lightning, but there are others which might be better: I did minimal research: I just wanted to experience the speedup. I need to find someone on the same network to pay&amp;nbsp;now.&lt;/p&gt;
+&lt;h2&gt;The Transferwise&amp;nbsp;story&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.netinterest.co/p/money-without-borders-a-peek-inside"&gt;It&amp;#8217;s worth reading how Transferwise (Wise) got&amp;nbsp;started.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The banks have a huge inbuilt advantage. The get massive economies from being at the nexus of many payments. 
+This was recognized a long time ago. 
+This is why banks make such huge income from making entries in ledgers: an activity which has zero marginal cost.
+Maybe all this will be rendered obsolete by&amp;nbsp;crypto.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/playboyhodl/status/1407041043464396801?s=20"&gt;Someone pointed out on Twitter&lt;/a&gt;  that Western Union invented telegraphic transfers a hundred and fifty years&amp;nbsp;ago.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In 1871, Western Union invented the wire transfer. Cost 3%, took 2-4 days, and a person had to transfer physical money on horseback. 150 years and multiple technological revolutions later, a wire transfer still costs 3% and takes 2 days. &lt;img alt="Exploding head" src="https://abs-0.twimg.com/emoji/v2/svg/1f92f.svg" title="Exploding head"&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;Ziglu&lt;/h2&gt;
+&lt;p&gt;I don&amp;#8217;t know much about Ziglu. I installed it on my phone. It seems to let me lend crypto. 
+If crypto is a substitute for money, it will need to do all the things I can do with money. 
+Probably the most important of these two is to lend, i.e. allow me to buy or sell money today in exchange for a fixed sum of money in the future. 
+I am reasonably convinced that crypto has utility, but that&amp;#8217;s a very different matter from it having&amp;nbsp;value.&lt;/p&gt;
+&lt;h2&gt;Oil going to the&amp;nbsp;moon!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.zerohedge.com/commodities/oil-about-benjamin-oil-hits-3-year-high-bofa-now-sees-spike-100"&gt;Oil may go higher!&lt;/a&gt;
+Well, producers are being forced, by activists or by legislation, to stop investing in production, but no practical substitutes for the actual good have been found. 
+This, to me, adds up to a bull case.
+It&amp;#8217;s nice to know that the Bank of America, using a more sophisticated argument, comes to the same&amp;nbsp;conclusion.&lt;/p&gt;
+&lt;hr&gt;</content><category term="markets"></category></entry><entry><title>Oil plunges</title><link href="https://www.stevehemingway.com/oil-plunges.html" rel="alternate"></link><published>2021-06-17T00:00:00+01:00</published><updated>2021-06-17T21:17:15+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-17:/oil-plunges.html</id><summary type="html">&lt;h2&gt;Inflation is on the rise. What can I use to&amp;nbsp;hedge?&lt;/h2&gt;
+&lt;p&gt;There is quite a&amp;nbsp;choice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;PFIX&lt;/span&gt; (more about interest rate&amp;nbsp;risk),&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;IVOL&lt;/span&gt; (more about being long credit but with crash&amp;nbsp;protection),&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;INFL&lt;/span&gt; (mix of commodities, real assets &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; equities with pricing&amp;nbsp;power).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Talking about inflation, inflation hedges like $&lt;span class="caps"&gt;BTU&lt;/span&gt;, $&lt;span class="caps"&gt;EQR …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Inflation is on the rise. What can I use to&amp;nbsp;hedge?&lt;/h2&gt;
+&lt;p&gt;There is quite a&amp;nbsp;choice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;PFIX&lt;/span&gt; (more about interest rate&amp;nbsp;risk),&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;IVOL&lt;/span&gt; (more about being long credit but with crash&amp;nbsp;protection),&lt;/li&gt;
+&lt;li&gt;$&lt;span class="caps"&gt;INFL&lt;/span&gt; (mix of commodities, real assets &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; equities with pricing&amp;nbsp;power).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Talking about inflation, inflation hedges like $&lt;span class="caps"&gt;BTU&lt;/span&gt;, $&lt;span class="caps"&gt;EQR&lt;/span&gt;, $&lt;span class="caps"&gt;SD&lt;/span&gt;, $&lt;span class="caps"&gt;SU&lt;/span&gt; even $&lt;span class="caps"&gt;CL1&lt;/span&gt; have all been whacked today.
+One party of me wants to think that this is part of a coordinated reverse pump, coordinated by Klaus Schwab, but I just can&amp;#8217;t see them coordinating action in so many&amp;nbsp;markets.&lt;/p&gt;
+&lt;p&gt;Some very popular (in a pejorative sense) newsletters are now getting very fired up about inflation. 
+The latest from HedgeEye is full of doom and gloom. 
+I know that the establishment cannot even bear to think about thinking of the consequences of inflation on the (budget) deficit, but are they really playing big markets, like oil? It just seems&amp;nbsp;unlikely.&lt;/p&gt;
+&lt;h2&gt;Forward indicator suggests &lt;span class="caps"&gt;GDP&lt;/span&gt; is heading&amp;nbsp;down&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.newyorkfed.org/research/policy/weekly-economic-index#/interactive"&gt;It&amp;#8217;s probably all noise, but that&amp;#8217;s what the &lt;span class="caps"&gt;NY&lt;/span&gt; Fed&amp;nbsp;says.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span class="caps"&gt;DKNG&lt;/span&gt; &amp;#8212; not entirely&amp;nbsp;legit?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://hindenburgresearch.com/draftkings/"&gt;Unbeknownst to investors, DraftKings’ merger with SBTech also brings exposure to extensive dealings in black-market gaming, money laundering and organized&amp;nbsp;crime.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bulgaria is a hotbed of criminal activity. This sounds&amp;nbsp;plausible.&lt;/p&gt;
+&lt;h2&gt;Central bank balance sheets then and&amp;nbsp;now&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://moneyinsideout.exantedata.com/p/the-remarkable-expansion-of-global?utm_campaign=post&amp;amp;utm_medium=email&amp;amp;utm_source=copy"&gt;Chris Marsh with a historic and international overview of &lt;span class="caps"&gt;CB&lt;/span&gt; balance&amp;nbsp;sheets.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I am not sure I understand all of this, but I understand some, and that part seems right and is extremely&amp;nbsp;interesting.&lt;/p&gt;
+&lt;p&gt;It points out that the &lt;span class="caps"&gt;ECB&lt;/span&gt; cannot start to tighten, ever, because of Target 2&amp;nbsp;balances. &lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/michaelxpettis/status/1405539470741364745?s=20"&gt;This thread&lt;/a&gt; argues that debt (not just debt purchased by the central bank) was growing unsustainably in China and that this will cause huge problems for the regime there.
+I don&amp;#8217;t know enough about China to have an opinion, but clearly China has been addicted to debt-funded creation of vast quantities of physical capital, which it has combined with its seemingly bottomless supply of labour to produce annual growth of 6% for the last couple of decades. 
+I guess it makes sense that this won&amp;#8217;t go on for ever, especially with the demographic challenges that China&amp;nbsp;faces.&lt;/p&gt;
+&lt;h2&gt;Not all that is golden&amp;nbsp;glisters&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://seekingalpha.com/article/4433962-golden-matrix-group-reboot-of-a-toxic-penny-stock-disaster"&gt;Golden Matrix is a carbon copy of management&amp;#8217;s former penny stock, Elray Resources, which ran into issues with the &lt;span class="caps"&gt;SEC&lt;/span&gt;.     While the company only has two actual employees, there is a catalog of &lt;span class="caps"&gt;SEC&lt;/span&gt; sanctioned individuals and firms that have been involved at Golden Matrix and Elray.     The company&amp;#8217;s operations are a complicated web of related party transactions which obfuscate an otherwise trivial&amp;nbsp;business. &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://thebearcave.substack.com/p/the-bear-cave-70-recent-resignations-7dc"&gt;H/T The Bear&amp;nbsp;Cave.&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Safe Bulkers: a safe&amp;nbsp;investment?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://seekingalpha.com/article/4434716-despite-rallying-234-percent-ytd-safe-bulkers-remains-investable"&gt;Nearly 8% yield in a growth&amp;nbsp;industry.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Not investment&amp;nbsp;advice.&lt;/p&gt;
+&lt;h2&gt;Banks and&amp;nbsp;billionaires&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://wallstreetonparade.com/2021/06/propublicas-release-of-leaked-tax-return-data-for-billionaires-why-wall-streets-mega-banks-are-freaking-out/"&gt;Maybe banks make a lot of profit from stock trades made by billionaires like Bezos.&lt;/a&gt;
+It&amp;#8217;s interesting that banks are offering prime brokerage services to entities other than hedge funds.
+One thinks that people like Elon Musk would be the ideal customer for a bank like Credit&amp;nbsp;Suisse.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Commodities were massacred today.
+&lt;span class="caps"&gt;SPX&lt;/span&gt; was flat. &lt;span class="caps"&gt;NDX&lt;/span&gt; up 1%.
+Generally a deflationary day, presumably triggered by weak initial claims figures (i.e. higher than expected numbers filing for&amp;nbsp;unemployment).&lt;/p&gt;
+&lt;h2&gt;Finally&lt;/h2&gt;
+&lt;p&gt;A big welcome to Michael, who has just signed up to this newsletter. You are number three of millions, my&amp;nbsp;friend!&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Two little hikes, by the end of 2023, and it’s done</title><link href="https://www.stevehemingway.com/two-little-hikes-by-the-end-of-2023-and-its-done.html" rel="alternate"></link><published>2021-06-16T00:00:00+01:00</published><updated>2021-06-16T21:53:59+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-06-16:/two-little-hikes-by-the-end-of-2023-and-its-done.html</id><summary type="html">&lt;h2&gt;Wrap&lt;/h2&gt;
 &lt;p&gt;Finally, things started moving.
 The Fed signalled that it is going to start hiking. 
 And, implicitly (one assumes), tapering.
@@ -1007,7 +1089,7 @@ Tech monopoly shares ($&lt;span class="caps"&gt;APPL&lt;/span&gt; etc.) looking 
 Some coal stocks doing very well: $&lt;span class="caps"&gt;HNRG&lt;/span&gt; is now up 250% over the year, 13% for the day. This indicates that King Coal has not yet handed in his orb and&amp;nbsp;sceptre. &lt;/p&gt;
 &lt;h2&gt;Notes&lt;/h2&gt;
 &lt;p&gt;I&amp;#8217;ll be busy tomorrow and probably won&amp;#8217;t be able to write post. 
-Apologies for truncated entry&amp;nbsp;today.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Renewable energy is cheaper than experts expected</title><link href="https://www.stevehemingway.com/renewable-energy-is-cheaper-than-experts-expected.html" rel="alternate"></link><published>2021-05-04T00:00:00+01:00</published><updated>2021-05-04T21:18:30+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-04:/renewable-energy-is-cheaper-than-experts-expected.html</id><summary type="html">&lt;h1&gt;Twenty four&amp;nbsp;hours&lt;/h1&gt;
+Apologies for truncated entry&amp;nbsp;today.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Renewable energy is cheaper than experts expected</title><link href="https://www.stevehemingway.com/renewable-energy-is-cheaper-than-experts-expected.html" rel="alternate"></link><published>2021-05-04T00:00:00+01:00</published><updated>2021-06-17T11:37:55+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-04:/renewable-energy-is-cheaper-than-experts-expected.html</id><summary type="html">&lt;h1&gt;Twenty four&amp;nbsp;hours&lt;/h1&gt;
 &lt;h2&gt;Renewables&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://grist.org/renewable-energy/experts-in-2000-lowballed-the-crap-out-of-renewable-energy-growth/"&gt;Renewable energy turned out to be cheaper than expected.&lt;/a&gt; People are generally wrong about the future, especially a future decades off. Keynes spotted that: he basically said it was a waste of time trying to predict interest rates 20 years away. Krugman has argued that because …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Twenty four&amp;nbsp;hours&lt;/h1&gt;
 &lt;h2&gt;Renewables&lt;/h2&gt;
@@ -1038,7 +1120,7 @@ The &lt;span class="caps"&gt;GSCI&lt;/span&gt; commodities index was up ~1%, but
 Oil was up&amp;nbsp;2%.&lt;/p&gt;
 &lt;p&gt;It might be worth looking at the work of Chase Taylor at Pinecone Macro. He is a terrific contrarian and explains why hydrocarbons will be the mainstay of energy production in the world for the next&amp;nbsp;decade.&lt;/p&gt;
 &lt;h2&gt;Chart&lt;/h2&gt;
-&lt;p&gt;&lt;img alt="" src="https://pbs.twimg.com/media/E0Shnz3XsAADjXh?format=png&amp;amp;name=medium"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Crikey!" src="https://pbs.twimg.com/media/E0Shnz3XsAADjXh?format=png&amp;amp;name=medium"&gt;&lt;/p&gt;
 &lt;h2&gt;Inflation&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="Breakevens look bad" src="https://fred.stlouisfed.org/graph/fredgraph.png?g=DA0D"&gt;&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Berkshire Hunting</title><link href="https://www.stevehemingway.com/berkshire-hunting.html" rel="alternate"></link><published>2021-05-03T00:00:00+01:00</published><updated>2021-05-03T21:25:37+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-05-03:/berkshire-hunting.html</id><summary type="html">&lt;h1&gt;Email from the desk of the junior&amp;nbsp;clerk&lt;/h1&gt;
 &lt;h2&gt;Berkshire&amp;nbsp;Hathaway&lt;/h2&gt;
