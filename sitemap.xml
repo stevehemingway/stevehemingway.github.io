@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-06-21T21:39:44-00:00</lastmod>
+<lastmod>2021-06-22T21:56:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-06-21T21:39:44-00:00</lastmod>
+<lastmod>2021-06-22T21:56:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-06-21T21:39:44-00:00</lastmod>
+<lastmod>2021-06-22T21:56:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-06-21T21:39:44-00:00</lastmod>
+<lastmod>2021-06-22T21:56:13-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -42,6 +42,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/about.html</loc>
 <lastmod>2021-02-16T17:14:12+00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/net-zero-is-anything-but-zero-cost.html</loc>
+<lastmod>2021-06-22T21:53:04+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -3295,7 +3302,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-06-21T21:39:52-00:01</lastmod>
+<lastmod>2021-06-22T21:53:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3715,7 +3722,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-06-21T21:39:52-00:01</lastmod>
+<lastmod>2021-06-22T21:53:04-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
