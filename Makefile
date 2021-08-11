@@ -4,6 +4,7 @@ PELICANOPTS=
 PORT=8001
 
 BASEDIR=$(CURDIR)
+# BASEDIR=M:/Documents/pelican
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py

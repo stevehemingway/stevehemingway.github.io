@@ -23,12 +23,15 @@ LOAD_CONTENT_CACHE = True
 # don't change this (see docs)
 RELATIVE_URLS = False
 
-STATIC_PATHS = [
-#    'images',
-    'extra',  # this
-    'static'
-]
+# these are directories where pelican does not do any processing!
+STATIC_PATHS = []
 
+#    'images']
+#    ,'extra',  # this
+#    'static',
+#    'pages']
+    
+DISPLAY_PAGES_ON_MENU = True
 
 STATIC_CREATE_LINKS = True
 
@@ -43,8 +46,8 @@ EXTRA_PATH_METADATA = {
 
 THEME = 'notmyidea'
 AUTHOR = 'me'
-SITENAME = 'It\'s different this time'
-SITESUBTITLE = 'Mainly markets but a smattering of other stuff'
+SITENAME = 'Postcards from the Internet'
+SITESUBTITLE = 'Life, the universe, and the markets'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -79,8 +82,12 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 
 # reduce link leakage
-# LINKS = ('My Mailing List', 'tbc')
-LINKS = ()
+LINKS = (
+    ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
+    ('Epsilon Theory', 'https://www.epsilontheory.com'),
+    ('Commodity.com LLC', 'https://commodity.com/'),
+    )
+# LINKS = ()
 
 Old_LINKS = (
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
