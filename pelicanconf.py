@@ -140,7 +140,7 @@ else:
 	PLUGIN_PATHS = ["m:/pelican-plugins/",]
 	
 # PLUGINS=["sitemap",  "readtime", "neighbors"]
-PLUGINS=["sitemap",  "readtime"]
+# PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
