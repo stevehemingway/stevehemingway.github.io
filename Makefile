@@ -94,11 +94,10 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
 
-github: publish upload github-pages
+github: publish upload 
+	ghp-import -m "Generate Pelican site" -c $(CUSTOM_DOMAIN_NAME) -f -p -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
+# -c generates a CNAME record
 	git push origin $(GITHUB_PAGES_BRANCH)
-
-github-pages: 
-	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 
 upload: repo
 	git push origin $(GITHUB_SOURCE_BRANCH)
