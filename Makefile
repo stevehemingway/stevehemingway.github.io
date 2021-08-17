@@ -64,7 +64,7 @@ clean:
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-repo: 
+repo:	clean 
 	git add $(INPUTDIR)
 	git commit -m 'new content' 
 
@@ -92,14 +92,14 @@ endif
 
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
-	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
+# 	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME ! I don't think this is needed if we use the -c flag of ghp-import
 
-github: publish upload 
+github: publish 
+# first generate the branch
 	ghp-import -m "Generate Pelican site" -c $(CUSTOM_DOMAIN_NAME) -f -p -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 # -c generates a CNAME record
-	git push origin $(GITHUB_PAGES_BRANCH)
+# -p does a push, which makes the following redundant
+#	git push origin $(GITHUB_PAGES_BRANCH)
 
-upload: repo
-	git push origin $(GITHUB_SOURCE_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github repo upload
