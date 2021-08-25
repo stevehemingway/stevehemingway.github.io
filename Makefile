@@ -94,7 +94,8 @@ publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME
 
-github: publish upload github-pages
+github: publish upload 
+	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 	git push origin $(GITHUB_PAGES_BRANCH)
 
 github-pages: 
