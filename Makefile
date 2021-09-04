@@ -99,7 +99,7 @@ github: publish
 	ghp-import -m "Generate Pelican site" -c $(CUSTOM_DOMAIN_NAME) -f -p -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 # -c generates a CNAME record
 # -p does a push, which makes the following redundant
-#	git push origin $(GITHUB_PAGES_BRANCH)
+	git push origin $(GITHUB_PAGES_BRANCH)
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github repo upload
