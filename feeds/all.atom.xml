@@ -1,5 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-09-10T21:43:11+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Weyerhauser</title><link href="https://www.stevehemingway.com/weyerhauser.html" rel="alternate"></link><published>2021-09-10T00:00:00+01:00</published><updated>2021-09-10T21:43:11+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-10:/weyerhauser.html</id><summary type="html">&lt;h1&gt;10th&amp;nbsp;Sept&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-09-13T21:24:18+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Inflation is transitory, just like the occupation of Afghanistan was transitory?</title><link href="https://www.stevehemingway.com/inflation-is-transitory-just-like-the-occupation-of-afghanistan-was-transitory.html" rel="alternate"></link><published>2021-09-13T00:00:00+01:00</published><updated>2021-09-13T21:24:18+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-13:/inflation-is-transitory-just-like-the-occupation-of-afghanistan-was-transitory.html</id><summary type="html">&lt;h1&gt;13&amp;nbsp;Sept&lt;/h1&gt;
+&lt;h2&gt;House&amp;nbsp;prices&lt;/h2&gt;
+&lt;p&gt;House prices continue to soar in the &lt;span class="caps"&gt;US&lt;/span&gt;.
+Maybe this will reverse, maybe it won&amp;#8217;t.
+The question is: what catalyst will prompt the Fed to tighten monetary policy? 
+What constituency is ever going to clamour for a move that is very likely to spook stocks …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;13&amp;nbsp;Sept&lt;/h1&gt;
+&lt;h2&gt;House&amp;nbsp;prices&lt;/h2&gt;
+&lt;p&gt;House prices continue to soar in the &lt;span class="caps"&gt;US&lt;/span&gt;.
+Maybe this will reverse, maybe it won&amp;#8217;t.
+The question is: what catalyst will prompt the Fed to tighten monetary policy? 
+What constituency is ever going to clamour for a move that is very likely to spook stocks and &amp;#8220;derail the recovery&amp;#8221;?
+More importantly, what politician is going to benefit from the government having less money to spend on pork barrel projects, because suddenly the &lt;span class="caps"&gt;US&lt;/span&gt; Treasury is having to pay a lot more to Chinese holders of &lt;span class="caps"&gt;US&lt;/span&gt;&amp;nbsp;T-Bills?&lt;/p&gt;
+&lt;div class="embed-container"&gt;&lt;iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=GKQi&amp;width=670&amp;height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Interesting&amp;nbsp;podcasts&lt;/h2&gt;
+&lt;p&gt;I enjoyed &lt;em&gt;The Market Huddle&lt;/em&gt; this week. 
+Lyn Alden was on. Her monthly newsletter is worth a read. &lt;a href="https://www.lynalden.com/august-2021-newsletter/"&gt;The August edition&lt;/a&gt; is now out.
+It&amp;#8217;s free, and she is not talking her own book (much).
+I found her discussion of what she calls the petrodollar system interesting.
+It was reminiscent of stuff by &lt;a href="https://alhambrapartners.com/author/jsnider/"&gt;Jeff Snider&lt;/a&gt;.
+It argued that the deal that was done between the &lt;span class="caps"&gt;US&lt;/span&gt; and Saudi Arabia enabled the &lt;span class="caps"&gt;USA&lt;/span&gt; to run up its current account deficit to mind boggling levels, confident that the reserve currency status of the dollar would be&amp;nbsp;undamaged.&lt;/p&gt;
+&lt;p&gt;I am not alone in believing that the next crisis will start in the currency market, probably a loss of confidence in the dollar.
+At some point, the &lt;span class="caps"&gt;US&lt;/span&gt; will have to row back from its position that the dollar is its currency, but our problem. Where &amp;#8216;our&amp;#8217; refers to the rest of the world.
+I have never totally bought the idea that the world is suffering from a severe shortage of &amp;#8220;safe assets&amp;#8221; by which the promoters of this idea mean &lt;span class="caps"&gt;US&lt;/span&gt; Treasuries.
+USTs are only a safe asset as long as the unit they are denominated in is stable with respect to other currencies.
+Eventually, European countries will start paying a positive real rate of interest on their debt, which could be awkward for&amp;nbsp;Washington.&lt;/p&gt;
+&lt;p&gt;Lyn is bullish on commodities, especially&amp;nbsp;oil.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="ec0cc620e1ad5c97a5d55697a813f688.png" src="https://www.stevehemingway.com/ec0cc620e1ad5c97a5d55697a813f688.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Is Coinbase a&amp;nbsp;bank?&lt;/h2&gt;
+&lt;p&gt;I&amp;#8217;ve used exchanges like Coinbase to buy crypto currencies.
+It never occurred to me to leave the currency with the exchange. 
+My understanding was that you are supposed to get your own wallet, ideally disconnected from the Internet where you can store your coins.
+(Really, this is a matter of storing your private keys.)
+Most people, I&amp;#8217;m guessing, don&amp;#8217;t use coinbase like this: they leave their purchased &amp;#8220;crypto&amp;#8221; with Coinbase.
+Which it can use for other purposes. Just like a bank can lend transfer funds deposited by customer A to customer B.
+This is the essence of banking, but it obviously creates a situation in which customer A may not get his money back.
+The problem is fixed by the government indemnifying customer A against loss. 
+Which is great for banks as it allows them to borrow at no cost. (Remember, deposits are loans to the bank.)
+But there is a cost: extensive regulation and restrictions on what sort of lending to customer B can take&amp;nbsp;place.&lt;/p&gt;
+&lt;p&gt;Coinbase works like this, as far as I can tell, except the government does not get involved. So customer A is exposed.
+But customer A is either oblivious to the risk (probably) or has done a careful analysis of the creditworthiness of Coinbase and has concluded that there is an acceptable risk of default (highly&amp;nbsp;unlikely).&lt;/p&gt;
+&lt;p&gt;Francine McKenna has written a long piece about this in &lt;a href="https://thedig.substack.com/p/to-be-regulated-or-not-to-be-regulated"&gt;The Dig&lt;/a&gt;.
+My take on all this is that Coinbase and co are going to end up being regulated out of existence (or forced into the arms of &lt;span class="caps"&gt;JPM&lt;/span&gt; or similar).
+We will&amp;nbsp;see.&lt;/p&gt;
+&lt;h2&gt;Rates are going lower,&amp;nbsp;surely!&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="The price of money" src="https://blog.evergree​​ngavekal.com/wp-content/uploads/2021/09/Price-of-Money.png"&gt;&lt;/p&gt;
+&lt;h2&gt;The Fed will never let markets drop&amp;nbsp;again!&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.hussmanfunds.com/comment/mc210912/"&gt;This&lt;/a&gt; is a great commentary by John P. Hussman.
+It points out the irrationality of investors now. 
+Not the irrationality of thinking that liquidity produced by the Fed will always be at the ready to extinguish wildfires of assets going down in price.
+No, the irrationality of thinking that the Fed itself has the power to support markets, when we know it has failed so many times in the past.
+Read the article for examples, but one that caught my attention was the failure of &lt;em&gt;The Maestro&lt;/em&gt; to reverse the 2000 dot com&amp;nbsp;bust.&lt;/p&gt;
+&lt;p&gt;Mid October will see the Treasury hit its debt ceiling. &lt;a href="https://www.ft.com/content/5fb0614d-ea49-48c6-a6fb-0f7a23dfa2ae"&gt;Read more&lt;/a&gt;.
+I&amp;#8217;ve seen a few commentators suggesting that this could be the catalyst to finally end the extraordinary bull run of the &lt;span class="caps"&gt;SPX&lt;/span&gt; and &lt;span class="caps"&gt;NDX&lt;/span&gt;.
+I&amp;#8217;ll believe it when I see it, but I did buy a couple of &lt;span class="caps"&gt;OTM&lt;/span&gt; puts, just in&amp;nbsp;case.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;NY&lt;/span&gt; Fed survey of consumer expectations showed that expectations of fairly steep inflation were becoming embedded.
+&lt;a href="https://www.newyorkfed.org/microeconomics/sce#/commodexp-1"&gt;The chart on this page&lt;/a&gt; shows that consumers expect more or less everything to have a rate of price increase between seven and ten percent.
+The exception, oddly, is gold, which is expected to respond only to the tune of 5%.
+Bonds barely budged. &lt;span class="caps"&gt;FX&lt;/span&gt; was pretty quiet too. Commodities were not strongly affected, although natural gas went up by 5% (in a day!). The hydrocarbon complex was dragged higher. I suspect that gasoline will be the next to pick up the trend.
+I guess the marginal buyer is still the Fed. 
+But at some point, it will not&amp;nbsp;be. &lt;/p&gt;
+&lt;p&gt;Stocks were not strongly affected, either way. Mild inflation is pretty good for stocks, as long as labour costs are kept under&amp;nbsp;control.&lt;/p&gt;
+&lt;h2&gt;Image of the&amp;nbsp;day&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="8f11fdf9741fe6777120695edf8629f0.png" src="https://www.stevehemingway.com/8f11fdf9741fe6777120695edf8629f0.png"&gt;&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Weyerhauser</title><link href="https://www.stevehemingway.com/weyerhauser.html" rel="alternate"></link><published>2021-09-10T00:00:00+01:00</published><updated>2021-09-11T09:21:59+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-10:/weyerhauser.html</id><summary type="html">&lt;h1&gt;10th&amp;nbsp;Sept&lt;/h1&gt;
 &lt;h2&gt;Matt Stoller on&amp;nbsp;monopoly&lt;/h2&gt;
 &lt;p&gt;Everyone has noticed that the stockmarket in the &lt;span class="caps"&gt;USA&lt;/span&gt; has had an incredible run over the last year or two.
 The finger of blame (or praise, possibly) is pointed at the Fed.
@@ -57,11 +122,11 @@ Well, yields on long dated bonds are heading straight to zero (nominal) and seri
 Stocks have been the beneficiaries. I guess they will continue to be, but maybe there will be a rotation out of the &lt;span class="caps"&gt;FAANG&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;As Elmer points out, at some point, the old order will change, and Millenials will start to run the economy. 
 Something tells me that they will not have the same objectives as Jo and&amp;nbsp;Jerome.&lt;/p&gt;
-&lt;p&gt;As the Sensational Alex Manzara Band had&amp;nbsp;it:&lt;/p&gt;
+&lt;p&gt;As &lt;a href="https://www.chartpoint.com/"&gt;the Sensational Alex Manzara Band&lt;/a&gt; had&amp;nbsp;it,&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Small dip in stocks yesterday as Kaplan and Rosengren exited longs and shifted into &lt;span class="caps"&gt;FI&lt;/span&gt;. Who says that regional Fed Presidents can’t influence&amp;nbsp;markets?&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The thread he mentions](https://twitter.com/Monetary_Metals/status/1435630252500393985) is worth reading too. The allusion to &amp;#8220;the euthanasia of the rentier&amp;#8221; is wonderful.
+&lt;p&gt;&lt;a href="https://twitter.com/Monetary_Metals/status/1435630252500393985"&gt;The thread he mentions&lt;/a&gt; is worth reading too. The allusion to &amp;#8220;the euthanasia of the rentier&amp;#8221; is wonderful.
 It explains that by flooding the economy with liquidity, savers are forced into pure speculation. 
 Certainly, I increasingly see all asset markets as driven largely by &amp;#8216;hot money&amp;#8217; flows, rather than by any fundamentals. 
 The &lt;span class="caps"&gt;NFT&lt;/span&gt; Cyberpunks phenomenon, and generally the crypto mania are examples, as are the rise of meme stocks and SPACs. 
