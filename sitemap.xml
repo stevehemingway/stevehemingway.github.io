@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-09-15T10:24:02-00:00</lastmod>
+<lastmod>2021-09-15T18:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-09-15T10:24:02-00:00</lastmod>
+<lastmod>2021-09-15T18:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-09-15T10:24:02-00:00</lastmod>
+<lastmod>2021-09-15T18:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-09-15T10:24:02-00:00</lastmod>
+<lastmod>2021-09-15T18:39:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -42,6 +42,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/about.html</loc>
 <lastmod>2021-02-16T17:14:12+00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/substack-or-sub-par.html</loc>
+<lastmod>2021-09-15T17:59:18+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -111,6 +118,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/demographics-and-inequality.html</loc>
 <lastmod>2021-09-02T10:57:45+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/uranium-sputters-but-in-a-good-way.html</loc>
+<lastmod>2021-09-15T18:19:30+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1434,6 +1448,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/big-ed-is-too-greedy.html</loc>
 <lastmod>2021-02-16T18:06:21+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/trust.html</loc>
+<lastmod>2021-09-15T18:38:44+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3624,14 +3645,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-09-14T20:52:12-00:01</lastmod>
+<lastmod>2021-09-15T18:19:30-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2021-02-23T15:38:48-00:01</lastmod>
+<lastmod>2021-09-15T18:38:44-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4044,7 +4065,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-09-14T20:52:12-00:01</lastmod>
+<lastmod>2021-09-15T18:38:44-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
