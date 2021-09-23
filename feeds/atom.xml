@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-09-22T21:28:48+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Does macro matter any more?</title><link href="https://www.stevehemingway.com/does-macro-matter-any-more.html" rel="alternate"></link><published>2021-09-22T00:00:00+01:00</published><updated>2021-09-22T21:28:48+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-22:/does-macro-matter-any-more.html</id><summary type="html">&lt;h1&gt;22&amp;nbsp;Sept&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-09-23T16:41:44+01:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Money, money everywhere, but nowhere a cent to loan</title><link href="https://www.stevehemingway.com/money-money-everywhere-but-nowhere-a-cent-to-loan.html" rel="alternate"></link><published>2021-09-23T00:00:00+01:00</published><updated>2021-09-23T16:41:44+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-23:/money-money-everywhere-but-nowhere-a-cent-to-loan.html</id><summary type="html">&lt;h1&gt;23&amp;nbsp;Sept&lt;/h1&gt;
+&lt;h2&gt;Collapse in &lt;span class="caps"&gt;US&lt;/span&gt;&amp;nbsp;lending&lt;/h2&gt;
+&lt;p&gt;Various reflation skeptics, such as Lacy Hunt, Harley Bassman, Jeff Snider have been saying that inflation is going to crater. 
+As I blogged a while ago, the increasing inequality in the &lt;span class="caps"&gt;US&lt;/span&gt; and elsewhere has caused the propensity to spend to plummet. 
+In my …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;23&amp;nbsp;Sept&lt;/h1&gt;
+&lt;h2&gt;Collapse in &lt;span class="caps"&gt;US&lt;/span&gt;&amp;nbsp;lending&lt;/h2&gt;
+&lt;p&gt;Various reflation skeptics, such as Lacy Hunt, Harley Bassman, Jeff Snider have been saying that inflation is going to crater. 
+As I blogged a while ago, the increasing inequality in the &lt;span class="caps"&gt;US&lt;/span&gt; and elsewhere has caused the propensity to spend to plummet. 
+In my day job, I&amp;#8217;ve been trying to borrow, and even for a (private) company with a  balance sheet which is as solid as a rock, the longer-term rate I was quoted was a spread of ~5% above &lt;span class="caps"&gt;LIBOR&lt;/span&gt;. 
+To me, this tells me that nobody wants to lend to such a company. Presumably, they&amp;#8217;d prefer to buy gilts at&amp;nbsp;85bp. &lt;/p&gt;
+&lt;p&gt;Anyway, I thought I&amp;#8217;d check out exactly bad things are. Well, &lt;span class="caps"&gt;FRED&lt;/span&gt; told me, and I think it&amp;#8217;s pretty&amp;nbsp;bad.&lt;/p&gt;
+&lt;p&gt;You can take a closer look &lt;a href="https://fred.stlouisfed.org/graph/?g=H0Cz"&gt;here&lt;/a&gt; but the chart below clearly shows that although this trend has been going on since Greenspan&amp;#8217;s day, it&amp;#8217;s got worse and worse.
+Of course, the banks are being stuffed with deposits, because of &lt;span class="caps"&gt;QE&lt;/span&gt;, but this shows how little of the money created ever gets put to productive use. If nobody is spending, it seems likely that price pressure will remain&amp;nbsp;muted.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://fred.stlouisfed.org/graph/fredgraph.png?g=H0Cz"&gt;&lt;/p&gt;
+&lt;p&gt;I always struggle to get these sorts of charts from the BoE website, but I&amp;#8217;d be surprised if it&amp;#8217;s very different. 
+Countries have to keep their monetary policies in line, if they have a hope of avoiding letting their currencies rise against the dollar. 
+Maybe Evergrande is an example of what this leads&amp;nbsp;to.&lt;/p&gt;
+&lt;h2&gt;Techie&amp;nbsp;note&lt;/h2&gt;
+&lt;p&gt;I&amp;#8217;ve taken to using Windows Powershell recently.
+It&amp;#8217;s a learning curve for me, but it seems to work &lt;span class="caps"&gt;OK&lt;/span&gt;.
+What&amp;#8217;s really annoying, though, is that it doesn&amp;#8217;t use &lt;span class="caps"&gt;UTF8&lt;/span&gt; encoding by default.
+This, specifically, means that if I capture stdout to a file, it&amp;#8217;s not &lt;span class="caps"&gt;UTF8&lt;/span&gt; and it will spook a program that expects such an encoding as&amp;nbsp;input.&lt;/p&gt;
+&lt;p&gt;This can be fixed in something like Notepad++ or by using out-file with an -Encoding parameter, but it&amp;#8217;s niggling. Anyway, the fix is to install Powershell 6 or 7 on windows. This is very easy, and fixes the problems at a stroke, because its default text encoding is &lt;span class="caps"&gt;UTF8&lt;/span&gt;. &lt;/p&gt;
+&lt;p&gt;If you are an American, you probably don&amp;#8217;t care, but if you are a European and you want to use symbols like £ and € you&amp;nbsp;might.&lt;/p&gt;
+&lt;p&gt;I hit this problem specifically when using &lt;a href="https://hledger.org/"&gt;hledger&lt;/a&gt; but I now realize that it had tripped me up before when using command line programs.  Hledger is a fab system, if you like doing things in text on the command&amp;nbsp;line.&lt;/p&gt;
+&lt;p&gt;I used &lt;a href="https://www.thomasmaurer.ch/2019/03/how-to-install-and-update-powershell-6/"&gt;this page&lt;/a&gt; to find out how to upgrade my powershell, but there are many with similar instructions. If you are feeling brave, you can just paste this into &lt;span class="caps"&gt;PS5&lt;/span&gt; and click &amp;#8220;&lt;span class="caps"&gt;OK&lt;/span&gt;&amp;#8221; a couple of&amp;nbsp;times:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;iex &amp;quot;&amp;amp; { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI&amp;quot;  
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;It seems perverse that &lt;span class="caps"&gt;MS&lt;/span&gt; are so slow in making this the default that ships with Windows&amp;nbsp;10.&lt;/p&gt;
+&lt;h2&gt;Image: Hayley&amp;nbsp;Eichenbaum&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="9db88e03696356d532b9506d43052bdf.png" src="https://www.stevehemingway.com/9db88e03696356d532b9506d43052bdf.png"&gt;&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Does macro matter any more?</title><link href="https://www.stevehemingway.com/does-macro-matter-any-more.html" rel="alternate"></link><published>2021-09-22T00:00:00+01:00</published><updated>2021-09-22T21:28:48+01:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-09-22:/does-macro-matter-any-more.html</id><summary type="html">&lt;h1&gt;22&amp;nbsp;Sept&lt;/h1&gt;
 &lt;h2&gt;Macro matters, or does&amp;nbsp;it?&lt;/h2&gt;
 &lt;p&gt;When I was a kid, Dominick Harrod would have a slot on the six o&amp;#8217;clock &lt;span class="caps"&gt;BBC&lt;/span&gt; news explaining the latest twists of the economy. He dutifully reported the latest trade figures, always pointing out how important &amp;#8220;invisibles&amp;#8221; were to offsetting some of …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;22&amp;nbsp;Sept&lt;/h1&gt;
 &lt;h2&gt;Macro matters, or does&amp;nbsp;it?&lt;/h2&gt;
