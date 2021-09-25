@@ -1,16 +1,11 @@
 # Sign up to my newsletter
 
-Please sign up using the form below, names are optional, but nice to know.
-You know the procedure: you'll be asked to confirm, then you can opt out at any time. 
-It's free, so there is nothing to lose!
+I signed up with Substack. I generally cut and paste my blog here into it.
+It's not the most automated workflow, but it's OK so far
+For some reason I chose [sceptical](https://sceptical.substack.com) as my subdomain, for reasons that somewhat escape me now.
 
-<script async data-uid="f39ac1a146" src="https://adept-originator-3889.ck.page/f39ac1a146/index.js"></script>
+I did try using convertkit, which is nice, but substack offers a combined blog and newsletter, perfectly integrated.
+For the time being, I'm sticking with Pelican but eventually I might go fully to substack. The thing that is stopping me is that I hate the idea of being locked in to a platform. 
+
 
 You can always email me direct, at steve@acksam.com.
-
-
-
-
-
-
-

@@ -53,7 +53,7 @@ SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
 #SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 SLUGIFY_SOURCE = 'title'
-CACHE_CONTENT = False
+CACHE_CONTENT = True
 OUTPUT_PATH = 'output/'
 YEAR_ARCHIVE_URL = ''
 # PAGINATION_PATTERNS = '{you have to put some regexp here}' # see https://docs.getpelican.com/en/stable/settings.html
@@ -123,6 +123,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
+RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS feed
 
 # typographical improvements!
 # you need to install typogrify as a python library (via pip) if you use this.
