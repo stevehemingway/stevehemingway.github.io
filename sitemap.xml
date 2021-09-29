@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2021-09-29T16:11:10-00:00</lastmod>
+<lastmod>2021-09-29T21:34:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/categories.html</loc>
-<lastmod>2021-09-29T16:11:10-00:00</lastmod>
+<lastmod>2021-09-29T21:34:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/authors.html</loc>
-<lastmod>2021-09-29T16:11:10-00:00</lastmod>
+<lastmod>2021-09-29T21:34:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/archives.html</loc>
-<lastmod>2021-09-29T16:11:10-00:00</lastmod>
+<lastmod>2021-09-29T21:34:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,15 +46,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/priced-for-perfection-poised.html</loc>
-<lastmod>2021-09-29T16:10:56+01:00</lastmod>
+<loc>https://www.stevehemingway.com/priced-for-perfection-poised-for-panic.html</loc>
+<lastmod>2021-09-29T21:24:13+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/tbc.html</loc>
-<lastmod>2021-09-28T21:49:23+01:00</lastmod>
+<loc>https://www.stevehemingway.com/what-kaplan-did-next.html</loc>
+<lastmod>2021-09-29T16:12:57+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3708,7 +3708,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2021-09-29T16:10:56-00:01</lastmod>
+<lastmod>2021-09-29T21:24:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4128,7 +4128,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2021-09-29T16:10:56-00:01</lastmod>
+<lastmod>2021-09-29T21:24:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
