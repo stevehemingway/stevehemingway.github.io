@@ -100,6 +100,7 @@ github: publish
 # -c generates a CNAME record
 # -p does a push, which makes the following redundant
 	git push origin $(GITHUB_PAGES_BRANCH)
+	echo "You probably want to git add the content changes too. You've updated only the master branch so far."
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish github repo upload
