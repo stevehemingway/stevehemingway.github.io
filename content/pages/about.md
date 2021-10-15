@@ -8,7 +8,7 @@ status: published
 
 I am Steve Hemingway. Thanks for taking the time to find me.
 
-I decided to make a few notes to myself, to keep track of what is going on in the markets mainly, but about anything else that comes into my head.
+I decided to make a few notes to myself, to keep track of what is going on in the markets mainly, but also about anything else that comes into my head.
 
 
 
