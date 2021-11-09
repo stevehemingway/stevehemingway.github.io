@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-11-08T20:26:18+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Mao — a genius or a psychopath?</title><link href="https://www.stevehemingway.com/mao-a-genius-or-a-psychopath.html" rel="alternate"></link><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T20:26:18+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-11-08:/mao-a-genius-or-a-psychopath.html</id><summary type="html">&lt;h2&gt;&lt;span class="caps"&gt;UK&lt;/span&gt;&amp;nbsp;Politics&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2021-11-09T22:02:28+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Batting averages</title><link href="https://www.stevehemingway.com/batting-averages.html" rel="alternate"></link><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T22:02:28+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-11-09:/batting-averages.html</id><summary type="html">&lt;h2&gt;Pareto&amp;nbsp;again&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://macroops.substack.com/p/paretos-law-9010?r=nmbt&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;utm_source="&gt;This post on substack is about Pareto&amp;#8217;s Law&lt;/a&gt;.
+This has nothing to do with Pareto Efficiency, the idea that equilibrium should be when any reallocation of productive resources will make at least one actor worse off.
+Pareto&amp;#8217;s Law is about the fact that income and wealth …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Pareto&amp;nbsp;again&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://macroops.substack.com/p/paretos-law-9010?r=nmbt&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;utm_source="&gt;This post on substack is about Pareto&amp;#8217;s Law&lt;/a&gt;.
+This has nothing to do with Pareto Efficiency, the idea that equilibrium should be when any reallocation of productive resources will make at least one actor worse off.
+Pareto&amp;#8217;s Law is about the fact that income and wealth distributions tend to follow a power law, and that specifically, 80% of assets are owned by 20% of people.
+It&amp;#8217;s also about the fact that 90% of returns (for example) come from 10% of investments.
+The problem, as the post makes clear, is that you don&amp;#8217;t know &lt;em&gt;a priori&lt;/em&gt; which bucket trades will fall&amp;nbsp;into.&lt;/p&gt;
+&lt;p&gt;Setting rules, ideally automatic ones, to close losing positions will help.
+But I don&amp;#8217;t really think this is a complete solution. 
+You can be right, but early. Cynics say that this combination is just the same as &amp;#8220;wrong&amp;#8221; but I&amp;#8217;m not so sure.
+In the long run we are dead, but the market can wake up to new insights in a timescale over which most of us would hope to&amp;nbsp;survive.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Oil finally bounced. It was up $2.42 a barrel, nearly 3%, but this takes it only to $84.35, below where it was a fortnight ago.
+Gold was up too, but only 31 bps. 
+Other commodities were flat.
+The equity markets were dragged down by $&lt;span class="caps"&gt;TSLA&lt;/span&gt;, down 16% over the last two sessions.
+This is dramatic, but not systematic, but it did drag some linked stocks with it, notably $&lt;span class="caps"&gt;ARKK&lt;/span&gt;, which was down 2.35%.
+Bonds were up, presumably in reaction to weakening of equities. &lt;span class="caps"&gt;PPI&lt;/span&gt; was up 0.6% in Oct., an annualized rate of 7.2%, but this didn&amp;#8217;t seem to phase the masters of the universe.
+Nor did tapering of bond purchases.
+I always think of the discount curve in terms of a real return plus a compensation for inflation.
+It is also a predictor of future interest rates.
+It is conceivable that we&amp;#8217;re set for ten years of zero or negative (short) interest rate policies, which will fix ten year yields. 
+The demand side will be fixed by &lt;span class="caps"&gt;QE&lt;/span&gt;. 
+This has happened in Japan. It is easy to see why it is preferable to the alternative, which is government&amp;nbsp;default.&lt;/p&gt;
+&lt;h2&gt;Image&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="24e98acfb0612669964b7f109f84f5c3.png" src="https://www.stevehemingway.com/24e98acfb0612669964b7f109f84f5c3.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Forecasting&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="2a38abc76aca29f687c5b7c065e6db9c.png" src="https://www.stevehemingway.com/2a38abc76aca29f687c5b7c065e6db9c.png"&gt;&lt;/p&gt;
+&lt;p&gt;Conventional economics is very bad at forecasting, even a short distance into the future.
+The &lt;span class="caps"&gt;UK&lt;/span&gt; Budget/Autumn Spending Statement is written on the assumption of infallibility of the &lt;span class="caps"&gt;OBR&lt;/span&gt;.
+Well, a lot of faith is put in &lt;span class="caps"&gt;OBR&lt;/span&gt; forecasts for predicting the future path of the public sector borrowing requirement.
+But productivity, the most important metric of all, is beyond the capabilities of the &lt;span class="caps"&gt;OBR&lt;/span&gt; to predict.
+The naive assumption that the &lt;span class="caps"&gt;UK&lt;/span&gt; simply cannot deliver any productivity gains, ever, would be much more accurate than the complex models run by the &lt;span class="caps"&gt;OBR&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;I have great sympathy with the modellers. 
+Complex systems are very hard to model.
+They tend to be non-linear, and very unstable with respect to initial conditions, especially when so many policies are discretionary and based on whim.
+We cannot measure the output gap, or global mean temperature, with any confidence. 
+But we can measure unemployment, and &lt;span class="caps"&gt;CO2&lt;/span&gt; levels in the atmosphere.
+We should formulate automatic negative feedback mechanisms, which would at least reduce the chances of the economy, or the atmosphere, going off on some sort of runaway and unstable path, rather than leaving decisions to politicians and central bankers. Oh well, I can only&amp;nbsp;dream..&lt;/p&gt;
+&lt;p&gt;I don&amp;#8217;t claim to be an expert on &lt;span class="caps"&gt;MMT&lt;/span&gt;, but the Warren Mosler sect seems to believe in running the economy hot enough to drive involuntary unemployment to effectively zero.
+I think this involves actually providing work, with a decent wage, to anyone who cannot find a job in the private sector.
+This would remove the need for minimum wage laws, because it would set a floor under pay, just as central banks set a floor under short term interest rates by paying interest on excess&amp;nbsp;reserves.&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m nervous about these ideas, because if we allow institutional destruction of price discovery in markets for capital and labour we&amp;#8217;ve come close to stabbing a dagger into the heart of the free market, with its magical powers of allocation. But nobody seems bothered by &lt;span class="caps"&gt;CB&lt;/span&gt;&amp;#8217;s destroying price discovery for debt. Maybe we should do the same for&amp;nbsp;labour.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Mao — a genius or a psychopath?</title><link href="https://www.stevehemingway.com/mao-a-genius-or-a-psychopath.html" rel="alternate"></link><published>2021-11-08T00:00:00+00:00</published><updated>2021-11-08T20:26:18+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2021-11-08:/mao-a-genius-or-a-psychopath.html</id><summary type="html">&lt;h2&gt;&lt;span class="caps"&gt;UK&lt;/span&gt;&amp;nbsp;Politics&lt;/h2&gt;
 &lt;p&gt;The Owen Patterson fiasco is unbelievable. The Conservatives have had an internal coup in which a small band of Brexit fanatics have taken control of the party. In any party that cared about electoral success, Paterson would have been thrown to the wolves, but he is a true …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;&lt;span class="caps"&gt;UK&lt;/span&gt;&amp;nbsp;Politics&lt;/h2&gt;
 &lt;p&gt;The Owen Patterson fiasco is unbelievable. The Conservatives have had an internal coup in which a small band of Brexit fanatics have taken control of the party. In any party that cared about electoral success, Paterson would have been thrown to the wolves, but he is a true believer and so must be saved. I would be amazed if the party did not implode at the next&amp;nbsp;election. &lt;/p&gt;
 &lt;p&gt;Boris seems to be utterly under the control of Carrie, whom the rest of the party despises. His green policies will backfire, as people start to understand how much worse off they will be as a consequence. They call her Carrie Antoinette.&amp;#8221; It will not age&amp;nbsp;well.&lt;/p&gt;
