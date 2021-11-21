@@ -52,4 +52,4 @@ But I am convinced that Larry Fink has much more influence on how the average ca
 
 ## References
 
-http://theoctopusofglobalcontrol.com/buy-the-books/
+[The Octopus of Global Control](http://theoctopusofglobalcontrol.com/buy-the-books/)
