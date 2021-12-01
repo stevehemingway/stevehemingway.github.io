@@ -1,7 +1,5 @@
----
 title: TME take on ARK
 date: 31 March 2021
----
 
 I stole this from TME, which is now paywalled. It's well worth reading. 
 

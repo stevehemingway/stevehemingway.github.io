@@ -1,8 +1,6 @@
----
 title: About
 date: 8 may 2020
 status: published
----
 
 # About this blog
 

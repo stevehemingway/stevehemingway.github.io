@@ -1,8 +1,6 @@
----
 title: Harley Bassman Wants to Prove History Wrong With a New CDS Fund  
 date: 2021-03-11 13:55:44.352 GMT  
 
----
 
   
   

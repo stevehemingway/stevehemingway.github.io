@@ -135,12 +135,13 @@ TYPOGRIFY_DASHES = 'default'
 
 # sitemap plugin. Needs to work on different OSes
 
-if (platform.system() == 'Linux'):
-	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
-else:
-	PLUGIN_PATHS = ["plugins/",]
+# if (platform.system() == 'Linux'):
+	# PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
+# else:
+	# PLUGIN_PATHS = ["plugins/",]
 	
-PLUGINS=["sitemap",  "readtime", "neighbors"]
+PLUGINS=None
+# ["sitemap",  "readtime", "neighbors", "frontmark"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
