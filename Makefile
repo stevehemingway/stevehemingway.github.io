@@ -1,4 +1,5 @@
 PY?=python3
+#PELICAN?=./pelican/Scripts/pelican.exe
 PELICAN?=pelican
 PELICANOPTS=
 PORT=8001
