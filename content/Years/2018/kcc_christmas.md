@@ -8,5 +8,7 @@ tags: NHDC, politics
 
 Everyone enjoyed himself at the wonderful concert laid on by Knebworth Community Chorus this Saturday. The Village Hall was full to bursting, and many mince pies were consumed. A fair volume of mulled wine was drunk too.
 The children of St Michael's,  Woolmer Green School put on a wonderful performance of singing and playing their instruments: violins and flutes.
+
 Merry Christmas!
+
 Steve.  
