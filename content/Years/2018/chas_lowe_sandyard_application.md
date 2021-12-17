@@ -1,5 +1,5 @@
 title: Aggregates Yard Planning Application
-category: knebworth
+category: Knebworth
 date: 2018-03-16
 modified: 2020-05-09
 tags: NHDC, politics

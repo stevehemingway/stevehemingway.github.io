@@ -1,5 +1,5 @@
 date: 2016-07-01
-category: knebworth
+category: Knebworth
 title: JULY UPDATE
 tags: NHDC, politics
 

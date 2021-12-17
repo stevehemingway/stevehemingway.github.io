@@ -1,5 +1,5 @@
 title: Hurray, we finally have a working pub in Knebworth - and what a pub!
-category: knebworth
+category: Knebworth
 summary: "The Lytton Arms Re-opens triumphantly"
 date: 2018-05-20
 modified: 2020-05-09

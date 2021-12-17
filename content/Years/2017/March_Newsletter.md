@@ -1,5 +1,5 @@
 date: 2017-02-21T22:57:46Z
-category: knebworth
+category: Knebworth
 title: March NewsletterDescription: "Parish News Copy for March"
 tags: NHDC, politics
 modified: 2020-05-09

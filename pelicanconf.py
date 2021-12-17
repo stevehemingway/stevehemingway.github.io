@@ -84,12 +84,12 @@ AUTHOR_FEED_RSS = None
 # reduce link leakage
 LINKS = (
     ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
-    ('Epsilon Theory', 'https://www.epsilontheory.com'),
-    ('Commodity.com LLC', 'https://commodity.com/'),
     )
 # LINKS = ()
 
 Old_LINKS = (
+    ('Epsilon Theory', 'https://www.epsilontheory.com'),
+    ('Commodity.com LLC', 'https://commodity.com/'),
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
     ('The Felder Report', 'https://thefelderreport.com/'),
     ('Wall Street on Parade', 'https://wallstreetonparade.com'),

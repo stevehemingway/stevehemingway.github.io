@@ -1,5 +1,5 @@
 date: 2017-03-09T15:36:40Z
-category: knebworth
+category: Knebworth
 title: Redevelopment of Chas Lowe Site
 Summary: "Redevelopment of Chas Lowe Site"
 tags: NHDC, politics

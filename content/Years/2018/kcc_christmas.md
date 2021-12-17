@@ -1,5 +1,5 @@
 title: KCC Christmas Concert
-category: knebworth
+category: Knebworth
 date: 2018-12-09T15:33:55Z
 Summary: "My Latest Post"
 modified: 2020-05-09

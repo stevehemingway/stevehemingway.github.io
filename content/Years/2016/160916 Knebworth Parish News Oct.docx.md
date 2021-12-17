@@ -1,5 +1,5 @@
 date: 2016-10-01
-category: knebworth
+category: Knebworth
 title: OCTOBER UPDATE
 tags: NHDC, politics
 

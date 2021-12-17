@@ -1,5 +1,5 @@
 title: Update on the Station Pub
-category: knebworth
+category: Knebworth
 date: 2018-09-10
 modified: 2020-05-09
 tags: NHDC, politics

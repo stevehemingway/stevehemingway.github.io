@@ -1,5 +1,5 @@
 date: 2014-11-01T15:36:40Z
-category: knebworth
+category: Knebworth
 title: November Article
 Summary: "Surgery, Solar Farm, Cricket Club, Bulwer Lytton"
 tags: NHDC, politics

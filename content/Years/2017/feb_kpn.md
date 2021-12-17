@@ -1,5 +1,5 @@
 Summary: "February Newsletter"
-category: knebworth
+category: Knebworth
 title: More About the Station Pub
 date: 2017-02-01T11:43:51Z 
 modified: 2020-05-09

@@ -1,5 +1,5 @@
 title: "A voice from the past"
-category: knebworth
+category: Knebworth
 date: 2018-09-06
 modified: 2020-05-09
 tags: NHDC, politics

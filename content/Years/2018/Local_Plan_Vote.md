@@ -1,5 +1,5 @@
 title: "No, I did not vote to develop sites around Knebworth"
-category: knebworth
+category: Knebworth
 date: 2018-04-30
 modified: 2020-05-09
 tags: NHDC, politics

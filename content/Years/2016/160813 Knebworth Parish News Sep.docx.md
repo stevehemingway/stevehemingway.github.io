@@ -1,5 +1,5 @@
 date: 2016-09-01
-category: knebworth
+category: Knebworth
 title: SEPTEMBER UPDATE
 tags: NHDC, politics
 

@@ -1,5 +1,5 @@
 Summary: "Year of Physical Activity"
-category: knebworth
+category: Knebworth
 title: Herfordshire Year of Physical Activity
 date: 2017-11-16T15:26:52Z
 modified: 2020-05-09

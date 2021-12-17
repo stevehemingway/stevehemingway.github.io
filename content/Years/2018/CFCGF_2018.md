@@ -1,5 +1,5 @@
 title: Community Facilities Capital Grant Fund
-category: knebworth
+category: Knebworth
 date: 2018-04-15
 modified: 2020-05-09
 tags: NHDC, politics

@@ -1,5 +1,5 @@
 title: District Council Elections
-category: knebworth
+category: Knebworth
 date: 2018-05-09
 modified: 2020-05-09
 tags: NHDC, politics

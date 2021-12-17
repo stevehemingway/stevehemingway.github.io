@@ -1,5 +1,5 @@
 date: 2014-10-01T15:36:40Ztitle: October ArticleSummary: "Surgery, Solar Farm, Cricket Club, Grants, Norton Green"
-category: knebworth
+category: Knebworth
 tags: NHDC, politics
 
 

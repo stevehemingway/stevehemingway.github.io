@@ -1,5 +1,5 @@
 Summary: "August Newsletter - Knebworth Parish News"
-category: knebworth
+category: Knebworth
 title: August Newsletter - Knebworth Parish News
 date: 2017-07-17
 modified: 2020-05-09
