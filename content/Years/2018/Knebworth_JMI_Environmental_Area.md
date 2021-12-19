@@ -1,5 +1,5 @@
 title: Knebworth JMI Environmental Area
-category: knebworth
+category: Knebworth
 date: 2018-03-31T17:42:37Z
 modified: 2020-05-09
 tags: NHDC, politics

@@ -1,5 +1,5 @@
 title:  Consultation: unauthorized developments and encampments
-category: knebworth
+category: Knebworth
 date: 2018-03-01
 modified: 2020-05-09
 tags: NHDC, politics

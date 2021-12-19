@@ -1,5 +1,5 @@
 title: Main Modifications of Local Plan
-category: knebworth
+category: Knebworth
 Summary: "Main Modifications NHDC Local Plan"
 date: 2018-12-04T21:19:18Z
 modified: 2020-05-09

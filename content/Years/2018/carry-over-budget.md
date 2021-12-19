@@ -1,5 +1,5 @@
 Summary: "New Southern Rural grant funding available for 2018/19"
-category: knebworth
+category: Knebworth
 title: New Southern Rural grant funding available for 2018/19
 date: 2018-04-15
 modified: 2020-05-09

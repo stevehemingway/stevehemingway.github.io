@@ -1,5 +1,5 @@
 Summary: "July Newsletter"
-category: knebworth
+category: Knebworth
 title: July Newsletter, published first in Knebworth Parish News
 date: 2017-07-04T20:49:10
 modified: 2020-05-09

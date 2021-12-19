@@ -1,5 +1,5 @@
 title: More NHDC grants awarded
-category: knebworth
+category: Knebworth
 date: 2018-12-09T13:08:14Z
 modified: 2020-05-09
 tags: NHDC, politics

@@ -1,7 +1,5 @@
----
 title: Conspiracy Theories
 date: 21 Nov 2021
----
 
 # Why people believe conspiracy theories
 

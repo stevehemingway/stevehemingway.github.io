@@ -1,5 +1,5 @@
 title: Self-build and Custom Build Register
-category: knebworth
+category: Knebworth
 date: 2018-03-27
 Summary: "Self-build and Custom Build Register"
 modified: 2020-05-09

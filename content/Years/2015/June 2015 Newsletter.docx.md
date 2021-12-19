@@ -1,5 +1,5 @@
 title: June 2015date: 2015-06-01T15:26:52Z
-category: knebworth
+category: Knebworth
 Summary: "June Newsletter 2015"modified: 2020-05-09
 tags: NHDC, politics
 

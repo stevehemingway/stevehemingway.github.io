@@ -1,5 +1,5 @@
 date: 2016-02-01
-category: knebworth
+category: Knebworth
 title: FEBRUARY UPDATE
 tags: NHDC, politics
 

@@ -1,5 +1,5 @@
 date: 2014-12-01T15:36:40Ztitle: December ArticleSummary: "Waste Collection, Local Plan"
-category: knebworth
+category: Knebworth
 tags: NHDC, politics
 
 

@@ -1,5 +1,5 @@
 date: 2014-08-01T15:36:40Ztitle: August NewsletterSummary:"Local Plan, Fun Day, Parking, Village Trust, Norton Green"
-category: knebworth
+category: Knebworth
 tags: NHDC, politics
 
 

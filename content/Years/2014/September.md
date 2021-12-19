@@ -1,5 +1,5 @@
 title: Knebworth Parish News, Sept 2014
-category: knebworth
+category: Knebworth
 date: 2014-09-01
 modified: 2020-05-09
 tags: NHDC, politics
