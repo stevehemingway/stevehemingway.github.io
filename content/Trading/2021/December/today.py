@@ -15,6 +15,6 @@ else:
             f.write( "\n")
             f.write( "# " + datetime.today().strftime("%A %e, %B %Y\n") )
 
-    print("done")
+    print("created file '{}'".format(fname))
     print("Note: status set to 'published'")
 
