@@ -6,7 +6,7 @@ today_string = datetime.today().strftime('%Y-%m-%d')
 
 fname = today_string+".md"
 if path.exists(fname):
-    print("File {} already exists".format(fname))
+    print("File '{}' already exists".format(fname))
 else:                
     with open(fname, "wt") as f: 
             f.write("status: published\n")
