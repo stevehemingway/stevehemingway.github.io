@@ -1,4 +1,4 @@
-PY?=python3
+PY?=py
 #PELICAN?=./pelican/Scripts/pelican.exe
 PELICAN?=pelican
 PELICANOPTS=
