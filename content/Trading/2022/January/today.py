@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import os.path
 from os import path
 from datetime import datetime
@@ -17,4 +19,6 @@ else:
 
     print("created file '{}'".format(fname))
     print("Note: status set to 'published'")
+
+input()
 
