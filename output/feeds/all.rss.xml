@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Postcards from the Internet</title><link>https://www.stevehemingway.com/</link><description>Life, the universe, and the markets</description><lastBuildDate>Fri, 14 Jan 2022 13:01:36 +0000</lastBuildDate><item><title>Will a recession in China crash the world economy?</title><link>https://www.stevehemingway.com/will-a-recession-in-china-crash-the-world-economy.html</link><description>&lt;h1&gt;Friday 14, January&amp;nbsp;2022&lt;/h1&gt;
+<rss version="2.0"><channel><title>Postcards from the Internet</title><link>https://www.stevehemingway.com/</link><description>Life, the universe, and the markets</description><lastBuildDate>Fri, 14 Jan 2022 13:57:35 +0000</lastBuildDate><item><title>Will a recession in China crash the world economy?</title><link>https://www.stevehemingway.com/will-a-recession-in-china-crash-the-world-economy.html</link><description>&lt;h1&gt;Friday 14, January&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Mid-month&amp;nbsp;review&lt;/h2&gt;
 &lt;p&gt;This month is half way through already.
 Some trends are becoming clear. 
@@ -14,7 +14,14 @@ Gas in Europe is expensive to encourage the &lt;span class="caps"&gt;EU&lt;/span
 &lt;p&gt;Governments have spent a lot of money, and have paid for it by issuing a lot of debt, and creating a lot of money.
 Combined with cost pressures, this is feeding into inflation, and weaking bond prices, particularly in the five to ten year range.
 The &lt;span class="caps"&gt;UST&lt;/span&gt; 10Y yield is now nearly 1.8%. This is 40 odd bps above where it was six months ago.
-In today&amp;#8217;s debt-ridden world, ten basis points translates to a lot of&amp;nbsp;cashflow.&lt;/p&gt;
+In today&amp;#8217;s debt-ridden world, ten basis points translates to a lot of cashflow.
+The most important weapon in the armory of central banks is the widespread belief that they control the world economy,
+and have a crystal ball which tells them what will happen next.
+Of course, these are utterly false beliefs, but it suits the financial establishment to go along with them,
+because they are fairly transparent, and if people believe that the Fed controls the market,
+it&amp;#8217;s easy to make money by front running it. 
+Recently, though, many serious commentators: Mohammed El-Erian, Larry Summers, Frederick Mishkin, have all publicly stated that they believe that the Fed has lost the plot.
+Once the public see behind the Wizard of Oz&amp;#8217;s curtain, his power&amp;nbsp;evaporates.&lt;/p&gt;
 &lt;p&gt;Something odd has happened to the job market. 
 Labour force participation has been going down, but at the same time as unemployment.
 Quit rates are going up.
@@ -45,6 +52,7 @@ Maybe it will continue for the next three decades.
 But it&amp;#8217;s hard to see this being sustained by infrastructure and real estate investment, which is currently 40% of the Chinese&amp;nbsp;economy.&lt;/p&gt;
 &lt;p&gt;Pandemics also might drain demand, but somehow I can&amp;#8217;t quite believe we&amp;#8217;re heading for another one. 
 But you never know: they might be like&amp;nbsp;buses.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="bonds or inflation: which will give?" src="https://www.stevehemingway.com/bonds_or_inflationp.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Caveat emptor, caveat&amp;nbsp;vendor!&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-14:/will-a-recession-in-china-crash-the-world-economy.html</guid><category>markets</category></item><item><title>Fed sounds more hawkish</title><link>https://www.stevehemingway.com/fed-sounds-more-hawkish.html</link><description>&lt;h1&gt;Wednesday  5, January&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;It&amp;#8217;s mostly&amp;nbsp;fiscal&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="This chart" src="https://compoundadvisors.com/wp-content/uploads/2022/01/US-Retail-Sales-1-3-22.png"&gt;&lt;/p&gt;
@@ -65,7 +73,7 @@ The Euro was up&amp;nbsp;25bp.&lt;/p&gt;
 &lt;p&gt;I find that I download a lot of data in the form of xlsx and xls sheets.
 There are some handy python utilities to convert these formats to csv files, and some handly python libraries for manipulating csv files.
 Working in windows is sometimes a bit tricky, but the windows python launcher partially enables &amp;#8216;shebang&amp;#8217; lines in scripts, which is&amp;nbsp;handy.&lt;/p&gt;
-&lt;p&gt;&lt;img alt="Test Image" src="https://mega.nz/file/8Qd1kSSL#oQ8sRx7xqw5BkbJ8cU_e4LXX6de36DIr1E2cwuJDaLM"&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-05:/fed-sounds-more-hawkish.html</guid><category>markets</category></item><item><title></title><link>https://www.stevehemingway.com/.html</link><description>&lt;h1&gt;Tuesday  4, January&amp;nbsp;2022&lt;/h1&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-04:/.html</guid><category>markets</category></item><item><title>Last Post (of the year)</title><link>https://www.stevehemingway.com/last-post-of-the-year.html</link><description>&lt;h1&gt;Friday 31, December&amp;nbsp;2021&lt;/h1&gt;
+&lt;p&gt;&lt;img alt="Test Image" src="https://mega.nz/file/8Qd1kSSL#oQ8sRx7xqw5BkbJ8cU_e4LXX6de36DIr1E2cwuJDaLM"&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-05:/fed-sounds-more-hawkish.html</guid><category>markets</category></item><item><title>Last Post (of the year)</title><link>https://www.stevehemingway.com/last-post-of-the-year.html</link><description>&lt;h1&gt;Friday 31, December&amp;nbsp;2021&lt;/h1&gt;
 &lt;p&gt;It&amp;#8217;s New Year&amp;#8217;s Eve, so I&amp;#8217;m not writing much, but I thought I&amp;#8217;d share some&amp;nbsp;thoughts.&lt;/p&gt;
 &lt;h2&gt;Weekly&amp;nbsp;Wrap&lt;/h2&gt;
 &lt;p&gt;All the &lt;span class="caps"&gt;US&lt;/span&gt; indices are down, as is the dollar. Oddly, the &lt;span class="caps"&gt;VIX&lt;/span&gt; is down too.
