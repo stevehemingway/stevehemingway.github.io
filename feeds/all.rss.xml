@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Postcards from the Internet</title><link>https://www.stevehemingway.com/</link><description>Life, the universe, and the markets</description><lastBuildDate>Fri, 14 Jan 2022 22:15:42 +0000</lastBuildDate><item><title>Will a recession in China crash the world economy?</title><link>https://www.stevehemingway.com/will-a-recession-in-china-crash-the-world-economy.html</link><description>&lt;h1&gt;Friday 14, January&amp;nbsp;2022&lt;/h1&gt;
+<rss version="2.0"><channel><title>Postcards from the Internet</title><link>https://www.stevehemingway.com/</link><description>Life, the universe, and the markets</description><lastBuildDate>Fri, 14 Jan 2022 22:20:42 +0000</lastBuildDate><item><title>Will a recession in China crash the world economy?</title><link>https://www.stevehemingway.com/will-a-recession-in-china-crash-the-world-economy.html</link><description>&lt;h1&gt;Friday 14, January&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Mid-month&amp;nbsp;review&lt;/h2&gt;
 &lt;p&gt;This month is half way through already.
 Some trends are becoming clear. 
@@ -717,11 +717,15 @@ This is the&amp;nbsp;list:&lt;/p&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;(generated from csv exported from Yahoo finance&amp;nbsp;using &lt;/p&gt;
+&lt;p&gt;generated from csv exported from Yahoo finance&amp;nbsp;using &lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="n"&gt;q&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;H&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;d&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="sc"&gt;&amp;#39;,&amp;#39;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="s"&gt;&amp;quot;select &amp;#39;$&amp;#39;||symbol, round(100*Change/[Current Price],2)||&amp;#39;%&amp;#39; from tiger_global.csv&amp;quot;&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;|&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;csv2md&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="o"&gt;|&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;clip&lt;/span&gt;&lt;span class="w"&gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
-&lt;p&gt;)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-14:/will-a-recession-in-china-crash-the-world-economy.html</guid><category>markets</category></item><item><title>Will the Fed blink?</title><link>https://www.stevehemingway.com/will-the-fed-blink.html</link><description>&lt;h1&gt;Monday 10, January&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;Worth a&amp;nbsp;read&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.zerohedge.com/markets/yachts-be-exempt-eus-carbon-pricing-plan"&gt;Yachts To Be Exempt From &lt;span class="caps"&gt;EU&lt;/span&gt;&amp;#8217;s Carbon Pricing&amp;nbsp;Plan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.reuters.com/article/us-usa-fed-yellen-purchases-idUSKCN11Z2WI"&gt;You know where this is&amp;nbsp;going&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">me</dc:creator><pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-01-14:/will-a-recession-in-china-crash-the-world-economy.html</guid><category>markets</category></item><item><title>Will the Fed blink?</title><link>https://www.stevehemingway.com/will-the-fed-blink.html</link><description>&lt;h1&gt;Monday 10, January&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;What would the Fed&amp;nbsp;do?&lt;/h2&gt;
 &lt;p&gt;The Fed is the church of markets, and J Powell its high priest.
 How the Fed reacts to events, especially how it reacts to market movements, 
