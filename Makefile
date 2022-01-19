@@ -46,6 +46,7 @@ help:
 	@echo '   make github                         upload the web site via gh-pages   ';
 	@echo '   make upload                         do a git push to github ';
 	@echo '   make repo			      commit your recent content changes' ;
+	@echo '   make content			      commit your recent content changes' ;
 	@echo '   make whole			      combo of repo, upload and github' ;
 	@echo '                                                                          ';
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   ';
@@ -68,6 +69,7 @@ regenerate:
 repo:	clean 
 	git add $(INPUTDIR)
 	git commit -m 'new content' 
+	git push
 
 serve:
 ifdef PORT
@@ -104,4 +106,6 @@ github: publish
 	echo "You probably want to git add the content changes too. You've updated only the master branch so far."
 
 
-.PHONY: html help clean regenerate serve serve-global devserver publish github repo upload
+
+.PHONY: html help clean regenerate serve serve-global devserver publish github repo upload 
+
