@@ -24,11 +24,12 @@ LOAD_CONTENT_CACHE = True
 RELATIVE_URLS = False
 
 # these are directories where pelican does not do any processing!
-STATIC_PATHS = [
-    'images'
-    ,'extra',  # this
-    'static',
-    'pages']
+STATIC_PATHS = []
+
+#    'images']
+#    ,'extra',  # this
+#    'static',
+#    'pages']
     
 DISPLAY_PAGES_ON_MENU = True
 
@@ -52,7 +53,7 @@ SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
 #SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 SLUGIFY_SOURCE = 'title'
-CACHE_CONTENT = True
+CACHE_CONTENT = False
 OUTPUT_PATH = 'output/'
 YEAR_ARCHIVE_URL = ''
 # PAGINATION_PATTERNS = '{you have to put some regexp here}' # see https://docs.getpelican.com/en/stable/settings.html
@@ -83,12 +84,12 @@ AUTHOR_FEED_RSS = None
 # reduce link leakage
 LINKS = (
     ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
+    ('Epsilon Theory', 'https://www.epsilontheory.com'),
+    ('Commodity.com LLC', 'https://commodity.com/'),
     )
 # LINKS = ()
 
 Old_LINKS = (
-    ('Epsilon Theory', 'https://www.epsilontheory.com'),
-    ('Commodity.com LLC', 'https://commodity.com/'),
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
     ('The Felder Report', 'https://thefelderreport.com/'),
     ('Wall Street on Parade', 'https://wallstreetonparade.com'),
@@ -122,7 +123,6 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS feed
 
 # typographical improvements!
 # you need to install typogrify as a python library (via pip) if you use this.
@@ -134,13 +134,12 @@ TYPOGRIFY_DASHES = 'default'
 
 # sitemap plugin. Needs to work on different OSes
 
-# if (platform.system() == 'Linux'):
-	# PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
-# else:
-	# PLUGIN_PATHS = ["plugins/",]
+if (platform.system() == 'Linux'):
+	PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
+else:
+	PLUGIN_PATHS = ["plugins/",]
 	
-PLUGINS=None
-# ["sitemap",  "readtime", "neighbors", "frontmark"]
+PLUGINS=["sitemap",  "readtime", "neighbors", "deadlinks"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
