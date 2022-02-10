@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-02-10T11:55:46+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Where the workers have all gone</title><link href="https://www.stevehemingway.com/where-the-workers-have-all-gone.html" rel="alternate"></link><published>2022-02-09T00:00:00+00:00</published><updated>2022-02-10T11:55:46+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-09:/where-the-workers-have-all-gone.html</id><summary type="html">&lt;h1&gt;Wednesday  9, February&amp;nbsp;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-02-10T21:32:32+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>GDP weighed down by inflation</title><link href="https://www.stevehemingway.com/gdp-weighed-down-by-inflation.html" rel="alternate"></link><published>2022-02-10T00:00:00+00:00</published><updated>2022-02-10T21:32:32+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-10:/gdp-weighed-down-by-inflation.html</id><summary type="html">&lt;h1&gt;Thursday 10, February&amp;nbsp;2022&lt;/h1&gt;
+&lt;p&gt;YoY &lt;span class="caps"&gt;CPI&lt;/span&gt; in the &lt;span class="caps"&gt;USA&lt;/span&gt; hit 7.5% last month.
+You have to go back a long way to find a print like that.
+The measure excluding food and energy was lower, but still&amp;nbsp;high.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.atlantafed.org/cqer/research/gdpnow"&gt;The Atlanta Fed &lt;span class="caps"&gt;GDP&lt;/span&gt; Now&lt;/a&gt; reading is heading down.
+It is …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Thursday 10, February&amp;nbsp;2022&lt;/h1&gt;
+&lt;p&gt;YoY &lt;span class="caps"&gt;CPI&lt;/span&gt; in the &lt;span class="caps"&gt;USA&lt;/span&gt; hit 7.5% last month.
+You have to go back a long way to find a print like that.
+The measure excluding food and energy was lower, but still&amp;nbsp;high.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.atlantafed.org/cqer/research/gdpnow"&gt;The Atlanta Fed &lt;span class="caps"&gt;GDP&lt;/span&gt; Now&lt;/a&gt; reading is heading down.
+It is now running at less than 1%. 
+This still means that nominal &lt;span class="caps"&gt;GDP&lt;/span&gt; is growing at 8.5%, which is a pretty good clip, 
+and quite enough to sustain the housing&amp;nbsp;market.&lt;/p&gt;
+&lt;p&gt;The inflation figures, although they were close to forecasts, did push up short term rates again.
+Global rates, from eurodollar futures (implied), to gilts, to 10Y USTs, to gilts all ticked up.
+The 10Y yield has now crept above 2%. 
+Although the redemption yield does not correspond to a single point on the discount curve, it&amp;#8217;s an important figure, 
+and will keep different duration borrowings in equilibrium. The very short end (3M) is still pinned to 41bp, but it goes up quite steeply: 1Y is 1.14% (i.e. 4 hikes), which keeps an upwards sloping discount&amp;nbsp;curve.&lt;/p&gt;
+&lt;p&gt;Stocks took the inflation figure to heart: &lt;span class="caps"&gt;NDX&lt;/span&gt; down over 2%.
+With real yields so negative, I can&amp;#8217;t see that&amp;#8217;s fully justified, but I would be still very reluctant to get long at these&amp;nbsp;levels.&lt;/p&gt;
+&lt;p&gt;Commodities are all strong: &lt;span class="caps"&gt;WTI&lt;/span&gt; crude still managed to tick up, in the face of an increased probability of more severe tightening.
+European nat. gas is up over 300% YoY. At some point, energy has to go&amp;nbsp;down.&lt;/p&gt;
+&lt;p&gt;Nearly all commodities are up YoY, except solar energy and gold. Gold is practically flat. Solar energy is an odd index based on the share price of stocks in the industry, and so is not a commodity in the normal sense. For more info. take a look at&amp;nbsp;tradingeconomics.com.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Where the workers have all gone</title><link href="https://www.stevehemingway.com/where-the-workers-have-all-gone.html" rel="alternate"></link><published>2022-02-09T00:00:00+00:00</published><updated>2022-02-10T11:55:46+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-09:/where-the-workers-have-all-gone.html</id><summary type="html">&lt;h1&gt;Wednesday  9, February&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;The incredible disappearing&amp;nbsp;workforce&lt;/h2&gt;
 &lt;p&gt;The Ethical Skeptic has moved on from analyzing genomes to understand where Covid came from.
 He has taken a look at why there is a collapse in the partipation rate of young white men in the &lt;span class="caps"&gt;USA&lt;/span&gt;.
