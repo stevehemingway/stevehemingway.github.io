@@ -1,0 +1,8 @@
+NYSE:SLI
+NDx:ELMS
+NYSE:MP
+NDX:PLTK
+NDX:SKYX*
+NDX:CLTP
+nyse:xl
+ndx:rphm
