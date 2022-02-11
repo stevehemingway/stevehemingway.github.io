@@ -4,3 +4,4 @@ __pycache__/**
 .ztr-directory
 */.ztr-directory
 cache/**
+cache/*/

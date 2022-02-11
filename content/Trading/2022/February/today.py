@@ -20,6 +20,6 @@ else:
     print("created file '{}'".format(fname))
     print("Note: status set to 'published'")
 
-print("Hit <enter> to continue")
-input()
+# print("Hit <enter> to continue")
+# input()
 
