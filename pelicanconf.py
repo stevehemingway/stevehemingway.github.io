@@ -82,7 +82,8 @@ AUTHOR_FEED_RSS = None
 
 # reduce link leakage
 LINKS = (
-    ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
+    # ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
+    # eventually get something set up.
     )
 # LINKS = ()
 
