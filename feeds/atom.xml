@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-02-21T21:28:42+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>Credit starting to be hit</title><link href="https://www.stevehemingway.com/credit-starting-to-be-hit.html" rel="alternate"></link><published>2022-02-21T00:00:00+00:00</published><updated>2022-02-21T21:28:42+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-21:/credit-starting-to-be-hit.html</id><summary type="html">&lt;h1&gt;Monday 21, February&amp;nbsp;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Postcards from the Internet</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-02-23T21:29:35+00:00</updated><subtitle>Life, the universe, and the markets</subtitle><entry><title>EU Inflation</title><link href="https://www.stevehemingway.com/eu-inflation.html" rel="alternate"></link><published>2022-02-23T00:00:00+00:00</published><updated>2022-02-23T21:29:35+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-23:/eu-inflation.html</id><summary type="html">&lt;h1&gt;Wednesday 23, February&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;&lt;span class="caps"&gt;EU&lt;/span&gt; Inflation&amp;nbsp;Update&lt;/h2&gt;
+&lt;p&gt;Expectations, aggregate demand above productive capacity, runaway growth in credit creation. There are many explanations of inflation, most of which seem to fail in one regime or&amp;nbsp;another.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a very long time since anyone in fixed income markets in developed markets …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Wednesday 23, February&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;&lt;span class="caps"&gt;EU&lt;/span&gt; Inflation&amp;nbsp;Update&lt;/h2&gt;
+&lt;p&gt;Expectations, aggregate demand above productive capacity, runaway growth in credit creation. There are many explanations of inflation, most of which seem to fail in one regime or&amp;nbsp;another.&lt;/p&gt;
+&lt;p&gt;It&amp;#8217;s a very long time since anyone in fixed income markets in developed markets had any first hand experience of inflation, and how to trade in a bear&amp;nbsp;market.&lt;/p&gt;
+&lt;p&gt;Inflation and weakening of the currency, and rising yields of government debt, often linked to a falling currency are often&amp;nbsp;linked. &lt;/p&gt;
+&lt;p&gt;It sure is hard to come up with a reliable, quantitative model for inflation, so hats off to &lt;a href="https://arkesresearch.substack.com/p/eu-inflation-update-013?utm_source=url"&gt;Arkes Research&lt;/a&gt;
+for coming up with one.
+It forecasts 3.7% for 2022, vs 3.2% from the &lt;span class="caps"&gt;ECB&lt;/span&gt; economists.
+How much faith to put in either of these numbers is impossible to say, 
+but it seems clear that commodities are going to continue to&amp;nbsp;rally.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;US&lt;/span&gt; seems determined to force Germany to cancel Nord Stream 2. 
+Russia will be subject to sanctions for what it has done so far.
+Intelligence suggests that Russian troops will soon go into the disputed reasons, on the pretext of protecting Russian speakers from Ukrainian&amp;nbsp;aggression.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;FOMC&lt;/span&gt; member Daly has said that he wants to see four rate hikes (100bp,&amp;nbsp;presumably).&lt;/p&gt;
+&lt;p&gt;Ukraine has declared a state of&amp;nbsp;emergency.&lt;/p&gt;
+&lt;p&gt;Nearly all equity markets have gone done.
+Oddly, nearly all govt. bond prices have gone up (yields down).
+Today, the safe-haven properties of bonds were outweighed by the inflation sensitivity.
+Treasuries and some currencies (&lt;span class="caps"&gt;AUD&lt;/span&gt;.&lt;span class="caps"&gt;JPY&lt;/span&gt;) have started to have a risk-on behaviour which is not&amp;nbsp;typical.&lt;/p&gt;
+&lt;p&gt;This is a day for being flat, which &amp;#8212; after all &amp;#8212; is a position&amp;nbsp;too.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Credit starting to be hit</title><link href="https://www.stevehemingway.com/credit-starting-to-be-hit.html" rel="alternate"></link><published>2022-02-21T00:00:00+00:00</published><updated>2022-02-23T18:34:01+00:00</updated><author><name>me</name></author><id>tag:www.stevehemingway.com,2022-02-21:/credit-starting-to-be-hit.html</id><summary type="html">&lt;h1&gt;Monday 21, February&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Credit markets&amp;nbsp;drooping&lt;/h2&gt;
 &lt;p&gt;If we are going into a bear market in equities, I&amp;#8217;d expect to see credit markets weakening first.
 Bond traders are constitutionally bearish, and see the clouds on the horizon first, in my not-very-data-driven opinion.
@@ -15,7 +38,7 @@ Preferreds ($&lt;span class="caps"&gt;PFF&lt;/span&gt;) and &lt;span class="caps
 All these are in some way correlated to the stock market. 
 Maybe it&amp;#8217;s just a contagion effect, with the variation accounted for by beta&amp;nbsp;values.&lt;/p&gt;
 &lt;h2&gt;Wrap&lt;/h2&gt;
-&lt;p&gt;It looks like Putin politely waited for the Winter Olympics in Beijing to finish before taking over parts of Ukraine, including some (all?) of Donbas.
+&lt;p&gt;It looks like Putin politely waited for the Winter Olympics in Beijing to finish before taking over parts of Ukraine, including some (all?) of Luhansk and Donetsk.
 Russian equities took a dive, dragging down the &lt;span class="caps"&gt;STOXX&lt;/span&gt; 600. The &lt;span class="caps"&gt;USA&lt;/span&gt; rattled a few&amp;nbsp;sabres.&lt;/p&gt;
 &lt;p&gt;Bonds strengthened, dragged up by &lt;span class="caps"&gt;US&lt;/span&gt; Treasuy futures. 
 &lt;span class="caps"&gt;US&lt;/span&gt; markets were closed for a public&amp;nbsp;holiday.&lt;/p&gt;
