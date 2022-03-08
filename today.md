@@ -1,29 +1,36 @@
 status: published
-date: 2022-03-07
-title: Equities start to hurt
+date: 2022-03-08
+title: Commodities on fire
 
-# Monday  7, March 2022
+# Tuesday  8, March 2022
 
 ## Wrap
 
-The war in Ukraine is going on too long.
-The west has badly miscalculated Putin's intentions, and it's not clear what credible threats now will deter him from driving on until he's conquered Ukraine.
-Economically, having Ukraine once more fall within Russia's orbit would not greatly harm the west.
-The place is a cesspit of corruption, and has historic and linguistic as well as criminal links to Russia.
-However, popular feeling now is that plucky little Vlododymyr Zelenskyy can't end up in a Siberian gulag, tortured for the rest of his (shortened) days.
+Prices fluctuated. 
+Zelenskyy said that Ukraine did not want to join NATO. 
+I think that, in fact, he reiterated this, as it was part of the Minsk Accord, signed in 2014.
+I may be wrong here, but I have read that the idea that trends should reverse because 
+this is said is simply to mis-read the situation.
+I really have no clear idea of what is going on, but my gut tells me that it's still bullish for commodities.
+Ukraine and Russia are hugely important in supplying the world with commodities, and the supply has stopped.
+Putin has actually banned the export of raw materials for the remainder of 2022.
+This has to be positive, although Brent dropped a couple of dollars intra day, ending up $5.63, and silver and gold took a breather.
+A lot of stops will have been hit, which will have suited the big players.
 
-The other problem is that the war is exploding commodity prices, especially energy, which makes up so much of the consumer basket of prices, which means that central banks cannot easily step back from promised rate hikes without losing credibility. Most central bankers have been bleeding credibility for some while (remember Carney, the "unreliable boyfriend"?). If they blink now and do not tighten, they will totally lose their main weapon, which is the ability to talk the market down or up. One wonders why Powell went for a second term, but hubris always comes before nemesis.
+So far the oil companies stock prices have been relatively muted. Exxon is up 46%, but given how geared its profits are to the long-term oil price, this still factors in some serious falls over the next few years. 
+Personally, I have never bought the "stranded assets" hypothesis, and so far I have been right. 
+But with enough political will, we can stop using hydrocarbons. I believe that the pain would be extreme, 
+but the pain of war is extreme too, and countries go to war.
 
-Anyhow, the consequence is that yield curves are flattening all around, in other words, markets are pricing in a recession.
-Well, I guess that'll fix inflation.
+The SPX 500 is still up 7.2%, year on year. I can't see it holding onto these gains, especially with 
+major FAANG stocks falling so fast: FB (now called Meta) is down from $340 to $19 since the start of the year.
+The stock that will signal the final capitulation is $TSLA. Amazingly, it's up 22% y-o-y. When it starts to 
+sink steadily, the game will be up.
 
-It's anyone's guess what will end up happening. My instinct is that, fundamentally, central banks are not independent, and that they are subject to political control, and so we will not see much more tightening, and we'll get stagflation rather than a short sharp shock. 
+Silver is notoriously volatile, but it seems to be in a steady trend now: up 13% over a month, but only ~2% over a year.
+People are looking more closely at derivative exposure, such as $SLV, but some folk think that it is not properly backed by 
+the physical commodity:
 
-In terms of market action, the SPX is sharply down, by 3%, with the NDX down 3.8%. 
-Bonds are up slightly, but not much.
-The dollar (DXY) is up a lot: over 99.
-Commodities continue skywards: WTI near month is now kissing $120/barrel. 
-Gold is finally starting to get bid. It's now at $1997, up 1.5%. Unlike "digital gold," aka Bitcoin, which 
-has turned out to be just proxy for the NDX.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A kind reminder of the short positions in different metals.<br><br>☠️Silver☠️ <a href="https://t.co/av9pvSBUnE">https://t.co/av9pvSBUnE</a> <a href="https://t.co/FJzAMxTOOZ">pic.twitter.com/FJzAMxTOOZ</a></p>&mdash; Gold Ventures (@TheLastDegree) <a href="https://twitter.com/TheLastDegree/status/1501168636484108290?ref_src=twsrc%5Etfw">March 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

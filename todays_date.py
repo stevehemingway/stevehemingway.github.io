@@ -31,7 +31,10 @@ else:
     print("created file '{}'".format(fname))
     print("Note: status set to 'published'")
 
-os.link(fname, "today.md")
+try:
+    os.link(fname, "today.md")
+except FileExistsError:
+    print("Can't link: file already exists")
 print("Created link to today's post as today.md")
 print("Hit <enter> to continue")
 input()
