@@ -1,0 +1,29 @@
+status: published
+date: 2022-03-07
+title: Equities start to hurt
+
+# Monday  7, March 2022
+
+## Wrap
+
+The war in Ukraine is going on too long.
+The west has badly miscalculated Putin's intentions, and it's not clear what credible threats now will deter him from driving on until he's conquered Ukraine.
+Economically, having Ukraine once more fall within Russia's orbit would not greatly harm the west.
+The place is a cesspit of corruption, and has historic and linguistic as well as criminal links to Russia.
+However, popular feeling now is that plucky little Vlododymyr Zelenskyy can't end up in a Siberian gulag, tortured for the rest of his (shortened) days.
+
+The other problem is that the war is exploding commodity prices, especially energy, which makes up so much of the consumer basket of prices, which means that central banks cannot easily step back from promised rate hikes without losing credibility. Most central bankers have been bleeding credibility for some while (remember Carney, the "unreliable boyfriend"?). If they blink now and do not tighten, they will totally lose their main weapon, which is the ability to talk the market down or up. One wonders why Powell went for a second term, but hubris always comes before nemesis.
+
+Anyhow, the consequence is that yield curves are flattening all around, in other words, markets are pricing in a recession.
+Well, I guess that'll fix inflation.
+
+It's anyone's guess what will end up happening. My instinct is that, fundamentally, central banks are not independent, and that they are subject to political control, and so we will not see much more tightening, and we'll get stagflation rather than a short sharp shock. 
+
+In terms of market action, the SPX is sharply down, by 3%, with the NDX down 3.8%. 
+Bonds are up slightly, but not much.
+The dollar (DXY) is up a lot: over 99.
+Commodities continue skywards: WTI near month is now kissing $120/barrel. 
+Gold is finally starting to get bid. It's now at $1997, up 1.5%. Unlike "digital gold," aka Bitcoin, which 
+has turned out to be just proxy for the NDX.
+
+
