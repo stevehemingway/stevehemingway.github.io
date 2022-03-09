@@ -30,11 +30,17 @@ else:
 
     print("created file '{}'".format(fname))
     print("Note: status set to 'published'")
+    
+shortname = "today.md"
 
 try:
-    os.link(fname, "today.md")
+    os.unlink(shortname)
+    os.link(fname, shortname)
 except FileExistsError:
     print("Can't link: file already exists")
+except: 
+    print("some filesystem error")
+    
 print("Created link to today's post as today.md")
 print("Hit <enter> to continue")
 input()
