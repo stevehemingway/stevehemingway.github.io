@@ -1,77 +1,44 @@
 status: published
-date: 2022-03-11
-title: Disinformation
+date: 2022-03-15
+title: We'll miss globalization when it's gone
 
-# Friday 11, March 2022
+# Tuesday 15, March 2022
 
-## Who can we believe?
+## Globalization
 
-"The first casualty of war is the truth." 
-"They are not even pretending anymore. -- Ben Hunt"
+The FT ran a piece yesterday saying that removing Russia from Most Favoured Nation status in the WTO was not a great idea.
+It's [here](https://www.ft.com/content/985915ed-0d0b-4f4b-a7a3-6fcaa95c5d03?desktop=true&segmentId=d8d3e364-5197-20eb-17cf-2437841d178a) but it might be behind a paywall. Sorry.
 
-Control of the narrative is very important. 
-We all learn that to get our own way, we have to persuade others of the correctness of our thinking.
-The easiest way to do this is to present one side of the story.
-Presenting one side of the story is a core competence of a politician. 
-That's why barristers (advocates) do so well as politicians.
-Their day job is convince a jury of the correctness of their argument.
+The article makes (at least) two arguments. One is that Russia mainly exports oil and minerals, which are almost never subject to import tariffs anyway (because developed countries don't generally produce much, and because manufacturing can lobby to keep down the cost of its raw materials). It exports some wheat, which is subject to tariffs in developed countries, but it seems mainly to export to poorer ones. The other is that we shouldn't use the WTO as political football, we should fund it properly, and let it do its thing.
+We (in the west) should comply with its rules and not try to bypass them by doing stupid stuff like claiming that the manufacturing of biscuits and yoghourts must be protected on grounds of national defence.
 
-[Disinformation vs Misinformation – Neither Has Anything To Do with ‘Intent’ -- _The Ethical Skeptic_](https://theethicalskeptic.com/?p=63633)
+I don't know about that stuff. I do know that globalization, the shifting of manufacturing jobs to China and other developing nations has had a devastating impact on the working class in the UK and the rest of the west.
+I know that China has raised many hundreds of millions out of abject rural poverty, but I also know that Brits generally don't give a damn, and would like their well-paying, reliable factory jobs back, please, at least in those places far from Westminster where those jobs used to exist.
 
-## Will the Ukraine war affect UK property prices?
+I know that the UK is not very unionized. I'd guess that it's really only the public sector which has a high union membership.
+I wouldn't be surprised that a quarter of the UK workforce was employed in the public sector, and that a similar proportion are unionized. Union power has been fairly muted, apart from a few groups which seem to get special treatment (police, general practitioners, judges, Tube drivers). With employment quite strong now, the 'great resignation (and retirement)' we may be moving to the stage where the marginal worker is unionized and successful in pushing up his wage. This may leak out into the private sector, especially as the 'living wage' legislation has, in effect, shrunk the size of the labour force. The NI rises, of 2.5%, will make it harder for ordinary workers to pay their heating bills, which should make them more militant.
 
-I don't know. Nobody does. I'll have a stab:
+To me, the key will be if the unions in the public sector, especially the NHS, start to push for real-terms pay increases for their members. This will start to establish a benchmark for the rest of the public sector (the teachers, for example, but also the firefighters, police, council workers) which will then raise prices in the less organized private sector. Once a few strikes succeed, and that success is amplified by press coverage, we can see a norm established. 
 
--    sanctions on their own will not make much difference to UK house prices.  Some top-end properties will have been purchased by oligarchs, but this is a market that is quite distinct from any rental property either of us is likely to  own,
--    energy price rises will feed into inflation, which ultimately will feed into salaries, which will in turn feed into house prices. In the long term, houses are the ultimate real asset. Interest rates may go up in the short term, though, which might make mortgages less available, which might push house prices down,
--    the desire to "re-shore" production to the west will be a positive for the UK, which will support house prices (we don't import much other than oil from Russia, but generally the exposure to overseas suppliers will be seen as something we want to reduce). Unemployment is already low, compared to the Eurozone, so if we avoid panicking over inflation we should see some wage growth,
--    the pound will probably go down. Our current account deficit is 3.5%, which puts us between Venezuela and Columbia in the rankings. (And Columbia probably has more exports than are recorded in official statistics!). We've sustained this because we get a lot of foreign direct investment, but that's largely stopped because we are now out of the EU. If the pound goes down, we will see even more inflation.
--    ordinary people in the UK have seen stocks (FTSE) go nowhere in a decade. They do not trust fund managers. They get a modest yield on a house, and this is something the value of which cannot go to zero just because some stock exchange is subject to sanctions. All ownership is contingent on the government not seizing the asset, but a democratic government would have difficulty seizing houses. Crypto currencies (held on an exchange, which is where the vast bulk of them are), on the other hand, are really quite vulnerable: see [here](https://www.protocol.com/fintech/russia-crypto-sanctions),
--    banks continue to be happy to lend to finance residential property. In fact, I think that over 80% of all bank lending is linked to this.
+The other factor, which is frequently cited, is the fact that the government is in a bind. Through QE, it is financing its deficit at the Bank of England discount rate. The fact that 10Y gilts pay 1.5% is irrelevant if the BoE owns them all, and remits the coupon, net of carry, back to the Treasury (which has had to pay the coupon in the first place!). The 2Y gilt yield is around 1.4%. This indicates that the market is very sanguine about inflation 
 
-​Having said all this, nothing is certain, and you should do your own research. ​
+## Illumina
 
-## Monopoly and monopsony
+I don't much comment on individual stocks. There are so many factors which go into pricing equities that it's a mugs game to make predictions ("especially about the future!"). However, Illumina seem to have some neat, and really new, technology. 
+From today's Refinitiv morning news call: 
 
-I believe that a market where there is a lot of competitive suppliers and consumers is the best way to allocate resources to maximize overall consumer welfare. In the jargon of economists, a free market leads to Pareto Efficiency. That's why I am against price fixing, whether it's in the price of milk, money (i.e. interest rates), pencils or labour. To prove the Pareto Efficiency, there are a number of other assumptions, including neglible transaction costs. I am not an economist: look it up!
+> _Genome sequencing group Illumina launched a cancer test in Europe that checks for a wide range of tumour genes in one tissue sample, potentially helping patients with rare diseases to be matched up with treatment options. The test, which Illumina says scans for more mutations than any available kits, comes amid drug industry efforts to develop precision oncology drugs for ever smaller patient groups defined by a genetic profile. This has created pent-up demand for more sophisticated diagnostic tools. Illumina's TruSight Oncology Comprehensive test kit scans for 517 cancer-relevant genes across nearly 30 solid tumour types, it said in a statement. Illumina said it was preparing to file for U.S. regulatory approval for the test kit later this year._ 
 
-But many markets lack many of the attributes which characterize a truly free market. 
-Read any book on business strategy (my favourite is _Competition Demystified: A Radically Simplified Approach to Business Strategy_ by Bruce C. Greenwald and Judd Kahn) and you will find that businesses are tireless in striving to keep out of markets which are truly competitive. 
-When business arrange themselves to stifle competition, the remedy is supposed to be the law.
-Developed economies have laws which are supposed to protect consumers from exploitation by businesses which 
-combine in such a way to eliminate competition.
-Unfortunately, politics today depends heavily on campaign contributions from those very firms that should be regulated. 
-The result is a steady weakening of competition law, especially in the USA, but (I suspect) throughout the developed world. 
-Matt Stoller has written extensively on this. 
-He has just written a new piece which focusses on employers combining to reduce competition for workers.
-Historically, "company towns" saw factory workers exploited during the Industrial Revolution.
-Unfortunately, for certain types of jobs, this is still a problem today.
+While I think this is probably a breakthrough, cancer treatment, diagnosis, prevention, and screening are all incredibly difficult, and this may yet fail to prove beneficial in practice.
 
-I have always instinctively been against minimum wage laws. For a start, they are mis-named. 
-If truly every worker was guaranteed the minimum wage, assuming this did not drive employers out of business, this would not be too bad.
-But for the marginal worker, the last guy who can be added to the workforce such that he allows the value of total output to go up (his marginal product) in excess of the wage that he is paid, when a minimum wage is increased, or introduced, and it is above his marginal product, his employer will terminate his employment,
-in the classical analysis.
+## Nickel and VIX ETNs
 
-But if the employer is a monopsonist, this will not be the case. 
-There seems to be evidence that this is what is happening in the UK.
-I am still sceptical that this will apply everywhere, and a minimum wage will really have no impact on employment, but I accept that the effect is quite small, in practice, for the current UK minimum wage level.
+The LME has retrospectively cancelled nickel futures trades to protect a Chinese billionaire, Xiang Guangda. Doomberg has a good piece on this [here](https://doomberg.substack.com/p/nickel-in-front-of-a-steamroller?r=nmbt&s=r&utm_campaign=post&utm_medium=web). For a futures exchange to retrospectively cancel trades is amazingly serious. Another indication of how bad things are is that Barclays have stopped issuing new units of a volatility ETN they used to have as well as a short-term crude futures ETN. 
 
-However, clearly the better approach would be to be more vigorous in busting the cartels. 
-[This post (about the US)](https://mattstoller.substack.com/p/monopolies-take-a-fifth-of-your-wages?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo0OTkwMTg5NiwiXyI6IkVlWW1oIiwiaWF0IjoxNjQ3MDMyNDY4LCJleHAiOjE2NDcwMzYwNjgsImlzcyI6InB1Yi0xMTUyNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.Io_wzFvLVH2KBDlkmgmJejBZxGoI8PtlLV_a8VY3-C0&s=r) indicates that there is some cause for hope, but things are much worse than they should be.
+Alex Manzara believes this is a big deal ([here](https://www.chartpoint.com/unpaid-debts-and-turning-points/)).
+The point about ETFs and ETNs is that they do financial magic: turning illiquid assets and liabilities into liquid instruments that trade like $AAPL. While markets are steady, and not under stress, this works fine. 
+But when everyone decides to sell $SPY at the same time, _it will crash the market_ There is no other outcome.
 
-## Wrap
+Fragility comes from everyone investing the same way. Everyone putting their life savings into a tracker, sounds like a good idea, but when the last family office has closed, and nobody trades the underlying stocks, where is the price discovery then?
 
-UK GDP forecast to rise 10% YoY. 
-UK 10Y gilts yield now at ~1.5%, up 67bp YoY. Not exactly Venezuela, but probably worrying for the BoE, given that Germany's equivalent yield is only 24bp.
-Generally, today was risk off. Equities were down, US bond yields were up (fractionally), dollar was up (against almost everything). Commodities were generally down, apart from oil and wheat, which had overshot.
-
-Some WFH winners were fading strongly. Docusign was down 20% on weak results. Zoom, Peleton, Meta are all looking pretty sick. 
-The SPAC ETF, $SPAK, is not available to short. Read into that what you will!
-
-
-
-
-
-
-
-    
+## Wrap ...
