@@ -1,44 +1,32 @@
 status: published
-date: 2022-03-15
-title: We'll miss globalization when it's gone
+date: 2022-03-17
+title: Apocalypse Alert
 
-# Tuesday 15, March 2022
+# Thursday 17, March 2022
 
-## Globalization
+## Inversion Alert
 
-The FT ran a piece yesterday saying that removing Russia from Most Favoured Nation status in the WTO was not a great idea.
-It's [here](https://www.ft.com/content/985915ed-0d0b-4f4b-a7a3-6fcaa95c5d03?desktop=true&segmentId=d8d3e364-5197-20eb-17cf-2437841d178a) but it might be behind a paywall. Sorry.
+To my mind, on of the finest free resources on the web is Alex Manzara's blog, Chartpoint. 
+[Today's entry](https://www.chartpoint.com/inversion-leads-to-submersion/) is all about how the Fed yesterday spooked markets into inverting the 5Y-10Y curve, and generally bending the curve down over out over a couple of years.
+The Fed's most powerful weapon is signalling. The market's is money. 
+Not just the "smart money," _all_ the money.
 
-The article makes (at least) two arguments. One is that Russia mainly exports oil and minerals, which are almost never subject to import tariffs anyway (because developed countries don't generally produce much, and because manufacturing can lobby to keep down the cost of its raw materials). It exports some wheat, which is subject to tariffs in developed countries, but it seems mainly to export to poorer ones. The other is that we shouldn't use the WTO as political football, we should fund it properly, and let it do its thing.
-We (in the west) should comply with its rules and not try to bypass them by doing stupid stuff like claiming that the manufacturing of biscuits and yoghourts must be protected on grounds of national defence.
+Manzara argues that we're entering a Dec 2018 scenario. 
+It's not exactly the same, and the 10Y T-bill future ($ZN on globex) doesn't show any indication of rallying yet, but if the recession that is being predicted by the curve inversion comes to pass, surely it will. 
 
-I don't know about that stuff. I do know that globalization, the shifting of manufacturing jobs to China and other developing nations has had a devastating impact on the working class in the UK and the rest of the west.
-I know that China has raised many hundreds of millions out of abject rural poverty, but I also know that Brits generally don't give a damn, and would like their well-paying, reliable factory jobs back, please, at least in those places far from Westminster where those jobs used to exist.
+It's not hard to see a few possible triggers. China has rescued its stock market, but western politicians will increasingly be unhappy about the west importing manufactures which are made from cheap Russian primary and intermediate goods (minerals, oil, lumber etc.) when their domestic industries are suffering. The war in Ukraine may go on much longer than anyone expected, and the longer it goes on the more western powers will be drawn in as suppliers of military hardware, food etc. The demands to make Ukraine a no-fly zone are getting shriller by the day. Although nobody wants to start WW3, surely Biden must fancy his chances of victory given all the evidence that Russia is a paper tiger and is on the brink of being defeated by a TV comedian and a rag-tag army. 
 
-I know that the UK is not very unionized. I'd guess that it's really only the public sector which has a high union membership.
-I wouldn't be surprised that a quarter of the UK workforce was employed in the public sector, and that a similar proportion are unionized. Union power has been fairly muted, apart from a few groups which seem to get special treatment (police, general practitioners, judges, Tube drivers). With employment quite strong now, the 'great resignation (and retirement)' we may be moving to the stage where the marginal worker is unionized and successful in pushing up his wage. This may leak out into the private sector, especially as the 'living wage' legislation has, in effect, shrunk the size of the labour force. The NI rises, of 2.5%, will make it harder for ordinary workers to pay their heating bills, which should make them more militant.
+Dictatorships usually have terrible armies. Citizens of Russia are probably happy enough to take what they can get without rocking the boat, because they have no easy alternative. 
+When it comes to dying for a corrupt kleptocratic regime, they have other ideas. 
+Russia has always suffered from the brightest and the best defecting to the west. 
+This, surely, will have increased since the start of the war.
 
-To me, the key will be if the unions in the public sector, especially the NHS, start to push for real-terms pay increases for their members. This will start to establish a benchmark for the rest of the public sector (the teachers, for example, but also the firefighters, police, council workers) which will then raise prices in the less organized private sector. Once a few strikes succeed, and that success is amplified by press coverage, we can see a norm established. 
+Anyway, I am not a geopolitical commentator, and the event or factor which pushes us in the west into a recession might be anything, or even nothing. Markets are driven by irrational and volatile responses to unimportant events. Keynes wrote:
 
-The other factor, which is frequently cited, is the fact that the government is in a bind. Through QE, it is financing its deficit at the Bank of England discount rate. The fact that 10Y gilts pay 1.5% is irrelevant if the BoE owns them all, and remits the coupon, net of carry, back to the Treasury (which has had to pay the coupon in the first place!). The 2Y gilt yield is around 1.4%. This indicates that the market is very sanguine about inflation 
+> The game of professional investment is intolerably boring and over-exacting to anyone who is entirely exempt from the gambling instinct; whilst he who has it must pay to this propensity the appropriate toll. Furthermore, an investor who proposes to ignore near-term market fluctuations needs greater resources for safety and must not operate on so large a scale, if at all, with borrowed money — a further reason for the higher return from the pastime to a given stock of intelligence and resources. Finally it is the long-term investor, he who most promotes the public interest, who will in practice come in for most criticism, wherever investment funds are managed by committees or boards or banks. For it is in the essence of his behaviour that he should be eccentric, unconventional and rash in the eyes of average opinion. If he is successful, that will only confirm the general belief in his rashness; and if in theshort run he is unsuccessful, which is very likely, he will not receive much mercy.
 
-## Illumina
+> -- Keynes, John Maynard. The  General Theory  of  Employment, Interest, and Money (p. 96). Kindle Edition. 
 
-I don't much comment on individual stocks. There are so many factors which go into pricing equities that it's a mugs game to make predictions ("especially about the future!"). However, Illumina seem to have some neat, and really new, technology. 
-From today's Refinitiv morning news call: 
+Oil has swung around 30% in price over the course of a month. It looks as though it's going higher again, but this sort of market it seems crazy to try to predict anything, other than that there will be fluctuations.
 
-> _Genome sequencing group Illumina launched a cancer test in Europe that checks for a wide range of tumour genes in one tissue sample, potentially helping patients with rare diseases to be matched up with treatment options. The test, which Illumina says scans for more mutations than any available kits, comes amid drug industry efforts to develop precision oncology drugs for ever smaller patient groups defined by a genetic profile. This has created pent-up demand for more sophisticated diagnostic tools. Illumina's TruSight Oncology Comprehensive test kit scans for 517 cancer-relevant genes across nearly 30 solid tumour types, it said in a statement. Illumina said it was preparing to file for U.S. regulatory approval for the test kit later this year._ 
-
-While I think this is probably a breakthrough, cancer treatment, diagnosis, prevention, and screening are all incredibly difficult, and this may yet fail to prove beneficial in practice.
-
-## Nickel and VIX ETNs
-
-The LME has retrospectively cancelled nickel futures trades to protect a Chinese billionaire, Xiang Guangda. Doomberg has a good piece on this [here](https://doomberg.substack.com/p/nickel-in-front-of-a-steamroller?r=nmbt&s=r&utm_campaign=post&utm_medium=web). For a futures exchange to retrospectively cancel trades is amazingly serious. Another indication of how bad things are is that Barclays have stopped issuing new units of a volatility ETN they used to have as well as a short-term crude futures ETN. 
-
-Alex Manzara believes this is a big deal ([here](https://www.chartpoint.com/unpaid-debts-and-turning-points/)).
-The point about ETFs and ETNs is that they do financial magic: turning illiquid assets and liabilities into liquid instruments that trade like $AAPL. While markets are steady, and not under stress, this works fine. 
-But when everyone decides to sell $SPY at the same time, _it will crash the market_ There is no other outcome.
-
-Fragility comes from everyone investing the same way. Everyone putting their life savings into a tracker, sounds like a good idea, but when the last family office has closed, and nobody trades the underlying stocks, where is the price discovery then?
-
-## Wrap ...
+![Oil volatility](https://www.tradingview.com/x/NwNq1uPZ/)
