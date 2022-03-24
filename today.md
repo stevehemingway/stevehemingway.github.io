@@ -1,31 +1,37 @@
 status: published
-date: 2022-03-23
-title: Taylor Rule RIP
+date: 2022-03-24
+title: 
 
-# Wednesday 23, March 2022
+# Thursday 24, March 2022
 
-## Taylor Rule Revisited
+## Norway, commodities
 
-One doesn't hear much about the Taylor Rule these days. It's a mechanical rule for determining what the correct level of the Fed Funds Rate should be to keep inflation under control. 
-[The definition](https://fredblog.stlouisfed.org/2014/04/the-taylor-rule/) is messy but the general idea is that if the output gap is large you should drop rates and vice versa. 
-The output gap itself can be devined from some statistics including unemployment levels.
+Norway supplies 7% of Europe's oil and 16% of it's gas.
+Read more at the [Visual Capitalist](https://www.visualcapitalist.com/visualizing-the-eus-energy-dependency/).
+It seems to me that NOK.SKR has to be a buy, but what do I know?
+Brazil has to benefit from increasing commodity prices. 
+I've been bullish about it for a long time, but political uncertainty is a drag.
+For what it's worth, Brazilian stocks look good. 
+This is something that Vincent Deluard has been saying for a couple of years.
+The thesis is that in a time for soaring inflation, commodity producing countries will do well.
 
-I guess the reason you don't hear about it much is that applying the rule now would see short term interest rates heading for 10%. Before you say "that would crash the economy so badly 1929 would seem like a walk in the park," remember that Fed Funds went up to nearly 20% in the 70's. 
+I think the possibility of a global recession/stock market crash is the the problem. EM has always struggled to have the same returns as developed economies (probably because of bad governance), and especially high beta relative to the SPX. 
 
-Chris Marsh's blog goes into a lot of detail, but it seems to me that the root of the issue is that China and globalization has changed everything. With a few hundred million peasants in China desperate to enter an urban workforce, global output could go up a huge amount before production stopped going up and industry just started increasing prices. Basing policy on a data point which is unobservable (the output gap) is surely the height of stupidity. 
-
-The great Larry Summers said, in 2013:
-
-> Everybody agrees that there was a vast amount of imprudent lending going on.  Almost everybody believes that wealth, as it was experienced by households, was in excess of its reality:  too much easy money, too much borrowing, too much wealth.  Was there a great boom?  Capacity utilization wasn’t under any great pressure.  Unemployment wasn’t at any remarkably low level.  Inflation was entirely quiescent.  So, somehow, even a great bubble wasn’t enough to produce any excess in aggregate demand.
-
-The clear fact is that markets do not expect more than extremely mild inflation. Long-dated Treasury yields have been falling for four decades and they are still in their clear trend. A war will produce some spikes in prices, but this is not systemic inflation. Don't sell your bonds yet!
-
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=N7iz&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
-
-[Chris Marsh's Blog](https://moneyinsideout.exantedata.com/p/what-happened-to-the-taylor-rule)
+Russia is well on the way to liquidating its holdings of US Treasuries. 
+It's easy to see why.
+The $64e12 question is what China will do.
+China knows that if it steps out of line on Taiwan, the govt. and the kleptocrats in charge of it will be targetted.
+It's easy to see that running down their holdings of US Treasuries is a no-brainer. 
+Or it would seem that way to me, but ... China!
 
 ## Wrap
 
-Equities were weak, the dollar went up a bit, oil firmed a bit, to $114.37. 
-Generally, today was risk off but not severely so.
-Rates were slightly down (10Y ~2.3%) but basically back to where they were on Friday.
+The energy complex was down.
+Equities were up.
+Bond yields are still going up: US 10Y now at 2.37%.
+Stocks generally were up, although Chinese indexes were an exception.
+The promises by the Chinese govt. to support stock prices only goes so far.
+
+## Thought of the day
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Nothing sedates rationality like large doses of effortless money.&quot; -Warren Buffett</p>&mdash; Chris Franco (@ChrisFranco) <a href="https://twitter.com/ChrisFranco/status/1506320052798242817?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
