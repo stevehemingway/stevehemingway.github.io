@@ -1,37 +1,59 @@
 status: published
-date: 2022-03-24
-title: 
+date: 2022-03-27
+title: Brace, brace, brace. Hard landing comeing.
 
-# Thursday 24, March 2022
+# Sunday 27, March 2022
 
-## Norway, commodities
+## Weekend comment
 
-Norway supplies 7% of Europe's oil and 16% of it's gas.
-Read more at the [Visual Capitalist](https://www.visualcapitalist.com/visualizing-the-eus-energy-dependency/).
-It seems to me that NOK.SKR has to be a buy, but what do I know?
-Brazil has to benefit from increasing commodity prices. 
-I've been bullish about it for a long time, but political uncertainty is a drag.
-For what it's worth, Brazilian stocks look good. 
-This is something that Vincent Deluard has been saying for a couple of years.
-The thesis is that in a time for soaring inflation, commodity producing countries will do well.
+For most of my long adult life, yields have trended down.
+This is explained in a variety of ways, but mostly in terms of an ever declining productivity of capital and excessively tight monetary conditions.
+In the developed world, credit creation has been extremely weak, as banks have much preferred to lend to governments than to the private sector.
+The collapse of yields has been a symptom of this.
+This chart illustrates the history.
 
-I think the possibility of a global recession/stock market crash is the the problem. EM has always struggled to have the same returns as developed economies (probably because of bad governance), and especially high beta relative to the SPX. 
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=NsOO&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
-Russia is well on the way to liquidating its holdings of US Treasuries. 
-It's easy to see why.
-The $64e12 question is what China will do.
-China knows that if it steps out of line on Taiwan, the govt. and the kleptocrats in charge of it will be targetted.
-It's easy to see that running down their holdings of US Treasuries is a no-brainer. 
-Or it would seem that way to me, but ... China!
+The recent rise in 10Y yields is not, on this timescale too scary.
+However, a few things are different now:
 
-## Wrap
+- debt levels have never been higher, because of a massive spend by many governments to offset the collapse in demand from the pandemic,
 
-The energy complex was down.
-Equities were up.
-Bond yields are still going up: US 10Y now at 2.37%.
-Stocks generally were up, although Chinese indexes were an exception.
-The promises by the Chinese govt. to support stock prices only goes so far.
+- There is a shooting war in Europe that a major nuclear power is directly involved in and might lose,
 
-## Thought of the day
+- ESG and the war have pushed up energy prices to the highest levels seen in decades,
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Nothing sedates rationality like large doses of effortless money.&quot; -Warren Buffett</p>&mdash; Chris Franco (@ChrisFranco) <a href="https://twitter.com/ChrisFranco/status/1506320052798242817?ref_src=twsrc%5Etfw">March 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+- globalism has gone into reverse, as a result of the pandemic and the war, as manufacturers have discovered the extreme fragility of their supply chains,
+
+- food prices in some very unstable nation states are spiking, at exactly the same time as the governments of these countries will have a great deal of problems financing these deficits,
+
+- MMT, the economic theory that says that in the developed world governments can spend essentially without limit, has become widely known and popular,
+
+- the collapse in spending power has change the political climate in many countries, with Friedmanite policies extremely unpopular, especially among the youth.
+
+## Twitter
+
+I don't know if this stuff is true. I just think it's interesting:
+
+A suggestion that the EU will try to ban transactions to unhosted crypto wallets.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ I hate to ring the alarm bell again, but the EU Parliament leaves us no choice 🚨🚨<br><br>This time it concerns a crackdown on unhosted wallets in the upcoming crypto AML regulation (TFR).<br><br>The ECON committee vote is on Thursday and the draft includes some absolute red flags 👇</p>&mdash; Patrick Hansen (@paddi_hansen) <a href="https://twitter.com/paddi_hansen/status/1507741879563132928?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Why India supports Russia (basically, because the US supports Pakistan, but there is a lot of interesting other history here):
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It helped India during India-Portugese standoff. In our space programme, submarine programme, nuclear programme, Russia has been always supportive to Indians. USA n West only looked towards India when Pak failed them and China became a threat. Still till date no one dares to 5/n</p>&mdash; Unknown alien (@391a6e870374480) <a href="https://twitter.com/391a6e870374480/status/1507858038408974338?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+What the movie Flight Club is all about (I tried to read the book, but gave up):
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/fqbYwyiSpV">pic.twitter.com/fqbYwyiSpV</a></p>&mdash; ♚ Sherif ★ ★★ (@1EZZAT1) <a href="https://twitter.com/1EZZAT1/status/1507621363590176768?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/8uMzVwZ8bt">pic.twitter.com/8uMzVwZ8bt</a></p>&mdash; Jawa.pls 🌲 AN APPEAL TO HEAVEN (@Sicklee) <a href="https://twitter.com/Sicklee/status/1507732097854844928?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Some super photos tweeted by this account:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wolfgang Suschitzky, London 1934 <a href="https://t.co/Edx6v0A3vJ">pic.twitter.com/Edx6v0A3vJ</a></p>&mdash; Iconic (@Iconic___Images) <a href="https://twitter.com/Iconic___Images/status/1506523037776199688?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+This explains the title of today's post:
+
+SBC is stock-based compensation:
+
+![SBC offenders](https://pbs.twimg.com/media/FO3V7z5XoAMjuuW?format=png&name=small)
