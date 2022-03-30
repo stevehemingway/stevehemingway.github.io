@@ -35,3 +35,27 @@ He gave a presentation arguing that you should not count liabilities when valuin
 [Link to Doomberg article](https://doomberg.substack.com/p/crouching-tiger-hidden-problems?r=nmbt&s=r&utm_campaign=post&utm_medium=email)
 
 ![Image](https://cdn.substack.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff23d8144-8f7e-408e-9263-655677bf7fb0_1200x799.jpeg)
+
+## China 
+
+@MacroAlf has had a go at working out whether China is investable.
+He's written up his thesis [here](https://themacrocompass.substack.com/p/china-to-invest-or-not-to-invest?r=nmbt&s=r&utm_campaign=post&utm_medium=email).
+He's a smart guy. You should follow him. 
+His conclusion is hedged:
+
+> After weighing all these arguments, I believe China deserves a place in a global macro asset allocation portfolio.
+> While it’s true that the structural drivers of GDP growth are weakening, the same can be said about most other global economies - but the ability to implement meaningful reforms is arguably much more impaired in Western societies than in China from a political standpoint.
+
+I am no China expert, but I just feel that being a dictatorship is China's big problem, not an advantage. 
+I feel that Alf makes the mistake that Xi cares more about the peasants than the elites that keep him in power.
+All the evidence is to the contrary: Putin could enact reforms that would be painful and unpopular in a democracy, but he's not going to because it would drain power from the oligarchs and strongmen who keep him in power (_silovki_?). The gratitude of the proletariat is no match for a bullet in his back as some senior KGB persuades the inner circle to switch their allegiance. Xi is president for life because he's paid off those who would prefer term limits. This will have been expensive. There's no money left for the peasants!
+
+## Wrap
+
+Commodities were up a bit, bonds too, equities were weak. Private payrolls in the US grew in line with expectations.
+I cannot see that there were any developments in the war. The 10Y USD yield is now 2.345%.
+
+
+
+
+
