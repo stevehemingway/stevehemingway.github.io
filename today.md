@@ -1,59 +1,37 @@
 status: published
-date: 2022-03-27
-title: Brace, brace, brace. Hard landing comeing.
+date: 2022-03-30
+title: Simple Arithmetic
 
-# Sunday 27, March 2022
+# Wednesday 30, March 2022
 
-## Weekend comment
+## 25 - 4 == 9?
 
-For most of my long adult life, yields have trended down.
-This is explained in a variety of ways, but mostly in terms of an ever declining productivity of capital and excessively tight monetary conditions.
-In the developed world, credit creation has been extremely weak, as banks have much preferred to lend to governments than to the private sector.
-The collapse of yields has been a symptom of this.
-This chart illustrates the history.
+A lot of the financial world is concerned with valuation.
+It would seem that we can know what the SPX is valued at.
+I write a (mostly) daily paragraph about how valuations of a small range of liquid assets has moved.
+It might be hard to predict how these assets will move in the future, but it surely isn't hard to know where they are now. 
+Surely!
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=NsOO&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+Well, Doomberg points out that it can be, and the more private a market it is, the more difficult it is.
+We are seeing very low volatility. Many contracts that were quite liquid a few months ago never trade.
+The exchange comes up with a price, but given the importance to some individuals to have the _right_ price, it's not surprising that there is a lot of manipulation.
 
-The recent rise in 10Y yields is not, on this timescale too scary.
-However, a few things are different now:
+To me, at least, it seems clear that the price of Tesla ($TSLA) is constantly manipulated. 
+The same goes for $AMC, $GME, most private equity funds. You name it, it's manipulated.
 
-- debt levels have never been higher, because of a massive spend by many governments to offset the collapse in demand from the pandemic,
+Doomberg explains how this is sometimes done, and goes into quite a bit of detail on the valuation of OYO Rooms, a Softbank-backed Indian startup. Parallels with WeWork abound. Will things work out like WeWork (i.e. not very well)?
+I have no idea, but it's tempting to think that Doomberg is onto something.
 
-- There is a shooting war in Europe that a major nuclear power is directly involved in and might lose,
+This whole problem is amplified by cheap borrowing costs. If money is free, borrowing it to buy your own stock makes sense. 
+Virtually every company in the SP500 is doing it. Executive compensation is going through the roof. 
+The US gets floods of foreign capital to counterbalance its chronic current account deficit.
+The US President gets to brag about what a fantastic job he's doing, citing as evidence the level of the Dow Jones Industrial Average. This arrangement has run and run. How could it possibly go wrong?
 
-- ESG and the war have pushed up energy prices to the highest levels seen in decades,
+The bears have given lots of ways, but none has come to pass. With the force of the US Treasury and the Fed behind the _status quo ante_ it only the very brave would bet against it. But still, if something cannot go on forever, it will stop. Isn't that what Herb Stein said?
 
-- globalism has gone into reverse, as a result of the pandemic and the war, as manufacturers have discovered the extreme fragility of their supply chains,
+The heading is based on a presentation from Masa San, the boss of Softbank.
+He gave a presentation arguing that you should not count liabilities when valuing assets in his fund. The missing $12 (billion) is accounted for by them.
 
-- food prices in some very unstable nation states are spiking, at exactly the same time as the governments of these countries will have a great deal of problems financing these deficits,
+[Link to Doomberg article](https://doomberg.substack.com/p/crouching-tiger-hidden-problems?r=nmbt&s=r&utm_campaign=post&utm_medium=email)
 
-- MMT, the economic theory that says that in the developed world governments can spend essentially without limit, has become widely known and popular,
-
-- the collapse in spending power has change the political climate in many countries, with Friedmanite policies extremely unpopular, especially among the youth.
-
-## Twitter
-
-I don't know if this stuff is true. I just think it's interesting:
-
-A suggestion that the EU will try to ban transactions to unhosted crypto wallets.
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ I hate to ring the alarm bell again, but the EU Parliament leaves us no choice 🚨🚨<br><br>This time it concerns a crackdown on unhosted wallets in the upcoming crypto AML regulation (TFR).<br><br>The ECON committee vote is on Thursday and the draft includes some absolute red flags 👇</p>&mdash; Patrick Hansen (@paddi_hansen) <a href="https://twitter.com/paddi_hansen/status/1507741879563132928?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Why India supports Russia (basically, because the US supports Pakistan, but there is a lot of interesting other history here):
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It helped India during India-Portugese standoff. In our space programme, submarine programme, nuclear programme, Russia has been always supportive to Indians. USA n West only looked towards India when Pak failed them and China became a threat. Still till date no one dares to 5/n</p>&mdash; Unknown alien (@391a6e870374480) <a href="https://twitter.com/391a6e870374480/status/1507858038408974338?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-What the movie Flight Club is all about (I tried to read the book, but gave up):
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/fqbYwyiSpV">pic.twitter.com/fqbYwyiSpV</a></p>&mdash; ♚ Sherif ★ ★★ (@1EZZAT1) <a href="https://twitter.com/1EZZAT1/status/1507621363590176768?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"> <a href="https://t.co/8uMzVwZ8bt">pic.twitter.com/8uMzVwZ8bt</a></p>&mdash; Jawa.pls 🌲 AN APPEAL TO HEAVEN (@Sicklee) <a href="https://twitter.com/Sicklee/status/1507732097854844928?ref_src=twsrc%5Etfw">March 26, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Some super photos tweeted by this account:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wolfgang Suschitzky, London 1934 <a href="https://t.co/Edx6v0A3vJ">pic.twitter.com/Edx6v0A3vJ</a></p>&mdash; Iconic (@Iconic___Images) <a href="https://twitter.com/Iconic___Images/status/1506523037776199688?ref_src=twsrc%5Etfw">March 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-This explains the title of today's post:
-
-SBC is stock-based compensation:
-
-![SBC offenders](https://pbs.twimg.com/media/FO3V7z5XoAMjuuW?format=png&name=small)
+![Image](https://cdn.substack.com/image/fetch/w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff23d8144-8f7e-408e-9263-655677bf7fb0_1200x799.jpeg)
