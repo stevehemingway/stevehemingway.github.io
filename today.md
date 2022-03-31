@@ -1,36 +1,31 @@
 status: published
-date: 2022-03-08
-title: Commodities on fire
+date: 2022-03-29
+title: 
 
-# Tuesday  8, March 2022
+# Tuesday 29, March 2022
+
+[Emerita Resources deemed a scam by Grizzly Research](https://grizzlyreports.com/infamous-stock-promoter-backed-emerita-resources-nasdaq-emo-bait-and-switch-track-record-and-rampant-misrepresentation/)
+
 
 ## Wrap
 
-Prices fluctuated. 
-Zelenskyy said that Ukraine did not want to join NATO. 
-I think that, in fact, he reiterated this, as it was part of the Minsk Accord, signed in 2014.
-I may be wrong here, but I have read that the idea that trends should reverse because 
-this is said is simply to mis-read the situation.
-I really have no clear idea of what is going on, but my gut tells me that it's still bullish for commodities.
-Ukraine and Russia are hugely important in supplying the world with commodities, and the supply has stopped.
-Putin has actually banned the export of raw materials for the remainder of 2022.
-This has to be positive, although Brent dropped a couple of dollars intra day, ending up $5.63, and silver and gold took a breather.
-A lot of stops will have been hit, which will have suited the big players.
+Generally, this was a risk-on day.
+There are some rumours that Zelenskyy and Putin will sit down to negotiate an end to the war in Ukraine.
+In response to this:
 
-So far the oil companies stock prices have been relatively muted. Exxon is up 46%, but given how geared its profits are to the long-term oil price, this still factors in some serious falls over the next few years. 
-Personally, I have never bought the "stranded assets" hypothesis, and so far I have been right. 
-But with enough political will, we can stop using hydrocarbons. I believe that the pain would be extreme, 
-but the pain of war is extreme too, and countries go to war.
+- oil prices continue to sag, although at a slowing rate relative to the last few trading days,
+- equity indexes, globally went up. High beta stocks (e.g. $TSLA) disproportionately,
+- most commodities were dragged down with oil, lumber being an exception,
+- most sovereign bond yields went up, in a more-or-less parallel shift across the curve,
+- the dollar went down, by about 67bp. Most other currencies followed suit, except GBP, which sank alongside the dollar (GBP/USD = 1.31).
 
-The SPX 500 is still up 7.2%, year on year. I can't see it holding onto these gains, especially with 
-major FAANG stocks falling so fast: FB (now called Meta) is down from $340 to $19 since the start of the year.
-The stock that will signal the final capitulation is $TSLA. Amazingly, it's up 22% y-o-y. When it starts to 
-sink steadily, the game will be up.
+In other news, Russia's demands to be paid in RUB for its oil and gas was resisted by the EU.
+In the US there was a proposal to tax billionaires on unrealized capital gains.
 
-Silver is notoriously volatile, but it seems to be in a steady trend now: up 13% over a month, but only ~2% over a year.
-People are looking more closely at derivative exposure, such as $SLV, but some folk think that it is not properly backed by 
-the physical commodity:
+On practically all measures (5-30s, 3m-5y, OIS 30-10, etc.) yield curves are inverting with a widespread acceptance that this indicates that the short-term rate is above "r-star", the rate which can co-exist with full employment. In other words, we are heading for recession, but the stock market is only 3.5% off its ATM. Bears such as Sven Henrich and Stanphyl Capital are wailing. At some point they will be right. 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A kind reminder of the short positions in different metals.<br><br>☠️Silver☠️ <a href="https://t.co/av9pvSBUnE">https://t.co/av9pvSBUnE</a> <a href="https://t.co/FJzAMxTOOZ">pic.twitter.com/FJzAMxTOOZ</a></p>&mdash; Gold Ventures (@TheLastDegree) <a href="https://twitter.com/TheLastDegree/status/1501168636484108290?ref_src=twsrc%5Etfw">March 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Image of the day
 
 
+
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">📸Helder Vinagre Rue des Fossés Saint-Jacques <a href="https://t.co/2gj1to8klk">pic.twitter.com/2gj1to8klk</a></p>&mdash; Iconic (@Iconic___Images) <a href="https://twitter.com/Iconic___Images/status/1508338804561747968?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
