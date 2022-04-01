@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timedelta
 import sys
 
-months = ["Not a month","January","February","March"]
+months = ["Not a month","January","February","March", "April", "May", "June"]
 
 def main():
 
@@ -34,13 +34,19 @@ def main():
     fname = today_path
     if path.exists(fname):
         print("File '{}' already exists".format(fname))
-    else:                
-        with open(fname, "wt") as f: 
-                f.write("status: published\n")
-                f.write( "date: "+ today_string+"\n")
-                f.write("title: \n")
-                f.write( "\n")
-                f.write( "# " + today.strftime("%A %e, %B %Y\n") )
+    else:
+        try:
+            with open(fname, "wt") as f: 
+                    f.write("status: published\n")
+                    f.write( "date: "+ today_string+"\n")
+                    f.write("title: \n")
+                    f.write( "\n")
+                    f.write( "# " + today.strftime("%A %e, %B %Y\n") )
+        except FileNotFoundError:
+            # probably path not found (new month)
+            os.mkdir(todays_directory)
+            print("created directory '{}': try again".format(todays_directory))
+            
 
         print("created file '{}'".format(fname))
         print("Note: status set to 'published'")
@@ -49,11 +55,14 @@ def main():
     short_dir_name = "today"
     try:
         os.unlink(shortname)
+    except FileNotFoundError:
+        print("you couldn't delete '{}' it because it was already gone".format(shortname))
+    try:
         os.link(fname, shortname)
     except FileExistsError:
         print("Can't link: file already exists")
-    except: 
-        print("some filesystem error")
+#    except: 
+#        print("some filesystem error")
 
     # Create a link to this month's directory!
     try:
