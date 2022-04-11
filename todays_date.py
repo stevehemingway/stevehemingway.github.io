@@ -6,7 +6,7 @@ import os
 from datetime import datetime, timedelta
 import sys
 
-months = ["Not a month","January","February","March", "April", "May", "June"]
+months = ["Not a month","January","February","March", "April", "May", "June", "July"]
 
 def main():
 
