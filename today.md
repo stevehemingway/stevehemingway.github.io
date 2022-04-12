@@ -1,6 +1,6 @@
 status: published
 date: 2022-04-12
-title: 
+title: Will the 10Y yield trend change direction, finally?
 
 # Tuesday 12, April 2022
 
