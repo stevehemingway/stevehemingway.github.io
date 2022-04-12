@@ -1,47 +1,26 @@
 status: published
-date: 2022-04-11
+date: 2022-04-12
 title: 
 
-# Monday 11, April 2022
+# Tuesday 12, April 2022
+
+## Images of the day
+<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Metamorphosis ~ 𝘔𝘢𝘳𝘪𝘢 𝘗𝘭𝘦𝘴𝘩𝘬𝘰𝘷𝘢 <a href="https://t.co/PyAjLQyAnx">pic.twitter.com/PyAjLQyAnx</a></p>&mdash; Futura (@Futura_Noir) <a href="https://twitter.com/Futura_Noir/status/1511563868115546116?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Wrap
 
-Real assets went down, nominal assets went down.
-The only securities to to well were puts and gold and the dollar.
-The long-end of the Treasury market is looking under a lot of pressure.
-I believe that the market does not believe that the Fed can keep hiking without crashing equity markets, but if they stop, it's possible that inflation will get out of hand.
+US CPI hit 8.5%.
+Oil (WTI front month) went up 6.8%, to above $100 a barrel again.
+Bonds were fairly subdued: supply shocks may yet provide enough tightening to avoid hitting full employment and the resultant 
+change into excess demand driving inflation.
+It seems likely that the US economy may be approaching full employment. We are not there, but the bounce from the extreme slackness of Q2 2020 looks likely to overshoot, provoking an over-reaction from the Fed which plunges the world into recession ... just as it did for every recession since 53-54, with the sole exception of the Covid panic of 2020.
 
-Mohammed El-Erian wrote:
+<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=NX75&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
 
->	Over and over again, the Fed felt compelled to use its powerful liquidity-creation weapons to counter asset price declines, even when the risk of disorderly and volatile markets was not apparent. At times, such “unconventional” measures were consistent with the needs of the real economy. Too often, however, they were not.
-> 
-> Like a child successfully throwing tantrums to get more sweets, markets came to expect looser financial conditions whenever there was a strong whiff of instability. This expectation evolved into insistence. In turn, the Fed went from just responding to market volatility to also trying to pre-empt it.
->
-> ...
->
-> 	Central bankers were not blind to the unhealthy co-dependencies. The current leaders of both the Fed and the European Central Bank, Jay Powell and Christine Lagarde, tried early in their tenures to change the dynamic. But they failed, and were forced into embarrassing U-turns that made markets feel even more empowered and entitled to insist on the continuation of ultra-loose policies.
+## Tweet of the day
 
-[Monetary policy must serve the real economy not just financial markets](https://www.ft.com/content/3d361f01-7908-45ce-9e11-96f37846bd4e)
+You get two today!
 
-It's interesting that a major figure like el-Erian basically admits that the Fed's real mandate was to keep markets going up. 
-We all knew this, but not many checkmarks have said it so openly. I've been saying it for ever, as have many other outsiders, but now it's becoming part of the mainstream narrative.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The all-data log chart for US 10-Year Treasury Bond yields is the most important trend line of all time, ever, in any and all markets. <a href="https://t.co/jtBPpxy9kQ">pic.twitter.com/jtBPpxy9kQ</a></p>&mdash; Carter Braxton Worth (@CarterBWorth) <a href="https://twitter.com/CarterBWorth/status/1513574169044262916?ref_src=twsrc%5Etfw">April 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-
-![30-year Treasury Futures (near month) over one month](https://www.tradingview.com/x/WdBSKxWq/)
-
-## Tweets
-
-The reason that oil is suffering?
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kinda hard to be long oil and coal when a country who doesn’t really care about the US can go to Russia and get it for 1/3 the price…</p>&mdash; Anadarko (@AnadarkoCapital) <a href="https://twitter.com/AnadarkoCapital/status/1513600967576629253?ref_src=twsrc%5Etfw">April 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Maybe the west is trying too hard?
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Kinda hard to be long oil and coal when a country who doesn’t really care about the US can go to Russia and get it for 1/3 the price…</p>&mdash; Anadarko (@AnadarkoCapital) <a href="https://twitter.com/AnadarkoCapital/status/1513600967576629253?ref_src=twsrc%5Etfw">April 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love this app <a href="https://t.co/hYwyfjEgHV">pic.twitter.com/hYwyfjEgHV</a></p>&mdash; Dr. Parik Patel, BA, CFA, ACCA Esq. (drpatel.eth) (@ParikPatelCFA) <a href="https://twitter.com/ParikPatelCFA/status/1513125556363083782?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-## Image of the day
-
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Metamorphosis ~ 𝘔𝘢𝘳𝘪𝘢 𝘗𝘭𝘦𝘴𝘩𝘬𝘰𝘷𝘢 <a href="https://t.co/PyAjLQyAnx">pic.twitter.com/PyAjLQyAnx</a></p>&mdash; Futura (@Futura_Noir) <a href="https://twitter.com/Futura_Noir/status/1511563868115546116?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t know about you<br>But if I&#39;d just witnessed dead bodies and horrific War crimes.. I wouldn&#39;t look like this 1 hour later <a href="https://t.co/HU13AqWgNi">pic.twitter.com/HU13AqWgNi</a></p>&mdash; Donald ski (@real_b4_) <a href="https://twitter.com/real_b4_/status/1513168360426680322?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
