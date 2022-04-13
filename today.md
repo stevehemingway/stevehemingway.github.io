@@ -1,26 +1,41 @@
 status: published
-date: 2022-04-12
-title: Will the 10Y yield trend change direction, finally?
+date: 2022-04-13
+title: Lower for ... shorter?
 
-# Tuesday 12, April 2022
+# Wednesday 13, April 2022
 
-## Images of the day
-<blockquote class="twitter-tweet"><p lang="ca" dir="ltr">Metamorphosis ~ 𝘔𝘢𝘳𝘪𝘢 𝘗𝘭𝘦𝘴𝘩𝘬𝘰𝘷𝘢 <a href="https://t.co/PyAjLQyAnx">pic.twitter.com/PyAjLQyAnx</a></p>&mdash; Futura (@Futura_Noir) <a href="https://twitter.com/Futura_Noir/status/1511563868115546116?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## Core print below expectations
+
+A core group of Jeff Snider, Harley Bassman, Alex Gurevich, Lacey Hunt and Mike Green all believe that dollar yields are going lower.
+It's a heterodox view, but the yield curve inversion, as well as declining productivity (which implies declining marginal returns to capital) points to lowering yields.
+
+Alex Manzara is more of a practitioner than a theorist, but he is not ideological, as this quote shows:
+
+> Lower than expected core inflation of 6.5% sparked talk of ‘peak inflation’ which translated into a plunge of shorter maturity yields.  The two year note fell nearly 12 bps to 2.385%, 5s down 11.2 to 2.671%, 10s down 5.5 to 2.721%.  At the start of April, the 2/30 treasury spread went slightly inverted. Yesterday it hit a new recent high of 44.3 as the 30 bond yield actually rose 1 bp to 2.828%.  On the euro$ strip the reds surged 19 bps while golds were only up 7.  The red/gold pack spread bottomed April 1 below -87 bps and yesterday settled -28.  January 2024 FF were up 19.5 bps to 9701.5, or just under a rate of 3%, essentially trimming one 25 bp hike. The thought is that if official inflation stats start to decline, then the Fed will not be forced into adopting the hawkish path outlined by Bullard et al.
+
+[Wide range of possibilities -- Chartpoint](https://www.chartpoint.com/wide-range-of-possibilities/)
+
+## Twitter
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone on Quora asked “Why do some British people not like Donald Trump?” Nate White, an articulate and witty writer from England wrote the following response:<br>A few things spring to mind. 1/15</p>&mdash; James Tate (@JamesTate121) <a href="https://twitter.com/JamesTate121/status/1514285763726356485?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Wrap
 
-US CPI hit 8.5%.
-Oil (WTI front month) went up 6.8%, to above $100 a barrel again.
-Bonds were fairly subdued: supply shocks may yet provide enough tightening to avoid hitting full employment and the resultant 
-change into excess demand driving inflation.
-It seems likely that the US economy may be approaching full employment. We are not there, but the bounce from the extreme slackness of Q2 2020 looks likely to overshoot, provoking an over-reaction from the Fed which plunges the world into recession ... just as it did for every recession since 53-54, with the sole exception of the Covid panic of 2020.
+PPI (Producer Price Inflation) in the USA was up 11.2%, YoY.
+By far the biggest component was energy, particularly diesel.
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=NX75&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+The oil futures forward curve is all over the place, but still dropping.
+![forward combo calendar]({attach}oil_combo.png)
 
-## Tweet of the day
+At some point, we will see a return to a normal contango situation.
+There has been a lot of noise recently.
+It will be interesting to see how this develops.
 
-You get two today!
+The oil price hikes are still seen as tightening, and have caused bonds to rally. The reduction in discount rates has resulted in a rebound in NDX: it was up 2%.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The all-data log chart for US 10-Year Treasury Bond yields is the most important trend line of all time, ever, in any and all markets. <a href="https://t.co/jtBPpxy9kQ">pic.twitter.com/jtBPpxy9kQ</a></p>&mdash; Carter Braxton Worth (@CarterBWorth) <a href="https://twitter.com/CarterBWorth/status/1513574169044262916?ref_src=twsrc%5Etfw">April 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+The oil price hike dragged up a lot of other commodity prices, especially gasoil, up 7.5% (near month) ($GOIL).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I don&#39;t know about you<br>But if I&#39;d just witnessed dead bodies and horrific War crimes.. I wouldn&#39;t look like this 1 hour later <a href="https://t.co/HU13AqWgNi">pic.twitter.com/HU13AqWgNi</a></p>&mdash; Donald ski (@real_b4_) <a href="https://twitter.com/real_b4_/status/1513168360426680322?ref_src=twsrc%5Etfw">April 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+## Image of the day
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shirley Baker, England, 1960s <a href="https://t.co/UUEOQ2In4b">pic.twitter.com/UUEOQ2In4b</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1514320179488075782?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
