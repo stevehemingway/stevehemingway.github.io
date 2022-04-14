@@ -1,41 +1,43 @@
 status: published
-date: 2022-04-13
-title: Lower for ... shorter?
+date: 2022-04-14
+title: Elon makes a fake offer for $TWTR
 
-# Wednesday 13, April 2022
+# Thursday 14, April 2022
 
-## Core print below expectations
+## Twitter ramp
 
-A core group of Jeff Snider, Harley Bassman, Alex Gurevich, Lacey Hunt and Mike Green all believe that dollar yields are going lower.
-It's a heterodox view, but the yield curve inversion, as well as declining productivity (which implies declining marginal returns to capital) points to lowering yields.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ From a friend:<br><br>&quot;I just heard <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> on the radio.<br><br>&quot;He is saying he wants 2,000 of <a href="https://twitter.com/search?q=%24TWTR&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TWTR</a> shareholders to stay in the company &amp; to roll into the private company.<br><br>&quot;This is impossible and not doable legally...</p>&mdash; Montana Skeptic (@montana_skeptic) <a href="https://twitter.com/montana_skeptic/status/1514697923623227396?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Alex Manzara is more of a practitioner than a theorist, but he is not ideological, as this quote shows:
+Elon Musk is a criminal psychopath. How people can look up to him is a mystery to me. 
+At some point Tesla will implode, but this may be in the long run, and I'm too old to worry about the long run.
 
-> Lower than expected core inflation of 6.5% sparked talk of ‘peak inflation’ which translated into a plunge of shorter maturity yields.  The two year note fell nearly 12 bps to 2.385%, 5s down 11.2 to 2.671%, 10s down 5.5 to 2.721%.  At the start of April, the 2/30 treasury spread went slightly inverted. Yesterday it hit a new recent high of 44.3 as the 30 bond yield actually rose 1 bp to 2.828%.  On the euro$ strip the reds surged 19 bps while golds were only up 7.  The red/gold pack spread bottomed April 1 below -87 bps and yesterday settled -28.  January 2024 FF were up 19.5 bps to 9701.5, or just under a rate of 3%, essentially trimming one 25 bp hike. The thought is that if official inflation stats start to decline, then the Fed will not be forced into adopting the hawkish path outlined by Bullard et al.
+Montana Skeptic is worth following. I admire him, but I wouldn't want to be him.
 
-[Wide range of possibilities -- Chartpoint](https://www.chartpoint.com/wide-range-of-possibilities/)
+For a funnier take on this, I present:
 
-## Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Elon Musk is Making My Job at Twitter Unsafe!!! <a href="https://t.co/YZQqgRc2K7">pic.twitter.com/YZQqgRc2K7</a></p>&mdash; Danny Polishchuk (@Dannyjokes) <a href="https://twitter.com/Dannyjokes/status/1514638827771637769?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Someone on Quora asked “Why do some British people not like Donald Trump?” Nate White, an articulate and witty writer from England wrote the following response:<br>A few things spring to mind. 1/15</p>&mdash; James Tate (@JamesTate121) <a href="https://twitter.com/JamesTate121/status/1514285763726356485?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## Wrap
-
-PPI (Producer Price Inflation) in the USA was up 11.2%, YoY.
-By far the biggest component was energy, particularly diesel.
-
-The oil futures forward curve is all over the place, but still dropping.
-![forward combo calendar]({attach}oil_combo.png)
-
-At some point, we will see a return to a normal contango situation.
-There has been a lot of noise recently.
-It will be interesting to see how this develops.
-
-The oil price hikes are still seen as tightening, and have caused bonds to rally. The reduction in discount rates has resulted in a rebound in NDX: it was up 2%.
-
-The oil price hike dragged up a lot of other commodity prices, especially gasoil, up 7.5% (near month) ($GOIL).
 
 ## Image of the day
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Shirley Baker, England, 1960s <a href="https://t.co/UUEOQ2In4b">pic.twitter.com/UUEOQ2In4b</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1514320179488075782?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="nl" dir="ltr">Erwin Blumenfeld <a href="https://t.co/7FR0a2joua">pic.twitter.com/7FR0a2joua</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1514549338298621960?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Wrap
+
+The inflation, risk-off narrative still holds.
+Shorter dated bonds have rallied, suggesting that the markets are losing confidence that the Fed will follow through with rate hikes.
+Longer dated bonds, conversely are falling, i.e. we're starting to see steepening.
+Equity markets are beginning to be spooked.
+As someone pointed out on Twitter (sorry, whoever you are: I lost the tweet), why would anyone buy the SPX on a 4% earnings yield, when they can buy investment grade corporate debt at a yield of ~100bp less? (I may have got the yields wrong ... sorry again.)
+
+On the FX side, the Yen continues to sag.
+It has gone from ~¥115 to the $ to ~¥125 in a month. 
+Japan is the only country with a central bank that isn't going to hike.
+
+## Thought for the day
+
+Keeping in touch with very old (i.e. longstanding) friends is worth it, because they are more likely to tell you the truth.
+With new friends, we're much more likely to say what we think the other person wants to hear, because we all want to be lovable.
+With an old friend, presumably we've cleared that hurdle.
+
 
