@@ -1,43 +1,39 @@
 status: published
-date: 2022-04-14
-title: Elon makes a fake offer for $TWTR
+date: 2022-04-15
+title: Student loans
 
-# Thursday 14, April 2022
-
-## Twitter ramp
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ From a friend:<br><br>&quot;I just heard <a href="https://twitter.com/elonmusk?ref_src=twsrc%5Etfw">@elonmusk</a> on the radio.<br><br>&quot;He is saying he wants 2,000 of <a href="https://twitter.com/search?q=%24TWTR&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TWTR</a> shareholders to stay in the company &amp; to roll into the private company.<br><br>&quot;This is impossible and not doable legally...</p>&mdash; Montana Skeptic (@montana_skeptic) <a href="https://twitter.com/montana_skeptic/status/1514697923623227396?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-Elon Musk is a criminal psychopath. How people can look up to him is a mystery to me. 
-At some point Tesla will implode, but this may be in the long run, and I'm too old to worry about the long run.
-
-Montana Skeptic is worth following. I admire him, but I wouldn't want to be him.
-
-For a funnier take on this, I present:
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Elon Musk is Making My Job at Twitter Unsafe!!! <a href="https://t.co/YZQqgRc2K7">pic.twitter.com/YZQqgRc2K7</a></p>&mdash; Danny Polishchuk (@Dannyjokes) <a href="https://twitter.com/Dannyjokes/status/1514638827771637769?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-## Image of the day
-
-<blockquote class="twitter-tweet"><p lang="nl" dir="ltr">Erwin Blumenfeld <a href="https://t.co/7FR0a2joua">pic.twitter.com/7FR0a2joua</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1514549338298621960?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+# Good Friday, 15, April 2022
 
 ## Wrap
 
-The inflation, risk-off narrative still holds.
-Shorter dated bonds have rallied, suggesting that the markets are losing confidence that the Fed will follow through with rate hikes.
-Longer dated bonds, conversely are falling, i.e. we're starting to see steepening.
-Equity markets are beginning to be spooked.
-As someone pointed out on Twitter (sorry, whoever you are: I lost the tweet), why would anyone buy the SPX on a 4% earnings yield, when they can buy investment grade corporate debt at a yield of ~100bp less? (I may have got the yields wrong ... sorry again.)
+Markets are largely closed. The USD continued to trend upwards, $DXY now at 100.5.
 
-On the FX side, the Yen continues to sag.
-It has gone from ~¥115 to the $ to ~¥125 in a month. 
-Japan is the only country with a central bank that isn't going to hike.
+## Twitter
 
-## Thought for the day
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Elon ain&#39;t rich enough to spend $40b buying <a href="https://twitter.com/search?q=%24twtr&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$twtr</a> but pretty cool and good for him to do some more security fraud to unwind the bags at an even higher price and to cancel out the earlier security fraud (?)</p>&mdash; Elmer Spud (@PlugInFUD) <a href="https://twitter.com/PlugInFUD/status/1514578984352296961?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-Keeping in touch with very old (i.e. longstanding) friends is worth it, because they are more likely to tell you the truth.
-With new friends, we're much more likely to say what we think the other person wants to hear, because we all want to be lovable.
-With an old friend, presumably we've cleared that hurdle.
+## Image
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Henri Cartier-Bresson <a href="https://t.co/CN4gnvTado">pic.twitter.com/CN4gnvTado</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1515024750992662532?ref_src=twsrc%5Etfw">April 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+## Funding for higher education
+
+One of the arguments for conservatism and even Conservatism, when it had an ideology, is that the _status quo ante_ has a magical property that no untested proposal has, which is that all its faults are already known and 
+understood.
+In the Blair government of the 2000s, a decision was made to allow many more young people to go to university, but to fund them in the way that previous generations had been funded was considered too expensive.
+
+The solution was to lend kids the money, and then get them to repay out of their (generally higher) salaries in the graduate-level jobs they'd go into.
+This was a disaster, which, surely, we should have foreseen. When 10% of a school cohort go to university, the value of a degree has to be higher than when 50% does, unless you believe that
+ability to get into university doesn't correlate at all with ability to earn money. 
+
+Of course, you can't get blood out of a stone, so repayment of loans is "income contingent." In other words, the people who study sports science will never have to pay back any of their debt.
+The moral hazard this creates is highly visible now.
+
+Having market lenders take the risk on students in financing their degrees would be fine. If you are accepted to do an MBA at Harvard Business School, you'll have no problem finding private finance. 
+The market would probably fund you to study computer science at Cambridge, with no problems. 
+But Labour would never agree to such a model, which is why we have the mess we have today.
+
+People would say, "but nobody will be funded to study arts subjects." I think you'd find that Lit. Hum. undergrads at Oxford would manage OK.
+
+The fundamental problem is that the educational establishment is extremely unwilling to accept that a university degree's main value is due to its signalling ability, not the knowledge and skills imparted by 
+dons. I don't think anyone dares take on "The Blob" as Dominic Cummings so appositely called it.
