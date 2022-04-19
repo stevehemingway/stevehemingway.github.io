@@ -1,81 +1,85 @@
 status: published
-date: 2022-04-18
-title: The failure of monetary policy
+date: 2022-04-19
+title: Are we really tightening?
 
-# Monday 18, April 2022
+# Tuesday 19, April 2022
 
-## Tweet
+## Chicago Fed National Financial Conditions Index
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/<br><br>Get a cup of coffee.<br><br>In this thread, we&#39;ll analyze the &quot;Devil&#39;s Card Game&quot;.<br><br>This is a super useful thought exercise. It can teach us several key concepts in economics, probability, betting, hedging, investor/market psychology, etc. <a href="https://t.co/2VHx4iVkLk">pic.twitter.com/2VHx4iVkLk</a></p>&mdash; 10-K Diver (@10kdiver) <a href="https://twitter.com/10kdiver/status/1514241744350507013?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+A lot of macroeconomic theory is about whether we are above or below full employment.
+If we are above, the appropriate policy response is to tighten. If we are below, the correct response is to loosen.
+A a lot of inputs go into measuring whether or not conditions are tight or not.
+For more detail, go [here](https://www.chicagofed.org/research/data/nfci/background).
 
+The upshot of all this hard statistical slog is that the US is still running a loose monetary policy.
+The conclusion that may be tentatively drawn is that inflation is not going to be controlled by this sort of policy response.
+However, the trend is towards tightening, so we may well get there within a month or two.
 
-## Inflation
+<div class="embed-container"><iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=OmWS&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"></iframe></div><script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"></script>
 
-The media is going wild about current inflation, but the market is remarkably sanguine. In the USA, expectation are no higher now than they were in 2018. 
+## Algorithmic Stablecoins
 
-<iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=Olbj&width=670&height=475" scrolling="no" frameborder="0" style="overflow:hidden; width:670px; height:525px;" allowTransparency="true" loading="lazy"></iframe>
+Crypto is a ecosystem of Ponzi schemes.
+It's not just me that says so, it's Matt Levine, [here](https://www.bloomberg.com/opinion/articles/2022-04-19/the-stability-of-algorithmic-stablecoins).
 
-In the UK, the forward expectations is fairly steeply downward sloping, with a kick in the tail.
+> Here is how an algorithmic stablecoin works. You invent two tokens, call them Dollarcoin and Sharecoin. You list them on the crypto exchanges. Sharecoin trades for whatever price is determined by supply and demand. It might be $0.01 per Sharecoin, or $1, or $100, who knows. But Dollarcoin is supposed to trade at $1. If it trades at $0.99, you have some automatic process in which you print more Sharecoins and use them to buy Dollarcoins until it is back to $1. If it trades at $1.01, you have some automatic process in which you print some more Dollarcoins and use them to buy Sharecoins until it is back to $1. The result is that Dollarcoin is firmly pegged to the dollar. The process is sometimes compared to algorithmic central banking, where the central bank maintains the value of the currency (Dollarcoin) by adjusting its supply.
 
-https://www.bankofengland.co.uk/-/media/boe/images/statistics/yield-curves/ukinf.gif?h=390&la=en&w=532&hash=C6F2803F5963F8DE2C5F9962F1B0DCB8064220F9
+Clearly, as Levine explains, this can only work if _the thing you just made up_ has some value, which rationally you'd think it doesn't.
+But clearly crypto doesn't work like that.
+There is a whole financial ecosystem of lending, trading, exchanging these tokens, _all of which someone just made up_.
+OK, dollars used to have value because the Fed used to say you could swap them for gold.
+Even when it said "No, we've changed our minds. You can't exchange dollars for gold any longer," it didn't make much difference:
+the dollar is still the world's reserve currency, and it generates huge revenues ('seigniorage') for the Fed & US Treasury, even to this day.
+So, it sort of works, until it doesn't.
 
-The markets are not always right, but they represent a money-weighted guess about the future. 
-Maybe they are wrong this time, but inflation will not survive a severe downturn.
+I feel that it's a skyscraper built on blocks of expanded polystyrene, but it's stayed up so far, so I'm not going to short it.
 
-## The failure of monetary policy
-
-Monetary policy works by reducing real wages across the board so the labour market can clear, while allowing the market for capital to remain in equilibrium.
-That's my non-economist understanding of the policy.
-
-The left likes using monetary policy, because it can work to reduce unemployment.
-The right likes it because it keeps capital markets buoyant. 
-The finance sector likes it because it has lead to a hyper-financialized economy in which the City is the most important sector in the UK economy, 
-with a concomitant rise in political influence.
-
-The problem is that monetary policy has run out of road. 
-Interest rates are a very blunt tool. 
-It's possible to control inflation by jacking up rates, but only at the price of destroying the capital-intensive parts of the economy,
-like housing and manufacturing.
-When supply chains are stretched to breaking point, and most housing markets have not recovered since the 2008 crisis, this is not a great look.
-The UK has chronically failed to build houses at a replacement rate, with the result that we have a housing stock which is epically unsuited to 
-being insulated cost-effectively.
-
-Allowing energy and food prices to rocket will have a deeply asymmetrical impact on voters.
-The poor devote much more of their income to these items.
-They do not have the luxury of going from luxury foods to 'budget' ones.
-They cannot afford £60,000 for a new EV.
-
-The only solution is fiscal action. Messy, targeted, flawed fiscal measures, 
-I don't like it, and I'm sure Rishi doesn't but the alternative is defeat at the ballot box.
-The May local elections will give an indication of how ordinary people feel about inflation.
-
-## Image of the day
-
-<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Saul Steinberg <a href="https://t.co/N8cfLfqoPQ">pic.twitter.com/N8cfLfqoPQ</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1516031059355475972?ref_src=twsrc%5Etfw">April 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
-## The oil bull case
-
-[Macro Ops nailed this thesis back in 2017](https://macro-ops.com/oil-markets-massive-repricing/).
-I could kick myself for not having the courage of my convictions, but the basic thesis, that all the EVs in all the world are not going
-to make a damn bit of difference to oil usage is correct.
-
-Bison Interests, Kuppy, Pinecone Macro, have all been spot on about this, but until recently nobody really believed them.
-Markets are driven by narratives.
-We are still in the narrative of 'OK, Russia is at war, and there is a transitory disruption to supplies of Russian oil but this will soon be finished and we can go back to ever-declining oil.' 
-Maybe this thesis will win for a bit, but at some point the oil bears will capitulate.
-Especially if governments the world over start subsidizing the price of oil products to consumers.
-If the cure for high prices is high prices, then suppressing high prices is the way to prolong the disease.
+Matt has a fantastic explanation of how poison pills work. You can read it [here](https://www.bloomberg.com/opinion/articles/2022-04-18/twitter-has-a-poison-pill-now). Really, I think I could learn more about how finance works by reading Matt Levine every day than by doing a Harvard MBA.
 
 ## Wrap
 
-Many markets were closed today: Easter Monday. 
-For those that were open, trends largely continued:
+Oil futures fell by 5%. Supposedly, the catalyst for this was the IMF downgrading growth forecasts for 2023.
+I guess the weakness in the oil bull thesis is that the world will have weak or negative growth in a year or two.
+The strength of the dollar ($DXY now above 101) also doesn't help.
 
-- bonds continued to be weighed down by inflation concerns, 
-- the Yen was weak,
-- the dollar was strong,
-- equity markets were generally weak, with the exception of Europe and Brazil,
-- gas and oil went up, as did commodities generally, in spite of the dollar strength, as were Canadian gas producers such as Range Resources and Sandridge.
-- home construction ($ITB), a proxy for US real estate prices, was down. Housing is the biggest asset class of all, and 30 year mortgage rates in the US are up by ~40% (up to ~5% pa), which when combined with food and energy inflation draining spending power from the US consumer things are looking bad.
+![CLK22]({attach}CLK22_Barchart_Interactive_Chart_04_19_2022.png)
+
+Yen continues to be very weak.
+Bonds are still weak, which seems counter intuitive given the strength of the dollar.
+The same goes for most commodities, but again, since they are priced in dollars, in real terms they didn't change much.
+
+Equities were strong. The US indices seem to trade like some sort of safe asset now.
+Today was the first day back for many bourses. 
+I feel that some of these movements reflect developments dating to before Easter.
+
+## The Macro Trading Floor
+
+Alfonso Peccatiello & Andreas Steno Larsen have a new podcast, _The Macro Trading Floor_.
+Their first guest was Jim Leitner. 
+The thesis was that commodities are still underpriced, the backwardation we see in most commodity futures markets is not justified,
+and that this will benefit currencies such as the Brazilian Real.
+This seems logical, but is hardly original (Vicent Deluard of Stone X has been saying the same thing for years).
+The problem is that the market is not buying it.
+Forward markets are pricing in a bad recession.
+Although they are not infallible, markets have a habit of being an unbiased forecast.
+
+## Tweet of the day
+
+<blockquote class="twitter-tweet"><p lang="de" dir="ltr">Porsche, 1967 <a href="https://t.co/xqrjlaSoj5">pic.twitter.com/xqrjlaSoj5</a></p>&mdash; Best Ads Of All Time (@BestAdsTime) <a href="https://twitter.com/BestAdsTime/status/1516062268542398467?ref_src=twsrc%5Etfw">April 18, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+My, how times change!
+
+And a bonus tweet:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It hurts to watch. <a href="https://t.co/3Dc0h9Hhbh">pic.twitter.com/3Dc0h9Hhbh</a></p>&mdash; Travis.web1 (@coloradotravis) <a href="https://twitter.com/coloradotravis/status/1515524643549032456?ref_src=twsrc%5Etfw">April 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Image of the day
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/Gn0PONb0TG">pic.twitter.com/Gn0PONb0TG</a></p>&mdash; Architects Against Humanity (@arch_crimes) <a href="https://twitter.com/arch_crimes/status/1515680061336170501?ref_src=twsrc%5Etfw">April 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+A reminder that nearly all the buildings and districts we admire for their layout and architecture were created before architects (in the modern sense) and town planners were separate disciplines.
+
+
+
+
 
