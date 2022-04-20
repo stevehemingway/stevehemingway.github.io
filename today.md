@@ -42,3 +42,13 @@ equity vol fell slightly, credit generally recovered.
 This was a light news day. House prices broke new all-time highs, but numbers of transactions were very low.
 There seems a feeling that the housing market is about to crack.
 
+## Thought for the day
+
+[United Kingdom Corporate and Individual Tax and Financial Transparency Bill](https://bills.parliament.uk/bills/1219), described [here](https://www.taxresearch.org.uk/Blog/2013/10/31/camerons-public-register-of-the-beneficial-ownership-of-companies-will-be-a-damp-squib-of-a-reform/) has been stuck in the second reading stage since 2014, and will never be passed.
+This tells you everything you ever need to know about the appetite of UK governments' commitment to transparency in ownership of financial assets.
+_Beneficial_ ownership, a.k.a. real ownership.
+
+The UK is addicted to secrecy. It was a criminal offence to reveal Rishi Sunak's wife's tax status (spoiler: she's a non-dom).
+In Norway, everyone's tax return is available for public inspection.
+The disparity is yawning.
+
