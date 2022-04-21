@@ -1,54 +1,62 @@
 status: published
-date: 2022-04-20
-title: Beer
+date: 2022-04-21
+title: Excel: the cockroach of PC apps
 
-# Wednesday 20, April 2022
+# Thursday 21, April 2022
 
-Tesla is the big story of the day. [Elmer Spud writes about it](https://elmerspud.substack.com/p/tesla-q1-22-pre-earnings-thoughts?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1MjUxMTQ2NSwiXyI6ImNYWWdqIiwiaWF0IjoxNjUwNDQ0NDYyLCJleHAiOjE2NTA0NDgwNjIsImlzcyI6InB1Yi0zMDQ4MTkiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ywc8IBT_4ha-MYqanI5UsG4_v_1C7dRx_Pd0tsEhn7Q&s=r). 
-In my bones I know it's a Ponzi, but it's just too damn volatile to short.
+## ETH and Excel
 
-[This](https://slope.substack.com/p/half-a-billion-dollar-loss-ack?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1MjUwNDE0MSwiXyI6ImNYWWdqIiwiaWF0IjoxNjUwNDQ1MDk4LCJleHAiOjE2NTA0NDg2OTgsImlzcyI6InB1Yi04MTcwOTQiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.rVmRxkUg_MvlDtqyVDk6fPj4uOQuMTyLBHpxMi5nIuY&s=r) is an amusing post about Ackman and Netflix. Ackman has become an object of contempt for FinTwit.
+Writing software is slow and frustrating.
+Even outstanding programmers, who may be an order of magnitude faster than mere mortals, take time to create anything big.
+ETH (Ethereum) is a crypto currency, but with an interface to allow programmers to build apps on top of it.
+I am a crypto sceptic, but a lot of smart people think it's go legs, so I know I'm missing something.
+[This](https://www.notboring.co/p/own-the-internet?s=r) seems a good attempt to explain why it's not just hot air (or hot crypto mining rigs).
+The article compares ETH to Excel: the PC app that will not die.
+I thought it was funny, because the article argues that Excel has huge value, and I just see it as huge waste of time, for most users.
+Excel is a sort of programming language, but written in a peculiarly unstructured way, in such a way that it's inextricably mixed with data.
+To be fair, it is largely functional (although I'm not sure about goal seeking and pivot tables).
+I spent a lot of time writing DLLs to be called from Excel.
+I get it that bolting stuff onto Excel can add value.
+I'm just sceptical that ETH is strictly comparable.
 
-I can't decide about Covid. There seems to be so much misinformation, and partial information about it. 
-To get a flavour of what is missing from the MSM, read [this](https://harvard2thebighouse.substack.com/p/understanding-covid-19-and-seasonal?s=r). Probably nothing.
+I just don't know. Crypto is a huge ecosystem, and has drawn in a lot of money.
+Regular currencies are now overwhelmingly just entries in a ledger, as is credit.
+Having that ledger maintained on a publicly inspectable secure form seems an advance on 
+creaking 1960's bank mainframe databases, and if ETH is a central bank, one can see lots of 
+commercial banks clearing funds through it.
 
-Crude oil is not that expensive in real terms, by historical standards.
+Is this all worth trillions of dollars? I remain sceptical.
+For me, the problem is that ETH seems to think it can substitute for law and courts as arbiters and enforcement of contract.
+At some point, someone is going to lose a lot of ETH because his interpretation is different to his counterparty's.
+We live in the real world: he is going to sue. 
+If he succeeds (and, surely, someone will) this renders an ETH contract risky, and the ETH block chain just a filing cabinet.
 
-![Crude oil, real price, 1900 to today](https://email.mg2.substack.com/c/eJxVUtuOrSAM_Zrtm4arwgMPk5Oc3zAFqtuMggdw9nG-fnD7NAlpyyLtKl11UHCO6TR7zKW5zFjOHU3AV16xFEzNkTGNizeUEkaYbLwRniqpmiWPU0LcYFlNSQc2-2HXxUFZYrgSuFRc8OZpRK8E1wPzkhHugCjtgQnoJ6EI9Wq4eeHwCwaHBr8wnTFgs5pnKXt-8I8H-1uP86HLh80F3Gfn4lahZYMZq5-wuOfla5kSH-zPvzvgH3OMvt6nddxTnBPmvHxhxXNB3GvGTcHkRSIvmmrs4T6xvqcWibTWKdFaAN4KPmCrJVUteMuZxWHQSnSZd7DBdwzwyndftcY9jHf4bjK_Q03IAE5C67z0reg9bzXntvVKygn8hML1I2WM_e-16vYwN4upU2dEUEoHWU3HOt8rNim0PVgniOOdeGldvk_7EGSb2a8ZNcnUn9YfC1KRDNsbrM2N1W9HWMo5YgC7or9FLPcqvGUdZwyY6or4EYqhvdC91mLgktFbs6qyvJZCDUNTWX2sWcFs4FKMe_4BUqzEfw)
+## Epstein, Ghislane and Anti-trust
 
-## Beer
-
-For my recent birthday I was bought the [Belgian Beer Mixed Case (15 beers)](https://www.beerhawk.co.uk/belgian-mixed-case).
-Today I sampled  Palm Belgian Amber Ale Can, which I rate at 8/10 and  Estaminet Refined Lager which I rated at 6/10.
-These are personal preferences, not a comment on the quality of the beers compared to some idealized version of the type they represent.
-I guess I just prefer ales.
-
-Disclaimer: a close relative of works for ABI, which owns Beerhawk, and probably owns some if not all of the breweries that make the beers in this case.
-Neither of us stand to make anything from advertising the product.
-
-## Tweet of the day
-
-<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/X9FBjFHuVL">pic.twitter.com/X9FBjFHuVL</a></p>&mdash; Rothmus 🏴 (@Rothmus) <a href="https://twitter.com/Rothmus/status/1516735058589237250?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-## Image of the day
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dean West <a href="https://t.co/iYpMDau0So">pic.twitter.com/iYpMDau0So</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1516869896684064771?ref_src=twsrc%5Etfw">April 20, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+Matt Stoller has written 
+[a piece](https://mattstoller.substack.com/p/why-is-ghislaine-maxwells-lawyer?r=nmbt&s=r&utm_campaign=post&utm_medium=email) on the corruption of 'Big Law'.
+When the price of everything man-made drops because of advances in technology, the cost of law just goes up and up.
+I guess it's because the value to a defendant goes up and up, when it is a big corporation or an oligarch or a hedge fund manager or a child trafficker.
 
 ## Wrap
 
-Everything seemed to reverse its previous trends. 
-Oil bounced a bit, bonds rallied, equities fell (NDX) or remained flat (SPX), European shares were up, commodities were mixed,
-equity vol fell slightly, credit generally recovered. 
-This was a light news day. House prices broke new all-time highs, but numbers of transactions were very low.
-There seems a feeling that the housing market is about to crack.
+Lots of volatility today. Markets largely ended up where they started, with the exception of equities.
+NDX was down 2%. It remains volatile, but some of the FAANG are suffering. FB was down 4%.
+Bonds were generally down, even though equities were risk-off.
+Currencies were risk off. The dollar was up against its open, after a wide range, at 100.67, but not back to the 101 it hit yesterday.
 
-## Thought for the day
+## Twitter
 
-[United Kingdom Corporate and Individual Tax and Financial Transparency Bill](https://bills.parliament.uk/bills/1219), described [here](https://www.taxresearch.org.uk/Blog/2013/10/31/camerons-public-register-of-the-beneficial-ownership-of-companies-will-be-a-damp-squib-of-a-reform/) has been stuck in the second reading stage since 2014, and will never be passed.
-This tells you everything you ever need to know about the appetite of UK governments' commitment to transparency in ownership of financial assets.
-_Beneficial_ ownership, a.k.a. real ownership.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Team42?src=hash&amp;ref_src=twsrc%5Etfw">#Team42</a>, there is a globally synchronized slowdown underway that is set to get worse in the coming quarters.<br><br>OECD Composite Leading Indices for the US, Chinese, Eurozone, Japanese,and Global Economies <a href="https://t.co/NuAeIWpxfs">pic.twitter.com/NuAeIWpxfs</a></p>&mdash; 42 Macro🇺🇦 (@42macro) <a href="https://twitter.com/42macro/status/1517250460079443969?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-The UK is addicted to secrecy. It was a criminal offence to reveal Rishi Sunak's wife's tax status (spoiler: she's a non-dom).
-In Norway, everyone's tax return is available for public inspection.
-The disparity is yawning.
+## Image
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bert Hardy, Glasgow, 1948 <a href="https://t.co/PsFPfkQCmw">pic.twitter.com/PsFPfkQCmw</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1517224652044648448?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+## Idea
+
+It came as a great surprise to me to find that when I actually arrived at some real life problem, expressible as a differential equation, that there were 
+no analytic solutions available. 
+All my training up until that point had been about arriving at some neat analytic solution to such equations.
+It was quite upsetting to realize that I'd have to use a computer to grind out a numerical solution.
 
