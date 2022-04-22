@@ -1,62 +1,56 @@
 status: published
-date: 2022-04-21
-title: Excel: the cockroach of PC apps
+date: 2022-04-22
+title: Fifty shades of red
 
-# Thursday 21, April 2022
-
-## ETH and Excel
-
-Writing software is slow and frustrating.
-Even outstanding programmers, who may be an order of magnitude faster than mere mortals, take time to create anything big.
-ETH (Ethereum) is a crypto currency, but with an interface to allow programmers to build apps on top of it.
-I am a crypto sceptic, but a lot of smart people think it's go legs, so I know I'm missing something.
-[This](https://www.notboring.co/p/own-the-internet?s=r) seems a good attempt to explain why it's not just hot air (or hot crypto mining rigs).
-The article compares ETH to Excel: the PC app that will not die.
-I thought it was funny, because the article argues that Excel has huge value, and I just see it as huge waste of time, for most users.
-Excel is a sort of programming language, but written in a peculiarly unstructured way, in such a way that it's inextricably mixed with data.
-To be fair, it is largely functional (although I'm not sure about goal seeking and pivot tables).
-I spent a lot of time writing DLLs to be called from Excel.
-I get it that bolting stuff onto Excel can add value.
-I'm just sceptical that ETH is strictly comparable.
-
-I just don't know. Crypto is a huge ecosystem, and has drawn in a lot of money.
-Regular currencies are now overwhelmingly just entries in a ledger, as is credit.
-Having that ledger maintained on a publicly inspectable secure form seems an advance on 
-creaking 1960's bank mainframe databases, and if ETH is a central bank, one can see lots of 
-commercial banks clearing funds through it.
-
-Is this all worth trillions of dollars? I remain sceptical.
-For me, the problem is that ETH seems to think it can substitute for law and courts as arbiters and enforcement of contract.
-At some point, someone is going to lose a lot of ETH because his interpretation is different to his counterparty's.
-We live in the real world: he is going to sue. 
-If he succeeds (and, surely, someone will) this renders an ETH contract risky, and the ETH block chain just a filing cabinet.
-
-## Epstein, Ghislane and Anti-trust
-
-Matt Stoller has written 
-[a piece](https://mattstoller.substack.com/p/why-is-ghislaine-maxwells-lawyer?r=nmbt&s=r&utm_campaign=post&utm_medium=email) on the corruption of 'Big Law'.
-When the price of everything man-made drops because of advances in technology, the cost of law just goes up and up.
-I guess it's because the value to a defendant goes up and up, when it is a big corporation or an oligarch or a hedge fund manager or a child trafficker.
+# Friday 22, April 2022
 
 ## Wrap
 
-Lots of volatility today. Markets largely ended up where they started, with the exception of equities.
-NDX was down 2%. It remains volatile, but some of the FAANG are suffering. FB was down 4%.
-Bonds were generally down, even though equities were risk-off.
-Currencies were risk off. The dollar was up against its open, after a wide range, at 100.67, but not back to the 101 it hit yesterday.
+There was a fairly strong risk-off end to the week.
+Bonds were weak, but otherwise the predictable moves occurred: dollar up, equities down, commodities down. 
+I don't talk about crypto much, because, well, I don't really understand it from a supply and demand point of view.
+It seems to me that the supply is, in effect, infinite, but it has a real value which means that this probably is not the case.
+However, BTC tracked NDX pretty much tick for tick: both down about 3%.
+
+Supposedly, the catalyst was J Powell saying that he was committed to taming inflation.
+To my mind, market reaction has been enough to tighten without a string of 50bp hikes, but I don't have a PhD in economics.
 
 ## Twitter
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Team42?src=hash&amp;ref_src=twsrc%5Etfw">#Team42</a>, there is a globally synchronized slowdown underway that is set to get worse in the coming quarters.<br><br>OECD Composite Leading Indices for the US, Chinese, Eurozone, Japanese,and Global Economies <a href="https://t.co/NuAeIWpxfs">pic.twitter.com/NuAeIWpxfs</a></p>&mdash; 42 Macro🇺🇦 (@42macro) <a href="https://twitter.com/42macro/status/1517250460079443969?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/search?q=%24SPY&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$SPY</a> <a href="https://twitter.com/search?q=%24QQQ&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$QQQ</a> <a href="https://twitter.com/search?q=%24AAPL&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AAPL</a> <a href="https://twitter.com/search?q=%24AMZN&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$AMZN</a> <a href="https://twitter.com/search?q=%24FB&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$FB</a> <a href="https://twitter.com/search?q=%24MSFT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MSFT</a> <a href="https://twitter.com/search?q=%24NFLX&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$NFLX</a> <a href="https://twitter.com/search?q=%24TSLA&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$TSLA</a> <a href="https://t.co/cAgOBgmdL1">pic.twitter.com/cAgOBgmdL1</a></p>&mdash; Kenneth Towers (@KentagiousDance) <a href="https://twitter.com/KentagiousDance/status/1517219752908779520?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-## Image
+## Images
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bert Hardy, Glasgow, 1948 <a href="https://t.co/PsFPfkQCmw">pic.twitter.com/PsFPfkQCmw</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1517224652044648448?ref_src=twsrc%5Etfw">April 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="et" dir="ltr">Tilda Swinton by Floria Sigismondi <a href="https://t.co/77WRuBEivP">pic.twitter.com/77WRuBEivP</a></p>&mdash; Daniel Brami (@Daniel_Red_Eire) <a href="https://twitter.com/Daniel_Red_Eire/status/1517593622371344386?ref_src=twsrc%5Etfw">April 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-## Idea
+## Taking risks
 
-It came as a great surprise to me to find that when I actually arrived at some real life problem, expressible as a differential equation, that there were 
-no analytic solutions available. 
-All my training up until that point had been about arriving at some neat analytic solution to such equations.
-It was quite upsetting to realize that I'd have to use a computer to grind out a numerical solution.
+A lot of people comment on how risk-averse millennials are. 
+I wonder if it's because their experience of life is too similar to that of their parents.
+The baby boomers experienced a coming of age in a world which was very different to that of their parents.
+They came into a world of high demand for labour and no war and an explosion of new technologies.
+They had access to a lot of experiences their parents did not, which made them, perhaps, less 
+deferential to wisdom of their parents and, therefore, more willing to experiment.
+
+Maybe there is nothing in this, but as a boomer, I feel that I had a very different experience of life,
+which, possibly, made me more risk-taking.
+
+## Read of the day
+
+Ben Hunt's Epsilon Theory is amazing reading.
+He has written about credentialism, [here](https://www.epsilontheory.com/the-ministry-of-rites-and-the-compassionate-man/?utm_source=ET+Newsletter&utm_medium=Email&utm_campaign=website).
+Read it.
+He invites us to see things differently, to remove our blindfolds.
+I particularly liked the quote from Frank Gallagher (William H. Macy) in Shameless, a peerless series.
+
+> Nearly half of white students admitted to Harvard between 2009 and 2014 were recruited athletes, legacy students, children of faculty and staff, or on the dean’s interest list—applicants whose parents or relatives have donated to Harvard, according to a 2019 study published in the National Bureau of Economic Research.
+
+[This article is related](https://www.wsj.com/articles/to-get-into-the-ivy-league-extraordinary-isnt-always-enough-these-days-11650546000?utm_source=ET+Newsletter&utm_medium=Email&utm_campaign=website)
+
+Higher education, like law, and medicine, are sectors that have no apparent limits to growth.
+The resources they drain from productive activity is driving down productivity and creating an economic disaster.
+
+
+
+
 
