@@ -113,9 +113,11 @@ Old_LINKS = (
 
 
 # Social widget
-# SOCIAL = (('email', 'steve@stevehemingway.com'),
+SOCIAL = (('email', 'steve@acksam.com'),
 # ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
-#  ('twitter', 'https://twitter.com/steveknebworth'),)
+  ('twitter', 'https://twitter.com/s_hemingway_'),
+  ('reddit', 'https://www.reddit.com/user/stevehem'),
+  )
 
 DEFAULT_PAGINATION = 10
 
