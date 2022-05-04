@@ -62,7 +62,6 @@ DEFAULT_DATE = 'fs'
 DEFAULT_CATEGORY = 'markets'
 USE_FOLDER_AS_CATEGORY = False
 
-
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
 CACHE_CONTENT = True
 LOAD_CONTENT_CACHE = False
@@ -113,7 +112,7 @@ Old_LINKS = (
 
 
 # Social widget
-SOCIAL = (('email', 'steve@acksam.com'),
+SOCIAL = (('email', 'mailto:steve@acksam.com'),
 # ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
   ('twitter', 'https://twitter.com/s_hemingway_'),
   ('reddit', 'https://www.reddit.com/user/stevehem'),
@@ -129,8 +128,8 @@ RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS fee
 
 # typographical improvements!
 # you need to install typogrify as a python library (via pip) if you use this.
-# you installed pelican via pipx (i.e. in virt. env.) but you can't seem to install typogrify inside it.
-
+# you  pelican via pipx (i.e. in virt. env.) but you can't seem to install typogrify inside it.
+# installed
 TYPOGRIFY = True
 SEARCH_BOX = False
 TYPOGRIFY_DASHES = 'default'
@@ -142,8 +141,7 @@ TYPOGRIFY_DASHES = 'default'
 # else:
 	# PLUGIN_PATHS = ["plugins/",]
 	
-PLUGINS=None
-# ["sitemap",  "readtime", "neighbors", "frontmark"]
+PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
