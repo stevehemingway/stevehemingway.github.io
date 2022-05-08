@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-05-04T12:53:27-00:00</lastmod>
+<lastmod>2022-05-08T16:13:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -25,15 +25,64 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/fed-meeting-day.html</loc>
-<lastmod>2022-05-04T10:48:15+01:00</lastmod>
+<loc>https://www.stevehemingway.com/pages/comment-policy.html</loc>
+<lastmod>2022-05-08T11:11:36+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/mmt-is-official-policy-now.html</loc>
+<lastmod>2022-05-08T16:13:06+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2022-05-03T09:44:16+01:00</lastmod>
+<loc>https://www.stevehemingway.com/2022-05-13.html</loc>
+<lastmod>2022-05-08T13:01:39+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/2022-05-12.html</loc>
+<lastmod>2022-05-08T13:01:07+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/themes.html</loc>
+<lastmod>2022-05-06T15:20:18+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/you-cant-short-a-cult.html</loc>
+<lastmod>2022-05-08T12:59:36+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/oops-the-fed-did-it-again.html</loc>
+<lastmod>2022-05-06T14:35:22+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/close-of-fomc-meeting-no-surprises.html</loc>
+<lastmod>2022-05-06T09:31:30+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/god-make-me-green-but-not-yet.html</loc>
+<lastmod>2022-05-06T10:53:27+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4611,7 +4660,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-05-04T10:48:15-00:01</lastmod>
+<lastmod>2022-05-08T16:13:06-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5037,8 +5086,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/author/me.html</loc>
-<lastmod>2022-05-04T10:48:15-00:01</lastmod>
+<loc>https://www.stevehemingway.com/author/steve.html</loc>
+<lastmod>2022-05-08T16:13:06-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
