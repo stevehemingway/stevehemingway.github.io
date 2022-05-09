@@ -121,7 +121,7 @@ SOCIAL = (('email', 'mailto:steve@acksam.com'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS feed
@@ -139,9 +139,9 @@ TYPOGRIFY_DASHES = 'default'
 # if (platform.system() == 'Linux'):
 	# PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
 # else:
-	# PLUGIN_PATHS = ["plugins/",]
+PLUGIN_PATHS = ["plugins/",]
 	
-PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more"]
+PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more", u"disqus_static"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
