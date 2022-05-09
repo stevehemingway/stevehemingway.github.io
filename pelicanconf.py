@@ -145,7 +145,7 @@ TYPOGRIFY_DASHES = 'default'
 # else:
 PLUGIN_PATHS = ["plugins/",]
 	
-PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more", u"disqus_static"]
+PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more", ] # u"disqus_static"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
