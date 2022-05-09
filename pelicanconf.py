@@ -7,7 +7,8 @@ import platform
 PATH = 'content'
 
 # limit of article summary (words)
-SUMMARY_MAX_LENGTH = 50
+
+SUMMARY_MAX_LENGTH = 100
 SUMMARY_END_SUFFIX = '…'
 
 # this will force articles with future dates to be set to draft
@@ -43,8 +44,11 @@ EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
 }
 
-THEME = 'notmyidea'
-AUTHOR = 'me'
+# THEME = 'notmyidea'
+# THEME = 'themes/Flex'
+THEME = 'themes/notmyidea-tld'
+
+AUTHOR = 'steve'
 SITENAME = 'Postcards from the Internet'
 SITESUBTITLE = 'Life, the universe, and the markets'
 # SITEURL = 'https://stevehemingway.github.io'
@@ -161,3 +165,5 @@ SITEMAP = {
         "pages": "daily"
     }
 }
+
+DISQUS_SITENAME = 'stevehem'
