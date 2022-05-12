@@ -49,8 +49,8 @@ EXTRA_PATH_METADATA = {
 THEME = 'themes/notmyidea-tld'
 
 AUTHOR = 'steve'
-SITENAME = 'Postcards from the Internet'
-SITESUBTITLE = 'Life, the universe, and the markets'
+SITENAME = 'Steve\'s boring blog'
+SITESUBTITLE = 'Mainly market musings'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -143,9 +143,9 @@ TYPOGRIFY_DASHES = 'default'
 # if (platform.system() == 'Linux'):
 	# PLUGIN_PATHS = ["/home/steve/pelican-plugins/",]	
 # else:
-PLUGIN_PATHS = ["plugins/",]
+PLUGIN_PATHS = ["plugins/",'/pelican-plugins']
 	
-PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more", ] # u"disqus_static"]
+PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  u"disqus_static"]
 # PLUGINS=["sitemap",  "readtime"]
 
 # get rid of tags, because you're too lazy to use them.
@@ -167,3 +167,7 @@ SITEMAP = {
 }
 
 DISQUS_SITENAME = 'stevehem'
+
+DISQUS_SECRET_KEY = 'Ce1OrlwiUJv3UTMIqgX1N9Ejip39vj1espJVz7n4O4yOgUzTZ0GLwNMXdKDqDn7h'
+
+DISQUS_PUBLIC_KEY = 'rOVpMACbjA97SPJiAzGktAByWPRYifNtZT7DMyxNnfBYHVqhL6n3DjYOqqEEpoxx'
