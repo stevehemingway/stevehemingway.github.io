@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-05-19T21:28:21-00:00</lastmod>
+<lastmod>2022-05-23T22:11:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -28,6 +28,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/comment-policy.html</loc>
 <lastmod>2022-05-12T10:59:56+01:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/ok-recession-is-coming-but-you-wont-starve-to-death.html</loc>
+<lastmod>2022-05-23T22:09:22+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/why-the-usa-has-a-shortage-of-formula-milk.html</loc>
+<lastmod>2022-05-23T22:11:02+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -68,7 +82,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/will-the-exorbitant-privilege-end-in-our-lifetimes.html</loc>
-<lastmod>2022-05-16T22:19:39+01:00</lastmod>
+<lastmod>2022-05-20T12:47:49+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4716,7 +4730,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-05-19T21:28:12-00:01</lastmod>
+<lastmod>2022-05-23T22:11:02-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5143,7 +5157,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-05-19T21:28:12-00:01</lastmod>
+<lastmod>2022-05-23T22:11:02-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
