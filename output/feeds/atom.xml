@@ -1,9 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Steve's boring blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-05-23T22:07:05+01:00</updated><subtitle>Mainly market musings</subtitle><entry><title></title><link href="https://www.stevehemingway.com/.html" rel="alternate"></link><published>2022-05-23T00:00:00+01:00</published><updated>2022-05-23T22:07:05+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-23:/.html</id><summary type="html">&lt;h1&gt;Monday 23, May&amp;#160;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Steve's boring blog</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-05-24T22:39:30+01:00</updated><subtitle>Mainly market musings</subtitle><entry><title>Regulatory Arbitrage applied to Total Return Swaps (Levine)</title><link href="https://www.stevehemingway.com/regulatory-arbitrage-applied-to-total-return-swaps-levine.html" rel="alternate"></link><published>2022-05-24T00:00:00+01:00</published><updated>2022-05-24T22:39:30+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-24:/regulatory-arbitrage-applied-to-total-return-swaps-levine.html</id><summary type="html">&lt;h1&gt;Tuesday 24, May&amp;#160;2022&lt;/h1&gt;
+&lt;h2&gt;Housing-led&amp;#160;recession?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/5db0iwb57zls7k7/RIP%20Good%20times.pdf?dl=0"&gt;This &lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Five year breakevens rolling&amp;#160;over&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.tradingview.com/x/eKa1oZF7/"&gt;&amp;#160;https://www.tradingview.com/x/1kdTOYjT/&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The market seems to have decided that a recession is coming.
+The shorter and longer yield curves are inverted. 
+Bonds rallied across the board today.
+Although the &lt;span class="caps"&gt;DJIA&lt;/span&gt; eked out a &amp;#8230;&lt;a class="read-more" href="/regulatory-arbitrage-applied-to-total-return-swaps-levine.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Tuesday 24, May&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;Housing-led&amp;nbsp;recession?&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.dropbox.com/s/5db0iwb57zls7k7/RIP%20Good%20times.pdf?dl=0"&gt;This &lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;Five year breakevens rolling&amp;nbsp;over&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="https://www.tradingview.com/x/eKa1oZF7/"&gt;&amp;nbsp;https://www.tradingview.com/x/1kdTOYjT/&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The market seems to have decided that a recession is coming.
+The shorter and longer yield curves are inverted. 
+Bonds rallied across the board today.
+Although the &lt;span class="caps"&gt;DJIA&lt;/span&gt; eked out a gain, the broad and tech indexes were down.
+The &lt;span class="caps"&gt;NDX&lt;/span&gt; is now down 13.5% YoY, I think more than 20% below its &lt;span class="caps"&gt;ATH&lt;/span&gt;.
+Commodities were mixed, but generally up. Crude is up 67% YoY, so it&amp;#8217;s 
+not surprising it has difficulty going higher.
+Gold and silver were up, against the yearly trend: YoY pretty flat.
+Maybe were are going into&amp;nbsp;stagflation.&lt;/p&gt;
+&lt;h2&gt;Matt Levine on Total Return (Equity)&amp;nbsp;Swaps&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.bloomberg.com/opinion/articles/2022-05-24/take-the-swaps-off-the-balance-sheet"&gt;This is worth a read.&lt;/a&gt;
+It explains how a bank can hedge a total return swap via a swap with a counterparty that doesn&amp;#8217;t have the bank&amp;#8217;s capital adequacy requirements. 
+It&amp;#8217;s a classic regulatory arbitrage, which Levine admires, and so do I, to an extent.
+But it shows how it is very difficult to regulate big business, when that big business employs very clever people to work out 
+how to bypass that regulation.
+It&amp;#8217;s not that these people are bad, it&amp;#8217;s just that they&amp;#8217;ll go out of business if they don&amp;#8217;t behave competitively.
+Anyway, it explains what these banks do, and what they get paid for doing it.
+Which makes it a bargain to promise Jamie Dimon and extra $50M of&amp;nbsp;bonus.&lt;/p&gt;
+&lt;h2&gt;Image&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Testing. &lt;a href="https://t.co/4gwU0nyFaK"&gt;pic.twitter.com/4gwU0nyFaK&lt;/a&gt;&lt;/p&gt;&amp;mdash; Raylivez (@Raylivez1) &lt;a href="https://twitter.com/Raylivez1/status/1528936980146421760?ref_src=twsrc%5Etfw"&gt;May 24, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Bonus&amp;nbsp;Image&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="ja" dir="ltr"&gt;おはようございます&lt;a href="https://twitter.com/hashtag/BobDylan?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#BobDylan&lt;/a&gt; &lt;a href="https://twitter.com/hashtag/BOTD?src=hash&amp;amp;ref_src=twsrc%5Etfw"&gt;#&lt;span class="caps"&gt;BOTD&lt;/span&gt;&lt;/a&gt;, in 1941, musician, singer - songwriter.&lt;br&gt;&lt;br&gt;Bob Dylan - I Want You (Official Audio) &lt;a href="https://t.co/Tie4bq0Bi4"&gt;https://t.co/Tie4bq0Bi4&lt;/a&gt; &lt;a href="https://t.co/Mfvb3oWq6d"&gt;pic.twitter.com/Mfvb3oWq6d&lt;/a&gt;&lt;/p&gt;&amp;mdash; PPMnow (@patties_ron) &lt;a href="https://twitter.com/patties_ron/status/1528869044027154432?ref_src=twsrc%5Etfw"&gt;May 23, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;</content><category term="markets"></category></entry><entry><title>OK, recession is coming, but you won’t starve to death</title><link href="https://www.stevehemingway.com/ok-recession-is-coming-but-you-wont-starve-to-death.html" rel="alternate"></link><published>2022-05-23T00:00:00+01:00</published><updated>2022-05-23T22:09:22+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-23:/ok-recession-is-coming-but-you-wont-starve-to-death.html</id><summary type="html">&lt;h1&gt;Monday 23, May&amp;#160;2022&lt;/h1&gt;
 &lt;h2&gt;Chart of&amp;#160;doom&lt;/h2&gt;
 &lt;p&gt;For some reason, the cult of equities is still alive, even though it should long ago have departed the&amp;#160;scene. &lt;/p&gt;
 &lt;p&gt;Anyway, we are finally seeing some flows out of equity passive funds. 
-I am not quite sure what a &amp;#8220;Financials &lt;span class="caps"&gt;ETF&lt;/span&gt; Flow&amp;#8221; is &amp;#8230;&lt;a class="read-more" href="/.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Monday 23, May&amp;nbsp;2022&lt;/h1&gt;
+I am not quite sure what a &amp;#8220;Financials &lt;span class="caps"&gt;ETF&lt;/span&gt; Flow&amp;#8221; is &amp;#8230;&lt;a class="read-more" href="/ok-recession-is-coming-but-you-wont-starve-to-death.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Monday 23, May&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Chart of&amp;nbsp;doom&lt;/h2&gt;
 &lt;p&gt;For some reason, the cult of equities is still alive, even though it should long ago have departed the&amp;nbsp;scene. &lt;/p&gt;
 &lt;p&gt;Anyway, we are finally seeing some flows out of equity passive funds. 
@@ -42,14 +81,13 @@ There doesn&amp;#8217;t seem much in the way of news to justify a bounce, but ma
 
 &lt;ul&gt;
 &lt;li&gt;&lt;span class="caps"&gt;HYG&lt;/span&gt; (high&amp;nbsp;yield)&lt;/li&gt;
-&lt;/ul&gt;</content><category term="markets"></category></entry><entry><title></title><link href="https://www.stevehemingway.com/.html" rel="alternate"></link><published>2022-05-20T00:00:00+01:00</published><updated>2022-05-20T12:52:02+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-20:/.html</id><summary type="html">&lt;h1&gt;Friday 20, May&amp;#160;2022&lt;/h1&gt;
+&lt;/ul&gt;</content><category term="markets"></category></entry><entry><title>Why the USA has a shortage of formula milk.</title><link href="https://www.stevehemingway.com/why-the-usa-has-a-shortage-of-formula-milk.html" rel="alternate"></link><published>2022-05-20T00:00:00+01:00</published><updated>2022-05-23T22:11:02+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-20:/why-the-usa-has-a-shortage-of-formula-milk.html</id><summary type="html">&lt;h1&gt;Friday 20, May&amp;#160;2022&lt;/h1&gt;
+&lt;p&gt;I was too busy today to make a regular post, so I just noted a few interesting things I read&amp;#160;recently.&lt;/p&gt;
 &lt;h2&gt;Things I&amp;#8217;ve&amp;#160;read&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;a href="https://mtcbd.substack.com/p/macrotactical-crypto-17?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1NDA1MTcxNywiXyI6IjJTQkZvIiwiaWF0IjoxNjUzMDM3NjkyLCJleHAiOjE2NTMwNDEyOTIsImlzcyI6InB1Yi03MTUzODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.eHLgXuC3P_PiQxvcPmAKgmTh3TSU0lMtiMNSuHYSER4&amp;amp;s=r"&gt;Who&amp;#8217;s driving the crypto bus?&lt;/a&gt; Brent Donnelly points out that there are tight correlations across seemingly unrelated markets, but that when examined more closely these turn out to be so unrelated after all. He applies that to crypto&amp;#160;markets.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://mattstoller.substack.com/p/big-bottle-the-baby-formula-nightmare?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1NDQ5NjY4OCwiXyI6IjJTQkZvIiwiaWF0IjoxNjUzMDQ3MjM0LCJleHAiOjE2NTMwNTA4MzQsImlzcyI6InB1Yi0xMTUyNCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.wRTAM7_Wcb9mbn0uBg8926sQQoWn5Qq1o8YuE-tu1Ng&amp;amp;s=r"&gt;The formula &amp;#8230;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;a class="read-more" href="/.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Friday 20, May&amp;nbsp;2022&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://mtcbd.substack.com/p/macrotactical-crypto-17?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1NDA1MTcxNywiXyI6IjJTQkZvIiwiaWF0IjoxNjUzMDM3NjkyLCJleHAiOjE2NTMwNDEyOTIsImlzcyI6InB1Yi03MTUzODMiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.eHLgXuC3P_PiQxvcPmAKgmTh3TSU0lMtiMNSuHYSER4&amp;amp;s=r"&gt;Who&amp;#8217;s driving the crypto bus?&lt;/a&gt; Brent Donnelly points out that there are tight correlations across seemingly unrelated markets, but that &amp;#8230;&lt;/p&gt;&lt;/li&gt;&lt;a class="read-more" href="/why-the-usa-has-a-shortage-of-formula-milk.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/ul&gt;</summary><content type="html">&lt;h1&gt;Friday 20, May&amp;nbsp;2022&lt;/h1&gt;
+&lt;p&gt;I was too busy today to make a regular post, so I just noted a few interesting things I read&amp;nbsp;recently.&lt;/p&gt;
 &lt;h2&gt;Things I&amp;#8217;ve&amp;nbsp;read&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
