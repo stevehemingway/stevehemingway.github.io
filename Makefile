@@ -53,23 +53,28 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    ';
 	@echo '                                                                          ';
 
-whole: repo upload github
-	date;
+whole: upload github
 
-html:
+upload: repo
+	git push
+
+github: publish
+
+html: 
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	coreutils [ ! -d $(OUTPUTDIR) ]  || coreutils rm -rf $(OUTPUTDIR)
 	coreutils [ ! -d $(CACHEDIR) ]  || coreutils rm -rf $(CACHEDIR)
 
+# same as html but regenerates if anything changes
 regenerate:
 	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
-repo:	clean 
-	git add $(INPUTDIR)
-	git commit -m 'new content' 
-	git push
+# just creates the (local) repo, default branch
+repo:	
+	-git add $(INPUTDIR)
+	-git commit -S -m 'new content' 
 
 serve:
 ifdef PORT
@@ -85,7 +90,6 @@ else
 	$(PELICAN) -l $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT) -b 0.0.0.0
 endif
 
-
 devserver:
 ifdef PORT
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT)
@@ -93,19 +97,18 @@ else
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 endif
 
+# creates output files, html, with production config.
 publish:
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 # 	echo $(CUSTOM_DOMAIN_NAME) > $(OUTPUTDIR)/CNAME ! I don't think this is needed if we use the -c flag of ghp-import
 
+# sends to github *pages*, but make sure local repo is pushed first
 github: publish 
 # first generate the branch
 	ghp-import -m "Generate Pelican site" -c $(CUSTOM_DOMAIN_NAME) -f -p -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
 # -c generates a CNAME record
 # -p does a push, which makes the following redundant
 	git push origin $(GITHUB_PAGES_BRANCH)
-	echo "You probably want to git add the content changes too. You've updated only the master branch so far."
 
-
-
-.PHONY: html help clean regenerate serve serve-global devserver publish github repo upload 
+.PHONY: html help clean regenerate serve serve-global devserver publish github repo upload whole
 
