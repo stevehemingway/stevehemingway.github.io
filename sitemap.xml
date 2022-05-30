@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-05-29T20:51:41-00:00</lastmod>
+<lastmod>2022-05-30T10:40:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,15 +32,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/shadow-banning.html</loc>
-<lastmod>2022-05-29T20:51:11+01:00</lastmod>
+<loc>https://www.stevehemingway.com/health-outcomes-for-the-uk-and-others.html</loc>
+<lastmod>2022-05-30T10:39:29+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2022-05-27T12:06:09+01:00</lastmod>
+<loc>https://www.stevehemingway.com/shadow-banning.html</loc>
+<lastmod>2022-05-29T20:56:44+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/alas-poor-rudy.html</loc>
+<lastmod>2022-05-30T10:40:09+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4765,7 +4772,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-05-29T20:51:11-00:01</lastmod>
+<lastmod>2022-05-30T10:40:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5192,7 +5199,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-05-29T20:51:11-00:01</lastmod>
+<lastmod>2022-05-30T10:40:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
