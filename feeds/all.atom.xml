@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-05-30T21:43:53+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Health Outcomes for the UK and others</title><link href="https://www.stevehemingway.com/health-outcomes-for-the-uk-and-others.html" rel="alternate"></link><published>2022-05-30T00:00:00+01:00</published><updated>2022-05-30T21:43:53+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-30:/health-outcomes-for-the-uk-and-others.html</id><summary type="html">&lt;h1&gt;Monday 30, May&amp;#160;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/all.atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-05-30T21:45:54+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Health Outcomes for the UK and others</title><link href="https://www.stevehemingway.com/health-outcomes-for-the-uk-and-others.html" rel="alternate"></link><published>2022-05-30T00:00:00+01:00</published><updated>2022-05-30T21:45:54+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-30:/health-outcomes-for-the-uk-and-others.html</id><summary type="html">&lt;h1&gt;Monday 30, May&amp;#160;2022&lt;/h1&gt;
 &lt;h2&gt;International Health Outcomes&amp;#160;Index&lt;/h2&gt;
 &lt;div class="table-wrapper"&gt;
 &lt;table&gt;
@@ -424,7 +424,9 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;/div&gt;
-&lt;p&gt;from &lt;a href="https://www.civitas.org.uk/content/files/International-Health-Care-Outcomes-Index-FINAL.pdf"&gt;International Health Care Outcomes Index 2022 by Tim Knox&lt;/a&gt;, a study produced by Civitas, a &lt;span class="caps"&gt;UK&lt;/span&gt; think&amp;nbsp;tank.&lt;/p&gt;
+&lt;p&gt;from &lt;a href="https://www.civitas.org.uk/content/files/International-Health-Care-Outcomes-Index-FINAL.pdf"&gt;International Health Care Outcomes Index 2022 by Tim Knox&lt;/a&gt;, a study produced by Civitas, a &lt;span class="caps"&gt;UK&lt;/span&gt; think tank.
+Sorry, I know this table won&amp;#8217;t scroll, and is being truncated.
+I&amp;#8217;ll try to fix this&amp;nbsp;tomorrow.&lt;/p&gt;
 &lt;p&gt;It&amp;#8217;s remarkable how well Japan does, and how badly the &lt;span class="caps"&gt;US&lt;/span&gt; does.
 We are depressingly low in the table, well below countries like Portugal, which have much lower &lt;span class="caps"&gt;GDP&lt;/span&gt; per capita than the &lt;span class="caps"&gt;UK&lt;/span&gt;.
 The &lt;span class="caps"&gt;NHS&lt;/span&gt;, while scoring well on access and &amp;#8216;fairness,&amp;#8217; does a very poor job in keeping us alive. I&amp;#8217;m sure it&amp;#8217;s good on diversity and inclusivity metrics&amp;nbsp;too.&lt;/p&gt;
