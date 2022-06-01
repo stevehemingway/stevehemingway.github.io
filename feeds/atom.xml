@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-05-31T22:19:53+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Job Shock</title><link href="https://www.stevehemingway.com/job-shock.html" rel="alternate"></link><published>2022-05-31T00:00:00+01:00</published><updated>2022-05-31T22:19:53+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-31:/job-shock.html</id><summary type="html">&lt;h1&gt;31 May&amp;#160;22&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-06-01T21:53:39+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>The nature of money</title><link href="https://www.stevehemingway.com/the-nature-of-money.html" rel="alternate"></link><published>2022-06-01T00:00:00+01:00</published><updated>2022-06-01T21:53:39+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-06-01:/the-nature-of-money.html</id><summary type="html">&lt;h1&gt;Wednesday  1, June&amp;#160;2022&lt;/h1&gt;
+&lt;h2&gt;Levine again on how money&amp;#160;works&lt;/h2&gt;
+&lt;p&gt;Money is an entry in a bank ledger somewhere.
+A &lt;span class="caps"&gt;US&lt;/span&gt; dollar account at your &lt;span class="caps"&gt;UK&lt;/span&gt; bank is a liability of the bank&amp;#8217;s, which is exactly matched by an asset which is that bank&amp;#8217;s account with a &lt;span class="caps"&gt;US &amp;#8230;&lt;/span&gt;&lt;a class="read-more" href="/the-nature-of-money.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Wednesday  1, June&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;Levine again on how money&amp;nbsp;works&lt;/h2&gt;
+&lt;p&gt;Money is an entry in a bank ledger somewhere.
+A &lt;span class="caps"&gt;US&lt;/span&gt; dollar account at your &lt;span class="caps"&gt;UK&lt;/span&gt; bank is a liability of the bank&amp;#8217;s, which is exactly matched by an asset which is that bank&amp;#8217;s account with a &lt;span class="caps"&gt;US&lt;/span&gt; bank.
+Matt Levine writes about this in relation to payment of interest by Russian issuers of &lt;span class="caps"&gt;USD&lt;/span&gt; bonds.
+He explains it very clearly. It&amp;#8217;s really quite easy, but most people have a very hazy idea about what money is, how it is created, and how the supply of it affects the real economy. Levine&amp;#8217;s piece is &lt;a href="https://www.bloomberg.com/opinion/articles/2022-05-31/russia-has-some-dollars-somewhere"&gt;Russia Has Some Dollars Somewhere&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The bank that your bank keeps its dollars in is called its &amp;#8220;correspondent bank&amp;#8221;. The account with the &lt;span class="caps"&gt;US&lt;/span&gt; bank is called (by your bank) it&amp;#8217;s &amp;#8216;vostro&amp;#8217; account.
+This stuff goes back&amp;nbsp;centuries.&lt;/p&gt;
+&lt;p&gt;Levine makes this peerless observation about what will happen in the next episode of the Musk &lt;span class="caps"&gt;SEC&lt;/span&gt; soap&amp;nbsp;opera:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Musk’s response is not yet public, but there’s not much he can really say. I guess this is the first salvo in a very annoying war in which the &lt;span class="caps"&gt;SEC&lt;/span&gt; tentatively seeks mild penalties from Musk and Musk responds intemperately about how the &lt;span class="caps"&gt;SEC&lt;/span&gt; is evil and trying to oppress&amp;nbsp;him.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I think it&amp;#8217;s safe to say that Musk is continuing to drop in Levine&amp;#8217;s estimation, although not yet as far as I believe he&amp;nbsp;should.&lt;/p&gt;
+&lt;h2&gt;Oil Price&amp;nbsp;Dynamics&lt;/h2&gt;
+&lt;p&gt;The &lt;span class="caps"&gt;NY&lt;/span&gt; Fed produces a nice analysis of oil price dynamics. It&amp;#8217;s understated but looks at demand and supply as a driver of price. You can read the latest bulletin &lt;a href="https://www.newyorkfed.org/medialibrary/media/research/policy/oil_decomposition/oil-decomp_2022-0531.pdf?la=en"&gt;here&lt;/a&gt;.  You can sign up for free email updates &lt;a href="https://www.newyorkfed.org/research/policy/oil_price_dynamics_report"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2&gt;Renewables&lt;/h2&gt;
+&lt;p&gt;As Callum Thomas &lt;a href="https://topdowncharts.substack.com/p/chart-of-the-week-and-weekly-report-aef?token=eyJ1c2VyX2lkIjoxMTAyMDI1LCJwb3N0X2lkIjo1NzI2NDcyNSwiXyI6IjJTQkZvIiwiaWF0IjoxNjU0MDc3ODI0LCJleHAiOjE2NTQwODE0MjQsImlzcyI6InB1Yi0zNTAwNTgiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.ilD6DjRBpUY5iG7j5xiIDKXN0UWHuQioi52fuWfhRGk&amp;amp;s=r"&gt;points out&lt;/a&gt; clean energy as an investment have seriously trailed the dirty sort&amp;nbsp;lately.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="renewables vs oil/gas/coal" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F09a48d34-82d8-4809-912f-46372c0a617d_1826x1236.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Twitter&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;looks like she’s leaning out &lt;a href="https://t.co/08Tvw8zmfO"&gt;https://t.co/08Tvw8zmfO&lt;/a&gt;&lt;/p&gt;&amp;mdash; Edward Ongweso Jr (@bigblackjacobin) &lt;a href="https://twitter.com/bigblackjacobin/status/1532089378075557893?ref_src=twsrc%5Etfw"&gt;June 1, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;p&gt;I don&amp;#8217;t know why everyone I follow on Twitter absolutely loathes Sheryl Sandberg. 
+I suspect it&amp;#8217;s the connection to Larry Summers, Bill Gates, Jeff Epstein et al.
+Nobody likes Zuck either, but it seems more visceral with Sandberg.
+One suspects she&amp;#8217;ll go into politics, but somehow women struggle to make this transition. 
+Most men too, to be&amp;nbsp;fair.&lt;/p&gt;
+&lt;h2&gt;Image&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Dorothy Janis, 1920s &lt;a href="https://t.co/OPNYDa91xI"&gt;pic.twitter.com/OPNYDa91xI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Daniel Brami (@Daniel_Red_Eire) &lt;a href="https://twitter.com/Daniel_Red_Eire/status/1532016087193333761?ref_src=twsrc%5Etfw"&gt;June 1, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;Bonds generally down (yields up), but not much.
+Dollar up, 0.8%.
+Oil and most commodities up, even in the face of a headwind from the dollar.
+The &lt;span class="caps"&gt;VIX&lt;/span&gt; was down a bit, at 25.7, which is about in the middle of its range over the last month or so.
+Most equity markets down on the day, after bouncing around a lot.
+Probably on balance risk-off, but not by much, and not with great conviction.
+A lot of crypto currencies off by 10% on the day.
+I cannot imagine what it&amp;#8217;s like to trade this stuff. 
+Surely, most of the retail tourists have thrown in the towel by&amp;nbsp;now.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>Job Shock</title><link href="https://www.stevehemingway.com/job-shock.html" rel="alternate"></link><published>2022-05-31T00:00:00+01:00</published><updated>2022-05-31T22:19:53+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-05-31:/job-shock.html</id><summary type="html">&lt;h1&gt;31 May&amp;#160;22&lt;/h1&gt;
 &lt;h2&gt;Job&amp;#160;Shock&lt;/h2&gt;
 &lt;p&gt;Zerohedge was its usual apocalypic self in 
 &lt;a href="https://www.zerohedge.com/markets/we-could-see-million-layoffs-or-more-here-comes-job-market-shock"&gt;this article about weakness in the jobs market.&lt;/a&gt;
