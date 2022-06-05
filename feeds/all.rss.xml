@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Sun, 05 Jun 2022 12:02:01 +0100</lastBuildDate><item><title>Platinum Jubilee Edition</title><link>https://www.stevehemingway.com/platinum-jubilee-edition.html</link><description>&lt;h1&gt;Sunday  5, June&amp;nbsp;2022&lt;/h1&gt;
+<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Sun, 05 Jun 2022 12:25:46 +0100</lastBuildDate><item><title>Platinum Jubilee Edition</title><link>https://www.stevehemingway.com/platinum-jubilee-edition.html</link><description>&lt;h1&gt;Sunday  5, June&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;The European&amp;nbsp;project&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://themacrocompass.substack.com/p/european-conundrum?utm_source=email&amp;amp;s=r#details"&gt;This week&amp;#8217;s Macro Compass&lt;/a&gt; talks about the &amp;#8216;hidden dual mandate&amp;#8217; of the &lt;span class="caps"&gt;ECB&lt;/span&gt;. The hidden bit is the need to keep the Eurozone from breaking up.
 Alf argues that it&amp;#8217;s going to be impossible to keep the &lt;span class="caps"&gt;PIIGS&lt;/span&gt; solvent and at the time keep inflation from bursting out all over.
@@ -16,12 +16,14 @@ Brexit was a wake up (although, of course, the &lt;span class="caps"&gt;UK&lt;/s
 The problem with making these ideas actionable is that this is a purely political issue, and politics can be very&amp;nbsp;unpredictable.&lt;/p&gt;
 &lt;h2&gt;Image&lt;/h2&gt;
 &lt;p&gt;I&amp;#8217;m not sure this will work. I think the actual image is &amp;#8216;not dope&amp;#8217; but I was browsing Opensea and the Bored Ape Yacht Club website and I thought it&amp;#8217;d be interesting to&amp;nbsp;share.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;nft-card&lt;/span&gt;
-&lt;span class="na"&gt;contractAddress=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d&amp;quot;&lt;/span&gt;
-&lt;span class="na"&gt;tokenId=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;29&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;/nft-card&amp;gt;&lt;/span&gt;
-&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://unpkg.com/embeddable-nfts/dist/nft-card.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Sun, 05 Jun 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-06-05:/platinum-jubilee-edition.html</guid><category>markets</category></item><item><title>A fixed income investment which works in an inflationary world?</title><link>https://www.stevehemingway.com/a-fixed-income-investment-which-works-in-an-inflationary-world.html</link><description>&lt;h1&gt;Saturday  4, June&amp;nbsp;2022&lt;/h1&gt;
+&lt;p&gt;&lt;nft-card
+contractAddress="0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"
+tokenId="29"&gt;
+&lt;/nft-card&gt;&lt;/p&gt;
+&lt;script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Money&amp;nbsp;Stuff&lt;/h2&gt;
+&lt;p&gt;Matt Levine is a genius. His coverage of hedge funds, crypto, Elon Musk, and the rest of Wall Street (to use a dead metaphor) are unparalleled &lt;a href="https://www.bloomberg.com/opinion/articles/2022-06-02/don-t-insider-trade-nfts#xj4y7vzkg"&gt;this is his latest&amp;nbsp;update.&lt;/a&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Sun, 05 Jun 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-06-05:/platinum-jubilee-edition.html</guid><category>markets</category></item><item><title>A fixed income investment which works in an inflationary world?</title><link>https://www.stevehemingway.com/a-fixed-income-investment-which-works-in-an-inflationary-world.html</link><description>&lt;h1&gt;Saturday  4, June&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Mortgage&amp;nbsp;REITs&lt;/h2&gt;
 &lt;p&gt;Harley Bassman is highly regarded.
 He&amp;#8217;s very knowledgeable about mortgage-backed securities.
