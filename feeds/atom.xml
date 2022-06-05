@@ -1,5 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-06-01T21:53:39+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>The nature of money</title><link href="https://www.stevehemingway.com/the-nature-of-money.html" rel="alternate"></link><published>2022-06-01T00:00:00+01:00</published><updated>2022-06-01T21:53:39+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-06-01:/the-nature-of-money.html</id><summary type="html">&lt;h1&gt;Wednesday  1, June&amp;#160;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-06-05T12:02:01+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Platinum Jubilee Edition</title><link href="https://www.stevehemingway.com/platinum-jubilee-edition.html" rel="alternate"></link><published>2022-06-05T00:00:00+01:00</published><updated>2022-06-05T12:02:01+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-06-05:/platinum-jubilee-edition.html</id><summary type="html">&lt;h1&gt;Sunday  5, June&amp;#160;2022&lt;/h1&gt;
+&lt;h2&gt;The European&amp;#160;project&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://themacrocompass.substack.com/p/european-conundrum?utm_source=email&amp;amp;s=r#details"&gt;This week&amp;#8217;s Macro Compass&lt;/a&gt; talks about the &amp;#8216;hidden dual mandate&amp;#8217; of the &lt;span class="caps"&gt;ECB&lt;/span&gt;. The hidden bit is the need to keep the Eurozone from breaking up.
+Alf argues that it&amp;#8217;s going to be impossible to keep the &lt;span class="caps"&gt;PIIGS&lt;/span&gt; solvent and at &amp;#8230;&lt;a class="read-more" href="/platinum-jubilee-edition.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Sunday  5, June&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;The European&amp;nbsp;project&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://themacrocompass.substack.com/p/european-conundrum?utm_source=email&amp;amp;s=r#details"&gt;This week&amp;#8217;s Macro Compass&lt;/a&gt; talks about the &amp;#8216;hidden dual mandate&amp;#8217; of the &lt;span class="caps"&gt;ECB&lt;/span&gt;. The hidden bit is the need to keep the Eurozone from breaking up.
+Alf argues that it&amp;#8217;s going to be impossible to keep the &lt;span class="caps"&gt;PIIGS&lt;/span&gt; solvent and at the time keep inflation from bursting out all over.
+Alf can seem a bit omnipresent. I don&amp;#8217;t completely buy all his theses.
+To be fair, he&amp;#8217;s owned up to a few wrong calls, and inserts this great quote into the&amp;nbsp;newsletter:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;‘‘Before you invest, you must ensure that you have realistically assessed your probability of being right and how you will react to the consequences of being&amp;nbsp;wrong’’.&lt;/p&gt;
+&lt;p&gt;&amp;#8212;    Benjamin Graham - The Intelligent&amp;nbsp;Investor&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To me, the Eurozone cannot work. All currency unions and fixed exchange regimes end up failing when the going gets tough, unless there is a single source of political authority, which in the Eurozone there is not.
+However, I&amp;#8217;ve held that view for a couple of decades, so I&amp;#8217;m quite prepared to believe that the wheels will not come off for another couple of years. 
+The global elite want the Eurozone to survive, and they are a powerful force in the world.
+Brexit was a wake up (although, of course, the &lt;span class="caps"&gt;UK&lt;/span&gt; never joined the Euro).
+The problem with making these ideas actionable is that this is a purely political issue, and politics can be very&amp;nbsp;unpredictable.&lt;/p&gt;
+&lt;h2&gt;Image&lt;/h2&gt;
+&lt;p&gt;I&amp;#8217;m not sure this will work. I think the actual image is &amp;#8216;not dope&amp;#8217; but I was browsing Opensea and the Bored Ape Yacht Club website and I thought it&amp;#8217;d be interesting to&amp;nbsp;share.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="nt"&gt;&amp;lt;nft-card&lt;/span&gt;
+&lt;span class="na"&gt;contractAddress=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d&amp;quot;&lt;/span&gt;
+&lt;span class="na"&gt;tokenId=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;29&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;/nft-card&amp;gt;&lt;/span&gt;
+&lt;span class="nt"&gt;&amp;lt;script&lt;/span&gt; &lt;span class="na"&gt;src=&lt;/span&gt;&lt;span class="s"&gt;&amp;quot;https://unpkg.com/embeddable-nfts/dist/nft-card.min.js&amp;quot;&lt;/span&gt;&lt;span class="nt"&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content><category term="markets"></category></entry><entry><title>A fixed income investment which works in an inflationary world?</title><link href="https://www.stevehemingway.com/a-fixed-income-investment-which-works-in-an-inflationary-world.html" rel="alternate"></link><published>2022-06-04T00:00:00+01:00</published><updated>2022-06-04T18:53:09+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-06-04:/a-fixed-income-investment-which-works-in-an-inflationary-world.html</id><summary type="html">&lt;h1&gt;Saturday  4, June&amp;#160;2022&lt;/h1&gt;
+&lt;h2&gt;Mortgage&amp;#160;REITs&lt;/h2&gt;
+&lt;p&gt;Harley Bassman is highly regarded.
+He&amp;#8217;s very knowledgeable about mortgage-backed securities.
+He has written about the fact that &lt;span class="caps"&gt;MBS&lt;/span&gt; REITs might be a profitable (long) investment in the current rate environment.
+The basic idea is that they are priced as a bond with &amp;#8230;&lt;a class="read-more" href="/a-fixed-income-investment-which-works-in-an-inflationary-world.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Saturday  4, June&amp;nbsp;2022&lt;/h1&gt;
+&lt;h2&gt;Mortgage&amp;nbsp;REITs&lt;/h2&gt;
+&lt;p&gt;Harley Bassman is highly regarded.
+He&amp;#8217;s very knowledgeable about mortgage-backed securities.
+He has written about the fact that &lt;span class="caps"&gt;MBS&lt;/span&gt; REITs might be a profitable (long) investment in the current rate environment.
+The basic idea is that they are priced as a bond with an embedded short call option. 
+With rates likely to go up, this call option may be priced above its &amp;#8216;true&amp;#8217; value.
+&lt;a href="https://www.convexitymaven.com/wp-content/uploads/2022/05/Convexity-Maven-MBS-Pool.pdf"&gt;You can read about the thesis&amp;nbsp;here.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I think that to take advantage of shorting the embedded expensive option, you probably have to hedge the pure bond part of the security.
+This sort of trading is strictly for the professionals, I think, but it certainly reminds one that for the bulk of MBSes there is 
+no credit risk, because they are all guaranteed by Freddie Mac or Fannie&amp;nbsp;Mae. &lt;/p&gt;
+&lt;p&gt;Oddly, back in the eighties, I did knock up a model for valuing MBSes, long before they became well known as the cause of the 2007 crash.
+It was as a classroom exercise. The model was never tested in the real&amp;nbsp;world.&lt;/p&gt;
+&lt;h2&gt;The Economist is predicting a&amp;nbsp;recession&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.economist.com/finance-and-economics/2022/06/01/what-americas-next-recession-will-look-like"&gt;What America’s next recession will look&amp;nbsp;like.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is a lot of stuff on Twitter about JPoww piloting the &lt;span class="caps"&gt;US&lt;/span&gt; economy down to a soft landing.
+One way to do this is to hold the real interest rate at its neutral level, at which it is neither contractionary nor expansionary.
+The Economist thinks that this is 0.5%, but to hit this with inflation running at 8% will be impossible.
+So, the economy will accelerate skywards, with a deeply negative real rate, before eventually the Fed has hiked enough times to bring the nominal Fed Funds rate to something like the inflation rate.
+This will take a long time, by which the economy will have run out of fuel and will be diving vertically &amp;#8230;&amp;nbsp;maybe.&lt;/p&gt;</content><category term="markets"></category></entry><entry><title>The nature of money</title><link href="https://www.stevehemingway.com/the-nature-of-money.html" rel="alternate"></link><published>2022-06-01T00:00:00+01:00</published><updated>2022-06-01T21:53:39+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-06-01:/the-nature-of-money.html</id><summary type="html">&lt;h1&gt;Wednesday  1, June&amp;#160;2022&lt;/h1&gt;
 &lt;h2&gt;Levine again on how money&amp;#160;works&lt;/h2&gt;
 &lt;p&gt;Money is an entry in a bank ledger somewhere.
 A &lt;span class="caps"&gt;US&lt;/span&gt; dollar account at your &lt;span class="caps"&gt;UK&lt;/span&gt; bank is a liability of the bank&amp;#8217;s, which is exactly matched by an asset which is that bank&amp;#8217;s account with a &lt;span class="caps"&gt;US &amp;#8230;&lt;/span&gt;&lt;a class="read-more" href="/the-nature-of-money.html"&gt;&lt;span&gt;continue&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;</summary><content type="html">&lt;h1&gt;Wednesday  1, June&amp;nbsp;2022&lt;/h1&gt;
