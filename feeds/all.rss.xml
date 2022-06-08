@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Wed, 08 Jun 2022 21:29:30 +0100</lastBuildDate><item><title>Not much more than a wrap</title><link>https://www.stevehemingway.com/not-much-more-than-a-wrap.html</link><description>&lt;h1&gt;Wednesday  8, June&amp;nbsp;2022&lt;/h1&gt;
+<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Wed, 08 Jun 2022 21:34:24 +0100</lastBuildDate><item><title>Not much more than a wrap</title><link>https://www.stevehemingway.com/not-much-more-than-a-wrap.html</link><description>&lt;h1&gt;Wednesday  8, June&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;Wrap&lt;/h2&gt;
 &lt;p&gt;Bonds down, commodities up, stocks down, &lt;span class="caps"&gt;VIX&lt;/span&gt; up, crypto down. It&amp;#8217;s a risk off day!
 Oil seems particularly affected: &lt;span class="caps"&gt;WTI&lt;/span&gt; up 2.7% to $122.5 a barrel. 
@@ -19,7 +19,9 @@ I&amp;#8217;ve only got through a couple of chapters, but it has already brought
 &lt;h2&gt;Reddit&lt;/h2&gt;
 &lt;p&gt;Posting embedded scripts to Reddit ain&amp;#8217;t going to work. 
 I now strip the html out of my pelican markdown and manually add links.
-Not ideal, but I was busy today and don&amp;#8217;t have time to write clever&amp;nbsp;code.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Wed, 08 Jun 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-06-08:/not-much-more-than-a-wrap.html</guid><category>markets</category></item><item><title>Inflation is closing in</title><link>https://www.stevehemingway.com/inflation-is-closing-in.html</link><description>&lt;h1&gt;Tuesday  7, June&amp;nbsp;2022&lt;/h1&gt;
+Not ideal, but I was busy today and don&amp;#8217;t have time to write clever&amp;nbsp;code.&lt;/p&gt;
+&lt;p&gt;Here is the&amp;nbsp;script.&lt;/p&gt;
+&lt;script src="https://gist.github.com/stevehemingway/ebc1b6b086ed236a59e6708d703093b0.js"&gt;&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Wed, 08 Jun 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-06-08:/not-much-more-than-a-wrap.html</guid><category>markets</category></item><item><title>Inflation is closing in</title><link>https://www.stevehemingway.com/inflation-is-closing-in.html</link><description>&lt;h1&gt;Tuesday  7, June&amp;nbsp;2022&lt;/h1&gt;
 &lt;h2&gt;How to play the long-run inflation&amp;nbsp;game&lt;/h2&gt;
 &lt;p&gt;You&amp;#8217;ve heard me talk a lot about how inflation is going to persist, for a lot longer than Janet Yellen foresaw. 
 The question is, how can a retail investor take advantage of&amp;nbsp;this?&lt;/p&gt;
