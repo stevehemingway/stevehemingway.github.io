@@ -49,8 +49,8 @@ EXTRA_PATH_METADATA = {
 THEME = 'themes/notmyidea-tld'
 
 AUTHOR = 'steve'
-SITENAME = 'Steve\'s boring blog'
-SITESUBTITLE = 'Mainly market musings'
+SITENAME = 'The Scrapbook'
+SITESUBTITLE = 'My almost daily ramble'
 # SITEURL = 'https://stevehemingway.github.io'
 SITEURL = 'https://www.stevehemingway.com'
 SUMMARY_MAX_LENGTH = 50
@@ -85,6 +85,9 @@ AUTHOR_FEED_RSS = None
 
 # reduce link leakage
 LINKS = (
+    ('Rudy Havenstein', 'https://rudy.substack.com/'),
+    ('Wall Street on Parade', 'https://wallstreetonparade.com'),
+    ('Google Search', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
     # ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
     # eventually get something set up.
     )
@@ -95,7 +98,6 @@ Old_LINKS = (
     ('Commodity.com LLC', 'https://commodity.com/'),
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
     ('The Felder Report', 'https://thefelderreport.com/'),
-    ('Wall Street on Parade', 'https://wallstreetonparade.com'),
     ('Credit Writedowns', 'https://pro.creditwritedowns.com/'),
 	('Market Crumbs', 'https://www.marketcrumbs.com/'),
 	('KoyFin', 'https://www.koyfin.com/home'),
@@ -111,7 +113,6 @@ Old_LINKS = (
 	('The Market Ear', 'https://themarketear.com/'),
     ('The Daily Shot', 'https://dailyshotbrief.com'),
     ('The Burning Platform Blog', 'https://www.theburningplatform.com'),
-    ('Search This Blog', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
     )
 
 
@@ -145,8 +146,8 @@ TYPOGRIFY_DASHES = 'default'
 # else:
 PLUGIN_PATHS = ["plugins/",'/pelican-plugins']
 	
-PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  u"disqus_static"]
-# PLUGINS=["sitemap",  "readtime"]
+PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  "disqus_static", "summary"]
+# PLUGINS=["sitemap",  "readtime", "md-metayaml"]
 
 # get rid of tags, because you're too lazy to use them.
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]

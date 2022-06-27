@@ -495,3 +495,9 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 
 	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
 	#add-comment * {margin-bottom: .5em;}
+
+/* added by SJH */
+
+.table-wrapper {
+  overflow-x: scroll;
+}
