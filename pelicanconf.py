@@ -120,7 +120,7 @@ Old_LINKS = (
 SOCIAL = (('email', 'mailto:steve@acksam.com'),
 # ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
   ('twitter', 'https://twitter.com/s_hemingway_'),
-  ('reddit', 'https://www.reddit.com/user/stevehem'),
+  ('reddit', 'https://www.reddit.com/r/stevehemingway/'),
   )
 
 DEFAULT_PAGINATION = 10
