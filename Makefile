@@ -9,16 +9,16 @@ BASEDIR=.
 
 # BASEDIR=M:/Documents/pelican
 INPUTDIR=$(BASEDIR)/content
+THEMES=$(BASEDIR)/themes
+
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 CUSTOM_DOMAIN_NAME=www.stevehemingway.com
 CACHEDIR=$(BASEDIR)/__pycache__
 
-
 GITHUB_PAGES_BRANCH=master
 GITHUB_SOURCE_BRANCH=content
-
 
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
@@ -48,6 +48,7 @@ help:
 	@echo '   make repo			      commit your recent content changes' ;
 	@echo '   make content			      commit your recent content changes' ;
 	@echo '   make whole			      combo of repo, upload and github' ;
+	@echo '   make content                bring content branch up to date and post to github' ;
 	@echo '                                                                          ';
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html   ';
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    ';
@@ -73,7 +74,7 @@ regenerate:
 
 # just creates the (local) repo, default branch
 repo:	
-	-git add $(INPUTDIR)
+	-git add $(INPUTDIR) $(THEMES) $(CONFFILE) $(PUBLISHCONF)
 	-git commit -S -m 'new content' 
 
 serve:

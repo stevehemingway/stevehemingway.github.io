@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-06-28T22:21:29-00:00</lastmod>
+<lastmod>2022-07-01T21:56:29-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,8 +32,29 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/is-housing-the-next-shoe-to-drop.html</loc>
+<lastmod>2022-07-01T21:55:47+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/mid-year-review.html</loc>
+<lastmod>2022-06-30T21:25:42+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/nearly-at-the-half-year-end.html</loc>
+<lastmod>2022-06-29T22:02:57+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/in-retrospect-it-all-seemed-so-obvious.html</loc>
-<lastmod>2022-06-28T22:20:17+01:00</lastmod>
+<lastmod>2022-06-29T10:09:18+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4870,7 +4891,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-06-28T22:20:17-00:01</lastmod>
+<lastmod>2022-07-01T21:55:47-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5297,7 +5318,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-06-28T22:20:17-00:01</lastmod>
+<lastmod>2022-07-01T21:55:47-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
