@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-07-07T20:35:20-00:00</lastmod>
+<lastmod>2022-07-08T17:51:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,6 +32,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/labour-markets-too-tight-or-imminent-recession-can-it-really-be-both.html</loc>
+<lastmod>2022-07-08T17:51:01+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/rare-earth-discovery.html</loc>
 <lastmod>2022-07-07T20:34:05+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -47,7 +54,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/tory-parliamentary-party-at-war.html</loc>
-<lastmod>2022-07-05T22:09:18+01:00</lastmod>
+<lastmod>2022-07-08T11:39:27+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4926,7 +4933,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-07-07T20:34:05-00:01</lastmod>
+<lastmod>2022-07-08T17:51:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5353,7 +5360,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-07-07T20:34:05-00:01</lastmod>
+<lastmod>2022-07-08T17:51:01-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
