@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-07-11T22:05:17-00:00</lastmod>
+<lastmod>2022-07-12T10:21:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,8 +32,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2022-07-11T22:04:14+01:00</lastmod>
+<loc>https://www.stevehemingway.com/food-riots-bring-down-sri-lankan-government.html</loc>
+<lastmod>2022-07-12T10:20:55+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4940,7 +4940,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-07-11T22:04:14-00:01</lastmod>
+<lastmod>2022-07-12T10:20:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5367,7 +5367,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-07-11T22:04:14-00:01</lastmod>
+<lastmod>2022-07-12T10:20:55-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
