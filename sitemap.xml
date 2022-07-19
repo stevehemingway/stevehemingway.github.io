@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-07-18T21:18:45-00:00</lastmod>
+<lastmod>2022-07-19T21:12:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,15 +32,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/consumers-about-to-be-crushed.html</loc>
-<lastmod>2022-07-18T21:15:39+01:00</lastmod>
+<loc>https://www.stevehemingway.com/its-too-hot.html</loc>
+<lastmod>2022-07-19T21:11:16+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2022-07-17T22:00:43+01:00</lastmod>
+<loc>https://www.stevehemingway.com/consumers-about-to-be-crushed.html</loc>
+<lastmod>2022-07-18T21:15:39+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4982,7 +4982,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-07-18T21:18:30-00:01</lastmod>
+<lastmod>2022-07-19T21:11:16-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5409,7 +5409,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-07-18T21:18:30-00:01</lastmod>
+<lastmod>2022-07-19T21:11:16-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
