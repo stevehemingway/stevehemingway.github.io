@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-07-25T22:05:21-00:00</lastmod>
+<lastmod>2022-07-27T21:38:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,6 +32,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/suprise-fed-hike-risk-assets-surge.html</loc>
+<lastmod>2022-07-27T21:37:18+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/is-the-dollar-strength-going-to-derail-the-us-stock-market.html</loc>
 <lastmod>2022-07-25T22:04:21+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -40,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/uk-housing-market.html</loc>
-<lastmod>2022-07-24T15:50:15+01:00</lastmod>
+<lastmod>2022-07-27T14:26:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5017,7 +5024,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-07-25T22:04:21-00:01</lastmod>
+<lastmod>2022-07-27T21:37:18-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5444,7 +5451,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-07-25T22:04:21-00:01</lastmod>
+<lastmod>2022-07-27T21:37:18-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
