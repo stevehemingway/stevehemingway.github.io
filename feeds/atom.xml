@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-07-28T22:20:44+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Working title</title><link href="https://www.stevehemingway.com/working-title.html" rel="alternate"></link><published>2022-07-28T00:00:00+01:00</published><updated>2022-07-28T22:20:44+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-07-28:/working-title.html</id><summary type="html">&lt;h1&gt;Thursday 28, July&amp;#160;2022&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>The Scrapbook</title><link href="https://www.stevehemingway.com/" rel="alternate"></link><link href="https://www.stevehemingway.com/feeds/atom.xml" rel="self"></link><id>https://www.stevehemingway.com/</id><updated>2022-07-28T22:27:19+01:00</updated><subtitle>My almost daily ramble</subtitle><entry><title>Working title</title><link href="https://www.stevehemingway.com/working-title.html" rel="alternate"></link><published>2022-07-28T00:00:00+01:00</published><updated>2022-07-28T22:27:19+01:00</updated><author><name>steve</name></author><id>tag:www.stevehemingway.com,2022-07-28:/working-title.html</id><summary type="html">&lt;h1&gt;Thursday 28, July&amp;#160;2022&lt;/h1&gt;
 &lt;h2&gt;Recession or&amp;#160;not?&lt;/h2&gt;
 &lt;p&gt;Will we have a recession? 
 If inflation hits 10%, it seems almost impossible to avoid.
@@ -37,6 +37,13 @@ I tend to read his stuff to understand why companies have most pricing power.
 Warren Buffett&amp;#8217;s strategy is only to buy monopolists, or at least those firms which face limited&amp;nbsp;competition.&lt;/p&gt;
 &lt;p&gt;Although Stoller is not offering an actual analysis of the stock price, if &lt;span class="caps"&gt;FB&lt;/span&gt; no longer has the ability to knock out the competition it would seem logical that it should no longer deserve the same multiple.
 I guess it&amp;#8217;s trading on a P/E of 13, which isn&amp;#8217;t too demanding, compared to a P/E of 19 for $&lt;span class="caps"&gt;GOOG&lt;/span&gt;.&lt;/p&gt;
+&lt;h2&gt;Idea&lt;/h2&gt;
+&lt;p&gt;Boris Johnson&amp;#8217;s &amp;#8216;cakeism&amp;#8217; is no more than &lt;span class="caps"&gt;MMT&lt;/span&gt; in Eton tails.
+It&amp;#8217;s the idea that you can have tax cuts and more public spending.
+It really is the idea that there is a magic money tree, at least if you are deemed to be deserving (bankers needing bailouts, &lt;span class="caps"&gt;PPE&lt;/span&gt; procurers, &lt;span class="caps"&gt;PWC&lt;/span&gt; writing a track and trace app, &lt;span class="caps"&gt;HS2&lt;/span&gt;).
+It&amp;#8217;s what people want. Liz Truss understands this, and offers it (but avoids the &amp;#8216;C&amp;#8217; word), 
+Rishi says that cakeism leads to inflation, which must be stopped by more taxes, at least until just before the next&amp;nbsp;election. &lt;/p&gt;
+&lt;p&gt;Truss is going to win. Interest rates are going to go up, just in time for the Boomers to get more income on their&amp;nbsp;savings.&lt;/p&gt;
 &lt;h3&gt;Yield curve&amp;nbsp;inversion&lt;/h3&gt;
 &lt;div class="embed-container"&gt;&lt;iframe src="https://fred.stlouisfed.org/graph/graph-landing.php?g=Sg5A&amp;width=670&amp;height=475" scrolling="no" frameborder="0" style="overflow:hidden;" allowTransparency="true" loading="lazy"&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;script src="https://fred.stlouisfed.org/graph/js/embed.js" type="text/javascript"&gt;&lt;/script&gt;
