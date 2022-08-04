@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Trading/2022/August/2022-08-02.md",
+            "file": "Trading/2022/August/2022-08-03.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/2022/August/2022-08-02.md",
+                "file": "Trading/2022/August/2022-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/2022/August/2022-08-02.md",
+                "file": "Trading/2022/August/2022-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/2022/August/2022-08-02.md"
+                "file": "Trading/2022/August/2022-08-03.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "a1800d7dd66d4759",
   "lastOpenFiles": [
+    "Trading/2022/August/2022-08-02.md",
     "Trading/2022/July/2022-07-31.md",
     "Trading/2022/July/2022-07-28.md"
   ]
