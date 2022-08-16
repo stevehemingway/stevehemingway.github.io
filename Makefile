@@ -62,7 +62,7 @@ upload: repo
 github: publish
 
 html: 
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	coreutils [ ! -d $(OUTPUTDIR) ]  || coreutils rm -rf $(OUTPUTDIR)
@@ -75,7 +75,7 @@ regenerate:
 # just creates the (local) repo, default branch
 repo:	
 	-git add $(INPUTDIR) $(THEMES) $(CONFFILE) $(PUBLISHCONF)
-	-git commit -S -m 'new content' 
+	-git commit -m 'new content' 
 
 serve:
 ifdef PORT
