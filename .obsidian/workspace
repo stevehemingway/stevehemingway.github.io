@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "caf610b9a83132bc",
+        "id": "9307220e7757af52",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/pages/about.md",
+            "file": "content/Trading/2022/August/2022-08-16.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/pages/about.md",
+                "file": "content/Trading/2022/August/2022-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/pages/about.md",
+                "file": "content/Trading/2022/August/2022-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/pages/about.md"
+                "file": "content/Trading/2022/August/2022-08-16.md"
               }
             }
           }
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "caf610b9a83132bc",
+  "active": "9307220e7757af52",
   "lastOpenFiles": [
+    "content/pages/about.md",
     "content/Trading/2022/August/2022-08-15.md",
     "content/Trading/2022/August/2022-08-12.md",
     "content/Trading/2022/August/2022-08-11.md"
