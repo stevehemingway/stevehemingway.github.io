@@ -85,9 +85,9 @@ AUTHOR_FEED_RSS = None
 
 # reduce link leakage
 LINKS = (
-    ('Rudy Havenstein', 'https://rudy.substack.com/'),
-    ('Wall Street on Parade', 'https://wallstreetonparade.com'),
-    ('Google Search', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
+    # ('Rudy Havenstein', 'https://rudy.substack.com/'),
+    # ('Wall Street on Parade', 'https://wallstreetonparade.com'),
+    ('Search this blog', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
     # ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
     # eventually get something set up.
     )
