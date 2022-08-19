@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3bbaf7ff3e96414e",
+        "id": "14addbdc3c1fc9b2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Trading/2022/August/Untitled.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trading/2022/August/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trading/2022/August/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trading/2022/August/Untitled.md"
+              }
             }
           }
         ]
@@ -120,9 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bbaf7ff3e96414e",
+  "active": "14addbdc3c1fc9b2",
   "lastOpenFiles": [
     "Trading/2022/August/2022-08-19.md",
+    "Trading/2022/August/2022-08-17.md",
     "Trading/2022/August/2022-08-15.md",
     "Trading/2022/August/2022-08-04.md",
     "Untitled.md",
@@ -130,7 +139,6 @@
     "Trading/2022/August/2022-08-11.md",
     "Trading/2022/August/2022-08-10.md",
     "Trading/2022/August/2022-08-05.md",
-    "Trading/2022/August/2022-08-03.md",
-    "Trading/2022/August/2022-08-02.md"
+    "Trading/2022/August/2022-08-03.md"
   ]
 }
