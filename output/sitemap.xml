@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-08-17T22:02:39-00:00</lastmod>
+<lastmod>2022-08-22T19:10:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -28,6 +28,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/comment-policy.html</loc>
 <lastmod>2022-05-12T10:59:56+01:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/conflict-files-obsidian-git.html</loc>
+<lastmod>2022-08-22T18:39:37+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/maybe-the-beginning-of-the-end.html</loc>
+<lastmod>2022-08-22T19:10:24+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/quiet-day-in-the-markets.html</loc>
+<lastmod>2022-08-19T10:38:10+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -3721,6 +3742,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/the-forgotten-man.html</loc>
+<lastmod>2022-08-22T18:57:09+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/market-notes-18th-august-2020.html</loc>
 <lastmod>2021-02-16T17:14:11+00:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3730,13 +3758,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/market-notes-17th-august-2020.html</loc>
 <lastmod>2021-02-16T17:14:11+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/text-templating-using-mustache-on-windows.html</loc>
-<lastmod>2021-02-16T17:17:12+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5115,14 +5136,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-08-17T22:02:33-00:01</lastmod>
+<lastmod>2022-08-22T19:10:24-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2022-08-12T11:02:45-00:01</lastmod>
+<lastmod>2022-08-22T18:57:09-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5542,7 +5563,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-08-17T22:02:33-00:01</lastmod>
+<lastmod>2022-08-22T19:10:24-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
