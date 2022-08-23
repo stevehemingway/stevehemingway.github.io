@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Trading/2022/August/2022-08-19.md",
+            "file": "content/Trading/2022/August/2022-08-22.md",
             "mode": "source",
             "source": false
           }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/Trading/2022/August/2022-08-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/Trading/2022/August/2022-08-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/Trading/2022/August/2022-08-22.md"
+              }
             }
           }
         ]
@@ -132,11 +136,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8b26a4a1ea78026e",
+  "active": "9307220e7757af52",
   "lastOpenFiles": [
+    "content/Trading/2022/August/2022-08-19.md",
     "content/conflict-files-obsidian-git.md",
     "content/Trading/2022/August/2022-08-22.md",
-    "content/Trading/2022/August/2022-08-19.md",
     "conflict-files-obsidian-git.md",
     "content/Trading/2022/August/2022-08-17.md",
     "content/Trading/2022/August/2022-08-16.md",
