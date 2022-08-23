@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-08-22T21:26:40-00:00</lastmod>
+<lastmod>2022-08-23T10:20:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -33,7 +33,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/maybe-the-beginning-of-the-end.html</loc>
-<lastmod>2022-08-22T19:10:24+01:00</lastmod>
+<lastmod>2022-08-23T10:20:36+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3736,7 +3736,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/the-forgotten-man.html</loc>
-<lastmod>2022-08-22T18:57:09+01:00</lastmod>
+<lastmod>2022-08-23T10:18:33+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5129,14 +5129,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-08-22T19:10:24-00:01</lastmod>
+<lastmod>2022-08-23T10:20:36-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2022-08-22T18:57:09-00:01</lastmod>
+<lastmod>2022-08-23T10:18:33-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5556,7 +5556,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-08-22T19:10:24-00:01</lastmod>
+<lastmod>2022-08-23T10:20:36-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
