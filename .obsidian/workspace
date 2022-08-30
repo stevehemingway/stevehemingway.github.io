@@ -14,14 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "8b26a4a1ea78026e",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
       }
     ],
     "direction": "vertical"
@@ -138,10 +130,10 @@
   },
   "active": "9307220e7757af52",
   "lastOpenFiles": [
+    "content/Trading/2022/August/2022-08-30.md",
     "content/Trading/2022/August/2022-08-24.md",
     "content/Trading/2022/August/2022-08-26.md",
     "content/Trading/2022/August/$HLN.md",
-    "content/Trading/2022/August/2022-08-30.md",
     "content/Trading/2022/August/2022-08-23.md",
     "content/Trading/2022/August/2022-08-22.md",
     "content/Trading/2022/August/2022-08-19.md",
