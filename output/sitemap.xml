@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-08-26T21:59:38-00:00</lastmod>
+<lastmod>2022-08-30T21:58:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,6 +32,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/the-credit-card-cartel.html</loc>
+<lastmod>2022-08-30T21:57:22+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/more-fear-of-the-fed.html</loc>
 <lastmod>2022-08-26T21:57:36+01:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -39,15 +46,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/bear-cave-131.html</loc>
-<lastmod>2022-08-24T17:02:55+01:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.stevehemingway.com/dont-look-inside-the-sausage-factory.html</loc>
-<lastmod>2022-08-24T21:56:44+01:00</lastmod>
+<lastmod>2022-08-26T22:00:32+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5157,7 +5157,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-08-26T21:57:36-00:01</lastmod>
+<lastmod>2022-08-30T21:57:22-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5584,7 +5584,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-08-26T21:57:36-00:01</lastmod>
+<lastmod>2022-08-30T21:57:22-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
