@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Trading/2022/August/2022-08-31.md",
+            "file": "content/Trading/2022/September/2022-09-01.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "580a62e342e8729f",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Trading/2022/August/2022-08-31.md",
+                "file": "content/Trading/2022/September/2022-09-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Trading/2022/August/2022-08-31.md",
+                "file": "content/Trading/2022/September/2022-09-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Trading/2022/August/2022-08-31.md"
+                "file": "content/Trading/2022/September/2022-09-01.md"
               }
             }
           }
@@ -131,6 +130,7 @@
   },
   "active": "9307220e7757af52",
   "lastOpenFiles": [
+    "content/Trading/2022/August/2022-08-31.md",
     "content/Trading/2022/August/2022-08-30.md",
     "content/Trading/2022/September/2022-09-01.md",
     "content/Trading/2022/August/2022-08-24.md",
@@ -139,7 +139,6 @@
     "content/Trading/2022/August/2022-08-23.md",
     "content/Trading/2022/August/2022-08-22.md",
     "content/Trading/2022/August/2022-08-19.md",
-    "content/conflict-files-obsidian-git.md",
-    "conflict-files-obsidian-git.md"
+    "content/conflict-files-obsidian-git.md"
   ]
 }
