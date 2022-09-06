@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2022-08-16T15:18:14-00:00</lastmod>
+<lastmod>2022-08-30T21:58:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,8 +32,57 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/the-credit-card-cartel.html</loc>
+<lastmod>2022-08-30T21:57:22+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/more-fear-of-the-fed.html</loc>
+<lastmod>2022-08-26T21:57:36+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/dont-look-inside-the-sausage-factory.html</loc>
+<lastmod>2022-08-26T22:00:32+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/opec-talks-tough.html</loc>
+<lastmod>2022-08-23T21:40:47+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/maybe-the-beginning-of-the-end.html</loc>
+<lastmod>2022-08-23T10:20:36+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/quiet-day-in-the-markets.html</loc>
+<lastmod>2022-08-19T10:38:10+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/uk-inflation-exceeds-10.html</loc>
+<lastmod>2022-08-17T22:02:33+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/on-the-brink.html</loc>
-<lastmod>2022-08-16T11:36:45+01:00</lastmod>
+<lastmod>2022-08-16T15:32:51+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3714,6 +3763,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.stevehemingway.com/the-forgotten-man.html</loc>
+<lastmod>2022-08-23T10:18:33+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.stevehemingway.com/market-notes-18th-august-2020.html</loc>
 <lastmod>2021-02-16T17:14:11+00:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -3723,13 +3779,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/market-notes-17th-august-2020.html</loc>
 <lastmod>2021-02-16T17:14:11+00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.stevehemingway.com/text-templating-using-mustache-on-windows.html</loc>
-<lastmod>2021-02-16T17:17:12+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5108,14 +5157,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2022-08-16T11:36:45-00:01</lastmod>
+<lastmod>2022-08-30T21:57:22-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.stevehemingway.com/category/misc.html</loc>
-<lastmod>2022-08-12T11:02:45-00:01</lastmod>
+<lastmod>2022-08-23T10:18:33-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5535,7 +5584,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2022-08-16T11:36:45-00:01</lastmod>
+<lastmod>2022-08-30T21:57:22-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
