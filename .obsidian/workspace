@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "farmland is on fire",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,6 +130,8 @@
   },
   "active": "9307220e7757af52",
   "lastOpenFiles": [
+    "content/Trading/2022/August/2022-08-12.md",
+    "content/Trading/2022/September/2022-09-06.md",
     "content/Trading/2022/September/2022-09-02.md",
     "content/Trading/2022/September/2022-09-01.md",
     "content/Trading/2022/August/2022-08-31.md",
@@ -137,8 +139,6 @@
     "content/Trading/2022/August/2022-08-24.md",
     "content/Trading/2022/August/2022-08-26.md",
     "content/Trading/2022/August/$HLN.md",
-    "content/Trading/2022/August/2022-08-23.md",
-    "content/Trading/2022/August/2022-08-22.md",
-    "content/Trading/2022/August/2022-08-19.md"
+    "content/Trading/2022/August/2022-08-23.md"
   ]
 }
