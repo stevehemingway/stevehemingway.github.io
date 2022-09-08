@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Wed, 07 Sep 2022 22:37:33 +0100</lastBuildDate><item><title>Housing considered harmful</title><link>https://www.stevehemingway.com/housing-considered-harmful.html</link><description>&lt;h1&gt;2022-09-07&lt;/h1&gt;
+<rss version="2.0"><channel><title>The Scrapbook</title><link>https://www.stevehemingway.com/</link><description>My almost daily ramble</description><lastBuildDate>Thu, 08 Sep 2022 10:32:29 +0100</lastBuildDate><item><title>Is a trillion pounds a lot of money?</title><link>https://www.stevehemingway.com/is-a-trillion-pounds-a-lot-of-money.html</link><description>&lt;h1&gt;2022-09-08&lt;/h1&gt;
+&lt;h2&gt;Bank stress&amp;nbsp;tests&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://bankunderground.co.uk/2022/09/08/measuring-capital-at-risk-in-the-uk-banking-sector/"&gt;This paper&lt;/a&gt; from researchers at the Bank of England suggests that as of Q4 last year, the probability of an &amp;#8216;extreme stress event&amp;#8217; was around 1.7%. 
+Numbers like this have to have a spurious precision.
+The researchers looked at £9.4 trillion  in assets on banks&amp;#8217; balance sheets. 
+It seems right that the BoE worries about the probability of banks going under, as it will end up bailing them out. In theory, in the past banks might have been allowed to fail, but given that most creditors (depositors) will be protected against losses, one can see why other routes have been taken, most often dropping interest rates to reflate&amp;nbsp;assets.&lt;/p&gt;
+&lt;p&gt;I have no doubt that the authors are professional and well intentioned. I just have a nagging feeling that banks have every incentive to find ways around the capital adequacy rules, and that it will be some hidden source of risk that will undo banks next time. Of course, there are a lot of entities that do very bank-like things without being regulated as a bank. One thinks of the crypto exchanges, but this is minor in comparison to some fintech&amp;nbsp;providers.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;From&amp;nbsp;Refinitiv:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The European Central Bank will raise interest rates again to fight runaway inflation and, with a big move and a record one under consideration, the only question is by how&amp;nbsp;much.&lt;/p&gt;
+&lt;p&gt;Russian President Vladimir Putin threatened to halt all energy shipments to Europe, if Brussels goes ahead with a proposal to cap the price of Russian gas, in a combative speech declaring Russia would not lose the war in&amp;nbsp;Ukraine.&lt;/p&gt;
+&lt;p&gt;Apple on Wednesday avoided price hikes of its best-selling iPhones during its biggest product launch of the year, focusing on safety upgrades rather than flashy new technical specs with the exception of a new adventure-focused&amp;nbsp;watch.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img alt="Yield curves have started to steepen again" src="https://www.tradingview.com/x/mpCy33BR/"&gt;&lt;/p&gt;
+&lt;h2&gt;Politics&lt;/h2&gt;
+&lt;p&gt;The new &lt;span class="caps"&gt;PM&lt;/span&gt; in the &lt;span class="caps"&gt;UK&lt;/span&gt; has promised to cap energy bills.
+This will cost a lot.
+Gilt dealers were not impressed.
+&lt;img alt="gilts" src="https://www.tradingview.com/x/13aQBdEH/"&gt;&lt;/p&gt;
+&lt;h2&gt;Economics&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="Jap current account swings in to deficit" src="https://thedailyshot.com/wp-content/uploads/JP-Current-account-unexpectedly-swung-into-deficit2209080435.png"&gt;
+The yen has been strong for decades, which might seem confusing given that Japan has had weak growth since the glory days of the 1980s. 
+One things Japan always had going for it was a strong current account position.
+The Jap current account has now gone into deficit, presumably because of energy imports, but whatever the reason, this can&amp;#8217;t be bullish for the&amp;nbsp;yen.&lt;/p&gt;
+&lt;h2&gt;Technical&amp;nbsp;Analysis&lt;/h2&gt;
+&lt;p&gt;I&amp;#8217;m not a fan of this mumbo jumbo, but oil is heading for a &amp;#8216;death cross&amp;#8217;:
+&lt;img alt="death cross" src="https://www.tradingview.com/x/RpfgjFjA/"&gt;
+which might explain the recent panic. Belief in this stuff is like belief in fairies. If enough believe, it will live and be a good&amp;nbsp;predictor.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Thu, 08 Sep 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-09-08:/is-a-trillion-pounds-a-lot-of-money.html</guid><category>markets</category></item><item><title>Housing considered harmful</title><link>https://www.stevehemingway.com/housing-considered-harmful.html</link><description>&lt;h1&gt;2022-09-07&lt;/h1&gt;
 &lt;h2&gt;The housing&amp;nbsp;market&lt;/h2&gt;
 &lt;p&gt;Desired saving.
 Distrust of securities markets.
