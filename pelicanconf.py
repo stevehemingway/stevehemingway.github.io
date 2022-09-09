@@ -44,9 +44,9 @@ EXTRA_PATH_METADATA = {
     'extra/README': {'path': 'README'},
 }
 
-# THEME = 'notmyidea'
+THEME = 'notmyidea'
 # THEME = 'themes/Flex'
-THEME = 'themes/notmyidea-tld'
+# THEME = 'themes/notmyidea-tld'
 
 AUTHOR = 'steve'
 SITENAME = 'The Scrapbook'
@@ -146,8 +146,9 @@ TYPOGRIFY_DASHES = 'default'
 # else:
 PLUGIN_PATHS = ["plugins/",'/pelican-plugins']
 	
-PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  "disqus_static", "summary"]
+# PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  "disqus_static", "summary"]
 # PLUGINS=["sitemap",  "readtime", "md-metayaml"]
+PLUGINS=None
 
 # get rid of tags, because you're too lazy to use them.
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
