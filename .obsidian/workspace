@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Trading/2022/September/2022-09-05.md",
+            "file": "content/pages/about.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-05.md",
+                "file": "content/pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-05.md",
+                "file": "content/pages/about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-05.md"
+                "file": "content/pages/about.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "9307220e7757af52",
   "lastOpenFiles": [
-    "content/Trading/2022/September/2022-09-01.md",
     "content/Trading/2022/September/2022-09-02.md",
-    "content/Trading/2022/August/2022-08-12.md",
+    "content/Trading/2022/July/2022-07-17.md",
     "content/Trading/2022/September/2022-09-08.md",
     "content/Trading/2022/September/2022-09-07.md",
     "content/Trading/2022/September/2022-09-06.md",
+    "content/Trading/2022/September/2022-09-05.md",
+    "content/Trading/2022/September/2022-09-01.md",
+    "content/Trading/2022/August/2022-08-12.md",
     "content/Trading/2022/August/2022-08-31.md",
-    "content/Trading/2022/August/2022-08-30.md",
-    "content/Trading/2022/August/2022-08-24.md",
-    "content/Trading/2022/August/2022-08-26.md"
+    "content/Trading/2022/August/2022-08-30.md"
   ]
 }

@@ -62,11 +62,11 @@ upload: repo
 github: publish
 
 html: 
-	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
-	coreutils [ ! -d $(OUTPUTDIR) ]  || coreutils rm -rf $(OUTPUTDIR)
-	coreutils [ ! -d $(CACHEDIR) ]  || coreutils rm -rf $(CACHEDIR)
+	[ ! -d $(OUTPUTDIR) ]  || rm -rf $(OUTPUTDIR)
+	[ ! -d $(CACHEDIR) ]  || rm -rf $(CACHEDIR)
 
 # same as html but regenerates if anything changes
 regenerate:

@@ -22,7 +22,7 @@ CACHE_PATH = 'cache'
 LOAD_CONTENT_CACHE = True
 
 # don't change this (see docs)
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 # these are directories where pelican does not do any processing!
 STATIC_PATHS = [
@@ -52,7 +52,8 @@ AUTHOR = 'steve'
 SITENAME = 'The Scrapbook'
 SITESUBTITLE = 'My almost daily ramble'
 # SITEURL = 'https://stevehemingway.github.io'
-SITEURL = 'https://www.stevehemingway.com'
+# SITEURL = 'https://www.stevehemingway.com'
+SITEURL = 'http://localhost:8001'
 SUMMARY_MAX_LENGTH = 50
 #SLUGIFY_SOURCE = 'basename' # alternative is 'title'. 'basename' uses filename.
 SLUGIFY_SOURCE = 'title'
@@ -126,7 +127,7 @@ SOCIAL = (('email', 'mailto:steve@acksam.com'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-# RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS feed
