@@ -14,6 +14,42 @@
             "source": false
           }
         }
+      },
+      {
+        "id": "3089f775d2b19caf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "f0dc5199541409be",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "022188cde3f1275b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "5a619031f520abd3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -77,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-08.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Trading/2022/September/2022-09-08.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -128,8 +164,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9307220e7757af52",
+  "active": "5a619031f520abd3",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "content/Trading/2022/September/2022-09-08.md",
     "content/Trading/2022/September/2022-09-07.md",
     "content/Trading/2022/September/2022-09-06.md",
     "content/Trading/2022/August/2022-08-12.md",
@@ -137,8 +175,6 @@
     "content/Trading/2022/September/2022-09-01.md",
     "content/Trading/2022/August/2022-08-31.md",
     "content/Trading/2022/August/2022-08-30.md",
-    "content/Trading/2022/August/2022-08-24.md",
-    "content/Trading/2022/August/2022-08-26.md",
-    "content/Trading/2022/August/$HLN.md"
+    "content/Trading/2022/August/2022-08-24.md"
   ]
 }
