@@ -5,5 +5,5 @@ __pycache__/**
 */.ztr-directory
 cache/**
 cache/*/
-.obsidian/*
+.obsidian/**
 themes/**
