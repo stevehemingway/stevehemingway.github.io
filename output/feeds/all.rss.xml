@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>Shouting into the void</title><link>https://www.stevehemingway.com/</link><description>My daily rant</description><lastBuildDate>Tue, 27 Sep 2022 22:52:21 +0100</lastBuildDate><item><title></title><link>https://www.stevehemingway.com/.html</link><description>&lt;h1&gt;2022-09-27&lt;/h1&gt;
+<rss version="2.0"><channel><title>Shouting into the void</title><link>https://www.stevehemingway.com/</link><description>My daily rant</description><lastBuildDate>Thu, 29 Sep 2022 12:01:00 +0100</lastBuildDate><item><title>Gilts redux</title><link>https://www.stevehemingway.com/gilts-redux.html</link><description>&lt;h1&gt;2022-09-28&lt;/h1&gt;
+&lt;h2&gt;Images&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="1970-1-1 is a special date!" src="https://imgs.xkcd.com/comics/historical_dates.png"&gt;&lt;/p&gt;
+&lt;h2&gt;Twitter&lt;/h2&gt;
+&lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Trussonomics is deeply stupid. But there seems to be a lot of hyperventilating going on. No, it won&amp;#39;t cause a global crisis — for God&amp;#39;s sake, Britain is only 3.2% of world &lt;span class="caps"&gt;GDP&lt;/span&gt;. And while British markets are a mess, we&amp;#39;re a long way from 1976. Get a&amp;nbsp;grip.&lt;/p&gt;&amp;mdash; Paul Krugman (@paulkrugman) &lt;a href="https://twitter.com/paulkrugman/status/1575132152982900739?ref_src=twsrc%5Etfw"&gt;September 28, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
+
+&lt;h2&gt;Geeky&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://github.com/rprichard/winpty"&gt;winpty&lt;/a&gt; is an incredibly handy utility to use if you want to use bash with windows.
+Basically, it allows programs that are expecting a windows cli (powershell or cmd) to run under&amp;nbsp;bash.&lt;/p&gt;
+&lt;p&gt;I have no idea how it does it, or really the difference between how these two &amp;#8216;terminals&amp;#8217; differ in terms of reading from stdin, but it is just&amp;nbsp;magic.&lt;/p&gt;
+&lt;p&gt;One thing I use it for all the time is to run unison under git bash.  Unison is a fantastic file synchronization program, written in OCaml (no, I don&amp;#8217;t know what that is either). It works a dream as is open source, so you can check it&amp;#8217;s bug free, assuming you want to learn an obscure new functional language (&lt;span class="caps"&gt;JK&lt;/span&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;#8217;m starting to use sed. It&amp;#8217;s really annoying that there are so many dialects of regular expressions. 
+Anyway, it&amp;#8217;s a handy utility, and the manual is well written. 
+Having the source code for this blog and most of my written material in pure text format (markdown) is so useful when a bulk change needs to be&amp;nbsp;made.&lt;/p&gt;
+&lt;h2&gt;Wrap&lt;/h2&gt;
+&lt;p&gt;The Druck&amp;nbsp;speaks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;expects a &lt;span class="caps"&gt;US&lt;/span&gt; recession in 2023, maybe &amp;#8220;something really&amp;nbsp;bad&amp;#8221;,&lt;/li&gt;
+&lt;li&gt;hard landing is base case by end of&amp;nbsp;2023,&lt;/li&gt;
+&lt;li&gt;crypto could have a renaissance if individuals lose faith in fiat&amp;nbsp;currency.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ken Griffin (Citadel) and some Fed presidents spoke. Griffin was upbeat about the stock market and Treasuries. I guess he is talking his book. It&amp;#8217;s hard to make Citadel be net short. Bostic (Fed) said Nov hike will be 75bp, then 50bp in&amp;nbsp;Dec.&lt;/p&gt;
+&lt;p&gt;The fallout from the &amp;#8216;mini-budget&amp;#8217; in the &lt;span class="caps"&gt;UK&lt;/span&gt;&amp;nbsp;continues:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;huge gilt buying, at long end, by BoE, in &amp;#8216;&lt;span class="caps"&gt;QE&lt;/span&gt;&amp;#8217; style intervention, massive rally in gilts and gilt futures. I can&amp;#8217;t see it holding, but the BoJ have managed it for&amp;nbsp;decades,&lt;/li&gt;
+&lt;li&gt;the pound strengthened a bit, presumably because of the BoE intervention, but creating a lot of money surely isn&amp;#8217;t a good&amp;nbsp;thing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Commodities were strong. Oil up a couple of&amp;nbsp;pc.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">steve</dc:creator><pubDate>Wed, 28 Sep 2022 00:00:00 +0100</pubDate><guid isPermaLink="false">tag:www.stevehemingway.com,2022-09-28:/gilts-redux.html</guid><category>markets</category></item><item><title></title><link>https://www.stevehemingway.com/.html</link><description>&lt;h1&gt;2022-09-27&lt;/h1&gt;
 &lt;h2&gt;Twitter&lt;/h2&gt;
 &lt;blockquote class="twitter-tweet"&gt;&lt;p lang="en" dir="ltr"&gt;Russia🇷🇺 is most likely the first and only country in the world where people flee not because someone invaded their country, but because they invaded another country. &lt;a href="https://t.co/TzKnoBldP7"&gt;pic.twitter.com/TzKnoBldP7&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mikhail Khodorkovsky (English) (@mbk_center) &lt;a href="https://twitter.com/mbk_center/status/1574663328408174597?ref_src=twsrc%5Etfw"&gt;September 27, 2022&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src="https://platform.twitter.com/widgets.js" charset="utf-8"&gt;&lt;/script&gt;
