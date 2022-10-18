@@ -75,7 +75,8 @@ regenerate:
 # just creates the (local) repo, default branch
 repo:	
 	-git add $(INPUTDIR) $(THEMES) $(CONFFILE) $(PUBLISHCONF)
-	-git commit -S -m 'new content' 
+	-git commit -m 'new content' 
+# used to have a -S flag to sign the commit.	
 
 serve:
 ifdef PORT
