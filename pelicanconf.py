@@ -26,10 +26,7 @@ RELATIVE_URLS = True
 
 # these are directories where pelican does not do any processing!
 STATIC_PATHS = [
-    'images'
-    ,'extra',  # this
-    'static',
-    'pages']
+    'images' ,'extra',  'static', 'pages']
     
 DISPLAY_PAGES_ON_MENU = True
 
