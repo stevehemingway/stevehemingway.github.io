@@ -26,10 +26,7 @@ RELATIVE_URLS = True
 
 # these are directories where pelican does not do any processing!
 STATIC_PATHS = [
-    'images'
-    ,'extra',  # this
-    'static',
-    'pages']
+    'images' ,'extra',  'static', 'pages']
     
 DISPLAY_PAGES_ON_MENU = True
 
@@ -64,7 +61,7 @@ YEAR_ARCHIVE_URL = ''
 # GITHUB_URL = 'https://github.com/stevehemingway/stevehemingway.github.io'
 FILENAME_METADATA = '(?P<title>.*)'
 DEFAULT_DATE = 'fs'
-DEFAULT_CATEGORY = 'markets'
+DEFAULT_CATEGORY = 'Markets'
 USE_FOLDER_AS_CATEGORY = False
 
 # inserted in hope that this will get rid of pickle error (see https://github.com/getpelican/pelican/issues/2400)
