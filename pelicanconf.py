@@ -127,7 +127,7 @@ DEFAULT_PAGINATION = 10
 RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
-RSS_FEED_SUMMARY_ONLY = False # put the full post, not a summary, in the RSS feed
+RSS_FEED_SUMMARY_ONLY = True # put the full post, not a summary, in the RSS feed
 
 # typographical improvements!
 # you need to install typogrify as a python library (via pip) if you use this.
