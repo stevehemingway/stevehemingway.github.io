@@ -7,6 +7,8 @@ import platform
 PATH = 'content'
 
 PAGE_EXCLUDES = ['templates']
+ARTICLE_EXCLUDES = ['templates']
+
 # limit of article summary (words)
 
 SUMMARY_MAX_LENGTH = 100
