@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/2022/November/2022-11-01.md",
+                "file": "Trading/2022/August/2022-10-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "burnham",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/2022/November/2022-11-01.md",
+                "file": "Trading/2022/August/2022-10-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/2022/November/2022-11-01.md",
+                "file": "Trading/2022/August/2022-10-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/2022/November/2022-11-01.md"
+                "file": "Trading/2022/August/2022-10-30.md"
               }
             }
           }
@@ -138,15 +139,15 @@
   },
   "active": "f4cada7e7774a5c3",
   "lastOpenFiles": [
+    "Trading/2022/October/2022-10-26.md",
+    "Trading/2022/October/2022-10-28.md",
+    "Trading/2022/October/2022-10-29.md",
+    "Trading/2022/October/2022-10-16.md",
+    "Trading/2022/October/2022-10-13.md",
+    "Trading/2022/October/2022-10-31.md",
+    "Trading/2022/November/2022-11-01.md",
     "conflict-files-obsidian-git.md",
     "Trading/2022/August/2022-08-18.md",
-    "Trading/2022/August/2022-08-19.md",
-    "Trading/2022/August/2022-08-17.md",
-    "Trading/2022/August/2022-08-15.md",
-    "Trading/2022/August/2022-08-04.md",
-    "Untitled.md",
-    "templates/YYYY-MM-DD.md",
-    "Trading/2022/August/2022-08-11.md",
-    "Trading/2022/August/2022-08-10.md"
+    "Trading/2022/August/2022-08-19.md"
   ]
 }
