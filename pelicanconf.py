@@ -122,6 +122,7 @@ SOCIAL = (('email', 'mailto:steve@acksam.com'),
 # ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
   ('twitter', 'https://twitter.com/s_hemingway_'),
   ('reddit', 'https://www.reddit.com/r/stevehemingway/'),
+  ('mastodon', 'https://mastodon.org.uk/@stevehem'),
   )
 
 DEFAULT_PAGINATION = 10
