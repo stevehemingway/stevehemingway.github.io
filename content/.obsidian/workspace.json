@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/2022/November/2022-11-08.md",
+                "file": "Trading/2022/November/2022-11-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/2022/November/2022-11-08.md",
+                "file": "Trading/2022/November/2022-11-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/2022/November/2022-11-08.md",
+                "file": "Trading/2022/November/2022-11-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/2022/November/2022-11-08.md"
+                "file": "Trading/2022/November/2022-11-10.md"
               }
             }
           }
@@ -144,12 +144,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4cc57614a1fb4e8",
+  "active": "3657b05f2b8fffe6",
   "lastOpenFiles": [
+    "Trading/2022/November/2022-11-09.md",
+    "Trading/2022/November/2022-11-08.md",
     "Trading/2022/November/2022-11-04.md",
     "Trading/2022/November/2022-11-03.md",
     "Trading/2022/November/2022-11-01.md",
-    "Trading/2022/November/2022-11-08.md",
     "$EVA.md",
     "$CVI.md",
     "$ARG.TO.md",
