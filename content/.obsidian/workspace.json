@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading/2022/November/2022-11-10.md",
+                "file": "2022-11-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trading/2022/November/2022-11-10.md",
+                "file": "2022-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Trading/2022/November/2022-11-10.md",
+                "file": "2022-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trading/2022/November/2022-11-10.md"
+                "file": "2022-11-14.md"
               }
             }
           }
@@ -144,8 +144,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3657b05f2b8fffe6",
+  "active": "d4cc57614a1fb4e8",
   "lastOpenFiles": [
+    "Trading/2022/November/2022-11-10.md",
     "Trading/2022/November/2022-11-09.md",
     "Trading/2022/November/2022-11-08.md",
     "Trading/2022/November/2022-11-04.md",
