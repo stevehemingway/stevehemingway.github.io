@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2022-11-14.md",
+                "file": "Trading/2022/November/2022-11-14.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "a3d8b09e161d280e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -93,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-11-14.md",
+                "file": "Trading/2022/November/2022-11-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-11-14.md",
+                "file": "Trading/2022/November/2022-11-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-11-14.md"
+                "file": "Trading/2022/November/2022-11-14.md"
               }
             }
           }
@@ -146,6 +138,8 @@
   },
   "active": "d4cc57614a1fb4e8",
   "lastOpenFiles": [
+    "2022-11-15.md",
+    "Trading/2022/November/2022-11-14.md",
     "Trading/2022/November/2022-11-10.md",
     "Trading/2022/November/2022-11-09.md",
     "Trading/2022/November/2022-11-08.md",
@@ -153,8 +147,6 @@
     "Trading/2022/November/2022-11-03.md",
     "Trading/2022/November/2022-11-01.md",
     "$EVA.md",
-    "$CVI.md",
-    "$ARG.TO.md",
-    "$UAN.md"
+    "$CVI.md"
   ]
 }
