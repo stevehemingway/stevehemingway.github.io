@@ -6,6 +6,9 @@ import platform
 
 PATH = 'content'
 
+PAGE_EXCLUDES = ['templates']
+ARTICLE_EXCLUDES = ['templates']
+
 # limit of article summary (words)
 
 SUMMARY_MAX_LENGTH = 100
@@ -46,8 +49,8 @@ THEME = 'notmyidea'
 # THEME = 'themes/notmyidea-tld'
 
 AUTHOR = 'steve'
-SITENAME = 'Shouting into the void'
-SITESUBTITLE = 'My daily rant'
+SITENAME = 'Whispering into the void'
+SITESUBTITLE = 'Random thoughts about random things'
 # SITEURL = 'https://stevehemingway.github.io'
 # SITEURL = 'https://www.stevehemingway.com'
 SITEURL = 'http://localhost:8001'
@@ -119,6 +122,7 @@ SOCIAL = (('email', 'mailto:steve@acksam.com'),
 # ('goodreads', 'https://www.goodreads.com/user/show/30000791-stephen-hemingway'),
   ('twitter', 'https://twitter.com/s_hemingway_'),
   ('reddit', 'https://www.reddit.com/r/stevehemingway/'),
+  ('mastodon', 'https://mastodon.org.uk/@stevehem'),
   )
 
 DEFAULT_PAGINATION = 10

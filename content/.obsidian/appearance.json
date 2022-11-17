@@ -1,3 +1,5 @@
 {
-  "theme": "system"
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal"
 }

@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "68c6b4822d01a698",
+    "type": "split",
+    "children": [
+      {
+        "id": "2be7756d09837633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4cc57614a1fb4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trading/2022/November/2022-11-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbb9d312e12edd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcafa06b60c55682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3657b05f2b8fffe6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7deebbd697bdf670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "$UAN",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e80bf5c9f3a731f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "41864b6b3ebbb94e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7205fd912aeaeb8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63fd00ffeed33920",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trading/2022/November/2022-11-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb561ff2933fb2de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trading/2022/November/2022-11-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9430e3c99acd5ec2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5a46667bd1ab3146",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trading/2022/November/2022-11-14.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4cc57614a1fb4e8",
+  "lastOpenFiles": [
+    "2022-11-15.md",
+    "Trading/2022/November/2022-11-14.md",
+    "Trading/2022/November/2022-11-10.md",
+    "Trading/2022/November/2022-11-09.md",
+    "Trading/2022/November/2022-11-08.md",
+    "Trading/2022/November/2022-11-04.md",
+    "Trading/2022/November/2022-11-03.md",
+    "Trading/2022/November/2022-11-01.md",
+    "$EVA.md",
+    "$CVI.md"
+  ]
+}
