@@ -26,7 +26,61 @@
 
             <aside id="featured" class="body">
                 <article>
-                    <h1 class="entry-title"><a href="https://www.stevehemingway.com/kneading-dough.html">Kneading&nbsp;Dough</a></h1>
+                    <h1 class="entry-title"><a href="https://www.stevehemingway.com/no-monkey-ever-reheated-a-frozen-burrito.html">“No monkey ever reheated a frozen&nbsp;burrito.”</a></h1>
+<footer class="post-info">
+        <abbr class="published" title="2022-12-08T00:00:00+00:00">
+                Published: Thu 08 December 2022
+        </abbr>
+		<br />
+        <abbr class="modified" title="2022-12-08T21:09:43.093304+00:00">
+                Updated: Thu 08 December 2022
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="https://www.stevehemingway.com/author/steve.html">steve</a>
+        </address>
+<p>In <a href="https://www.stevehemingway.com/category/markets.html">Markets</a>.</p>
+
+</footer><!-- /.post-info --><h1>2022-12-08</h1>
+<h2>Covid&nbsp;Conspiracy</h2>
+<p><a href="https://harvard2thebighouse.substack.com/p/no-monkey-ever-reheated-a-frozen-624">This post</a> argues that gain-of-function research played a role in the origins of Covid-19.
+It&#8217;s by Dan Sirotkin, who might or might not have attended Harvard, but who did spend time in prison, but is a join author of some serious-looking academic papers (e.g. <a href="https://arxiv.org/pdf/2102.03910v2.pdf">this one</a>). </p>
+<p>Arthur C Clarke said that any sufficiently advanced technology is indistinguishable from magic. My corollary is that any sufficiently advanced scientific paper is indistinguishable from mumbo jumbo. <a href="https://en.wikipedia.org/wiki/Sokal_affair">The Sokal Hoax</a> is a data point that supports this version, in a very strong&nbsp;form.</p>
+<p>Anyway, I read the Covid paper, and it read as though it was based on solid science and some evidence, but the limits of my knowledge and willingness to do follow-up research means that it could equally well be a complete hoax. To believe it, you have to swallow something close to a conspiracy theory. Harold Wilson believed that he was being monitored by <span class="caps">MI5</span>, something that most right-thinking folk believe was a fantasy, but it seems that <a href="https://www.independent.co.uk/news/uk/home-news/mi5-kept-secret-file-on-harold-wilson-1797187.html">there might have been something to it</a>. <span class="caps">OK</span>, linking Harold with Covid seems a&nbsp;stretch!</p>
+<h2>Wrap</h2>
+<p>Today was mildly risk-on, with big swings in commodities, especially oil.
+Yields were mostly up, global stock markets mostly drifting down still, although <span class="caps">US</span> markets were up, probably helped by the dollar weakening at bit.
+Long-dated bonds, and credit (<span class="caps">AGG</span>) have continued their bull market, dating back may be six weeks.
+The traditional &#8220;Santa rally&#8221; seems to be missing in action this year, unless it&#8217;s very late.
+China seems so inept, corrupt and generally evil, it&#8217;s hard to see things returning fully to normal. Without China&#8217;s flood of cheap labour pushing up the price of the complementary capital it&#8217;s hard to see things ever returning to zero nominal interest rates&nbsp;again.</p>
+<p>Gilts were weak, but the pound rallied a bit (just the dollar going down because of weak new claims&nbsp;figures).</p>
+<h2>Tech&nbsp;corner</h2>
+<p>I installed Fedora 37 on an old Dell workstation. 
+It&#8217;s great.
+There is the odd glitch, though, affecting mounting samba shares (Windows fileservers).
+Basically, the problem is that you must specific vers=2.0 on the mount line in your&nbsp;/etc/fstab:</p>
+<div class="highlight"><pre><span></span><code>//winserve/sharename       /mnt/sharename      cifs    username=steve,password=********,gid=1000,uid=1000,vers=2.0      0       0
+</code></pre></div>
+
+<p>I should put this on stackexchange or something, but I don&#8217;t have enough kudos to post in those places, which is a&nbsp;pity.</p>
+<p>What&#8217;s confusing is that nautilus will happily let you browse the share, but when you try to use a command line <code>mount</code> command, it fails, and worse, you get a warning that you may  need to specify <code>vers=1.0</code>. It seems that in fact the default is to use version 1.0, but that Windows rejects this protocol, because it&#8217;s unsafe, (but with a confusing error message).
+You get something like &#8216;the server abruptly terminated the&nbsp;connection&#8217;.</p>
+<p>The mount line in fstab must specify a gid and uid, because otherwise the files in the share will be owned by root, which is not good. There are plenty of articles on&nbsp;this.</p>
+<p>I normally hit some barrier when using linux on my desktop, which may be very minor but which ultimately forces me back to Windows. This time, I feel, is actually&nbsp;different.</p>
+<p>I use a lot of linux utilities, such as hledger (an accounting program). These have been ported to Windows, but the just don&#8217;t work as well, probably because the developers port them as a chore and shoot back to their preferred linux&nbsp;environment.</p><p>There are <a href="https://www.stevehemingway.com/no-monkey-ever-reheated-a-frozen-burrito.html#disqus_thread">comments</a>.</p>                </article>
+            </aside><!-- /#featured -->
+                <section id="content" class="body">
+                    <h1>Other articles</h1>
+                    <hr />
+                    <ol id="posts-list" class="hfeed">
+
+            <li><article class="hentry">
+                <header>
+                    <h1><a href="https://www.stevehemingway.com/kneading-dough.html" rel="bookmark"
+                           title="Permalink to Kneading Dough">Kneading&nbsp;Dough</a></h1>
+                </header>
+
+                <div class="entry-content">
 <footer class="post-info">
         <abbr class="published" title="2022-12-07T00:00:00+00:00">
                 Published: Wed 07 December 2022
@@ -41,25 +95,14 @@
         </address>
 <p>In <a href="https://www.stevehemingway.com/category/markets.html">Markets</a>.</p>
 
-</footer><!-- /.post-info --><h1>2022-12-07</h1>
+</footer><!-- /.post-info -->                <h1>2022-12-07</h1>
 <h2>Dad&nbsp;Joke</h2>
 <p>Q: <em>Why are bakers always broke?</em>
 A: <em>Because they always knead (need)&nbsp;dough.</em></p>
-<p><span class="caps">OK</span>, I apologize. I was reminded of that joke from my infancy when I saw that wheat, a crop that is heavily dependent on artificial fertilizers, is cheaper now than it was a year ago. Nitrate fertilizers have one non-free ingredient, which is natural gas (or, potentially another form of energy). This was not supposed to happen. Expensive energy was supposed to give rise to expensive fertilizer, which was supposed to drive up the price of wheat and corn. (Soybeans are a bit different, because they can synthesize their own nitrogen from the&nbsp;air.)</p>
-<p>Maybe wheat is about the same price; the chart was not easy to read. It certainly has come down in price a lot since the&nbsp;summer.</p>
-<p>Anyway, commodities were all over the place today. Oil down, gas up, silver up, gold up a bit, copper up. Bond yields were down across the piste, with the exception of India, up 2bp.
-The vicious bear flattening of yesterday reversed slightly, but don&#8217;t say&nbsp;&#8216;steepener&#8217;.</p>
-<h2>Politicians</h2>
-<p>I saw some chart of public perceptions of the integrity of politicians over time.
-It&#8217;s dire. Fewer than 10% of Americans respect members of Congress. 
-I didn&#8217;t see figures for the <span class="caps">UK</span>, but my guess would be that we are even more cynical about members of both houses. The latest scandal is the &#8216;bra tycoon&#8217; Lady Mone. 
-How does one even become a lingerie entrepreneur? <a href="https://www.thesun.co.uk/news/politics/20679547/michelle-mone-loses-tory-whip/">Read more in The Sun</a>.</p>
-<p>Only in the <span class="caps">UK</span> do you get politicians of <a href="https://www.dailyrecord.co.uk/entertainment/celebrity/michelle-mone-reveals-sexy-photos-1071597">this calibre</a>.</p><p>There are <a href="https://www.stevehemingway.com/kneading-dough.html#disqus_thread">comments</a>.</p>                </article>
-            </aside><!-- /#featured -->
-                <section id="content" class="body">
-                    <h1>Other articles</h1>
-                    <hr />
-                    <ol id="posts-list" class="hfeed">
+<p><span class="caps">OK</span>, I apologize. I was reminded of that joke from my infancy when I saw that wheat, a crop that is heavily dependent on artificial fertilizers, is cheaper now than it was a year …</p>
+                <a class="readmore" href="https://www.stevehemingway.com/kneading-dough.html">read more</a>
+<p>There are <a href="https://www.stevehemingway.com/kneading-dough.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
+            </article></li>
 
             <li><article class="hentry">
                 <header>
@@ -296,38 +339,6 @@ Bonds were mainly higher (yields lower), Brazil being an exception, but then jus
 The dollar is falling back, the Euro up 1.1%, to $1.05: maybe we will not see parity …</p>
                 <a class="readmore" href="https://www.stevehemingway.com/have-fun-getting-poor.html">read more</a>
 <p>There are <a href="https://www.stevehemingway.com/have-fun-getting-poor.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
-            </article></li>
-
-            <li><article class="hentry">
-                <header>
-                    <h1><a href="https://www.stevehemingway.com/the-baneful-legacy-of-jim-simons.html" rel="bookmark"
-                           title="Permalink to The baneful legacy of Jim Simons">The baneful legacy of Jim&nbsp;Simons</a></h1>
-                </header>
-
-                <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2022-11-22T20:22:54.866663+00:00">
-                Published: Tue 22 November 2022
-        </abbr>
-		<br />
-        <abbr class="modified" title="2022-11-22T20:22:54.866663+00:00">
-                Updated: Tue 22 November 2022
-        </abbr>
-
-        <address class="vcard author">
-                By                         <a class="url fn" href="https://www.stevehemingway.com/author/steve.html">steve</a>
-        </address>
-<p>In <a href="https://www.stevehemingway.com/category/markets.html">Markets</a>.</p>
-
-</footer><!-- /.post-info -->                <p>date 18 May&nbsp;2022</p>
-<h1>18&nbsp;May</h1>
-<h2>Trend&nbsp;following</h2>
-<p>The book <em>The Man Who Solved the Market</em> is an interesting, but at the same time a frustrating read.
-It explains how Jim Simons used sophisticated statistical tools to extract information about future price movements
-from price histories.
-A huge body of …</p>
-                <a class="readmore" href="https://www.stevehemingway.com/the-baneful-legacy-of-jim-simons.html">read more</a>
-<p>There are <a href="https://www.stevehemingway.com/the-baneful-legacy-of-jim-simons.html#disqus_thread">comments</a>.</p>                </div><!-- /.entry-content -->
             </article></li>
                 </ol><!-- /#posts-list -->
 <p class="paginator">
