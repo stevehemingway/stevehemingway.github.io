@@ -17,7 +17,9 @@ The other improvement in 4.8.0 is that you can just set `PLUGINS=None` in your c
 
 You can see all the config stuff that is used to create the blog, as well as the raw markdown content, in github.
 
-You can find <a rel="me" href="https://mastodon.org.uk/@stevehem">me on Mastodon</a>.
+You can also find me [on Mastodon](https://econtwitter.net/@steve) and [on Twitter](https://twitter.com/S_Hemingway_).
+I'd like to move to the former from the latter, but there there is
+not enough happening on Mastodon yet. Give it a try: it's free!
 
 
 
