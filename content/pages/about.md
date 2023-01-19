@@ -21,6 +21,8 @@ You can also find me [on Mastodon](https://econtwitter.net/@steve) and [on Twitt
 I'd like to move to the former from the latter, but there there is
 not enough happening on Mastodon yet. Give it a try: it's free!
 
+<a rel="me" href="https://econtwitter.net/@steve">This is a link to prove to Mastodon that I own this site. </a>
+
 
 
 
