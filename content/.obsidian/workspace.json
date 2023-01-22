@@ -11,8 +11,12 @@
             "id": "a17c864b52ce6fc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Trading/2023/January/2023-01-22.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trading/2023/January/2023-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trading/2023/January/2023-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trading/2023/January/2023-01-22.md"
+              }
             }
           }
         ]
@@ -141,14 +149,14 @@
   "active": "a17c864b52ce6fc0",
   "lastOpenFiles": [
     "Trading/2023/January/2023-01-21.md",
+    "Trading/2023/January/2023-01-20.md",
+    "Trading/2023/January/2023-01-22.md",
     "Trading/2023/January/2023-01-18.md",
     "Trading/2023/January/2023-01-11.md",
     "Trading/2023/January/2023-01-16.md",
     "Trading/2023/January/2023-01-09.md",
     "Trading/2023/January/2023-01-15.md",
     "Trading/2023/January/2023-01-14.md",
-    "Trading/2023/January/2023-01-08.md",
-    "Trading/2023/January/2023-01-13.md",
-    "Trading/2022/December/2022-12-01.md"
+    "Trading/2023/January/2023-01-08.md"
   ]
 }
