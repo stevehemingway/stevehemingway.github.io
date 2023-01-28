@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2023-01-28T16:08:18-00:00</lastmod>
+<lastmod>2023-01-28T16:09:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -32,15 +32,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/grr-artificial-intelligence-let-me-down-again.html</loc>
-<lastmod>2023-01-28T16:02:05+00:00</lastmod>
+<loc>https://www.stevehemingway.com/if-it-isnt-hurting-it-isnt-working.html</loc>
+<lastmod>2023-01-28T16:09:41+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2023-01-25T15:57:11+00:00</lastmod>
+<loc>https://www.stevehemingway.com/grr-artificial-intelligence-let-me-down-again.html</loc>
+<lastmod>2023-01-28T16:02:05+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5668,7 +5668,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2023-01-28T16:05:54-00:01</lastmod>
+<lastmod>2023-01-28T16:09:41-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -6109,7 +6109,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2023-01-28T16:05:54-00:01</lastmod>
+<lastmod>2023-01-28T16:09:41-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
