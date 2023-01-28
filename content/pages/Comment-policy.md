@@ -1,4 +1,4 @@
-title: comment policy
+title: Comment policy
 date: 9 May 2022
 
 # Comment Policy
