@@ -11,8 +11,12 @@
             "id": "a17c864b52ce6fc0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Trading/2023/January/2023-01-30.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trading/2023/January/2023-01-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trading/2023/January/2023-01-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Trading/2023/January/2023-01-30.md"
+              }
             }
           }
         ]
@@ -138,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3657b05f2b8fffe6",
+  "active": "a17c864b52ce6fc0",
   "lastOpenFiles": [
     "Trading/2023/January/2023-01-22.md",
     "Trading/2023/January/2023-01-21.md",
