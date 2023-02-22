@@ -1,3 +1,6 @@
+title: Newsletter
+status: draft
+
 # Sign up to my newsletter (eventually)
 
 I signed up with Substack but for the moment I can't be bothered to convert each post into a newsletter. 
