@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2023-03-15T21:50:23-00:00</lastmod>
+<lastmod>2023-03-16T19:32:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,8 +46,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/.html</loc>
-<lastmod>2023-03-14T21:25:26+00:00</lastmod>
+<loc>https://www.stevehemingway.com/oh-yeah-vim-ledger.html</loc>
+<lastmod>2023-03-16T19:31:13+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5738,7 +5738,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2023-03-15T21:49:30-00:01</lastmod>
+<lastmod>2023-03-16T19:31:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -6179,7 +6179,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2023-03-15T21:49:30-00:01</lastmod>
+<lastmod>2023-03-16T19:31:13-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
