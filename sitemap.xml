@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2023-03-16T20:53:17-00:00</lastmod>
+<lastmod>2023-03-17T11:48:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -21,6 +21,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/comment-policy.html</loc>
 <lastmod>2023-01-28T16:04:04+00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/oil-price-could-hit-107barrel-by-end-2023-but-then-again-it-could-not.html</loc>
+<lastmod>2023-03-17T11:47:35+00:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -5745,7 +5752,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2023-03-16T20:53:01-00:01</lastmod>
+<lastmod>2023-03-17T11:47:35-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -6186,7 +6193,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2023-03-16T20:53:01-00:01</lastmod>
+<lastmod>2023-03-17T11:47:35-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
