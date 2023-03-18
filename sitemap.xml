@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2023-03-18T12:22:11-00:00</lastmod>
+<lastmod>2023-03-18T15:28:50-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -97,6 +97,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.stevehemingway.com/is-inflation-really-the-worst-form-of-taxation.html</loc>
 <lastmod>2023-02-02T21:48:41+00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/subsidies-and-tariff-barriers-are-good-now.html</loc>
+<lastmod>2023-03-18T15:20:54+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1369,8 +1376,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/brace-brace-brace-hard-landing-comeing.html</loc>
-<lastmod>2023-01-01T21:57:39+00:00</lastmod>
+<loc>https://www.stevehemingway.com/brace-brace-brace-hard-landing-coming.html</loc>
+<lastmod>2023-03-18T15:21:29+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1803,8 +1810,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.stevehemingway.com/draft-title.html</loc>
-<lastmod>2023-01-01T21:57:39+00:00</lastmod>
+<loc>https://www.stevehemingway.com/carvana.html</loc>
+<lastmod>2023-03-18T15:20:16+00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -5759,7 +5766,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2023-03-18T12:20:57-00:01</lastmod>
+<lastmod>2023-03-18T15:21:29-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -6200,7 +6207,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2023-03-18T12:20:57-00:01</lastmod>
+<lastmod>2023-03-18T15:21:29-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
