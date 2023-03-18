@@ -86,13 +86,12 @@ AUTHOR_FEED_RSS = None
 
 # reduce link leakage
 LINKS = (
-    # ('Rudy Havenstein', 'https://rudy.substack.com/'),
-    # ('Wall Street on Parade', 'https://wallstreetonparade.com'),
+    ('Rudy Havenstein', 'https://rudy.substack.com/'),
+    ('Wall Street on Parade', 'https://wallstreetonparade.com'),
     ('Search this blog', 'https://cse.google.com/cse?cx=ce104668e88a754c6'),
     # ('My Mailing List', 'https://adept-originator-3889.ck.page/f39ac1a146'),
     # eventually get something set up.
     )
-# LINKS = ()
 
 Old_LINKS = (
     ('Epsilon Theory', 'https://www.epsilontheory.com'),
@@ -128,7 +127,7 @@ SOCIAL = (('email', 'mailto:steve@acksam.com'),
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-RELATIVE_URLS = True
+# RELATIVE_URLS = True
 
 FEED_ALL_RSS = 'feeds/all.rss.xml'
 RSS_FEED_SUMMARY_ONLY = True # put the full post, not a summary, in the RSS feed
@@ -148,9 +147,7 @@ TYPOGRIFY_DASHES = 'default'
 # else:
 PLUGIN_PATHS = ["plugins/",'/pelican-plugins']
 	
-# PLUGINS= ["sitemap",  "readtime", "pelican.plugins.neighbors",  "pelican.plugins.read_more",  "disqus_static", "summary"]
-# PLUGINS=["sitemap",  "readtime", "md-metayaml"]
-PLUGINS=None
+PLUGINS=None # there is a new plugins system. This doesn't mean no plugins.
 
 # get rid of tags, because you're too lazy to use them.
 #DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'authors', 'archives', ]
