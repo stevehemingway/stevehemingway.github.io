@@ -8,3 +8,4 @@ cache/*/
 .obsidian/**
 themes/**
 content/.obsidian/**
+/today

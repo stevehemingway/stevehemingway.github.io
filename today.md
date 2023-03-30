@@ -1,0 +1,52 @@
+status: published
+date: 2023-03-30
+title: 
+
+# Thursday 30, March 2023
+
+# Super Dario
+
+Inflation in wages is how you keep score in the match between labour and capital.
+For most of history, labour didn't manage to find the back of the net.
+The Black Death in the mid 14th Century gave labour its first opportunity, and it did
+manage to score a goal, but it was an expensive one.
+As a result of 75 to 200 million people dying, labour temporarily got the upper hand,
+and managed to get an increased financial reward.
+It didn't last forever though, and labour had various setbacks later, including Enclosure, which was the result of increasing livestock farming, which could be carried out by landowners with much less labour
+input: the factory automation of its day. I'd better admit that I stopped studying history at school at age 14,
+and the accuracy of the above account may be considered simplistic, or even plain wrong.
+I'm happy to be corrected and  revise this bit.
+
+Anyway, later on, as the Industrial Revolution got going, the factors of production: land, capital and labour, were more equally matched. As I understand it, labour got the upper hand (i.e. inflation) in the middle of the 19th Century, to fall back at the end of it, with various surges from then on, including immediately after wars, where the loss of manpower (literally, in those cases) resulted in increased wages for those who survived. Arguably, the Industrial Revolution itself was the result of a shortage of labour. These things work both ways, and we may even have the Jevon's Paradox at work: the relative cheapness of labour compared to capital, the price of which was being bid up, resulted in more consumption and, eventually, a higher price.
+
+Coming up to today, the most influential generation has been the Boomers. They found themselves in great demand in the 60's and 70's, when they first entered the workforce, with the crucial difference that their numbers gave them political power. The economy was run hot, domestic demand went up, as high tariffs and the high cost of transport protected domestic industry. This was a new phase, because labour had political as well as pure bargaining power at this stage.
+With this combination, which was not unique to Britain, wages went up steadily, but since labour is the biggest input into almost every price, prices went up almost as quickly. Eventually, the wage-price spiral got to a point where the majority of the population wanted it to stop, and the UK elected Margaret Thatcher (well, her party, strictly), and she carried through a brutal set of policies to tip the power back into the hands of capital. By destroying whole industries, and the labour they employed, inflation was brought under control, but at a cost which eventually lead to a change of government, but barely a change of policies.
+
+A national economy is a complicated machine, and oil supply  and the exchange rate
+all had an impact on inflation.  The money supply, and interest rates, certainly had an influence, but maybe
+not so much as the simplistic accounts of how inflation was got under control make out.
+
+The above story is (roughly) what I took away from Dario Perkin's appearance on The Market Huddle. You can see it [here](https://www.youtube.com/watch?v=ZVvJID1fUMo) but you're better off getting it as a podcast. Dario's supercycle theory has the great benefit that it's a coherent narrative. It might even be right!
+
+Anyway, the punchline is that we are, once more, entering a supercycle where labour starts to get the upper hand. Perkins doesn't think that we're going back to the 70's, not least because the Boomers now are old and want higher returns to capital. They've gone from being employees to being rentiers. Perkins argues that we will see more persistent inflation, that 2% will start to be viewed as a floor, not a ceiling any longer,
+and the bond bulls will not give up for a long while yet, not least because nobody younger than me can remember anything resembling a bond bear market.
+He also states that the correlation between bond and equity prices will be much less negatively correlated (i.e. in future, we'll see bonds and stocks move together much more of the time), which will drive down the demand for bonds as an equity hedge.  I am not sure about the argument here, I think it was because of the periodic surges of inflation he predicts, which will reduce increase the risk premium on bonds, which will lower prices in a way uncorrelated with equity prices.
+
+Russ Roberts, an economist, used to say that economics should be more like history, and less like physics.
+The underlying agents (people, not protons) were intrinsically less predictable, so a mathematical approach
+could never have the success it has had in the physical sciences. Dario seems to be of that school of macro economists.
+
+Marx's Labour Theory of Value says that capital is just deferred labour (as a factor of production), and that the value of everything is
+just a measure of the amount of labour that went into making it. 
+Value is not really measurable, and doesn't have to be the same as price. Only the marginal buyer pays a price equal to the value to him of 
+the thing he consumes.
+Marx's theory is wrong, but clearly labour is a very important factor of production in a service-based economy, like that of the US or (especially) the UK.
+At some point, labour will get the upper hand, and we'll see inflation. 
+At this point the conflict between preventing banks failing and keeping a lid on inflation will start to get interesting.
+My money is on the former, so brace yourself for a return to the 1970's!
+
+
+
+
+
+
