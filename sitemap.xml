@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/</loc>
-<lastmod>2023-04-06T12:32:11-00:00</lastmod>
+<lastmod>2023-04-09T17:12:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -21,6 +21,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <loc>https://www.stevehemingway.com/pages/comment-policy.html</loc>
 <lastmod>2023-01-28T16:04:04+00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.stevehemingway.com/old-friends-and-autoimmune-diseases.html</loc>
+<lastmod>2023-04-09T17:12:14+01:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -5864,7 +5871,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/category/markets.html</loc>
-<lastmod>2023-04-06T12:31:56-00:01</lastmod>
+<lastmod>2023-04-09T17:12:14-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -6305,7 +6312,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.stevehemingway.com/author/steve.html</loc>
-<lastmod>2023-04-06T12:31:56-00:01</lastmod>
+<lastmod>2023-04-09T17:12:14-00:01</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
