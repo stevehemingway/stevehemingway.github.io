@@ -33,7 +33,7 @@ def main():
 
     fname = today_path
     if path.exists(fname):
-        print("File '{}' already exists".format(fname))
+        print("File '{}' already exists. You can only post once per day.".format(fname))
     else:
         try:
             with open(fname, "wt") as f: 
