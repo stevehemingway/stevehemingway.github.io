@@ -1,82 +1,24 @@
 status: published
-date: 2023-04-29
-title: Energy 
+date: 2023-05-02
+title: Another one bites the dust! (First Republic)
 
-# Saturday 29, April 2023
+# Tuesday  2, May 2023
 
-## Energy 
+## First Republic Bank falls into Jamie Dimon's clutches
 
-I am chronically bullish on energy.  
-Oil used to be boring. 
-Right through to the end of the 90's, the price of a barrel oscillated around $20.
-There was a massive spike before the GFC, a crash after it (but only down to $40), 
-but since then it has been extremely volatile, but generally making higher highs, 
-reaching $110 in the aftermath of the early part of the lockdown, and finally dropping very rapidly
-over the first quarter of this year.
+We have the usual [hysterical reaction](https://www.zerohedge.com/news/2023-05-02/bank-bloodbath-gold-soars-above-2000-again-anti-goldilocks-manifests) to a 
+bank failure.
+As usual, [commentators are saying that the Fed will have to pivot](https://www.zerohedge.com/markets/why-market-says-feds-higher-longer-fantasy).
+The reality is that the 10Y US yield went down 14bp: hardly falling off a cliff!
+DXY went down 21bp. 
+So far, the world has taken this latest bank failure at face value.
+There was some evidence that the job market is weakening: quits were down, but still high by historical standards.
+The fact is that nobody knows anything, and we are all waiting.
 
-![a long history of oil prices]({attach}cl1_com.svg)
+Bond prices are manipulated, so it's always worth looking at equities and commodities too.
+Equities were off by around 1%, crude by >5% (although after a recent strong run).
 
-Most commentators I follow are fairly bullish on oil. 
-The thesis is that the pivot to net zero will take longer than expected, 
-and that we'll need to burn through a lot of conventional energy to
-get there.
-(Well, and the transition will be inflationary, but that's another way of saying
-the same thing.)
-
-One of the commentators is Josh Young of Bison Interests. His fund, comprising equities issued by small-cap
-energy companies, has done very well.
-In his latest newsletter (unlinkable, but you can get for free by signing up via <https://bisoninterests.com/mailing-list>),
-he argues that it's not correct to compare his fund against mega ETFs like XLE or XOP, but that a more specific small cap energy index
-is relevant.
-Well, you can't invest in an index, but you can invest in PSCE (<https://etfdb.com/etf/PSCE/#etf-ticker-valuation-dividend>).
-If you fancy a bet on small cap energy (and Bison Interests suggests that you should), you can invest in an ETF, as well as the
-individual stocks mentioned by Josh Young. As is obvious from the chart, the volatility of this sector is likely to be horrendous, 
-so avoid anything highly geared, otherwise it'll be wiped out in the coming (possible) recession.
-An ETF should mitigate the vol. slightly, but if we do get the recession that Jeff Snider has been predicting for a couple of years
-(and the collapse of First Republic Bank makes it more likely), the stock correlation will jump to one and the ETF won't save you.
-
-Nothing here is investment advice, but going long anything at the moment seems rash, so maybe the thing is just to monitor the shareprice.
-
-# Druckenmiller
-
-I stumbled across [this transcript](https://tidalwave.substack.com/p/transcript-druckenmiller-april-2023) of an interview with Stanley Druckenmiller.
-What I love about Stan is that although he is probably the most successful investor in my lifetime, 
-he is always quick to admit that he doesn't really have a clue about what to invest in.
-Well, he has a bit of a clue, and shares some of his ideas with us, but he is quick to say that he might be wrong,
-and might change his mind at any moment. He says that he's short the dollar, but that we shouldn't emulate him, 
-because he might be long tomorrow. The nice thing about macro investors is that you know they're not talking their book
-(or the opposite of his book because they want to close a position that they want to liquidate, which seems to be the norm
-when single stocks are involved).
-
-Stan thinks we're going to have a recession, but he doesn't seem to know how to take advantage of that. 
-As he says, bonds are already very expensive, so buying them might not work out. 
-Although shorting equities would seem logical, some sectors might just keep going up.
-As he says, the big problem is knowing what the Fed will do in response to signs that we are going into a recession.
-SVB reversed all of the recent QT, and a recession would, almost certainly, see the Fed balance sheet balloon even further.
-A few years ago, a Fed balance sheet of around 50% of GDP would seem inconceivable, but there is no technical reason why it 
-could not go to 100% (as part of some set of 'emergency' measures). The government, and big business, and individual politicians, 
-and (probably) owner occupiers would all desperately want the Fed to act when recession hits. The fact that Rudy Havenstein and 
-Peter Schiff would be utterly appalled would hardly count for much!
-
-He also talks about how the market has fewer of the systematic price behaviours that he used to be able to exploit in the past,
-because humans (or computers) have made markets more efficient. 
-He makes a similar point about price reaction to news, which is less predictable today than it was, something
-he attributes to hedge funds/algos, rather than passive investing.
-
-
-As usual, Druck is short on actionable ideas, but is fascinating to read.
-One odd thing (to me) that he states is that he often invests first, and does his analysis afterwards, 
-because -- even with his resources -- if he waits for the analysis to be complete before taking advantage,
-the stock will have already moved too far against him.
-
-To someone like me, Druck is the counter-example that disproves a theory.
-Well, it's a hypothesis, the Efficient Market Hypothesis, but a hypothesis so solidly embedded in modern financial theory
-that it's hard to think of a single example of a theory that is more solidly established.
-Of course, it could just be luck, but as Warren Buffett (another EMH outlier) has commented, 
-statistically, it's hard to argue that case.
-
-
-
+![Crude]({attach}crude.svg)
 
 
 
