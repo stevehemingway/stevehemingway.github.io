@@ -1,4 +1,6 @@
-#!/usr/bin/env python
+#!/usr/bin/python
+
+#!/usr/bin/env python -- doesn't pick up conda libs
 
 import os.path
 from os import path

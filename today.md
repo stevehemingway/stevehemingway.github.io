@@ -1,82 +1,26 @@
 status: published
-date: 2023-04-29
-title: Energy 
+date: 2023-05-09
+title: Does the UK need a king?
 
-# Saturday 29, April 2023
+# Tuesday  9, May 2023
 
-## Energy 
+# Does the monarchy matter?
 
-I am chronically bullish on energy.  
-Oil used to be boring. 
-Right through to the end of the 90's, the price of a barrel oscillated around $20.
-There was a massive spike before the GFC, a crash after it (but only down to $40), 
-but since then it has been extremely volatile, but generally making higher highs, 
-reaching $110 in the aftermath of the early part of the lockdown, and finally dropping very rapidly
-over the first quarter of this year.
+I am not a republican. Anyone can see that simply getting rid of a king is hardly the secret of a successful political order in a country. The UK royal family may have cultural influence, a lot of money, and the direct access to heads of government that is denied to the 99.99%. But cutting off their heads would not turn us into France, which anyway is not such a paradise.
 
-![a long history of oil prices]({attach}cl1_com.svg)
+I am uncomfortable about suggestions that the royal family does in fact influence laws in a way that favours it. [This][1] is just one example, but I have seen suggestions that there are many. But even this is not the issue I am most concerned about. My concern is that the mere contact between royals an ministers acts to affect what legislation is passed. Mikhail Khodorkovsky was jailed by Putin, and had a lot of his (admittedly enormous) wealth taken away, but he was never the target of an assassination. When asked why this was, he said that it was because he and Putin knew each other personally. I think that when the PM meets the monarch, on a weekly (?) basis, it's hard for him to actively promote any policies which would have an adverse effect on him and his family. This ends up with a bias towards enacting policy that increases inequality. Politicians all talk about boosting productivity, but they know in their hearts that it's a lot easier to transfer existing resources than to accelerate the production of new ones.
 
-Most commentators I follow are fairly bullish on oil. 
-The thesis is that the pivot to net zero will take longer than expected, 
-and that we'll need to burn through a lot of conventional energy to
-get there.
-(Well, and the transition will be inflationary, but that's another way of saying
-the same thing.)
+Someone said to me the other week that his strategy for advancing his career was to identify influential people, and make himself as useful to them as he possibly could be. Although I'd like to imagine that in the real world merit would be its own reward, this idea doesn't long survive any contact with reality. At least in a job with clear metrics, such as professional sport, sucking up to the boss is not the secret of success. I always wonder whether the transparency of professional sport results in international competition being dominated by vaguely democratic countries (other than in the rather odd collection of fringe sports that characterise the Olympics).
 
-One of the commentators is Josh Young of Bison Interests. His fund, comprising equities issued by small-cap
-energy companies, has done very well.
-In his latest newsletter (unlinkable, but you can get for free by signing up via <https://bisoninterests.com/mailing-list>),
-he argues that it's not correct to compare his fund against mega ETFs like XLE or XOP, but that a more specific small cap energy index
-is relevant.
-Well, you can't invest in an index, but you can invest in PSCE (<https://etfdb.com/etf/PSCE/#etf-ticker-valuation-dividend>).
-If you fancy a bet on small cap energy (and Bison Interests suggests that you should), you can invest in an ETF, as well as the
-individual stocks mentioned by Josh Young. As is obvious from the chart, the volatility of this sector is likely to be horrendous, 
-so avoid anything highly geared, otherwise it'll be wiped out in the coming (possible) recession.
-An ETF should mitigate the vol. slightly, but if we do get the recession that Jeff Snider has been predicting for a couple of years
-(and the collapse of First Republic Bank makes it more likely), the stock correlation will jump to one and the ETF won't save you.
+The monarchy, especially the late queen, was viewed very favourably by most of her subjects.
+She seemed to be hard working -- at least she turned up to the opening of an awful lot of dull buildings --
+but she hardly had the inclination, or energy, to keep in personal touch with every one of us. She did the next best thing, however, which was to maintain an extensive press office, and feed the media with endless stories and pictures of the royal family, especially the more photogenic and scandal-free ones, such as the Duchess of Cambridge. It's a well-worn trope that the Royal Family is a long-running soap opera, but everyone loves the stars of such shows, even if they are pantomime villains.
+I guess we'd have to make an exception for Prince Andrew.
 
-Nothing here is investment advice, but going long anything at the moment seems rash, so maybe the thing is just to monitor the shareprice.
+Well, I almost persuaded myself to become a republican, but I think I can just about remain a monarchy-agnostic. It's much easier to destroy an institution than to come up with a convincingly superior alternative.
+The monarchy has adapted itself to coexist with its host, like all successful parasites. If it tries to extract too many goodies, eventually the host will react and its immune system will rid itself of the monarchy.
+It may even be that the monarch is like a mitochondrion: something that started as a foreign body, a pathogen, but which has now taken on some role without which the host would die.
+OK, I'm not too concerned that the UK would waste away without the royals, but it would be a different place, and possibly a worse one.
 
-# Druckenmiller
-
-I stumbled across [this transcript](https://tidalwave.substack.com/p/transcript-druckenmiller-april-2023) of an interview with Stanley Druckenmiller.
-What I love about Stan is that although he is probably the most successful investor in my lifetime, 
-he is always quick to admit that he doesn't really have a clue about what to invest in.
-Well, he has a bit of a clue, and shares some of his ideas with us, but he is quick to say that he might be wrong,
-and might change his mind at any moment. He says that he's short the dollar, but that we shouldn't emulate him, 
-because he might be long tomorrow. The nice thing about macro investors is that you know they're not talking their book
-(or the opposite of his book because they want to close a position that they want to liquidate, which seems to be the norm
-when single stocks are involved).
-
-Stan thinks we're going to have a recession, but he doesn't seem to know how to take advantage of that. 
-As he says, bonds are already very expensive, so buying them might not work out. 
-Although shorting equities would seem logical, some sectors might just keep going up.
-As he says, the big problem is knowing what the Fed will do in response to signs that we are going into a recession.
-SVB reversed all of the recent QT, and a recession would, almost certainly, see the Fed balance sheet balloon even further.
-A few years ago, a Fed balance sheet of around 50% of GDP would seem inconceivable, but there is no technical reason why it 
-could not go to 100% (as part of some set of 'emergency' measures). The government, and big business, and individual politicians, 
-and (probably) owner occupiers would all desperately want the Fed to act when recession hits. The fact that Rudy Havenstein and 
-Peter Schiff would be utterly appalled would hardly count for much!
-
-He also talks about how the market has fewer of the systematic price behaviours that he used to be able to exploit in the past,
-because humans (or computers) have made markets more efficient. 
-He makes a similar point about price reaction to news, which is less predictable today than it was, something
-he attributes to hedge funds/algos, rather than passive investing.
-
-
-As usual, Druck is short on actionable ideas, but is fascinating to read.
-One odd thing (to me) that he states is that he often invests first, and does his analysis afterwards, 
-because -- even with his resources -- if he waits for the analysis to be complete before taking advantage,
-the stock will have already moved too far against him.
-
-To someone like me, Druck is the counter-example that disproves a theory.
-Well, it's a hypothesis, the Efficient Market Hypothesis, but a hypothesis so solidly embedded in modern financial theory
-that it's hard to think of a single example of a theory that is more solidly established.
-Of course, it could just be luck, but as Warren Buffett (another EMH outlier) has commented, 
-statistically, it's hard to argue that case.
-
-
-
-
-
+[1]: <https://www.theguardian.com/uk-news/2021/jul/28/queen-secretly-lobbied-scottish-ministers-climate-law-exemption> "Exemption from obligation to facilitate the construction of pipelines for renewable heating."
 
