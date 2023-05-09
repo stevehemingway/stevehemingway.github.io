@@ -2,8 +2,6 @@ status: published
 date: 2023-05-09
 title: Does the UK need a king?
 
-# Tuesday  9, May 2023
-
 # Does the monarchy matter?
 
 I am not a republican. Anyone can see that simply getting rid of a king is hardly the secret of a successful political order in a country. The UK royal family may have cultural influence, a lot of money, and the direct access to heads of government that is denied to the 99.99%. But cutting off their heads would not turn us into France, which anyway is not such a paradise.
@@ -16,11 +14,4 @@ The monarchy, especially the late queen, was viewed very favourably by most of h
 She seemed to be hard working -- at least she turned up to the opening of an awful lot of dull buildings --
 but she hardly had the inclination, or energy, to keep in personal touch with every one of us. She did the next best thing, however, which was to maintain an extensive press office, and feed the media with endless stories and pictures of the royal family, especially the more photogenic and scandal-free ones, such as the Duchess of Cambridge. It's a well-worn trope that the Royal Family is a long-running soap opera, but everyone loves the stars of such shows, even if they are pantomime villains.
 I guess we'd have to make an exception for Prince Andrew.
-
-Well, I almost persuaded myself to become a republican, but I think I can just about remain a monarchy-agnostic. It's much easier to destroy an institution than to come up with a convincingly superior alternative.
-The monarchy has adapted itself to coexist with its host, like all successful parasites. If it tries to extract too many goodies, eventually the host will react and its immune system will rid itself of the monarchy.
-It may even be that the monarch is like a mitochondrion: something that started as a foreign body, a pathogen, but which has now taken on some role without which the host would die.
-OK, I'm not too concerned that the UK would waste away without the royals, but it would be a different place, and possibly a worse one.
-
-[1]: <https://www.theguardian.com/uk-news/2021/jul/28/queen-secretly-lobbied-scottish-ministers-climate-law-exemption> "Exemption from obligation to facilitate the construction of pipelines for renewable heating."
 
