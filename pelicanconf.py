@@ -50,7 +50,7 @@ THEME = 'notmyidea'
 
 AUTHOR = 'steve'
 SITENAME = 'Wishful Thinking'
-SITESUBTITLE = 'Just a guy writing in the internet'
+SITESUBTITLE = 'Just another piker writing in the internet'
 # SITEURL = 'https://stevehemingway.github.io'
 # SITEURL = 'https://www.stevehemingway.com'
 SITEURL = 'http://localhost:8001'
