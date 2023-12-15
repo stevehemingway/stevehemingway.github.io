@@ -1,3 +1,10 @@
+Title: Crafting Success: Essential Steps to Launch Your Handyman Business
+Date: 2023-12-15
+Category: Guest Articles
+Tags: home, so-ho, workspace
+Authors: Lisa Walker
+Summary: How to improve your home working environment on a tight budget
+
 *[[Wishful Thinking]{.underline}](https://www.stevehemingway.com/) is a
 few notes that blogger Steve Hemingway has used to keep track of what is
 going on in the markets mainly, but also about anything else that comes
