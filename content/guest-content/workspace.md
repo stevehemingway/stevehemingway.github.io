@@ -10,7 +10,7 @@ few notes that blogger Steve Hemingway has used to keep track of what is
 going on in the markets mainly, but also about anything else that comes
 into his head. Read more informative articles today!*
 
-![picture of a desk]({attach}/images/workstation.png){width="6.5in" height="4.333333333333333in"}
+![picture of a desk]({attach}workstation.png){width="6.5in" height="4.333333333333333in"}
 
 # How to Improve Your Home Workspace Without Robbing the Piggy Bank
 
